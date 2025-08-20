@@ -2,10 +2,13 @@ from bs4 import BeautifulSoup
 import json
 import orjson
 from pathlib import Path
+import re
 import unicodedata
 import os
 import requests
+import shutil
 import subprocess
+import itertools
 
 dont_download = [
     "/misc/"
@@ -31,7 +34,7 @@ def download_flag(url, outfile):
         with open("./tmp.gif", 'wb') as f:
             f.write(response.content)
 
-        subprocess.call(f'convert ./tmp.gif -resize 64x64 {outfile}', shell=True)
+        subprocess.call(f'convert ./tmp.gif -resize 64x {outfile}', shell=True)
 
 
 url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries%2Bstates%2Bcities.json'
@@ -58,6 +61,7 @@ f = open('countries+states+cities.json')
 data = json.load(f)
 
 numCountries = len(data)
+i = 1
 
 keywordSoups = {}
 
@@ -69,8 +73,8 @@ for letter in [str(chr(i)) for i in range(ord('a'), ord('z')+1)]:
     keywordSoups[letter] = soup
 
 
-for i, country in iter(data):
-    print(f'{country.get("name")} - {i+1}/{numCountries}')
+for country in data:
+    print(f'{country.get("name")} - {i}/{numCountries}')
     countryPath = f"./out_flagsnet/{country.get('iso2')}"
     os.makedirs(countryPath, exist_ok=True)
 
@@ -147,3 +151,4 @@ for i, country in iter(data):
                         )
             except Exception as e:
                 print(e)
+    i += 1
