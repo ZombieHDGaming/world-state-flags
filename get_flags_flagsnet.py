@@ -80,13 +80,13 @@ for country in data:
     filePath = f'./images/{country.get("iso2").lower()[0]}/'
 
     for region in country.get("states"):
-        if region.get("state_code") == "CON":
-            region["state_code"] = "_CON"
+        if region.get("iso2") == "CON":
+            region["iso2"] = "_CON"
 
         found = False
         tries = [
             remove_accents_lower(region.get("name")),
-            region.get("state_code")
+            region.get("iso2")
         ]
 
         for nameTry in tries:
@@ -104,10 +104,10 @@ for country in data:
                     if imgSrc.startswith("../"):
                         imgSrc = f'https://www.fotw.info/{imgSrc[2:]}'
                     print(
-                        f'Found {countryPath}/{region.get("state_code")} - {imgSrc}')
+                        f'Found {countryPath}/{region.get("iso2")} - {imgSrc}')
                     download_flag(
                         imgSrc,
-                        f'{countryPath}/{region.get("state_code").upper()}.png'
+                        f'{countryPath}/{region.get("iso2").upper()}.png'
                     )
                     found = True
                     break
@@ -143,10 +143,10 @@ for country in data:
                         if imgSrc.startswith("../"):
                             imgSrc = f'https://www.fotw.info/{imgSrc[2:]}'
                         print(
-                            f'Found alternative {countryPath}/{region.get("state_code")} - {imgSrc}')
+                            f'Found alternative {countryPath}/{region.get("iso2")} - {imgSrc}')
                         download_flag(
                             imgSrc,
-                            f'{countryPath}/{region.get("state_code").upper()}.png'
+                            f'{countryPath}/{region.get("iso2").upper()}.png'
                         )
             except Exception as e:
                 print(e)
