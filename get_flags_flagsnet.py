@@ -36,7 +36,7 @@ def download_flag(url, outfile):
         subprocess.call(f'convert ./tmp.gif -resize 64x {outfile}', shell=True)
 
 
-url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries%2Bstates%2Bcities.json'
+url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json'
 
 out_file = Path('./countries+states+cities.json')
 
@@ -56,8 +56,8 @@ try:
 except Exception as e:
     print(f"An exception occurred: {e}")
 
-f = open('countries+states+cities.json')
-data = orjson.loads(f)
+f = open('./countries+states+cities.json', 'r', encoding='utf-8')
+data = orjson.loads(f.read())
 
 numCountries = len(data)
 i = 1

@@ -47,7 +47,7 @@ def GenStateNameTries(stateName):
     return stateNameTries
 
 
-url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries%2Bstates%2Bcities.json'
+url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json'
 
 out_file = Path('./countries+states+cities.json')
 
@@ -72,11 +72,11 @@ def remove_accents_lower(input_str):
     return u"".join([c for c in nfkd_form if not unicodedata.combining(c)]).lower()
 
 
-f = open('countries+states+cities.json')
-data = orjson.loads(f)
+f = open('./countries+states+cities.json', 'r', encoding='utf-8')
+data = orjson.loads(f.read())
 
-f = open('country_name_remapping.json')
-remap = orjson.loads(f)
+f = open('./country_name_remapping.json', 'r', encoding='utf-8')
+remap = orjson.loads(f.read())
 
 url = 'https://en.wikipedia.org/wiki/Flags_of_country_subdivisions'
 page = requests.get(url).text

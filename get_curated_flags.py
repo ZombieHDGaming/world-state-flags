@@ -1,12 +1,9 @@
 from bs4 import BeautifulSoup
 import json
-import re
-import unicodedata
+import orjson
 import os
 import requests
-import shutil
 import subprocess
-import itertools
 import traceback
 
 
@@ -20,8 +17,8 @@ def download_flag(url, outfile):
         subprocess.call(f'convert ./tmp.gif -resize 64x {outfile}', shell=True)
 
 
-f = open('curated_links.json')
-data = json.load(f)
+f = open('./curated_links.json')
+data = orjson.loads(f.read())
 
 for country in data:
     for s, (state_code, flag_link) in enumerate(data[country].items()):
