@@ -1,12 +1,11 @@
 from bs4 import BeautifulSoup
 import json
-import re
+import orjson
+from pathlib import Path
 import unicodedata
 import os
 import requests
-import shutil
 import subprocess
-import itertools
 
 dont_download = [
     "/misc/"
@@ -32,19 +31,33 @@ def download_flag(url, outfile):
         with open("./tmp.gif", 'wb') as f:
             f.write(response.content)
 
-        subprocess.call(f'convert ./tmp.gif -resize 64x {outfile}', shell=True)
+        subprocess.call(f'convert ./tmp.gif -resize 64x64 {outfile}', shell=True)
 
 
 url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries%2Bstates%2Bcities.json'
 
+out_file = Path('./countries+states+cities.json')
+
 r = requests.get(url, allow_redirects=True)
-open('countries+states+cities.json', 'wb').write(r.content)
+tmp_file = Path('./countries+states+cities.json.tmp')
+
+with tmp_file.open(mode='wb') as f:
+    f.write(r.content)
+
+try:
+    # Test if downloaded JSON is valid
+    with tmp_file.open(mode='r', encoding='utf-8') as f:
+        orjson.loads(f.read())
+
+    # Remove old file, overwrite with new one
+    tmp_file.replace(out_file)
+except Exception as e:
+    print(f"An exception occurred: {e}")
 
 f = open('countries+states+cities.json')
 data = json.load(f)
 
 numCountries = len(data)
-i = 1
 
 keywordSoups = {}
 
@@ -56,8 +69,8 @@ for letter in [str(chr(i)) for i in range(ord('a'), ord('z')+1)]:
     keywordSoups[letter] = soup
 
 
-for country in data:
-    print(f'{country.get("name")} - {i}/{numCountries}')
+for i, country in iter(data):
+    print(f'{country.get("name")} - {i+1}/{numCountries}')
     countryPath = f"./out_flagsnet/{country.get('iso2')}"
     os.makedirs(countryPath, exist_ok=True)
 
@@ -134,4 +147,3 @@ for country in data:
                         )
             except Exception as e:
                 print(e)
-    i += 1
