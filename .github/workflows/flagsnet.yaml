@@ -22,6 +22,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get install -y imagemagick
+
       - name: Get Flagsnet
         run: |
           python get_flags_flagsnet.py
