@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
-import json
+import orjson
+from pathlib import Path
 import re
 import unicodedata
 import os
@@ -48,9 +49,23 @@ def GenStateNameTries(stateName):
 
 url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries%2Bstates%2Bcities.json'
 
-r = requests.get(url, allow_redirects=True)
-open('countries+states+cities.json', 'wb').write(r.content)
+out_file = Path('./countries+states+cities.json')
 
+r = requests.get(url, allow_redirects=True)
+tmp_file = Path('./countries+states+cities.json.tmp')
+
+with tmp_file.open(mode='wb') as f:
+    f.write(r.content)
+
+try:
+    # Test if downloaded JSON is valid
+    with tmp_file.open(mode='r', encoding='utf-8') as f:
+        orjson.loads(f.read())
+
+    # Remove old file, overwrite with new one
+    tmp_file.replace(out_file)
+except Exception as e:
+    print(f"An exception occurred: {e}")
 
 def remove_accents_lower(input_str):
     nfkd_form = unicodedata.normalize('NFKD', input_str)
@@ -58,10 +73,10 @@ def remove_accents_lower(input_str):
 
 
 f = open('countries+states+cities.json')
-data = json.load(f)
+data = orjson.loads(f)
 
 f = open('country_name_remapping.json')
-remap = json.load(f)
+remap = orjson.loads(f)
 
 url = 'https://en.wikipedia.org/wiki/Flags_of_country_subdivisions'
 page = requests.get(url).text

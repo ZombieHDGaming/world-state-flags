@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-import json
 import orjson
 from pathlib import Path
 import re
@@ -58,7 +57,7 @@ except Exception as e:
     print(f"An exception occurred: {e}")
 
 f = open('countries+states+cities.json')
-data = json.load(f)
+data = orjson.loads(f)
 
 numCountries = len(data)
 i = 1
