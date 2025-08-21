@@ -170,7 +170,7 @@ for country in countries:
                             if image["alt"].strip().lower() == "flag of "+_try.lower():
                                 print("=> Found image: ", image["alt"])
                                 download_flag(image["src"], found["iso2"], state["iso2"])
-                                foundStateCodes.append(state["state_code"])
+                                foundStateCodes.append(state["iso2"])
                                 foundStateCodesOverrided.append(state["iso2"])
                                 break
 
@@ -230,7 +230,7 @@ for country in countries:
                                     if image["alt"].strip().lower() in ["flag of "+_try.lower(), "flag of "+_try.lower()+".svg", "flag of "+_try.lower()+".png"]:
                                         print("=> Found image: ", image["alt"])
                                         download_flag(image["src"], found["iso2"], state["iso2"])
-                                        foundStateCodes.append(state["state_code"])
+                                        foundStateCodes.append(state["iso2"])
                                         foundStateCodesOverrided.append(state["iso2"])
                                         break
 
