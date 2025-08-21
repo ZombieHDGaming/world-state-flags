@@ -163,15 +163,15 @@ for country in countries:
             for image in allImages:
                 if image["alt"]:
                     for state in dataStates:
-                        if state["state_code"] in foundStateCodes:
+                        if state["iso2"] in foundStateCodes:
                             continue
                         tries = GenStateNameTries(state["name"])
                         for _try in tries:
                             if image["alt"].strip().lower() == "flag of "+_try.lower():
                                 print("=> Found image: ", image["alt"])
-                                download_flag(image["src"], found["iso2"], state["state_code"])
+                                download_flag(image["src"], found["iso2"], state["iso2"])
                                 foundStateCodes.append(state["state_code"])
-                                foundStateCodesOverrided.append(state["state_code"])
+                                foundStateCodesOverrided.append(state["iso2"])
                                 break
 
             for state in stateList.select("li"):
@@ -183,10 +183,10 @@ for country in countries:
                 for stateNameTry in stateNameTries:
                     dataState = next((s for s in dataStates if remove_accents_lower(
                         s["name"]) == remove_accents_lower(stateNameTry)), None)
-                    if dataState and dataState["state_code"] != None:
-                        if dataState["state_code"] not in foundStateCodes:
-                            download_flag(state.find("img")["src"], found["iso2"], dataState["state_code"])
-                            foundStateCodes.append(dataState["state_code"])
+                    if dataState and dataState["iso2"] != None:
+                        if dataState["iso2"] not in foundStateCodes:
+                            download_flag(state.find("img")["src"], found["iso2"], dataState["iso2"])
+                            foundStateCodes.append(dataState["iso2"])
                         break
 
                 if not dataState:
@@ -223,15 +223,15 @@ for country in countries:
                     for image in allImages:
                         if image["alt"]:
                             for state in dataStates:
-                                if state["state_code"] in foundStateCodes:
+                                if state["iso2"] in foundStateCodes:
                                     continue
                                 tries = GenStateNameTries(state["name"])
                                 for _try in tries:
                                     if image["alt"].strip().lower() in ["flag of "+_try.lower(), "flag of "+_try.lower()+".svg", "flag of "+_try.lower()+".png"]:
                                         print("=> Found image: ", image["alt"])
-                                        download_flag(image["src"], found["iso2"], state["state_code"])
+                                        download_flag(image["src"], found["iso2"], state["iso2"])
                                         foundStateCodes.append(state["state_code"])
-                                        foundStateCodesOverrided.append(state["state_code"])
+                                        foundStateCodesOverrided.append(state["iso2"])
                                         break
 
                     # Try tables instead
@@ -248,9 +248,9 @@ for country in countries:
                             dataState = next((s for s in dataStates if remove_accents_lower(
                                 s["name"]) == remove_accents_lower(stateNameTry)), None)
 
-                            if dataState and dataState["state_code"] != None and (
-                                    (dataState["state_code"] not in foundStateCodes) or (
-                                        tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
+                            if dataState and dataState["iso2"] != None and (
+                                    (dataState["iso2"] not in foundStateCodes) or (
+                                        tableLink.text.strip().lower().startswith("flag of") and dataState["iso2"] not in foundStateCodesOverrided)):
                                 print("=> Found "+tableLink.text)
                                 try:
                                     # tryGet = get_flag_url_from_infobox(url)
@@ -286,15 +286,15 @@ for country in countries:
                                             if (flagElement["src"] and "no_flag" in flagElement["src"].lower()):
                                                 continue
                                         
-                                            if dataState["state_code"] in foundStateCodes:
+                                            if dataState["iso2"] in foundStateCodes:
                                                 continue
                                             
-                                            download_flag(flagElement["src"], found["iso2"], dataState["state_code"])
+                                            download_flag(flagElement["src"], found["iso2"], dataState["iso2"])
 
-                                            foundStateCodes.append(dataState["state_code"])
+                                            foundStateCodes.append(dataState["iso2"])
 
                                             if tableLink.text.strip().lower().startswith("flag of"):
-                                                foundStateCodesOverrided.append(dataState["state_code"])
+                                                foundStateCodesOverrided.append(dataState["iso2"])
 
                                             break
                                 except Exception as e:
