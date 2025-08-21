@@ -14,11313 +14,11313 @@ FLAGS: 3217
 
 <details>
 <summary>Afghanistan (5/33)</summary>
-None - Badakhshan
+BDS - Badakhshan
 
-None - Badghis
+BDG - Badghis
 
-None - Baghlan
+BGL - Baghlan
 
-None - Balkh
+<img src='out/AF/BAL.png' width='32'/> BAL - Balkh ✔️
 
-None - Bamyan
+<img src='out/AF/BAM.png' width='32'/> BAM - Bamyan ✔️
 
-None - Daykundi
+DAY - Daykundi
 
-None - Farah
+FRA - Farah
 
-None - Faryab
+FYB - Faryab
 
-None - Ghazni
+GHA - Ghazni
 
-None - Ghōr
+GHO - Ghōr
 
-None - Helmand
+HEL - Helmand
 
-None - Herat
+<img src='out/AF/HER.png' width='32'/> HER - Herat ✔️
 
-None - Jowzjan
+JOW - Jowzjan
 
-None - Kabul
+<img src='out/AF/KAB.png' width='32'/> KAB - Kabul ✔️
 
-None - Kandahar
+<img src='out/AF/KAN.png' width='32'/> KAN - Kandahar ✔️
 
-None - Kapisa
+KAP - Kapisa
 
-None - Khost
+KHO - Khost
 
-None - Kunar
+KNR - Kunar
 
-None - Kunduz Province
+KDZ - Kunduz Province
 
-None - Laghman
+LAG - Laghman
 
-None - Logar
+LOG - Logar
 
-None - Nangarhar
+NAN - Nangarhar
 
-None - Nimruz
+NIM - Nimruz
 
-None - Nuristan
+NUR - Nuristan
 
-None - Paktia
+PIA - Paktia
 
-None - Paktika
+PKA - Paktika
 
-None - Panjshir
+PAN - Panjshir
 
-None - Parwan
+PAR - Parwan
 
-None - Samangan
+SAM - Samangan
 
-None - Sar-e Pol
+SAR - Sar-e Pol
 
-None - Takhar
+TAK - Takhar
 
-None - Urozgan
+URU - Urozgan
 
-None - Zabul
+ZAB - Zabul
 
 </details>
 
 
 <details>
 <summary>Aland Islands (0/16)</summary>
-None - Brändö
+12 - Brändö
 
-None - Eckerö
+08 - Eckerö
 
-None - Finström
+03 - Finström
 
-None - Föglö
+09 - Föglö
 
-None - Geta
+10 - Geta
 
-None - Hammarland
+06 - Hammarland
 
-None - Jomala
+02 - Jomala
 
-None - Kökar
+15 - Kökar
 
-None - Kumlinge
+14 - Kumlinge
 
-None - Lemland
+04 - Lemland
 
-None - Lumparland
+13 - Lumparland
 
-None - Mariehamn
+01 - Mariehamn
 
-None - Saltvik
+05 - Saltvik
 
-None - Sottunga
+16 - Sottunga
 
-None - Sund
+07 - Sund
 
-None - Vårdö
+11 - Vårdö
 
 </details>
 
 
 <details>
 <summary>Albania (28/47)</summary>
-None - Berat
+<img src='out/AL/BR.png' width='32'/> BR - Berat ✔️
 
-None - Berat
+<img src='out/AL/01.png' width='32'/> 01 - Berat ✔️
 
-None - Bulqizë
+BU - Bulqizë
 
-None - Delvinë
+<img src='out/AL/DL.png' width='32'/> DL - Delvinë ✔️
 
-None - Devoll
+<img src='out/AL/DV.png' width='32'/> DV - Devoll ✔️
 
-None - Dibër
+<img src='out/AL/09.png' width='32'/> 09 - Dibër ✔️
 
-None - Dibër
+<img src='out/AL/DI.png' width='32'/> DI - Dibër ✔️
 
-None - Durrës
+<img src='out/AL/DR.png' width='32'/> DR - Durrës ✔️
 
-None - Durrës
+<img src='out/AL/02.png' width='32'/> 02 - Durrës ✔️
 
-None - Elbasan
+<img src='out/AL/03.png' width='32'/> 03 - Elbasan ✔️
 
-None - Fier
+FR - Fier
 
-None - Fier
+<img src='out/AL/04.png' width='32'/> 04 - Fier ✔️
 
-None - Gjirokastër
+<img src='out/AL/GJ.png' width='32'/> GJ - Gjirokastër ✔️
 
-None - Gjirokastër
+<img src='out/AL/05.png' width='32'/> 05 - Gjirokastër ✔️
 
-None - Gramsh
+GR - Gramsh
 
-None - Has
+<img src='out/AL/HA.png' width='32'/> HA - Has ✔️
 
-None - Kavajë
+<img src='out/AL/KA.png' width='32'/> KA - Kavajë ✔️
 
-None - Kolonjë
+ER - Kolonjë
 
-None - Korçë
+<img src='out/AL/06.png' width='32'/> 06 - Korçë ✔️
 
-None - Korçë
+<img src='out/AL/KO.png' width='32'/> KO - Korçë ✔️
 
-None - Krujë
+<img src='out/AL/KR.png' width='32'/> KR - Krujë ✔️
 
-None - Kuçovë
+KC - Kuçovë
 
-None - Kukës
+<img src='out/AL/KU.png' width='32'/> KU - Kukës ✔️
 
-None - Kukës
+<img src='out/AL/07.png' width='32'/> 07 - Kukës ✔️
 
-None - Kurbin
+KB - Kurbin
 
-None - Lezhë
+<img src='out/AL/08.png' width='32'/> 08 - Lezhë ✔️
 
-None - Lezhë
+<img src='out/AL/LE.png' width='32'/> LE - Lezhë ✔️
 
-None - Librazhd
+LB - Librazhd
 
-None - Lushnjë
+<img src='out/AL/LU.png' width='32'/> LU - Lushnjë ✔️
 
-None - Malësi e Madhe
+MM - Malësi e Madhe
 
-None - Mallakastër
+MK - Mallakastër
 
-None - Mat
+MT - Mat
 
-None - Mirditë
+MR - Mirditë
 
-None - Peqin
+PQ - Peqin
 
-None - Përmet
+PR - Përmet
 
-None - Pogradec
+PG - Pogradec
 
-None - Pukë
+PU - Pukë
 
-None - Sarandë
+SR - Sarandë
 
-None - Shkodër
+<img src='out/AL/10.png' width='32'/> 10 - Shkodër ✔️
 
-None - Shkodër
+<img src='out/AL/SH.png' width='32'/> SH - Shkodër ✔️
 
-None - Skrapar
+SK - Skrapar
 
-None - Tepelenë
+TE - Tepelenë
 
-None - Tirana
+<img src='out/AL/TR.png' width='32'/> TR - Tirana ✔️
 
-None - Tirana
+<img src='out/AL/11.png' width='32'/> 11 - Tirana ✔️
 
-None - Tropojë
+TP - Tropojë
 
-None - Vlorë
+<img src='out/AL/12.png' width='32'/> 12 - Vlorë ✔️
 
-None - Vlorë
+<img src='out/AL/VL.png' width='32'/> VL - Vlorë ✔️
 
 </details>
 
 
 <details>
 <summary>Algeria (0/58)</summary>
-None - Adrar
+01 - Adrar
 
-None - Aïn Defla
+44 - Aïn Defla
 
-None - Aïn Témouchent
+46 - Aïn Témouchent
 
-None - Algiers
+16 - Algiers
 
-None - Annaba
+23 - Annaba
 
-None - Batna
+05 - Batna
 
-None - Béchar
+08 - Béchar
 
-None - Béjaïa
+06 - Béjaïa
 
-None - Béni Abbès
+53 - Béni Abbès
 
-None - Biskra
+07 - Biskra
 
-None - Blida
+09 - Blida
 
-None - Bordj Baji Mokhtar
+52 - Bordj Baji Mokhtar
 
-None - Bordj Bou Arréridj
+34 - Bordj Bou Arréridj
 
-None - Bouïra
+10 - Bouïra
 
-None - Boumerdès
+35 - Boumerdès
 
-None - Chlef
+02 - Chlef
 
-None - Constantine
+25 - Constantine
 
-None - Djanet
+56 - Djanet
 
-None - Djelfa
+17 - Djelfa
 
-None - El Bayadh
+32 - El Bayadh
 
-None - El M'ghair
+49 - El M'ghair
 
-None - El Menia
+50 - El Menia
 
-None - El Oued
+39 - El Oued
 
-None - El Tarf
+36 - El Tarf
 
-None - Ghardaïa
+47 - Ghardaïa
 
-None - Guelma
+24 - Guelma
 
-None - Illizi
+33 - Illizi
 
-None - In Guezzam
+58 - In Guezzam
 
-None - In Salah
+57 - In Salah
 
-None - Jijel
+18 - Jijel
 
-None - Khenchela
+40 - Khenchela
 
-None - Laghouat
+03 - Laghouat
 
-None - M'Sila
+28 - M'Sila
 
-None - Mascara
+29 - Mascara
 
-None - Médéa
+26 - Médéa
 
-None - Mila
+43 - Mila
 
-None - Mostaganem
+27 - Mostaganem
 
-None - Naama
+45 - Naama
 
-None - Oran
+31 - Oran
 
-None - Ouargla
+30 - Ouargla
 
-None - Ouled Djellal
+51 - Ouled Djellal
 
-None - Oum El Bouaghi
+04 - Oum El Bouaghi
 
-None - Relizane
+48 - Relizane
 
-None - Saïda
+20 - Saïda
 
-None - Sétif
+19 - Sétif
 
-None - Sidi Bel Abbès
+22 - Sidi Bel Abbès
 
-None - Skikda
+21 - Skikda
 
-None - Souk Ahras
+41 - Souk Ahras
 
-None - Tamanghasset
+11 - Tamanghasset
 
-None - Tébessa
+12 - Tébessa
 
-None - Tiaret
+14 - Tiaret
 
-None - Timimoun
+54 - Timimoun
 
-None - Tindouf
+37 - Tindouf
 
-None - Tipasa
+42 - Tipasa
 
-None - Tissemsilt
+38 - Tissemsilt
 
-None - Tizi Ouzou
+15 - Tizi Ouzou
 
-None - Tlemcen
+13 - Tlemcen
 
-None - Touggourt
+55 - Touggourt
 
 </details>
 
 
 <details>
 <summary>American Samoa (0/5)</summary>
-None - Eastern
+02 - Eastern
 
-None - Manuʻa
+03 - Manuʻa
 
-None - Rose
+05 - Rose
 
-None - Swains
+04 - Swains
 
-None - Western
+01 - Western
 
 </details>
 
 
 <details>
 <summary>Andorra ✔️ (7/7)</summary>
-None - Andorra la Vella
+<img src='out/AD/07.png' width='32'/> 07 - Andorra la Vella ✔️
 
-None - Canillo
+<img src='out/AD/02.png' width='32'/> 02 - Canillo ✔️
 
-None - Encamp
+<img src='out/AD/03.png' width='32'/> 03 - Encamp ✔️
 
-None - Escaldes-Engordany
+<img src='out/AD/08.png' width='32'/> 08 - Escaldes-Engordany ✔️
 
-None - La Massana
+<img src='out/AD/04.png' width='32'/> 04 - La Massana ✔️
 
-None - Ordino
+<img src='out/AD/05.png' width='32'/> 05 - Ordino ✔️
 
-None - Sant Julià de Lòria
+<img src='out/AD/06.png' width='32'/> 06 - Sant Julià de Lòria ✔️
 
 </details>
 
 
 <details>
 <summary>Angola ✔️ (17/17)</summary>
-None - Bengo
+<img src='out/AO/BGO.png' width='32'/> BGO - Bengo ✔️
 
-None - Benguela
+<img src='out/AO/BGU.png' width='32'/> BGU - Benguela ✔️
 
-None - Bié
+<img src='out/AO/BIE.png' width='32'/> BIE - Bié ✔️
 
-None - Cabinda
+<img src='out/AO/CAB.png' width='32'/> CAB - Cabinda ✔️
 
-None - Cuando Cubango
+<img src='out/AO/CCU.png' width='32'/> CCU - Cuando Cubango ✔️
 
-None - Cuanza
+<img src='out/AO/CUS.png' width='32'/> CUS - Cuanza ✔️
 
-None - Cuanza Norte
+<img src='out/AO/CNO.png' width='32'/> CNO - Cuanza Norte ✔️
 
-None - Cunene
+<img src='out/AO/CNN.png' width='32'/> CNN - Cunene ✔️
 
-None - Huambo
+<img src='out/AO/HUA.png' width='32'/> HUA - Huambo ✔️
 
-None - Huíla
+<img src='out/AO/HUI.png' width='32'/> HUI - Huíla ✔️
 
-None - Luanda
+<img src='out/AO/LUA.png' width='32'/> LUA - Luanda ✔️
 
-None - Lunda Norte
+<img src='out/AO/LNO.png' width='32'/> LNO - Lunda Norte ✔️
 
-None - Lunda Sul
+<img src='out/AO/LSU.png' width='32'/> LSU - Lunda Sul ✔️
 
-None - Malanje
+<img src='out/AO/MAL.png' width='32'/> MAL - Malanje ✔️
 
-None - Moxico
+<img src='out/AO/MOX.png' width='32'/> MOX - Moxico ✔️
 
-None - Uíge
+<img src='out/AO/UIG.png' width='32'/> UIG - Uíge ✔️
 
-None - Zaire
+<img src='out/AO/ZAI.png' width='32'/> ZAI - Zaire ✔️
 
 </details>
 
 
 <details>
 <summary>Anguilla (0/14)</summary>
-None - Blowing Point
+01 - Blowing Point
 
-None - East End
+02 - East End
 
-None - George Hill
+03 - George Hill
 
-None - Island Harbour
+04 - Island Harbour
 
-None - North Hill
+05 - North Hill
 
-None - North Side
+06 - North Side
 
-None - Sandy Ground
+07 - Sandy Ground
 
-None - Sandy Hill
+08 - Sandy Hill
 
-None - South Hill
+09 - South Hill
 
-None - Stoney Ground
+10 - Stoney Ground
 
-None - The Farrington
+11 - The Farrington
 
-None - The Quarter
+12 - The Quarter
 
-None - The Valley
+13 - The Valley
 
-None - West End
+14 - West End
 
 </details>
 
 
 <details>
 <summary>Antigua and Barbuda (2/8)</summary>
-None - Barbuda
+<img src='out/AG/10.png' width='32'/> 10 - Barbuda ✔️
 
-None - Redonda
+<img src='out/AG/11.png' width='32'/> 11 - Redonda ✔️
 
-None - Saint George
+03 - Saint George
 
-None - Saint John
+04 - Saint John
 
-None - Saint Mary
+05 - Saint Mary
 
-None - Saint Paul
+06 - Saint Paul
 
-None - Saint Peter
+07 - Saint Peter
 
-None - Saint Philip
+08 - Saint Philip
 
 </details>
 
 
 <details>
 <summary>Argentina ✔️ (24/24)</summary>
-None - Autonomous City of Buenos Aires
+<img src='out/AR/C.png' width='32'/> C - Autonomous City of Buenos Aires ✔️
 
-None - Buenos Aires
+<img src='out/AR/B.png' width='32'/> B - Buenos Aires ✔️
 
-None - Catamarca
+<img src='out/AR/K.png' width='32'/> K - Catamarca ✔️
 
-None - Chaco
+<img src='out/AR/H.png' width='32'/> H - Chaco ✔️
 
-None - Chubut
+<img src='out/AR/U.png' width='32'/> U - Chubut ✔️
 
-None - Córdoba
+<img src='out/AR/X.png' width='32'/> X - Córdoba ✔️
 
-None - Corrientes
+<img src='out/AR/W.png' width='32'/> W - Corrientes ✔️
 
-None - Entre Ríos
+<img src='out/AR/E.png' width='32'/> E - Entre Ríos ✔️
 
-None - Formosa
+<img src='out/AR/P.png' width='32'/> P - Formosa ✔️
 
-None - Jujuy
+<img src='out/AR/Y.png' width='32'/> Y - Jujuy ✔️
 
-None - La Pampa
+<img src='out/AR/L.png' width='32'/> L - La Pampa ✔️
 
-None - La Rioja
+<img src='out/AR/F.png' width='32'/> F - La Rioja ✔️
 
-None - Mendoza
+<img src='out/AR/M.png' width='32'/> M - Mendoza ✔️
 
-None - Misiones
+<img src='out/AR/N.png' width='32'/> N - Misiones ✔️
 
-None - Neuquén
+<img src='out/AR/Q.png' width='32'/> Q - Neuquén ✔️
 
-None - Río Negro
+<img src='out/AR/R.png' width='32'/> R - Río Negro ✔️
 
-None - Salta
+<img src='out/AR/A.png' width='32'/> A - Salta ✔️
 
-None - San Juan
+<img src='out/AR/J.png' width='32'/> J - San Juan ✔️
 
-None - San Luis
+<img src='out/AR/D.png' width='32'/> D - San Luis ✔️
 
-None - Santa Cruz
+<img src='out/AR/Z.png' width='32'/> Z - Santa Cruz ✔️
 
-None - Santa Fe
+<img src='out/AR/S.png' width='32'/> S - Santa Fe ✔️
 
-None - Santiago del Estero
+<img src='out/AR/G.png' width='32'/> G - Santiago del Estero ✔️
 
-None - Tierra del Fuego
+<img src='out/AR/V.png' width='32'/> V - Tierra del Fuego ✔️
 
-None - Tucumán
+<img src='out/AR/T.png' width='32'/> T - Tucumán ✔️
 
 </details>
 
 
 <details>
 <summary>Armenia ✔️ (11/11)</summary>
-None - Aragatsotn
+<img src='out/AM/AG.png' width='32'/> AG - Aragatsotn ✔️
 
-None - Ararat
+<img src='out/AM/AR.png' width='32'/> AR - Ararat ✔️
 
-None - Armavir
+<img src='out/AM/AV.png' width='32'/> AV - Armavir ✔️
 
-None - Gegharkunik
+<img src='out/AM/GR.png' width='32'/> GR - Gegharkunik ✔️
 
-None - Kotayk
+<img src='out/AM/KT.png' width='32'/> KT - Kotayk ✔️
 
-None - Lori
+<img src='out/AM/LO.png' width='32'/> LO - Lori ✔️
 
-None - Shirak
+<img src='out/AM/SH.png' width='32'/> SH - Shirak ✔️
 
-None - Syunik
+<img src='out/AM/SU.png' width='32'/> SU - Syunik ✔️
 
-None - Tavush
+<img src='out/AM/TV.png' width='32'/> TV - Tavush ✔️
 
-None - Vayots Dzor
+<img src='out/AM/VD.png' width='32'/> VD - Vayots Dzor ✔️
 
-None - Yerevan
+<img src='out/AM/ER.png' width='32'/> ER - Yerevan ✔️
 
 </details>
 
 
 <details>
 <summary>Aruba (0/9)</summary>
-None - Noord
+01 - Noord
 
-None - Oranjestad
+09 - Oranjestad
 
-None - Oranjestad East
+03 - Oranjestad East
 
-None - Oranjestad West
+02 - Oranjestad West
 
-None - Paradera
+04 - Paradera
 
-None - San Nicolaas Noord
+05 - San Nicolaas Noord
 
-None - San Nicolaas Zuid
+06 - San Nicolaas Zuid
 
-None - Santa Cruz
+07 - Santa Cruz
 
-None - Savaneta
+08 - Savaneta
 
 </details>
 
 
 <details>
 <summary>Australia ✔️ (8/8)</summary>
-None - Australian Capital Territory
+<img src='out/AU/ACT.png' width='32'/> ACT - Australian Capital Territory ✔️
 
-None - New South Wales
+<img src='out/AU/NSW.png' width='32'/> NSW - New South Wales ✔️
 
-None - Northern Territory
+<img src='out/AU/NT.png' width='32'/> NT - Northern Territory ✔️
 
-None - Queensland
+<img src='out/AU/QLD.png' width='32'/> QLD - Queensland ✔️
 
-None - South Australia
+<img src='out/AU/SA.png' width='32'/> SA - South Australia ✔️
 
-None - Tasmania
+<img src='out/AU/TAS.png' width='32'/> TAS - Tasmania ✔️
 
-None - Victoria
+<img src='out/AU/VIC.png' width='32'/> VIC - Victoria ✔️
 
-None - Western Australia
+<img src='out/AU/WA.png' width='32'/> WA - Western Australia ✔️
 
 </details>
 
 
 <details>
 <summary>Austria ✔️ (9/9)</summary>
-None - Burgenland
+<img src='out/AT/1.png' width='32'/> 1 - Burgenland ✔️
 
-None - Carinthia
+<img src='out/AT/2.png' width='32'/> 2 - Carinthia ✔️
 
-None - Lower Austria
+<img src='out/AT/3.png' width='32'/> 3 - Lower Austria ✔️
 
-None - Salzburg
+<img src='out/AT/5.png' width='32'/> 5 - Salzburg ✔️
 
-None - Styria
+<img src='out/AT/6.png' width='32'/> 6 - Styria ✔️
 
-None - Tyrol
+<img src='out/AT/7.png' width='32'/> 7 - Tyrol ✔️
 
-None - Upper Austria
+<img src='out/AT/4.png' width='32'/> 4 - Upper Austria ✔️
 
-None - Vienna
+<img src='out/AT/9.png' width='32'/> 9 - Vienna ✔️
 
-None - Vorarlberg
+<img src='out/AT/8.png' width='32'/> 8 - Vorarlberg ✔️
 
 </details>
 
 
 <details>
 <summary>Azerbaijan (1/75)</summary>
-None - Absheron
+ABS - Absheron
 
-None - Agdam
+AGM - Agdam
 
-None - Agdash
+AGS - Agdash
 
-None - Aghjabadi
+AGC - Aghjabadi
 
-None - Agstafa
+AGA - Agstafa
 
-None - Agsu
+AGU - Agsu
 
-None - Astara
+AST - Astara
 
-None - Babek
+BAB - Babek
 
-None - Baku
+<img src='out/AZ/BA.png' width='32'/> BA - Baku ✔️
 
-None - Balakan
+BAL - Balakan
 
-None - Barda
+BAR - Barda
 
-None - Beylagan
+BEY - Beylagan
 
-None - Bilasuvar
+BIL - Bilasuvar
 
-None - Dashkasan
+DAS - Dashkasan
 
-None - Fizuli
+FUZ - Fizuli
 
-None - Ganja
+GA - Ganja
 
-None - Gədəbəy
+GAD - Gədəbəy
 
-None - Gobustan
+QOB - Gobustan
 
-None - Goranboy
+GOR - Goranboy
 
-None - Goychay
+GOY - Goychay
 
-None - Goygol
+GYG - Goygol
 
-None - Hajigabul
+HAC - Hajigabul
 
-None - Imishli
+IMI - Imishli
 
-None - Ismailli
+ISM - Ismailli
 
-None - Jabrayil
+CAB - Jabrayil
 
-None - Jalilabad
+CAL - Jalilabad
 
-None - Julfa
+CUL - Julfa
 
-None - Kalbajar
+KAL - Kalbajar
 
-None - Kangarli
+KAN - Kangarli
 
-None - Khachmaz
+XAC - Khachmaz
 
-None - Khizi
+XIZ - Khizi
 
-None - Khojali
+XCI - Khojali
 
-None - Kurdamir
+KUR - Kurdamir
 
-None - Lachin
+LAC - Lachin
 
-None - Lankaran
+LAN - Lankaran
 
-None - Lankaran
+LA - Lankaran
 
-None - Lerik
+LER - Lerik
 
-None - Martuni
+XVD - Martuni
 
-None - Masally
+MAS - Masally
 
-None - Mingachevir
+MI - Mingachevir
 
-None - Nakhchivan
+NX - Nakhchivan
 
-None - Neftchala
+NEF - Neftchala
 
-None - Oghuz
+OGU - Oghuz
 
-None - Ordubad
+ORD - Ordubad
 
-None - Qabala
+QAB - Qabala
 
-None - Qakh
+QAX - Qakh
 
-None - Qazakh
+QAZ - Qazakh
 
-None - Quba
+QBA - Quba
 
-None - Qubadli
+QBI - Qubadli
 
-None - Qusar
+QUS - Qusar
 
-None - Saatly
+SAT - Saatly
 
-None - Sabirabad
+SAB - Sabirabad
 
-None - Sadarak
+SAD - Sadarak
 
-None - Salyan
+SAL - Salyan
 
-None - Samukh
+SMX - Samukh
 
-None - Shabran
+SBN - Shabran
 
-None - Shahbuz
+SAH - Shahbuz
 
-None - Shaki
+SA - Shaki
 
-None - Shaki
+SAK - Shaki
 
-None - Shamakhi
+SMI - Shamakhi
 
-None - Shamkir
+SKR - Shamkir
 
-None - Sharur
+SAR - Sharur
 
-None - Shirvan
+SR - Shirvan
 
-None - Shusha
+SUS - Shusha
 
-None - Siazan
+SIY - Siazan
 
-None - Sumqayit
+SM - Sumqayit
 
-None - Tartar
+TAR - Tartar
 
-None - Tovuz
+TOV - Tovuz
 
-None - Ujar
+UCA - Ujar
 
-None - Yardymli
+YAR - Yardymli
 
-None - Yevlakh
+YE - Yevlakh
 
-None - Yevlakh
+YEV - Yevlakh
 
-None - Zangilan
+ZAN - Zangilan
 
-None - Zaqatala
+ZAQ - Zaqatala
 
-None - Zardab
+ZAR - Zardab
 
 </details>
 
 
 <details>
 <summary>Bahrain ✔️ (5/5)</summary>
-None - Capital
+<img src='out/BH/13.png' width='32'/> 13 - Capital ✔️
 
-None - Central
+<img src='out/BH/16.png' width='32'/> 16 - Central ✔️
 
-None - Muharraq
+<img src='out/BH/15.png' width='32'/> 15 - Muharraq ✔️
 
-None - Northern
+<img src='out/BH/17.png' width='32'/> 17 - Northern ✔️
 
-None - Southern
+<img src='out/BH/14.png' width='32'/> 14 - Southern ✔️
 
 </details>
 
 
 <details>
 <summary>Bangladesh (1/8)</summary>
-None - Barisal 
+A - Barisal 
 
-None - Chittagong 
+B - Chittagong 
 
-None - Dhaka 
+<img src='out/BD/C.png' width='32'/> C - Dhaka  ✔️
 
-None - Khulna 
+D - Khulna 
 
-None - Mymensingh 
+H - Mymensingh 
 
-None - Rajshahi 
+E - Rajshahi 
 
-None - Rangpur 
+F - Rangpur 
 
-None - Sylhet 
+G - Sylhet 
 
 </details>
 
 
 <details>
 <summary>Barbados (0/11)</summary>
-None - Christ Church
+01 - Christ Church
 
-None - Saint Andrew
+02 - Saint Andrew
 
-None - Saint George
+03 - Saint George
 
-None - Saint James
+04 - Saint James
 
-None - Saint John
+05 - Saint John
 
-None - Saint Joseph
+06 - Saint Joseph
 
-None - Saint Lucy
+07 - Saint Lucy
 
-None - Saint Michael
+08 - Saint Michael
 
-None - Saint Peter
+09 - Saint Peter
 
-None - Saint Philip
+10 - Saint Philip
 
-None - Saint Thomas
+11 - Saint Thomas
 
 </details>
 
 
 <details>
 <summary>Belarus ✔️ (7/7)</summary>
-None - Brest
+<img src='out/BY/BR.png' width='32'/> BR - Brest ✔️
 
-None - Gomel
+<img src='out/BY/HO.png' width='32'/> HO - Gomel ✔️
 
-None - Grodno
+<img src='out/BY/HR.png' width='32'/> HR - Grodno ✔️
 
-None - Minsk
+<img src='out/BY/MI.png' width='32'/> MI - Minsk ✔️
 
-None - Minsk
+<img src='out/BY/HM.png' width='32'/> HM - Minsk ✔️
 
-None - Mogilev
+<img src='out/BY/MA.png' width='32'/> MA - Mogilev ✔️
 
-None - Vitebsk
+<img src='out/BY/VI.png' width='32'/> VI - Vitebsk ✔️
 
 </details>
 
 
 <details>
 <summary>Belgium ✔️ (13/13)</summary>
-None - Antwerp
+<img src='out/BE/VAN.png' width='32'/> VAN - Antwerp ✔️
 
-None - Brussels-Capital 
+<img src='out/BE/BRU.png' width='32'/> BRU - Brussels-Capital  ✔️
 
-None - East Flanders
+<img src='out/BE/VOV.png' width='32'/> VOV - East Flanders ✔️
 
-None - Flanders
+<img src='out/BE/VLG.png' width='32'/> VLG - Flanders ✔️
 
-None - Flemish Brabant
+<img src='out/BE/VBR.png' width='32'/> VBR - Flemish Brabant ✔️
 
-None - Hainaut
+<img src='out/BE/WHT.png' width='32'/> WHT - Hainaut ✔️
 
-None - Liège
+<img src='out/BE/WLG.png' width='32'/> WLG - Liège ✔️
 
-None - Limburg
+<img src='out/BE/VLI.png' width='32'/> VLI - Limburg ✔️
 
-None - Luxembourg
+<img src='out/BE/WLX.png' width='32'/> WLX - Luxembourg ✔️
 
-None - Namur
+<img src='out/BE/WNA.png' width='32'/> WNA - Namur ✔️
 
-None - Wallonia
+<img src='out/BE/WAL.png' width='32'/> WAL - Wallonia ✔️
 
-None - Walloon Brabant
+<img src='out/BE/WBR.png' width='32'/> WBR - Walloon Brabant ✔️
 
-None - West Flanders
+<img src='out/BE/VWV.png' width='32'/> VWV - West Flanders ✔️
 
 </details>
 
 
 <details>
 <summary>Belize (2/6)</summary>
-None - Belize
+BZ - Belize
 
-None - Cayo
+CY - Cayo
 
-None - Corozal
+<img src='out/BZ/CZL.png' width='32'/> CZL - Corozal ✔️
 
-None - Orange Walk
+<img src='out/BZ/OW.png' width='32'/> OW - Orange Walk ✔️
 
-None - Stann Creek
+SC - Stann Creek
 
-None - Toledo
+TOL - Toledo
 
 </details>
 
 
 <details>
 <summary>Benin (0/12)</summary>
-None - Alibori
+AL - Alibori
 
-None - Atakora
+AK - Atakora
 
-None - Atlantique
+AQ - Atlantique
 
-None - Borgou
+BO - Borgou
 
-None - Collines
+CO - Collines
 
-None - Donga
+DO - Donga
 
-None - Kouffo
+KO - Kouffo
 
-None - Littoral
+LI - Littoral
 
-None - Mono
+MO - Mono
 
-None - Ouémé
+OU - Ouémé
 
-None - Plateau
+PL - Plateau
 
-None - Zou
+ZO - Zou
 
 </details>
 
 
 <details>
 <summary>Bermuda (0/9)</summary>
-None - Devonshire
+DEV - Devonshire
 
-None - Hamilton
+HA - Hamilton
 
-None - Paget
+PAG - Paget
 
-None - Pembroke
+PEM - Pembroke
 
-None - Saint George's
+SGE - Saint George's
 
-None - Sandys
+SAN - Sandys
 
-None - Smith's
+SMI - Smith's
 
-None - Southampton
+SOU - Southampton
 
-None - Warwick
+WAR - Warwick
 
 </details>
 
 
 <details>
 <summary>Bhutan (0/20)</summary>
-None - Bumthang 
+33 - Bumthang 
 
-None - Chukha 
+12 - Chukha 
 
-None - Dagana 
+22 - Dagana 
 
-None - Gasa 
+GA - Gasa 
 
-None - Haa 
+13 - Haa 
 
-None - Lhuntse 
+44 - Lhuntse 
 
-None - Mongar 
+42 - Mongar 
 
-None - Paro 
+11 - Paro 
 
-None - Pemagatshel 
+43 - Pemagatshel 
 
-None - Punakha 
+23 - Punakha 
 
-None - Samdrup Jongkhar 
+45 - Samdrup Jongkhar 
 
-None - Samtse 
+14 - Samtse 
 
-None - Sarpang 
+31 - Sarpang 
 
-None - Thimphu 
+15 - Thimphu 
 
-None - Trashi Yangtse	
+TY - Trashi Yangtse	
 
-None - Trashigang 
+41 - Trashigang 
 
-None - Trongsa 
+32 - Trongsa 
 
-None - Tsirang 
+21 - Tsirang 
 
-None - Wangdue Phodrang 
+24 - Wangdue Phodrang 
 
-None - Zhemgang 
+34 - Zhemgang 
 
 </details>
 
 
 <details>
 <summary>Bolivia ✔️ (9/9)</summary>
-None - Beni
+<img src='out/BO/B.png' width='32'/> B - Beni ✔️
 
-None - Chuquisaca
+<img src='out/BO/H.png' width='32'/> H - Chuquisaca ✔️
 
-None - Cochabamba
+<img src='out/BO/C.png' width='32'/> C - Cochabamba ✔️
 
-None - La Paz
+<img src='out/BO/L.png' width='32'/> L - La Paz ✔️
 
-None - Oruro
+<img src='out/BO/O.png' width='32'/> O - Oruro ✔️
 
-None - Pando
+<img src='out/BO/N.png' width='32'/> N - Pando ✔️
 
-None - Potosí
+<img src='out/BO/P.png' width='32'/> P - Potosí ✔️
 
-None - Santa Cruz
+<img src='out/BO/S.png' width='32'/> S - Santa Cruz ✔️
 
-None - Tarija
+<img src='out/BO/T.png' width='32'/> T - Tarija ✔️
 
 </details>
 
 
 <details>
 <summary>Bonaire, Sint Eustatius and Saba (0/3)</summary>
-None - Bonaire
+BQ1 - Bonaire
 
-None - Saba
+BQ2 - Saba
 
-None - Sint Eustatius
+BQ3 - Sint Eustatius
 
 </details>
 
 
 <details>
 <summary>Bosnia and Herzegovina ✔️ (13/13)</summary>
-None - Bosnian Podrinje
+<img src='out/BA/05.png' width='32'/> 05 - Bosnian Podrinje ✔️
 
-None - Brčko
+<img src='out/BA/BRC.png' width='32'/> BRC - Brčko ✔️
 
-None - Canton 10
+<img src='out/BA/10.png' width='32'/> 10 - Canton 10 ✔️
 
-None - Central Bosnia
+<img src='out/BA/06.png' width='32'/> 06 - Central Bosnia ✔️
 
-None - Federation of Bosnia and Herzegovina
+<img src='out/BA/BIH.png' width='32'/> BIH - Federation of Bosnia and Herzegovina ✔️
 
-None - Herzegovina-Neretva
+<img src='out/BA/07.png' width='32'/> 07 - Herzegovina-Neretva ✔️
 
-None - Posavina
+<img src='out/BA/02.png' width='32'/> 02 - Posavina ✔️
 
-None - Republika Srpska
+<img src='out/BA/SRP.png' width='32'/> SRP - Republika Srpska ✔️
 
-None - Sarajevo
+<img src='out/BA/09.png' width='32'/> 09 - Sarajevo ✔️
 
-None - Tuzla
+<img src='out/BA/03.png' width='32'/> 03 - Tuzla ✔️
 
-None - Una-Sana
+<img src='out/BA/01.png' width='32'/> 01 - Una-Sana ✔️
 
-None - West Herzegovina
+<img src='out/BA/08.png' width='32'/> 08 - West Herzegovina ✔️
 
-None - Zenica-Doboj
+<img src='out/BA/04.png' width='32'/> 04 - Zenica-Doboj ✔️
 
 </details>
 
 
 <details>
 <summary>Botswana (0/10)</summary>
-None - Central
+CE - Central
 
-None - Ghanzi
+GH - Ghanzi
 
-None - Kgalagadi
+KG - Kgalagadi
 
-None - Kgatleng
+KL - Kgatleng
 
-None - Kweneng
+KW - Kweneng
 
-None - Ngamiland
+NG - Ngamiland
 
-None - North-East
+NE - North-East
 
-None - North-West
+NW - North-West
 
-None - South-East
+SE - South-East
 
-None - Southern
+SO - Southern
 
 </details>
 
 
 <details>
 <summary>Brazil ✔️ (27/27)</summary>
-None - Acre
+<img src='out/BR/AC.png' width='32'/> AC - Acre ✔️
 
-None - Alagoas
+<img src='out/BR/AL.png' width='32'/> AL - Alagoas ✔️
 
-None - Amapá
+<img src='out/BR/AP.png' width='32'/> AP - Amapá ✔️
 
-None - Amazonas
+<img src='out/BR/AM.png' width='32'/> AM - Amazonas ✔️
 
-None - Bahia
+<img src='out/BR/BA.png' width='32'/> BA - Bahia ✔️
 
-None - Ceará
+<img src='out/BR/CE.png' width='32'/> CE - Ceará ✔️
 
-None - Distrito Federal
+<img src='out/BR/DF.png' width='32'/> DF - Distrito Federal ✔️
 
-None - Espírito Santo
+<img src='out/BR/ES.png' width='32'/> ES - Espírito Santo ✔️
 
-None - Goiás
+<img src='out/BR/GO.png' width='32'/> GO - Goiás ✔️
 
-None - Maranhão
+<img src='out/BR/MA.png' width='32'/> MA - Maranhão ✔️
 
-None - Mato Grosso
+<img src='out/BR/MT.png' width='32'/> MT - Mato Grosso ✔️
 
-None - Mato Grosso do Sul
+<img src='out/BR/MS.png' width='32'/> MS - Mato Grosso do Sul ✔️
 
-None - Minas Gerais
+<img src='out/BR/MG.png' width='32'/> MG - Minas Gerais ✔️
 
-None - Pará
+<img src='out/BR/PA.png' width='32'/> PA - Pará ✔️
 
-None - Paraíba
+<img src='out/BR/PB.png' width='32'/> PB - Paraíba ✔️
 
-None - Paraná
+<img src='out/BR/PR.png' width='32'/> PR - Paraná ✔️
 
-None - Pernambuco
+<img src='out/BR/PE.png' width='32'/> PE - Pernambuco ✔️
 
-None - Piauí
+<img src='out/BR/PI.png' width='32'/> PI - Piauí ✔️
 
-None - Rio de Janeiro
+<img src='out/BR/RJ.png' width='32'/> RJ - Rio de Janeiro ✔️
 
-None - Rio Grande do Norte
+<img src='out/BR/RN.png' width='32'/> RN - Rio Grande do Norte ✔️
 
-None - Rio Grande do Sul
+<img src='out/BR/RS.png' width='32'/> RS - Rio Grande do Sul ✔️
 
-None - Rondônia
+<img src='out/BR/RO.png' width='32'/> RO - Rondônia ✔️
 
-None - Roraima
+<img src='out/BR/RR.png' width='32'/> RR - Roraima ✔️
 
-None - Santa Catarina
+<img src='out/BR/SC.png' width='32'/> SC - Santa Catarina ✔️
 
-None - São Paulo
+<img src='out/BR/SP.png' width='32'/> SP - São Paulo ✔️
 
-None - Sergipe
+<img src='out/BR/SE.png' width='32'/> SE - Sergipe ✔️
 
-None - Tocantins
+<img src='out/BR/TO.png' width='32'/> TO - Tocantins ✔️
 
 </details>
 
 
 <details>
 <summary>Brunei (0/4)</summary>
-None - Belait
+BE - Belait
 
-None - Brunei-Muara
+BM - Brunei-Muara
 
-None - Temburong
+TE - Temburong
 
-None - Tutong
+TU - Tutong
 
 </details>
 
 
 <details>
 <summary>Bulgaria ✔️ (28/28)</summary>
-None - Blagoevgrad
+<img src='out/BG/01.png' width='32'/> 01 - Blagoevgrad ✔️
 
-None - Burgas
+<img src='out/BG/02.png' width='32'/> 02 - Burgas ✔️
 
-None - Dobrich
+<img src='out/BG/08.png' width='32'/> 08 - Dobrich ✔️
 
-None - Gabrovo
+<img src='out/BG/07.png' width='32'/> 07 - Gabrovo ✔️
 
-None - Haskovo
+<img src='out/BG/26.png' width='32'/> 26 - Haskovo ✔️
 
-None - Kardzhali
+<img src='out/BG/09.png' width='32'/> 09 - Kardzhali ✔️
 
-None - Kyustendil
+<img src='out/BG/10.png' width='32'/> 10 - Kyustendil ✔️
 
-None - Lovech
+<img src='out/BG/11.png' width='32'/> 11 - Lovech ✔️
 
-None - Montana
+<img src='out/BG/12.png' width='32'/> 12 - Montana ✔️
 
-None - Pazardzhik
+<img src='out/BG/13.png' width='32'/> 13 - Pazardzhik ✔️
 
-None - Pernik
+<img src='out/BG/14.png' width='32'/> 14 - Pernik ✔️
 
-None - Pleven
+<img src='out/BG/15.png' width='32'/> 15 - Pleven ✔️
 
-None - Plovdiv
+<img src='out/BG/16.png' width='32'/> 16 - Plovdiv ✔️
 
-None - Razgrad
+<img src='out/BG/17.png' width='32'/> 17 - Razgrad ✔️
 
-None - Ruse
+<img src='out/BG/18.png' width='32'/> 18 - Ruse ✔️
 
-None - Shumen
+<img src='out/BG/27.png' width='32'/> 27 - Shumen ✔️
 
-None - Silistra
+<img src='out/BG/19.png' width='32'/> 19 - Silistra ✔️
 
-None - Sliven
+<img src='out/BG/20.png' width='32'/> 20 - Sliven ✔️
 
-None - Smolyan
+<img src='out/BG/21.png' width='32'/> 21 - Smolyan ✔️
 
-None - Sofia
+<img src='out/BG/23.png' width='32'/> 23 - Sofia ✔️
 
-None - Sofia City
+<img src='out/BG/22.png' width='32'/> 22 - Sofia City ✔️
 
-None - Stara Zagora
+<img src='out/BG/24.png' width='32'/> 24 - Stara Zagora ✔️
 
-None - Targovishte
+<img src='out/BG/25.png' width='32'/> 25 - Targovishte ✔️
 
-None - Varna
+<img src='out/BG/03.png' width='32'/> 03 - Varna ✔️
 
-None - Veliko Tarnovo
+<img src='out/BG/04.png' width='32'/> 04 - Veliko Tarnovo ✔️
 
-None - Vidin
+<img src='out/BG/05.png' width='32'/> 05 - Vidin ✔️
 
-None - Vratsa
+<img src='out/BG/06.png' width='32'/> 06 - Vratsa ✔️
 
-None - Yambol
+<img src='out/BG/28.png' width='32'/> 28 - Yambol ✔️
 
 </details>
 
 
 <details>
 <summary>Burkina Faso (0/58)</summary>
-None - Balé
+BAL - Balé
 
-None - Bam
+BAM - Bam
 
-None - Banwa
+BAN - Banwa
 
-None - Bazèga
+BAZ - Bazèga
 
-None - Boucle du Mouhoun
+01 - Boucle du Mouhoun
 
-None - Bougouriba
+BGR - Bougouriba
 
-None - Boulgou
+BLG - Boulgou
 
-None - Boulkiemde
+BLK - Boulkiemde
 
-None - Cascades
+02 - Cascades
 
-None - Centre
+03 - Centre
 
-None - Centre-Est
+04 - Centre-Est
 
-None - Centre-Nord
+05 - Centre-Nord
 
-None - Centre-Ouest
+06 - Centre-Ouest
 
-None - Centre-Sud
+07 - Centre-Sud
 
-None - Comoé
+COM - Comoé
 
-None - Est
+08 - Est
 
-None - Ganzourgou
+GAN - Ganzourgou
 
-None - Gnagna
+GNA - Gnagna
 
-None - Gourma
+GOU - Gourma
 
-None - Hauts-Bassins
+09 - Hauts-Bassins
 
-None - Houet
+HOU - Houet
 
-None - Ioba
+IOB - Ioba
 
-None - Kadiogo
+KAD - Kadiogo
 
-None - Kénédougou
+KEN - Kénédougou
 
-None - Komondjari
+KMD - Komondjari
 
-None - Kompienga
+KMP - Kompienga
 
-None - Kossi
+KOS - Kossi
 
-None - Koulpélogo
+KOP - Koulpélogo
 
-None - Kouritenga
+KOT - Kouritenga
 
-None - Kourwéogo
+KOW - Kourwéogo
 
-None - Léraba
+LER - Léraba
 
-None - Loroum
+LOR - Loroum
 
-None - Mouhoun
+MOU - Mouhoun
 
-None - Nahouri
+NAO - Nahouri
 
-None - Namentenga
+NAM - Namentenga
 
-None - Nayala
+NAY - Nayala
 
-None - Nord
+10 - Nord
 
-None - Noumbiel
+NOU - Noumbiel
 
-None - Oubritenga
+OUB - Oubritenga
 
-None - Oudalan
+OUD - Oudalan
 
-None - Passoré
+PAS - Passoré
 
-None - Plateau-Central
+11 - Plateau-Central
 
-None - Poni
+PON - Poni
 
-None - Sahel
+12 - Sahel
 
-None - Sanguié
+SNG - Sanguié
 
-None - Sanmatenga
+SMT - Sanmatenga
 
-None - Séno
+SEN - Séno
 
-None - Sissili
+SIS - Sissili
 
-None - Soum
+SOM - Soum
 
-None - Sourou
+SOR - Sourou
 
-None - Sud-Ouest
+13 - Sud-Ouest
 
-None - Tapoa
+TAP - Tapoa
 
-None - Tuy
+TUI - Tuy
 
-None - Yagha
+YAG - Yagha
 
-None - Yatenga
+YAT - Yatenga
 
-None - Ziro
+ZIR - Ziro
 
-None - Zondoma
+ZON - Zondoma
 
-None - Zoundwéogo
+ZOU - Zoundwéogo
 
 </details>
 
 
 <details>
 <summary>Burundi (0/18)</summary>
-None - Bubanza
+BB - Bubanza
 
-None - Bujumbura Mairie
+BM - Bujumbura Mairie
 
-None - Bujumbura Rural
+BL - Bujumbura Rural
 
-None - Bururi
+BR - Bururi
 
-None - Cankuzo
+CA - Cankuzo
 
-None - Cibitoke
+CI - Cibitoke
 
-None - Gitega
+GI - Gitega
 
-None - Karuzi
+KR - Karuzi
 
-None - Kayanza
+KY - Kayanza
 
-None - Kirundo
+KI - Kirundo
 
-None - Makamba
+MA - Makamba
 
-None - Muramvya
+MU - Muramvya
 
-None - Muyinga
+MY - Muyinga
 
-None - Mwaro
+MW - Mwaro
 
-None - Ngozi
+NG - Ngozi
 
-None - Rumonge
+RM - Rumonge
 
-None - Rutana
+RT - Rutana
 
-None - Ruyigi
+RY - Ruyigi
 
 </details>
 
 
 <details>
 <summary>Cambodia (0/24)</summary>
-None - Banteay Meanchey
+1 - Banteay Meanchey
 
-None - Battambang
+2 - Battambang
 
-None - Kampong Cham
+3 - Kampong Cham
 
-None - Kampong Chhnang
+4 - Kampong Chhnang
 
-None - Kampong Speu
+5 - Kampong Speu
 
-None - Kampong Thom
+6 - Kampong Thom
 
-None - Kampot
+7 - Kampot
 
-None - Kandal
+8 - Kandal
 
-None - Kep
+23 - Kep
 
-None - Koh Kong
+9 - Koh Kong
 
-None - Kratie
+10 - Kratie
 
-None - Mondulkiri
+11 - Mondulkiri
 
-None - Oddar Meanchey
+22 - Oddar Meanchey
 
-None - Pailin
+24 - Pailin
 
-None - Phnom Penh
+12 - Phnom Penh
 
-None - Preah Vihear
+13 - Preah Vihear
 
-None - Prey Veng
+14 - Prey Veng
 
-None - Pursat
+15 - Pursat
 
-None - Ratanakiri
+16 - Ratanakiri
 
-None - Siem Reap
+17 - Siem Reap
 
-None - Sihanoukville
+18 - Sihanoukville
 
-None - Stung Treng
+19 - Stung Treng
 
-None - Svay Rieng
+20 - Svay Rieng
 
-None - Takeo
+21 - Takeo
 
 </details>
 
 
 <details>
 <summary>Cameroon (0/10)</summary>
-None - Adamawa
+AD - Adamawa
 
-None - Centre
+CE - Centre
 
-None - East
+ES - East
 
-None - Far North
+EN - Far North
 
-None - Littoral
+LT - Littoral
 
-None - North
+NO - North
 
-None - Northwest
+NW - Northwest
 
-None - South
+SU - South
 
-None - Southwest
+SW - Southwest
 
-None - West
+OU - West
 
 </details>
 
 
 <details>
 <summary>Canada ✔️ (13/13)</summary>
-None - Alberta
+<img src='out/CA/AB.png' width='32'/> AB - Alberta ✔️
 
-None - British Columbia
+<img src='out/CA/BC.png' width='32'/> BC - British Columbia ✔️
 
-None - Manitoba
+<img src='out/CA/MB.png' width='32'/> MB - Manitoba ✔️
 
-None - New Brunswick
+<img src='out/CA/NB.png' width='32'/> NB - New Brunswick ✔️
 
-None - Newfoundland and Labrador
+<img src='out/CA/NL.png' width='32'/> NL - Newfoundland and Labrador ✔️
 
-None - Northwest Territories
+<img src='out/CA/NT.png' width='32'/> NT - Northwest Territories ✔️
 
-None - Nova Scotia
+<img src='out/CA/NS.png' width='32'/> NS - Nova Scotia ✔️
 
-None - Nunavut
+<img src='out/CA/NU.png' width='32'/> NU - Nunavut ✔️
 
-None - Ontario
+<img src='out/CA/ON.png' width='32'/> ON - Ontario ✔️
 
-None - Prince Edward Island
+<img src='out/CA/PE.png' width='32'/> PE - Prince Edward Island ✔️
 
-None - Quebec
+<img src='out/CA/QC.png' width='32'/> QC - Quebec ✔️
 
-None - Saskatchewan
+<img src='out/CA/SK.png' width='32'/> SK - Saskatchewan ✔️
 
-None - Yukon
+<img src='out/CA/YT.png' width='32'/> YT - Yukon ✔️
 
 </details>
 
 
 <details>
 <summary>Cape Verde (4/23)</summary>
-None - Barlavento Islands
+<img src='out/CV/B.png' width='32'/> B - Barlavento Islands ✔️
 
-None - Boa Vista
+BV - Boa Vista
 
-None - Brava
+BR - Brava
 
-None - Maio
+MA - Maio
 
-None - Mosteiros
+<img src='out/CV/MO.png' width='32'/> MO - Mosteiros ✔️
 
-None - Paul
+PA - Paul
 
-None - Porto Novo
+PN - Porto Novo
 
-None - Praia
+PR - Praia
 
-None - Ribeira Brava
+RB - Ribeira Brava
 
-None - Ribeira Grande
+RG - Ribeira Grande
 
-None - Ribeira Grande de Santiago
+RS - Ribeira Grande de Santiago
 
-None - Sal
+SL - Sal
 
-None - Santa Catarina
+CA - Santa Catarina
 
-None - Santa Catarina do Fogo
+CF - Santa Catarina do Fogo
 
-None - Santa Cruz
+CR - Santa Cruz
 
-None - São Domingos
+SD - São Domingos
 
-None - São Filipe
+SF - São Filipe
 
-None - São Lourenço dos Órgãos
+SO - São Lourenço dos Órgãos
 
-None - São Miguel
+<img src='out/CV/SM.png' width='32'/> SM - São Miguel ✔️
 
-None - São Vicente
+SV - São Vicente
 
-None - Sotavento Islands
+<img src='out/CV/S.png' width='32'/> S - Sotavento Islands ✔️
 
-None - Tarrafal
+TA - Tarrafal
 
-None - Tarrafal de São Nicolau
+TS - Tarrafal de São Nicolau
 
 </details>
 
 
 <details>
 <summary>Cayman Islands (0/3)</summary>
-None - Cayman Brac
+02 - Cayman Brac
 
-None - Grand Cayman
+01 - Grand Cayman
 
-None - Little Cayman
+03 - Little Cayman
 
 </details>
 
 
 <details>
 <summary>Central African Republic (1/17)</summary>
-None - Bamingui-Bangoran
+BB - Bamingui-Bangoran
 
-None - Bangui
+<img src='out/CF/BGF.png' width='32'/> BGF - Bangui ✔️
 
-None - Basse-Kotto
+BK - Basse-Kotto
 
-None - Haut-Mbomou
+HM - Haut-Mbomou
 
-None - Haute-Kotto
+HK - Haute-Kotto
 
-None - Kémo
+KG - Kémo
 
-None - Lobaye
+LB - Lobaye
 
-None - Mambéré-Kadéï
+HS - Mambéré-Kadéï
 
-None - Mbomou
+MB - Mbomou
 
-None - Nana-Grébizi
+KB - Nana-Grébizi
 
-None - Nana-Mambéré
+NM - Nana-Mambéré
 
-None - Ombella-M'Poko
+MP - Ombella-M'Poko
 
-None - Ouaka
+UK - Ouaka
 
-None - Ouham
+AC - Ouham
 
-None - Ouham-Pendé
+OP - Ouham-Pendé
 
-None - Sangha-Mbaéré
+SE - Sangha-Mbaéré
 
-None - Vakaga
+VK - Vakaga
 
 </details>
 
 
 <details>
 <summary>Chad (0/23)</summary>
-None - Bahr el Gazel
+BG - Bahr el Gazel
 
-None - Batha
+BA - Batha
 
-None - Borkou
+BO - Borkou
 
-None - Chari-Baguirmi
+CB - Chari-Baguirmi
 
-None - Ennedi-Est
+EE - Ennedi-Est
 
-None - Ennedi-Ouest
+EO - Ennedi-Ouest
 
-None - Guéra
+GR - Guéra
 
-None - Hadjer-Lamis
+HL - Hadjer-Lamis
 
-None - Kanem
+KA - Kanem
 
-None - Lac
+LC - Lac
 
-None - Logone Occidental
+LO - Logone Occidental
 
-None - Logone Oriental
+LR - Logone Oriental
 
-None - Mandoul
+MA - Mandoul
 
-None - Mayo-Kebbi Est
+ME - Mayo-Kebbi Est
 
-None - Mayo-Kebbi Ouest
+MO - Mayo-Kebbi Ouest
 
-None - Moyen-Chari
+MC - Moyen-Chari
 
-None - N'Djamena
+ND - N'Djamena
 
-None - Ouaddaï
+OD - Ouaddaï
 
-None - Salamat
+SA - Salamat
 
-None - Sila
+SI - Sila
 
-None - Tandjilé
+TA - Tandjilé
 
-None - Tibesti
+TI - Tibesti
 
-None - Wadi Fira
+WF - Wadi Fira
 
 </details>
 
 
 <details>
 <summary>Chile ✔️ (16/16)</summary>
-None - Aisén del General Carlos Ibañez del Campo
+<img src='out/CL/AI.png' width='32'/> AI - Aisén del General Carlos Ibañez del Campo ✔️
 
-None - Antofagasta
+<img src='out/CL/AN.png' width='32'/> AN - Antofagasta ✔️
 
-None - Arica y Parinacota
+<img src='out/CL/AP.png' width='32'/> AP - Arica y Parinacota ✔️
 
-None - Atacama
+<img src='out/CL/AT.png' width='32'/> AT - Atacama ✔️
 
-None - Biobío
+<img src='out/CL/BI.png' width='32'/> BI - Biobío ✔️
 
-None - Coquimbo
+<img src='out/CL/CO.png' width='32'/> CO - Coquimbo ✔️
 
-None - La Araucanía
+<img src='out/CL/AR.png' width='32'/> AR - La Araucanía ✔️
 
-None - Libertador General Bernardo O'Higgins
+<img src='out/CL/LI.png' width='32'/> LI - Libertador General Bernardo O'Higgins ✔️
 
-None - Los Lagos
+<img src='out/CL/LL.png' width='32'/> LL - Los Lagos ✔️
 
-None - Los Ríos
+<img src='out/CL/LR.png' width='32'/> LR - Los Ríos ✔️
 
-None - Magallanes y de la Antártica Chilena
+<img src='out/CL/MA.png' width='32'/> MA - Magallanes y de la Antártica Chilena ✔️
 
-None - Maule
+<img src='out/CL/ML.png' width='32'/> ML - Maule ✔️
 
-None - Ñuble
+<img src='out/CL/NB.png' width='32'/> NB - Ñuble ✔️
 
-None - Región Metropolitana de Santiago
+<img src='out/CL/RM.png' width='32'/> RM - Región Metropolitana de Santiago ✔️
 
-None - Tarapacá
+<img src='out/CL/TA.png' width='32'/> TA - Tarapacá ✔️
 
-None - Valparaíso
+<img src='out/CL/VS.png' width='32'/> VS - Valparaíso ✔️
 
 </details>
 
 
 <details>
 <summary>China (31/34)</summary>
-None - Anhui
+<img src='out/CN/AH.png' width='32'/> AH - Anhui ✔️
 
-None - Beijing
+<img src='out/CN/BJ.png' width='32'/> BJ - Beijing ✔️
 
-None - Chongqing
+<img src='out/CN/CQ.png' width='32'/> CQ - Chongqing ✔️
 
-None - Fujian
+<img src='out/CN/FJ.png' width='32'/> FJ - Fujian ✔️
 
-None - Gansu
+<img src='out/CN/GS.png' width='32'/> GS - Gansu ✔️
 
-None - Guangdong
+<img src='out/CN/GD.png' width='32'/> GD - Guangdong ✔️
 
-None - Guangxi Zhuang
+GX - Guangxi Zhuang
 
-None - Guizhou
+<img src='out/CN/GZ.png' width='32'/> GZ - Guizhou ✔️
 
-None - Hainan
+<img src='out/CN/HI.png' width='32'/> HI - Hainan ✔️
 
-None - Hebei
+<img src='out/CN/HE.png' width='32'/> HE - Hebei ✔️
 
-None - Heilongjiang
+<img src='out/CN/HL.png' width='32'/> HL - Heilongjiang ✔️
 
-None - Henan
+<img src='out/CN/HA.png' width='32'/> HA - Henan ✔️
 
-None - Hong Kong SAR
+<img src='out/CN/HK.png' width='32'/> HK - Hong Kong SAR ✔️
 
-None - Hubei
+<img src='out/CN/HB.png' width='32'/> HB - Hubei ✔️
 
-None - Hunan
+<img src='out/CN/HN.png' width='32'/> HN - Hunan ✔️
 
-None - Inner Mongolia
+<img src='out/CN/NM.png' width='32'/> NM - Inner Mongolia ✔️
 
-None - Jiangsu
+<img src='out/CN/JS.png' width='32'/> JS - Jiangsu ✔️
 
-None - Jiangxi
+<img src='out/CN/JX.png' width='32'/> JX - Jiangxi ✔️
 
-None - Jilin
+<img src='out/CN/JL.png' width='32'/> JL - Jilin ✔️
 
-None - Liaoning
+<img src='out/CN/LN.png' width='32'/> LN - Liaoning ✔️
 
-None - Macau SAR
+<img src='out/CN/MO.png' width='32'/> MO - Macau SAR ✔️
 
-None - Ningxia Huizu
+NX - Ningxia Huizu
 
-None - Qinghai
+<img src='out/CN/QH.png' width='32'/> QH - Qinghai ✔️
 
-None - Shaanxi
+<img src='out/CN/SN.png' width='32'/> SN - Shaanxi ✔️
 
-None - Shandong
+<img src='out/CN/SD.png' width='32'/> SD - Shandong ✔️
 
-None - Shanghai
+<img src='out/CN/SH.png' width='32'/> SH - Shanghai ✔️
 
-None - Shanxi
+<img src='out/CN/SX.png' width='32'/> SX - Shanxi ✔️
 
-None - Sichuan
+<img src='out/CN/SC.png' width='32'/> SC - Sichuan ✔️
 
-None - Taiwan
+<img src='out/CN/TW.png' width='32'/> TW - Taiwan ✔️
 
-None - Tianjin
+<img src='out/CN/TJ.png' width='32'/> TJ - Tianjin ✔️
 
-None - Xinjiang
+<img src='out/CN/XJ.png' width='32'/> XJ - Xinjiang ✔️
 
-None - Xizang
+XZ - Xizang
 
-None - Yunnan
+<img src='out/CN/YN.png' width='32'/> YN - Yunnan ✔️
 
-None - Zhejiang
+<img src='out/CN/ZJ.png' width='32'/> ZJ - Zhejiang ✔️
 
 </details>
 
 
 <details>
 <summary>Colombia ✔️ (33/33)</summary>
-None - Amazonas
+<img src='out/CO/AMA.png' width='32'/> AMA - Amazonas ✔️
 
-None - Antioquia
+<img src='out/CO/ANT.png' width='32'/> ANT - Antioquia ✔️
 
-None - Arauca
+<img src='out/CO/ARA.png' width='32'/> ARA - Arauca ✔️
 
-None - Atlántico
+<img src='out/CO/ATL.png' width='32'/> ATL - Atlántico ✔️
 
-None - Bogotá D.C.
+<img src='out/CO/DC.png' width='32'/> DC - Bogotá D.C. ✔️
 
-None - Bolívar
+<img src='out/CO/BOL.png' width='32'/> BOL - Bolívar ✔️
 
-None - Boyacá
+<img src='out/CO/BOY.png' width='32'/> BOY - Boyacá ✔️
 
-None - Caldas
+<img src='out/CO/CAL.png' width='32'/> CAL - Caldas ✔️
 
-None - Caquetá
+<img src='out/CO/CAQ.png' width='32'/> CAQ - Caquetá ✔️
 
-None - Casanare
+<img src='out/CO/CAS.png' width='32'/> CAS - Casanare ✔️
 
-None - Cauca
+<img src='out/CO/CAU.png' width='32'/> CAU - Cauca ✔️
 
-None - Cesar
+<img src='out/CO/CES.png' width='32'/> CES - Cesar ✔️
 
-None - Chocó
+<img src='out/CO/CHO.png' width='32'/> CHO - Chocó ✔️
 
-None - Córdoba
+<img src='out/CO/COR.png' width='32'/> COR - Córdoba ✔️
 
-None - Cundinamarca
+<img src='out/CO/CUN.png' width='32'/> CUN - Cundinamarca ✔️
 
-None - Guainía
+<img src='out/CO/GUA.png' width='32'/> GUA - Guainía ✔️
 
-None - Guaviare
+<img src='out/CO/GUV.png' width='32'/> GUV - Guaviare ✔️
 
-None - Huila
+<img src='out/CO/HUI.png' width='32'/> HUI - Huila ✔️
 
-None - La Guajira
+<img src='out/CO/LAG.png' width='32'/> LAG - La Guajira ✔️
 
-None - Magdalena
+<img src='out/CO/MAG.png' width='32'/> MAG - Magdalena ✔️
 
-None - Meta
+<img src='out/CO/MET.png' width='32'/> MET - Meta ✔️
 
-None - Nariño
+<img src='out/CO/NAR.png' width='32'/> NAR - Nariño ✔️
 
-None - Norte de Santander
+<img src='out/CO/NSA.png' width='32'/> NSA - Norte de Santander ✔️
 
-None - Putumayo
+<img src='out/CO/PUT.png' width='32'/> PUT - Putumayo ✔️
 
-None - Quindío
+<img src='out/CO/QUI.png' width='32'/> QUI - Quindío ✔️
 
-None - Risaralda
+<img src='out/CO/RIS.png' width='32'/> RIS - Risaralda ✔️
 
-None - San Andrés, Providencia y Santa Catalina
+<img src='out/CO/SAP.png' width='32'/> SAP - San Andrés, Providencia y Santa Catalina ✔️
 
-None - Santander
+<img src='out/CO/SAN.png' width='32'/> SAN - Santander ✔️
 
-None - Sucre
+<img src='out/CO/SUC.png' width='32'/> SUC - Sucre ✔️
 
-None - Tolima
+<img src='out/CO/TOL.png' width='32'/> TOL - Tolima ✔️
 
-None - Valle del Cauca
+<img src='out/CO/VAC.png' width='32'/> VAC - Valle del Cauca ✔️
 
-None - Vaupés
+<img src='out/CO/VAU.png' width='32'/> VAU - Vaupés ✔️
 
-None - Vichada
+<img src='out/CO/VID.png' width='32'/> VID - Vichada ✔️
 
 </details>
 
 
 <details>
 <summary>Comoros ✔️ (3/3)</summary>
-None - Anjouan
+<img src='out/KM/A.png' width='32'/> A - Anjouan ✔️
 
-None - Grande Comore
+<img src='out/KM/G.png' width='32'/> G - Grande Comore ✔️
 
-None - Mohéli
+<img src='out/KM/M.png' width='32'/> M - Mohéli ✔️
 
 </details>
 
 
 <details>
 <summary>Congo (1/12)</summary>
-None - Bouenza
+11 - Bouenza
 
-None - Brazzaville
+<img src='out/CG/BZV.png' width='32'/> BZV - Brazzaville ✔️
 
-None - Cuvette
+8 - Cuvette
 
-None - Cuvette-Ouest
+15 - Cuvette-Ouest
 
-None - Kouilou
+5 - Kouilou
 
-None - Lékoumou
+2 - Lékoumou
 
-None - Likouala
+7 - Likouala
 
-None - Niari
+9 - Niari
 
-None - Plateaux
+14 - Plateaux
 
-None - Pointe-Noire
+16 - Pointe-Noire
 
-None - Pool
+12 - Pool
 
-None - Sangha
+13 - Sangha
 
 </details>
 
 
 <details>
 <summary>Costa Rica ✔️ (7/7)</summary>
-None - Alajuela
+<img src='out/CR/A.png' width='32'/> A - Alajuela ✔️
 
-None - Cartago
+<img src='out/CR/C.png' width='32'/> C - Cartago ✔️
 
-None - Guanacaste
+<img src='out/CR/G.png' width='32'/> G - Guanacaste ✔️
 
-None - Heredia
+<img src='out/CR/H.png' width='32'/> H - Heredia ✔️
 
-None - Limón
+<img src='out/CR/L.png' width='32'/> L - Limón ✔️
 
-None - Puntarenas
+<img src='out/CR/P.png' width='32'/> P - Puntarenas ✔️
 
-None - San José
+<img src='out/CR/SJ.png' width='32'/> SJ - San José ✔️
 
 </details>
 
 
 <details>
 <summary>Cote D'Ivoire (Ivory Coast) (0/26)</summary>
-None - Abidjan
+AB - Abidjan
 
-None - Agnéby
+16 - Agnéby
 
-None - Bafing
+17 - Bafing
 
-None - Bas-Sassandra
+BS - Bas-Sassandra
 
-None - Comoé
+CM - Comoé
 
-None - Denguélé
+DN - Denguélé
 
-None - Dix-Huit Montagnes
+06 - Dix-Huit Montagnes
 
-None - Fromager
+18 - Fromager
 
-None - Gôh-Djiboua
+GD - Gôh-Djiboua
 
-None - Haut-Sassandra
+02 - Haut-Sassandra
 
-None - Lacs
+LC - Lacs
 
-None - Lagunes
+LG - Lagunes
 
-None - Marahoué
+12 - Marahoué
 
-None - Montagnes
+MG - Montagnes
 
-None - Moyen-Cavally
+19 - Moyen-Cavally
 
-None - Moyen-Comoé
+05 - Moyen-Comoé
 
-None - N'zi-Comoé
+11 - N'zi-Comoé
 
-None - Sassandra-Marahoué
+SM - Sassandra-Marahoué
 
-None - Savanes
+03 - Savanes
 
-None - Sud-Bandama
+15 - Sud-Bandama
 
-None - Sud-Comoé
+13 - Sud-Comoé
 
-None - Vallée du Bandama
+VB - Vallée du Bandama
 
-None - Woroba
+WR - Woroba
 
-None - Worodougou
+14 - Worodougou
 
-None - Yamoussoukro
+YM - Yamoussoukro
 
-None - Zanzan
+ZZ - Zanzan
 
 </details>
 
 
 <details>
 <summary>Croatia (19/21)</summary>
-None - Bjelovar-Bilogora
+<img src='out/HR/07.png' width='32'/> 07 - Bjelovar-Bilogora ✔️
 
-None - Brod-Posavina
+<img src='out/HR/12.png' width='32'/> 12 - Brod-Posavina ✔️
 
-None - Dubrovnik-Neretva
+<img src='out/HR/19.png' width='32'/> 19 - Dubrovnik-Neretva ✔️
 
-None - Istria
+<img src='out/HR/18.png' width='32'/> 18 - Istria ✔️
 
-None - Karlovac
+04 - Karlovac
 
-None - Koprivnica-Križevci
+<img src='out/HR/06.png' width='32'/> 06 - Koprivnica-Križevci ✔️
 
-None - Krapina-Zagorje
+<img src='out/HR/02.png' width='32'/> 02 - Krapina-Zagorje ✔️
 
-None - Lika-Senj
+<img src='out/HR/09.png' width='32'/> 09 - Lika-Senj ✔️
 
-None - Međimurje
+<img src='out/HR/20.png' width='32'/> 20 - Međimurje ✔️
 
-None - Osijek-Baranja
+<img src='out/HR/14.png' width='32'/> 14 - Osijek-Baranja ✔️
 
-None - Požega-Slavonia
+<img src='out/HR/11.png' width='32'/> 11 - Požega-Slavonia ✔️
 
-None - Primorje-Gorski Kotar
+<img src='out/HR/08.png' width='32'/> 08 - Primorje-Gorski Kotar ✔️
 
-None - Šibenik-Knin
+<img src='out/HR/15.png' width='32'/> 15 - Šibenik-Knin ✔️
 
-None - Sisak-Moslavina
+<img src='out/HR/03.png' width='32'/> 03 - Sisak-Moslavina ✔️
 
-None - Split-Dalmatia
+<img src='out/HR/17.png' width='32'/> 17 - Split-Dalmatia ✔️
 
-None - Varaždin
+<img src='out/HR/05.png' width='32'/> 05 - Varaždin ✔️
 
-None - Virovitica-Podravina
+<img src='out/HR/10.png' width='32'/> 10 - Virovitica-Podravina ✔️
 
-None - Vukovar-Syrmia
+16 - Vukovar-Syrmia
 
-None - Zadar
+<img src='out/HR/13.png' width='32'/> 13 - Zadar ✔️
 
-None - Zagreb
+<img src='out/HR/01.png' width='32'/> 01 - Zagreb ✔️
 
-None - Zagreb
+<img src='out/HR/21.png' width='32'/> 21 - Zagreb ✔️
 
 </details>
 
 
 <details>
 <summary>Cuba (10/16)</summary>
-None - Artemisa
+15 - Artemisa
 
-None - Camagüey
+<img src='out/CU/09.png' width='32'/> 09 - Camagüey ✔️
 
-None - Ciego de Ávila
+<img src='out/CU/08.png' width='32'/> 08 - Ciego de Ávila ✔️
 
-None - Cienfuegos
+<img src='out/CU/06.png' width='32'/> 06 - Cienfuegos ✔️
 
-None - Granma
+<img src='out/CU/12.png' width='32'/> 12 - Granma ✔️
 
-None - Guantánamo
+14 - Guantánamo
 
-None - Havana
+<img src='out/CU/03.png' width='32'/> 03 - Havana ✔️
 
-None - Holguín
+<img src='out/CU/11.png' width='32'/> 11 - Holguín ✔️
 
-None - Isla de la Juventud
+<img src='out/CU/99.png' width='32'/> 99 - Isla de la Juventud ✔️
 
-None - Las Tunas
+<img src='out/CU/10.png' width='32'/> 10 - Las Tunas ✔️
 
-None - Matanzas
+04 - Matanzas
 
-None - Mayabeque
+<img src='out/CU/16.png' width='32'/> 16 - Mayabeque ✔️
 
-None - Pinar del Río
+01 - Pinar del Río
 
-None - Sancti Spíritus
+07 - Sancti Spíritus
 
-None - Santiago de Cuba
+<img src='out/CU/13.png' width='32'/> 13 - Santiago de Cuba ✔️
 
-None - Villa Clara
+05 - Villa Clara
 
 </details>
 
 
 <details>
 <summary>Cyprus (1/6)</summary>
-None - Famagusta (Mağusa)
+04 - Famagusta (Mağusa)
 
-None - Kyrenia (Keryneia)
+06 - Kyrenia (Keryneia)
 
-None - Larnaca (Larnaka)
+03 - Larnaca (Larnaka)
 
-None - Limassol (Leymasun)
+02 - Limassol (Leymasun)
 
-None - Nicosia (Lefkoşa)
+<img src='out/CY/01.png' width='32'/> 01 - Nicosia (Lefkoşa) ✔️
 
-None - Paphos (Pafos)
+05 - Paphos (Pafos)
 
 </details>
 
 
 <details>
 <summary>Czech Republic (87/90)</summary>
-None - Benešov
+<img src='out/CZ/201.png' width='32'/> 201 - Benešov ✔️
 
-None - Beroun
+<img src='out/CZ/202.png' width='32'/> 202 - Beroun ✔️
 
-None - Blansko
+<img src='out/CZ/641.png' width='32'/> 641 - Blansko ✔️
 
-None - Břeclav
+<img src='out/CZ/644.png' width='32'/> 644 - Břeclav ✔️
 
-None - Brno-město
+642 - Brno-město
 
-None - Brno-venkov
+<img src='out/CZ/643.png' width='32'/> 643 - Brno-venkov ✔️
 
-None - Bruntál
+<img src='out/CZ/801.png' width='32'/> 801 - Bruntál ✔️
 
-None - Česká Lípa
+<img src='out/CZ/511.png' width='32'/> 511 - Česká Lípa ✔️
 
-None - České Budějovice
+<img src='out/CZ/311.png' width='32'/> 311 - České Budějovice ✔️
 
-None - Český Krumlov
+<img src='out/CZ/312.png' width='32'/> 312 - Český Krumlov ✔️
 
-None - Cheb
+<img src='out/CZ/411.png' width='32'/> 411 - Cheb ✔️
 
-None - Chomutov
+<img src='out/CZ/422.png' width='32'/> 422 - Chomutov ✔️
 
-None - Chrudim
+<img src='out/CZ/531.png' width='32'/> 531 - Chrudim ✔️
 
-None - Děčín
+<img src='out/CZ/421.png' width='32'/> 421 - Děčín ✔️
 
-None - Domažlice
+<img src='out/CZ/321.png' width='32'/> 321 - Domažlice ✔️
 
-None - Frýdek-Místek
+<img src='out/CZ/802.png' width='32'/> 802 - Frýdek-Místek ✔️
 
-None - Havlíčkův Brod
+<img src='out/CZ/631.png' width='32'/> 631 - Havlíčkův Brod ✔️
 
-None - Hodonín
+<img src='out/CZ/645.png' width='32'/> 645 - Hodonín ✔️
 
-None - Hradec Králové
+<img src='out/CZ/521.png' width='32'/> 521 - Hradec Králové ✔️
 
-None - Jablonec nad Nisou
+<img src='out/CZ/512.png' width='32'/> 512 - Jablonec nad Nisou ✔️
 
-None - Jeseník
+<img src='out/CZ/711.png' width='32'/> 711 - Jeseník ✔️
 
-None - Jičín
+<img src='out/CZ/522.png' width='32'/> 522 - Jičín ✔️
 
-None - Jihlava
+<img src='out/CZ/632.png' width='32'/> 632 - Jihlava ✔️
 
-None - Jihočeský kraj
+<img src='out/CZ/31.png' width='32'/> 31 - Jihočeský kraj ✔️
 
-None - Jihomoravský kraj
+<img src='out/CZ/64.png' width='32'/> 64 - Jihomoravský kraj ✔️
 
-None - Jindřichův Hradec
+<img src='out/CZ/313.png' width='32'/> 313 - Jindřichův Hradec ✔️
 
-None - Karlovarský kraj
+<img src='out/CZ/41.png' width='32'/> 41 - Karlovarský kraj ✔️
 
-None - Karlovy Vary
+<img src='out/CZ/412.png' width='32'/> 412 - Karlovy Vary ✔️
 
-None - Karviná
+<img src='out/CZ/803.png' width='32'/> 803 - Karviná ✔️
 
-None - Kladno
+<img src='out/CZ/203.png' width='32'/> 203 - Kladno ✔️
 
-None - Klatovy
+<img src='out/CZ/322.png' width='32'/> 322 - Klatovy ✔️
 
-None - Kolín
+<img src='out/CZ/204.png' width='32'/> 204 - Kolín ✔️
 
-None - Kraj Vysočina
+<img src='out/CZ/63.png' width='32'/> 63 - Kraj Vysočina ✔️
 
-None - Královéhradecký kraj
+<img src='out/CZ/52.png' width='32'/> 52 - Královéhradecký kraj ✔️
 
-None - Kroměříž
+<img src='out/CZ/721.png' width='32'/> 721 - Kroměříž ✔️
 
-None - Kutná Hora
+<img src='out/CZ/205.png' width='32'/> 205 - Kutná Hora ✔️
 
-None - Liberec
+<img src='out/CZ/513.png' width='32'/> 513 - Liberec ✔️
 
-None - Liberecký kraj
+<img src='out/CZ/51.png' width='32'/> 51 - Liberecký kraj ✔️
 
-None - Litoměřice
+<img src='out/CZ/423.png' width='32'/> 423 - Litoměřice ✔️
 
-None - Louny
+<img src='out/CZ/424.png' width='32'/> 424 - Louny ✔️
 
-None - Mělník
+<img src='out/CZ/206.png' width='32'/> 206 - Mělník ✔️
 
-None - Mladá Boleslav
+<img src='out/CZ/207.png' width='32'/> 207 - Mladá Boleslav ✔️
 
-None - Moravskoslezský kraj
+<img src='out/CZ/80.png' width='32'/> 80 - Moravskoslezský kraj ✔️
 
-None - Most
+<img src='out/CZ/425.png' width='32'/> 425 - Most ✔️
 
-None - Náchod
+<img src='out/CZ/523.png' width='32'/> 523 - Náchod ✔️
 
-None - Nový Jičín
+<img src='out/CZ/804.png' width='32'/> 804 - Nový Jičín ✔️
 
-None - Nymburk
+<img src='out/CZ/208.png' width='32'/> 208 - Nymburk ✔️
 
-None - Olomouc
+<img src='out/CZ/712.png' width='32'/> 712 - Olomouc ✔️
 
-None - Olomoucký kraj
+<img src='out/CZ/71.png' width='32'/> 71 - Olomoucký kraj ✔️
 
-None - Opava
+<img src='out/CZ/805.png' width='32'/> 805 - Opava ✔️
 
-None - Ostrava-město
+806 - Ostrava-město
 
-None - Pardubice
+<img src='out/CZ/532.png' width='32'/> 532 - Pardubice ✔️
 
-None - Pardubický kraj
+<img src='out/CZ/53.png' width='32'/> 53 - Pardubický kraj ✔️
 
-None - Pelhřimov
+<img src='out/CZ/633.png' width='32'/> 633 - Pelhřimov ✔️
 
-None - Písek
+<img src='out/CZ/314.png' width='32'/> 314 - Písek ✔️
 
-None - Plzeň-jih
+<img src='out/CZ/324.png' width='32'/> 324 - Plzeň-jih ✔️
 
-None - Plzeň-město
+323 - Plzeň-město
 
-None - Plzeň-sever
+<img src='out/CZ/325.png' width='32'/> 325 - Plzeň-sever ✔️
 
-None - Plzeňský kraj
+<img src='out/CZ/32.png' width='32'/> 32 - Plzeňský kraj ✔️
 
-None - Prachatice
+<img src='out/CZ/315.png' width='32'/> 315 - Prachatice ✔️
 
-None - Praha-východ
+<img src='out/CZ/209.png' width='32'/> 209 - Praha-východ ✔️
 
-None - Praha-západ
+<img src='out/CZ/20A.png' width='32'/> 20A - Praha-západ ✔️
 
-None - Praha, Hlavní město
+<img src='out/CZ/10.png' width='32'/> 10 - Praha, Hlavní město ✔️
 
-None - Přerov
+<img src='out/CZ/714.png' width='32'/> 714 - Přerov ✔️
 
-None - Příbram
+<img src='out/CZ/20B.png' width='32'/> 20B - Příbram ✔️
 
-None - Prostějov
+<img src='out/CZ/713.png' width='32'/> 713 - Prostějov ✔️
 
-None - Rakovník
+<img src='out/CZ/20C.png' width='32'/> 20C - Rakovník ✔️
 
-None - Rokycany
+<img src='out/CZ/326.png' width='32'/> 326 - Rokycany ✔️
 
-None - Rychnov nad Kněžnou
+<img src='out/CZ/524.png' width='32'/> 524 - Rychnov nad Kněžnou ✔️
 
-None - Semily
+<img src='out/CZ/514.png' width='32'/> 514 - Semily ✔️
 
-None - Sokolov
+<img src='out/CZ/413.png' width='32'/> 413 - Sokolov ✔️
 
-None - Strakonice
+<img src='out/CZ/316.png' width='32'/> 316 - Strakonice ✔️
 
-None - Středočeský kraj
+<img src='out/CZ/20.png' width='32'/> 20 - Středočeský kraj ✔️
 
-None - Šumperk
+<img src='out/CZ/715.png' width='32'/> 715 - Šumperk ✔️
 
-None - Svitavy
+<img src='out/CZ/533.png' width='32'/> 533 - Svitavy ✔️
 
-None - Tábor
+<img src='out/CZ/317.png' width='32'/> 317 - Tábor ✔️
 
-None - Tachov
+<img src='out/CZ/327.png' width='32'/> 327 - Tachov ✔️
 
-None - Teplice
+<img src='out/CZ/426.png' width='32'/> 426 - Teplice ✔️
 
-None - Třebíč
+<img src='out/CZ/634.png' width='32'/> 634 - Třebíč ✔️
 
-None - Trutnov
+<img src='out/CZ/525.png' width='32'/> 525 - Trutnov ✔️
 
-None - Uherské Hradiště
+<img src='out/CZ/722.png' width='32'/> 722 - Uherské Hradiště ✔️
 
-None - Ústecký kraj
+<img src='out/CZ/42.png' width='32'/> 42 - Ústecký kraj ✔️
 
-None - Ústí nad Labem
+<img src='out/CZ/427.png' width='32'/> 427 - Ústí nad Labem ✔️
 
-None - Ústí nad Orlicí
+<img src='out/CZ/534.png' width='32'/> 534 - Ústí nad Orlicí ✔️
 
-None - Vsetín
+<img src='out/CZ/723.png' width='32'/> 723 - Vsetín ✔️
 
-None - Vyškov
+<img src='out/CZ/646.png' width='32'/> 646 - Vyškov ✔️
 
-None - Žďár nad Sázavou
+<img src='out/CZ/635.png' width='32'/> 635 - Žďár nad Sázavou ✔️
 
-None - Zlín
+<img src='out/CZ/724.png' width='32'/> 724 - Zlín ✔️
 
-None - Zlínský kraj
+<img src='out/CZ/72.png' width='32'/> 72 - Zlínský kraj ✔️
 
-None - Znojmo
+<img src='out/CZ/647.png' width='32'/> 647 - Znojmo ✔️
 
 </details>
 
 
 <details>
 <summary>Democratic Republic of the Congo (0/26)</summary>
-None - Bas-Uélé
+BU - Bas-Uélé
 
-None - Équateur
+EQ - Équateur
 
-None - Haut-Katanga
+HK - Haut-Katanga
 
-None - Haut-Lomami
+HL - Haut-Lomami
 
-None - Haut-Uélé
+HU - Haut-Uélé
 
-None - Ituri
+IT - Ituri
 
-None - Kasaï
+KS - Kasaï
 
-None - Kasaï Central
+KC - Kasaï Central
 
-None - Kasaï Oriental
+KE - Kasaï Oriental
 
-None - Kinshasa
+KN - Kinshasa
 
-None - Kongo Central
+BC - Kongo Central
 
-None - Kwango
+KG - Kwango
 
-None - Kwilu
+KL - Kwilu
 
-None - Lomami
+LO - Lomami
 
-None - Lualaba
+LU - Lualaba
 
-None - Mai-Ndombe
+MN - Mai-Ndombe
 
-None - Maniema
+MA - Maniema
 
-None - Mongala
+MO - Mongala
 
-None - Nord-Kivu
+NK - Nord-Kivu
 
-None - Nord-Ubangi
+NU - Nord-Ubangi
 
-None - Sankuru
+SA - Sankuru
 
-None - Sud-Kivu
+SK - Sud-Kivu
 
-None - Sud-Ubangi
+SU - Sud-Ubangi
 
-None - Tanganyika
+TA - Tanganyika
 
-None - Tshopo
+TO - Tshopo
 
-None - Tshuapa
+TU - Tshuapa
 
 </details>
 
 
 <details>
 <summary>Denmark (4/5)</summary>
-None - Central Denmark
+<img src='out/DK/82.png' width='32'/> 82 - Central Denmark ✔️
 
-None - Denmark
+<img src='out/DK/84.png' width='32'/> 84 - Denmark ✔️
 
-None - North Denmark
+81 - North Denmark
 
-None - Southern Denmark
+<img src='out/DK/83.png' width='32'/> 83 - Southern Denmark ✔️
 
-None - Zealand
+<img src='out/DK/85.png' width='32'/> 85 - Zealand ✔️
 
 </details>
 
 
 <details>
 <summary>Djibouti (0/6)</summary>
-None - Ali Sabieh
+AS - Ali Sabieh
 
-None - Arta
+AR - Arta
 
-None - Dikhil
+DI - Dikhil
 
-None - Djibouti
+DJ - Djibouti
 
-None - Obock
+OB - Obock
 
-None - Tadjourah
+TA - Tadjourah
 
 </details>
 
 
 <details>
 <summary>Dominica (0/10)</summary>
-None - Saint Andrew
+02 - Saint Andrew
 
-None - Saint David
+03 - Saint David
 
-None - Saint George
+04 - Saint George
 
-None - Saint John
+05 - Saint John
 
-None - Saint Joseph
+06 - Saint Joseph
 
-None - Saint Luke
+07 - Saint Luke
 
-None - Saint Mark
+08 - Saint Mark
 
-None - Saint Patrick
+09 - Saint Patrick
 
-None - Saint Paul
+10 - Saint Paul
 
-None - Saint Peter
+11 - Saint Peter
 
 </details>
 
 
 <details>
 <summary>Dominican Republic ✔️ (31/31)</summary>
-None - Azua
+<img src='out/DO/02.png' width='32'/> 02 - Azua ✔️
 
-None - Baoruco
+<img src='out/DO/03.png' width='32'/> 03 - Baoruco ✔️
 
-None - Barahona
+<img src='out/DO/04.png' width='32'/> 04 - Barahona ✔️
 
-None - Dajabón
+<img src='out/DO/05.png' width='32'/> 05 - Dajabón ✔️
 
-None - Distrito Nacional
+<img src='out/DO/01.png' width='32'/> 01 - Distrito Nacional ✔️
 
-None - Duarte
+<img src='out/DO/06.png' width='32'/> 06 - Duarte ✔️
 
-None - El Seibo
+<img src='out/DO/08.png' width='32'/> 08 - El Seibo ✔️
 
-None - Espaillat
+<img src='out/DO/09.png' width='32'/> 09 - Espaillat ✔️
 
-None - Hato Mayor
+<img src='out/DO/30.png' width='32'/> 30 - Hato Mayor ✔️
 
-None - Hermanas Mirabal
+<img src='out/DO/19.png' width='32'/> 19 - Hermanas Mirabal ✔️
 
-None - Independencia
+<img src='out/DO/10.png' width='32'/> 10 - Independencia ✔️
 
-None - La Altagracia
+<img src='out/DO/11.png' width='32'/> 11 - La Altagracia ✔️
 
-None - La Romana
+<img src='out/DO/12.png' width='32'/> 12 - La Romana ✔️
 
-None - La Vega
+<img src='out/DO/13.png' width='32'/> 13 - La Vega ✔️
 
-None - María Trinidad Sánchez
+<img src='out/DO/14.png' width='32'/> 14 - María Trinidad Sánchez ✔️
 
-None - Monseñor Nouel
+<img src='out/DO/28.png' width='32'/> 28 - Monseñor Nouel ✔️
 
-None - Monte Cristi
+<img src='out/DO/15.png' width='32'/> 15 - Monte Cristi ✔️
 
-None - Monte Plata
+<img src='out/DO/29.png' width='32'/> 29 - Monte Plata ✔️
 
-None - Pedernales
+<img src='out/DO/16.png' width='32'/> 16 - Pedernales ✔️
 
-None - Peravia
+<img src='out/DO/17.png' width='32'/> 17 - Peravia ✔️
 
-None - Puerto Plata
+<img src='out/DO/18.png' width='32'/> 18 - Puerto Plata ✔️
 
-None - Samaná
+<img src='out/DO/20.png' width='32'/> 20 - Samaná ✔️
 
-None - San Cristóbal
+<img src='out/DO/21.png' width='32'/> 21 - San Cristóbal ✔️
 
-None - San José de Ocoa
+<img src='out/DO/31.png' width='32'/> 31 - San José de Ocoa ✔️
 
-None - San Juan
+<img src='out/DO/22.png' width='32'/> 22 - San Juan ✔️
 
-None - San Pedro de Macorís
+<img src='out/DO/23.png' width='32'/> 23 - San Pedro de Macorís ✔️
 
-None - Sánchez Ramírez
+<img src='out/DO/24.png' width='32'/> 24 - Sánchez Ramírez ✔️
 
-None - Santiago
+<img src='out/DO/25.png' width='32'/> 25 - Santiago ✔️
 
-None - Santiago Rodríguez
+<img src='out/DO/26.png' width='32'/> 26 - Santiago Rodríguez ✔️
 
-None - Santo Domingo
+<img src='out/DO/32.png' width='32'/> 32 - Santo Domingo ✔️
 
-None - Valverde
+<img src='out/DO/27.png' width='32'/> 27 - Valverde ✔️
 
 </details>
 
 
 <details>
 <summary>Ecuador ✔️ (24/24)</summary>
-None - Azuay
+<img src='out/EC/A.png' width='32'/> A - Azuay ✔️
 
-None - Bolívar
+<img src='out/EC/B.png' width='32'/> B - Bolívar ✔️
 
-None - Cañar
+<img src='out/EC/F.png' width='32'/> F - Cañar ✔️
 
-None - Carchi
+<img src='out/EC/C.png' width='32'/> C - Carchi ✔️
 
-None - Chimborazo
+<img src='out/EC/H.png' width='32'/> H - Chimborazo ✔️
 
-None - Cotopaxi
+<img src='out/EC/X.png' width='32'/> X - Cotopaxi ✔️
 
-None - El Oro
+<img src='out/EC/O.png' width='32'/> O - El Oro ✔️
 
-None - Esmeraldas
+<img src='out/EC/E.png' width='32'/> E - Esmeraldas ✔️
 
-None - Galápagos
+<img src='out/EC/W.png' width='32'/> W - Galápagos ✔️
 
-None - Guayas
+<img src='out/EC/G.png' width='32'/> G - Guayas ✔️
 
-None - Imbabura
+<img src='out/EC/I.png' width='32'/> I - Imbabura ✔️
 
-None - Loja
+<img src='out/EC/L.png' width='32'/> L - Loja ✔️
 
-None - Los Ríos
+<img src='out/EC/R.png' width='32'/> R - Los Ríos ✔️
 
-None - Manabí
+<img src='out/EC/M.png' width='32'/> M - Manabí ✔️
 
-None - Morona-Santiago
+<img src='out/EC/S.png' width='32'/> S - Morona-Santiago ✔️
 
-None - Napo
+<img src='out/EC/N.png' width='32'/> N - Napo ✔️
 
-None - Orellana
+<img src='out/EC/D.png' width='32'/> D - Orellana ✔️
 
-None - Pastaza
+<img src='out/EC/Y.png' width='32'/> Y - Pastaza ✔️
 
-None - Pichincha
+<img src='out/EC/P.png' width='32'/> P - Pichincha ✔️
 
-None - Santa Elena
+<img src='out/EC/SE.png' width='32'/> SE - Santa Elena ✔️
 
-None - Santo Domingo de los Tsáchilas
+<img src='out/EC/SD.png' width='32'/> SD - Santo Domingo de los Tsáchilas ✔️
 
-None - Sucumbíos
+<img src='out/EC/U.png' width='32'/> U - Sucumbíos ✔️
 
-None - Tungurahua
+<img src='out/EC/T.png' width='32'/> T - Tungurahua ✔️
 
-None - Zamora Chinchipe
+<img src='out/EC/Z.png' width='32'/> Z - Zamora Chinchipe ✔️
 
 </details>
 
 
 <details>
 <summary>Egypt ✔️ (27/27)</summary>
-None - Alexandria
+<img src='out/EG/ALX.png' width='32'/> ALX - Alexandria ✔️
 
-None - Aswan
+<img src='out/EG/ASN.png' width='32'/> ASN - Aswan ✔️
 
-None - Asyut
+<img src='out/EG/AST.png' width='32'/> AST - Asyut ✔️
 
-None - Beheira
+<img src='out/EG/BH.png' width='32'/> BH - Beheira ✔️
 
-None - Beni Suef
+<img src='out/EG/BNS.png' width='32'/> BNS - Beni Suef ✔️
 
-None - Cairo
+<img src='out/EG/C.png' width='32'/> C - Cairo ✔️
 
-None - Dakahlia
+<img src='out/EG/DK.png' width='32'/> DK - Dakahlia ✔️
 
-None - Damietta
+<img src='out/EG/DT.png' width='32'/> DT - Damietta ✔️
 
-None - Faiyum
+<img src='out/EG/FYM.png' width='32'/> FYM - Faiyum ✔️
 
-None - Gharbia
+<img src='out/EG/GH.png' width='32'/> GH - Gharbia ✔️
 
-None - Giza
+<img src='out/EG/GZ.png' width='32'/> GZ - Giza ✔️
 
-None - Ismailia
+<img src='out/EG/IS.png' width='32'/> IS - Ismailia ✔️
 
-None - Kafr El-Sheikh
+<img src='out/EG/KFS.png' width='32'/> KFS - Kafr El-Sheikh ✔️
 
-None - Luxor
+<img src='out/EG/LX.png' width='32'/> LX - Luxor ✔️
 
-None - Matrouh
+<img src='out/EG/MT.png' width='32'/> MT - Matrouh ✔️
 
-None - Minya
+<img src='out/EG/MN.png' width='32'/> MN - Minya ✔️
 
-None - Monufia
+<img src='out/EG/MNF.png' width='32'/> MNF - Monufia ✔️
 
-None - New Valley
+<img src='out/EG/WAD.png' width='32'/> WAD - New Valley ✔️
 
-None - North Sinai
+<img src='out/EG/SIN.png' width='32'/> SIN - North Sinai ✔️
 
-None - Port Said
+<img src='out/EG/PTS.png' width='32'/> PTS - Port Said ✔️
 
-None - Qalyubia
+<img src='out/EG/KB.png' width='32'/> KB - Qalyubia ✔️
 
-None - Qena
+<img src='out/EG/KN.png' width='32'/> KN - Qena ✔️
 
-None - Red Sea
+<img src='out/EG/BA.png' width='32'/> BA - Red Sea ✔️
 
-None - Sharqia
+<img src='out/EG/SHR.png' width='32'/> SHR - Sharqia ✔️
 
-None - Sohag
+<img src='out/EG/SHG.png' width='32'/> SHG - Sohag ✔️
 
-None - South Sinai
+<img src='out/EG/JS.png' width='32'/> JS - South Sinai ✔️
 
-None - Suez
+<img src='out/EG/SUZ.png' width='32'/> SUZ - Suez ✔️
 
 </details>
 
 
 <details>
 <summary>El Salvador ✔️ (14/14)</summary>
-None - Ahuachapán
+<img src='out/SV/AH.png' width='32'/> AH - Ahuachapán ✔️
 
-None - Cabañas
+<img src='out/SV/CA.png' width='32'/> CA - Cabañas ✔️
 
-None - Chalatenango
+<img src='out/SV/CH.png' width='32'/> CH - Chalatenango ✔️
 
-None - Cuscatlán
+<img src='out/SV/CU.png' width='32'/> CU - Cuscatlán ✔️
 
-None - La Libertad
+<img src='out/SV/LI.png' width='32'/> LI - La Libertad ✔️
 
-None - La Paz
+<img src='out/SV/PA.png' width='32'/> PA - La Paz ✔️
 
-None - La Unión 
+<img src='out/SV/UN.png' width='32'/> UN - La Unión  ✔️
 
-None - Morazán
+<img src='out/SV/MO.png' width='32'/> MO - Morazán ✔️
 
-None - San Miguel
+<img src='out/SV/SM.png' width='32'/> SM - San Miguel ✔️
 
-None - San Salvador
+<img src='out/SV/SS.png' width='32'/> SS - San Salvador ✔️
 
-None - San Vicente
+<img src='out/SV/SV.png' width='32'/> SV - San Vicente ✔️
 
-None - Santa Ana
+<img src='out/SV/SA.png' width='32'/> SA - Santa Ana ✔️
 
-None - Sonsonate
+<img src='out/SV/SO.png' width='32'/> SO - Sonsonate ✔️
 
-None - Usulután
+<img src='out/SV/US.png' width='32'/> US - Usulután ✔️
 
 </details>
 
 
 <details>
 <summary>Equatorial Guinea ✔️ (9/9)</summary>
-None - Annobón
+<img src='out/GQ/AN.png' width='32'/> AN - Annobón ✔️
 
-None - Bioko Norte
+<img src='out/GQ/BN.png' width='32'/> BN - Bioko Norte ✔️
 
-None - Bioko Sur
+<img src='out/GQ/BS.png' width='32'/> BS - Bioko Sur ✔️
 
-None - Centro Sur
+<img src='out/GQ/CS.png' width='32'/> CS - Centro Sur ✔️
 
-None - Insular
+<img src='out/GQ/I.png' width='32'/> I - Insular ✔️
 
-None - Kié-Ntem
+<img src='out/GQ/KN.png' width='32'/> KN - Kié-Ntem ✔️
 
-None - Litoral
+<img src='out/GQ/LI.png' width='32'/> LI - Litoral ✔️
 
-None - Río Muni
+<img src='out/GQ/C.png' width='32'/> C - Río Muni ✔️
 
-None - Wele-Nzas
+<img src='out/GQ/WN.png' width='32'/> WN - Wele-Nzas ✔️
 
 </details>
 
 
 <details>
 <summary>Eritrea (0/6)</summary>
-None - Anseba
+AN - Anseba
 
-None - Debub
+DU - Debub
 
-None - Gash-Barka
+GB - Gash-Barka
 
-None - Maekel
+MA - Maekel
 
-None - Northern Red Sea
+SK - Northern Red Sea
 
-None - Southern Red Sea
+DK - Southern Red Sea
 
 </details>
 
 
 <details>
 <summary>Estonia ✔️ (15/15)</summary>
-None - Harju
+<img src='out/EE/37.png' width='32'/> 37 - Harju ✔️
 
-None - Hiiu
+<img src='out/EE/39.png' width='32'/> 39 - Hiiu ✔️
 
-None - Ida-Viru
+<img src='out/EE/44.png' width='32'/> 44 - Ida-Viru ✔️
 
-None - Järva
+<img src='out/EE/51.png' width='32'/> 51 - Järva ✔️
 
-None - Jõgeva
+<img src='out/EE/49.png' width='32'/> 49 - Jõgeva ✔️
 
-None - Lääne
+<img src='out/EE/57.png' width='32'/> 57 - Lääne ✔️
 
-None - Lääne-Viru
+<img src='out/EE/59.png' width='32'/> 59 - Lääne-Viru ✔️
 
-None - Pärnu
+<img src='out/EE/67.png' width='32'/> 67 - Pärnu ✔️
 
-None - Põlva
+<img src='out/EE/65.png' width='32'/> 65 - Põlva ✔️
 
-None - Rapla
+<img src='out/EE/70.png' width='32'/> 70 - Rapla ✔️
 
-None - Saare
+<img src='out/EE/74.png' width='32'/> 74 - Saare ✔️
 
-None - Tartu
+<img src='out/EE/78.png' width='32'/> 78 - Tartu ✔️
 
-None - Valga
+<img src='out/EE/82.png' width='32'/> 82 - Valga ✔️
 
-None - Viljandi
+<img src='out/EE/84.png' width='32'/> 84 - Viljandi ✔️
 
-None - Võru
+<img src='out/EE/86.png' width='32'/> 86 - Võru ✔️
 
 </details>
 
 
 <details>
 <summary>Eswatini (1/4)</summary>
-None - Hhohho
+HH - Hhohho
 
-None - Lubombo
+LU - Lubombo
 
-None - Manzini
+<img src='out/SZ/MA.png' width='32'/> MA - Manzini ✔️
 
-None - Shiselweni
+SH - Shiselweni
 
 </details>
 
 
 <details>
 <summary>Ethiopia ✔️ (11/11)</summary>
-None - Addis Ababa
+<img src='out/ET/AA.png' width='32'/> AA - Addis Ababa ✔️
 
-None - Afar
+<img src='out/ET/AF.png' width='32'/> AF - Afar ✔️
 
-None - Amhara
+<img src='out/ET/AM.png' width='32'/> AM - Amhara ✔️
 
-None - Benishangul-Gumuz
+<img src='out/ET/BE.png' width='32'/> BE - Benishangul-Gumuz ✔️
 
-None - Dire Dawa
+<img src='out/ET/DD.png' width='32'/> DD - Dire Dawa ✔️
 
-None - Gambela
+<img src='out/ET/GA.png' width='32'/> GA - Gambela ✔️
 
-None - Harari
+<img src='out/ET/HA.png' width='32'/> HA - Harari ✔️
 
-None - Oromia
+<img src='out/ET/OR.png' width='32'/> OR - Oromia ✔️
 
-None - Somali
+<img src='out/ET/SO.png' width='32'/> SO - Somali ✔️
 
-None - Southern Nations, Nationalities, and Peoples'
+<img src='out/ET/SN.png' width='32'/> SN - Southern Nations, Nationalities, and Peoples' ✔️
 
-None - Tigray
+<img src='out/ET/TI.png' width='32'/> TI - Tigray ✔️
 
 </details>
 
 
 <details>
 <summary>Faroe Islands (0/6)</summary>
-None - Eysturoy
+EY - Eysturoy
 
-None - Northern Isles
+NO - Northern Isles
 
-None - Sandoy
+SA - Sandoy
 
-None - Streymoy
+ST - Streymoy
 
-None - Suðuroy
+SU - Suðuroy
 
-None - Vágar
+VA - Vágar
 
 </details>
 
 
 <details>
 <summary>Fiji Islands (0/19)</summary>
-None - Ba
+01 - Ba
 
-None - Bua
+02 - Bua
 
-None - Cakaudrove
+03 - Cakaudrove
 
-None - Central
+C - Central
 
-None - Eastern
+E - Eastern
 
-None - Kadavu
+04 - Kadavu
 
-None - Lau
+05 - Lau
 
-None - Lomaiviti
+06 - Lomaiviti
 
-None - Macuata
+07 - Macuata
 
-None - Nadroga-Navosa
+08 - Nadroga-Navosa
 
-None - Naitasiri
+09 - Naitasiri
 
-None - Namosi
+10 - Namosi
 
-None - Northern
+N - Northern
 
-None - Ra
+11 - Ra
 
-None - Rewa
+12 - Rewa
 
-None - Rotuma
+R - Rotuma
 
-None - Serua
+13 - Serua
 
-None - Tailevu
+14 - Tailevu
 
-None - Western
+W - Western
 
 </details>
 
 
 <details>
 <summary>Finland (14/19)</summary>
-None - Åland Islands
+<img src='out/FI/01.png' width='32'/> 01 - Åland Islands ✔️
 
-None - Central Finland
+<img src='out/FI/08.png' width='32'/> 08 - Central Finland ✔️
 
-None - Central Ostrobothnia
+<img src='out/FI/07.png' width='32'/> 07 - Central Ostrobothnia ✔️
 
-None - Finland Proper
+<img src='out/FI/19.png' width='32'/> 19 - Finland Proper ✔️
 
-None - Kainuu
+<img src='out/FI/05.png' width='32'/> 05 - Kainuu ✔️
 
-None - Kymenlaakso
+09 - Kymenlaakso
 
-None - Lapland
+<img src='out/FI/10.png' width='32'/> 10 - Lapland ✔️
 
-None - North Karelia
+<img src='out/FI/13.png' width='32'/> 13 - North Karelia ✔️
 
-None - Northern Ostrobothnia
+14 - Northern Ostrobothnia
 
-None - Northern Savonia
+<img src='out/FI/15.png' width='32'/> 15 - Northern Savonia ✔️
 
-None - Ostrobothnia
+<img src='out/FI/12.png' width='32'/> 12 - Ostrobothnia ✔️
 
-None - Päijänne Tavastia
+<img src='out/FI/16.png' width='32'/> 16 - Päijänne Tavastia ✔️
 
-None - Pirkanmaa
+11 - Pirkanmaa
 
-None - Satakunta
+<img src='out/FI/17.png' width='32'/> 17 - Satakunta ✔️
 
-None - South Karelia
+02 - South Karelia
 
-None - Southern Ostrobothnia
+<img src='out/FI/03.png' width='32'/> 03 - Southern Ostrobothnia ✔️
 
-None - Southern Savonia
+04 - Southern Savonia
 
-None - Tavastia Proper
+<img src='out/FI/06.png' width='32'/> 06 - Tavastia Proper ✔️
 
-None - Uusimaa
+<img src='out/FI/18.png' width='32'/> 18 - Uusimaa ✔️
 
 </details>
 
 
 <details>
 <summary>France (139/123)</summary>
-None - Ain
+<img src='out/FR/01.png' width='32'/> 01 - Ain ✔️
 
-None - Aisne
+<img src='out/FR/02.png' width='32'/> 02 - Aisne ✔️
 
-None - Allier
+<img src='out/FR/03.png' width='32'/> 03 - Allier ✔️
 
-None - Alpes-de-Haute-Provence
+<img src='out/FR/04.png' width='32'/> 04 - Alpes-de-Haute-Provence ✔️
 
-None - Alpes-Maritimes
+<img src='out/FR/06.png' width='32'/> 06 - Alpes-Maritimes ✔️
 
-None - Alsace
+<img src='out/FR/6AE.png' width='32'/> 6AE - Alsace ✔️
 
-None - Ardèche
+<img src='out/FR/07.png' width='32'/> 07 - Ardèche ✔️
 
-None - Ardennes
+<img src='out/FR/08.png' width='32'/> 08 - Ardennes ✔️
 
-None - Ariège
+<img src='out/FR/09.png' width='32'/> 09 - Ariège ✔️
 
-None - Aube
+<img src='out/FR/10.png' width='32'/> 10 - Aube ✔️
 
-None - Aude
+<img src='out/FR/11.png' width='32'/> 11 - Aude ✔️
 
-None - Auvergne-Rhône-Alpes
+<img src='out/FR/ARA.png' width='32'/> ARA - Auvergne-Rhône-Alpes ✔️
 
-None - Aveyron
+<img src='out/FR/12.png' width='32'/> 12 - Aveyron ✔️
 
-None - Bas-Rhin
+<img src='out/FR/67.png' width='32'/> 67 - Bas-Rhin ✔️
 
-None - Bouches-du-Rhône
+<img src='out/FR/13.png' width='32'/> 13 - Bouches-du-Rhône ✔️
 
-None - Bourgogne-Franche-Comté
+<img src='out/FR/BFC.png' width='32'/> BFC - Bourgogne-Franche-Comté ✔️
 
-None - Bretagne
+<img src='out/FR/BRE.png' width='32'/> BRE - Bretagne ✔️
 
-None - Calvados
+<img src='out/FR/14.png' width='32'/> 14 - Calvados ✔️
 
-None - Cantal
+<img src='out/FR/15.png' width='32'/> 15 - Cantal ✔️
 
-None - Centre-Val de Loire
+<img src='out/FR/CVL.png' width='32'/> CVL - Centre-Val de Loire ✔️
 
-None - Charente
+<img src='out/FR/16.png' width='32'/> 16 - Charente ✔️
 
-None - Charente-Maritime
+<img src='out/FR/17.png' width='32'/> 17 - Charente-Maritime ✔️
 
-None - Cher
+<img src='out/FR/18.png' width='32'/> 18 - Cher ✔️
 
-None - Clipperton
+<img src='out/FR/CP.png' width='32'/> CP - Clipperton ✔️
 
-None - Corrèze
+<img src='out/FR/19.png' width='32'/> 19 - Corrèze ✔️
 
-None - Corse
+<img src='out/FR/20R.png' width='32'/> 20R - Corse ✔️
 
-None - Corse-du-Sud
+<img src='out/FR/2A.png' width='32'/> 2A - Corse-du-Sud ✔️
 
-None - Côte-d'Or
+<img src='out/FR/21.png' width='32'/> 21 - Côte-d'Or ✔️
 
-None - Côtes-d'Armor
+<img src='out/FR/22.png' width='32'/> 22 - Côtes-d'Armor ✔️
 
-None - Creuse
+<img src='out/FR/23.png' width='32'/> 23 - Creuse ✔️
 
-None - Deux-Sèvres
+<img src='out/FR/79.png' width='32'/> 79 - Deux-Sèvres ✔️
 
-None - Dordogne
+<img src='out/FR/24.png' width='32'/> 24 - Dordogne ✔️
 
-None - Doubs
+<img src='out/FR/25.png' width='32'/> 25 - Doubs ✔️
 
-None - Drôme
+<img src='out/FR/26.png' width='32'/> 26 - Drôme ✔️
 
-None - Essonne
+<img src='out/FR/91.png' width='32'/> 91 - Essonne ✔️
 
-None - Eure
+<img src='out/FR/27.png' width='32'/> 27 - Eure ✔️
 
-None - Eure-et-Loir
+<img src='out/FR/28.png' width='32'/> 28 - Eure-et-Loir ✔️
 
-None - Finistère
+<img src='out/FR/29.png' width='32'/> 29 - Finistère ✔️
 
-None - French Guiana
+<img src='out/FR/973.png' width='32'/> 973 - French Guiana ✔️
 
-None - French Polynesia
+<img src='out/FR/PF.png' width='32'/> PF - French Polynesia ✔️
 
-None - French Southern and Antarctic Lands
+<img src='out/FR/TF.png' width='32'/> TF - French Southern and Antarctic Lands ✔️
 
-None - Gard
+<img src='out/FR/30.png' width='32'/> 30 - Gard ✔️
 
-None - Gers
+<img src='out/FR/32.png' width='32'/> 32 - Gers ✔️
 
-None - Gironde
+<img src='out/FR/33.png' width='32'/> 33 - Gironde ✔️
 
-None - Grand-Est
+<img src='out/FR/GES.png' width='32'/> GES - Grand-Est ✔️
 
-None - Guadeloupe
+<img src='out/FR/971.png' width='32'/> 971 - Guadeloupe ✔️
 
-None - Haut-Rhin
+<img src='out/FR/68.png' width='32'/> 68 - Haut-Rhin ✔️
 
-None - Haute-Corse
+<img src='out/FR/2B.png' width='32'/> 2B - Haute-Corse ✔️
 
-None - Haute-Garonne
+<img src='out/FR/31.png' width='32'/> 31 - Haute-Garonne ✔️
 
-None - Haute-Loire
+<img src='out/FR/43.png' width='32'/> 43 - Haute-Loire ✔️
 
-None - Haute-Marne
+<img src='out/FR/52.png' width='32'/> 52 - Haute-Marne ✔️
 
-None - Haute-Saône
+<img src='out/FR/70.png' width='32'/> 70 - Haute-Saône ✔️
 
-None - Haute-Savoie
+<img src='out/FR/74.png' width='32'/> 74 - Haute-Savoie ✔️
 
-None - Haute-Vienne
+<img src='out/FR/87.png' width='32'/> 87 - Haute-Vienne ✔️
 
-None - Hautes-Alpes
+<img src='out/FR/05.png' width='32'/> 05 - Hautes-Alpes ✔️
 
-None - Hautes-Pyrénées
+<img src='out/FR/65.png' width='32'/> 65 - Hautes-Pyrénées ✔️
 
-None - Hauts-de-France
+<img src='out/FR/HDF.png' width='32'/> HDF - Hauts-de-France ✔️
 
-None - Hauts-de-Seine
+<img src='out/FR/92.png' width='32'/> 92 - Hauts-de-Seine ✔️
 
-None - Hérault
+<img src='out/FR/34.png' width='32'/> 34 - Hérault ✔️
 
-None - Île-de-France
+<img src='out/FR/IDF.png' width='32'/> IDF - Île-de-France ✔️
 
-None - Ille-et-Vilaine
+<img src='out/FR/35.png' width='32'/> 35 - Ille-et-Vilaine ✔️
 
-None - Indre
+<img src='out/FR/36.png' width='32'/> 36 - Indre ✔️
 
-None - Indre-et-Loire
+<img src='out/FR/37.png' width='32'/> 37 - Indre-et-Loire ✔️
 
-None - Isère
+<img src='out/FR/38.png' width='32'/> 38 - Isère ✔️
 
-None - Jura
+<img src='out/FR/39.png' width='32'/> 39 - Jura ✔️
 
-None - La Réunion
+<img src='out/FR/974.png' width='32'/> 974 - La Réunion ✔️
 
-None - Landes
+<img src='out/FR/40.png' width='32'/> 40 - Landes ✔️
 
-None - Loir-et-Cher
+<img src='out/FR/41.png' width='32'/> 41 - Loir-et-Cher ✔️
 
-None - Loire
+<img src='out/FR/42.png' width='32'/> 42 - Loire ✔️
 
-None - Loire-Atlantique
+<img src='out/FR/44.png' width='32'/> 44 - Loire-Atlantique ✔️
 
-None - Loiret
+<img src='out/FR/45.png' width='32'/> 45 - Loiret ✔️
 
-None - Lot
+<img src='out/FR/46.png' width='32'/> 46 - Lot ✔️
 
-None - Lot-et-Garonne
+<img src='out/FR/47.png' width='32'/> 47 - Lot-et-Garonne ✔️
 
-None - Lozère
+<img src='out/FR/48.png' width='32'/> 48 - Lozère ✔️
 
-None - Maine-et-Loire
+<img src='out/FR/49.png' width='32'/> 49 - Maine-et-Loire ✔️
 
-None - Manche
+<img src='out/FR/50.png' width='32'/> 50 - Manche ✔️
 
-None - Marne
+<img src='out/FR/51.png' width='32'/> 51 - Marne ✔️
 
-None - Martinique
+<img src='out/FR/972.png' width='32'/> 972 - Martinique ✔️
 
-None - Mayenne
+<img src='out/FR/53.png' width='32'/> 53 - Mayenne ✔️
 
-None - Mayotte
+<img src='out/FR/976.png' width='32'/> 976 - Mayotte ✔️
 
-None - Métropole de Lyon
+<img src='out/FR/69M.png' width='32'/> 69M - Métropole de Lyon ✔️
 
-None - Meurthe-et-Moselle
+<img src='out/FR/54.png' width='32'/> 54 - Meurthe-et-Moselle ✔️
 
-None - Meuse
+<img src='out/FR/55.png' width='32'/> 55 - Meuse ✔️
 
-None - Morbihan
+<img src='out/FR/56.png' width='32'/> 56 - Morbihan ✔️
 
-None - Moselle
+<img src='out/FR/57.png' width='32'/> 57 - Moselle ✔️
 
-None - Nièvre
+<img src='out/FR/58.png' width='32'/> 58 - Nièvre ✔️
 
-None - Nord
+<img src='out/FR/59.png' width='32'/> 59 - Nord ✔️
 
-None - Normandie
+<img src='out/FR/NOR.png' width='32'/> NOR - Normandie ✔️
 
-None - Nouvelle-Aquitaine
+<img src='out/FR/NAQ.png' width='32'/> NAQ - Nouvelle-Aquitaine ✔️
 
-None - Occitanie
+<img src='out/FR/OCC.png' width='32'/> OCC - Occitanie ✔️
 
-None - Oise
+<img src='out/FR/60.png' width='32'/> 60 - Oise ✔️
 
-None - Orne
+<img src='out/FR/61.png' width='32'/> 61 - Orne ✔️
 
-None - Paris
+<img src='out/FR/75C.png' width='32'/> 75C - Paris ✔️
 
-None - Pas-de-Calais
+<img src='out/FR/62.png' width='32'/> 62 - Pas-de-Calais ✔️
 
-None - Pays-de-la-Loire
+<img src='out/FR/PDL.png' width='32'/> PDL - Pays-de-la-Loire ✔️
 
-None - Provence-Alpes-Côte-d’Azur
+<img src='out/FR/PAC.png' width='32'/> PAC - Provence-Alpes-Côte-d’Azur ✔️
 
-None - Puy-de-Dôme
+<img src='out/FR/63.png' width='32'/> 63 - Puy-de-Dôme ✔️
 
-None - Pyrénées-Atlantiques
+<img src='out/FR/64.png' width='32'/> 64 - Pyrénées-Atlantiques ✔️
 
-None - Pyrénées-Orientales
+<img src='out/FR/66.png' width='32'/> 66 - Pyrénées-Orientales ✔️
 
-None - Rhône
+<img src='out/FR/69.png' width='32'/> 69 - Rhône ✔️
 
-None - Saint Pierre and Miquelon
+<img src='out/FR/PM.png' width='32'/> PM - Saint Pierre and Miquelon ✔️
 
-None - Saint-Barthélemy
+<img src='out/FR/BL.png' width='32'/> BL - Saint-Barthélemy ✔️
 
-None - Saint-Martin
+<img src='out/FR/MF.png' width='32'/> MF - Saint-Martin ✔️
 
-None - Saône-et-Loire
+<img src='out/FR/71.png' width='32'/> 71 - Saône-et-Loire ✔️
 
-None - Sarthe
+<img src='out/FR/72.png' width='32'/> 72 - Sarthe ✔️
 
-None - Savoie
+<img src='out/FR/73.png' width='32'/> 73 - Savoie ✔️
 
-None - Seine-et-Marne
+<img src='out/FR/77.png' width='32'/> 77 - Seine-et-Marne ✔️
 
-None - Seine-Maritime
+<img src='out/FR/76.png' width='32'/> 76 - Seine-Maritime ✔️
 
-None - Seine-Saint-Denis
+<img src='out/FR/93.png' width='32'/> 93 - Seine-Saint-Denis ✔️
 
-None - Somme
+<img src='out/FR/80.png' width='32'/> 80 - Somme ✔️
 
-None - Tarn
+<img src='out/FR/81.png' width='32'/> 81 - Tarn ✔️
 
-None - Tarn-et-Garonne
+<img src='out/FR/82.png' width='32'/> 82 - Tarn-et-Garonne ✔️
 
-None - Territoire de Belfort
+<img src='out/FR/90.png' width='32'/> 90 - Territoire de Belfort ✔️
 
-None - Val-d'Oise
+<img src='out/FR/95.png' width='32'/> 95 - Val-d'Oise ✔️
 
-None - Val-de-Marne
+<img src='out/FR/94.png' width='32'/> 94 - Val-de-Marne ✔️
 
-None - Var
+<img src='out/FR/83.png' width='32'/> 83 - Var ✔️
 
-None - Vaucluse
+<img src='out/FR/84.png' width='32'/> 84 - Vaucluse ✔️
 
-None - Vendée
+<img src='out/FR/85.png' width='32'/> 85 - Vendée ✔️
 
-None - Vienne
+<img src='out/FR/86.png' width='32'/> 86 - Vienne ✔️
 
-None - Vosges
+<img src='out/FR/88.png' width='32'/> 88 - Vosges ✔️
 
-None - Wallis and Futuna
+<img src='out/FR/WF.png' width='32'/> WF - Wallis and Futuna ✔️
 
-None - Yonne
+<img src='out/FR/89.png' width='32'/> 89 - Yonne ✔️
 
-None - Yvelines
+<img src='out/FR/78.png' width='32'/> 78 - Yvelines ✔️
 
 </details>
 
 
 <details>
 <summary>French Polynesia (3/5)</summary>
-None - Austral Islands
+<img src='out/PF/01.png' width='32'/> 01 - Austral Islands ✔️
 
-None - Leeward Islands
+<img src='out/PF/02.png' width='32'/> 02 - Leeward Islands ✔️
 
-None - Marquesas Islands
+<img src='out/PF/03.png' width='32'/> 03 - Marquesas Islands ✔️
 
-None - Tuamotu-Gambier
+04 - Tuamotu-Gambier
 
-None - Windward Islands
+05 - Windward Islands
 
 </details>
 
 
 <details>
 <summary>Gabon ✔️ (9/9)</summary>
-None - Estuaire
+<img src='out/GA/1.png' width='32'/> 1 - Estuaire ✔️
 
-None - Haut-Ogooué
+<img src='out/GA/2.png' width='32'/> 2 - Haut-Ogooué ✔️
 
-None - Moyen-Ogooué
+<img src='out/GA/3.png' width='32'/> 3 - Moyen-Ogooué ✔️
 
-None - Ngounié
+<img src='out/GA/4.png' width='32'/> 4 - Ngounié ✔️
 
-None - Nyanga
+<img src='out/GA/5.png' width='32'/> 5 - Nyanga ✔️
 
-None - Ogooué-Ivindo
+<img src='out/GA/6.png' width='32'/> 6 - Ogooué-Ivindo ✔️
 
-None - Ogooué-Lolo
+<img src='out/GA/7.png' width='32'/> 7 - Ogooué-Lolo ✔️
 
-None - Ogooué-Maritime
+<img src='out/GA/8.png' width='32'/> 8 - Ogooué-Maritime ✔️
 
-None - Woleu-Ntem
+<img src='out/GA/9.png' width='32'/> 9 - Woleu-Ntem ✔️
 
 </details>
 
 
 <details>
 <summary>Georgia (4/12)</summary>
-None - Abkhazia
+AB - Abkhazia
 
-None - Adjara
+<img src='out/GE/AJ.png' width='32'/> AJ - Adjara ✔️
 
-None - Guria
+GU - Guria
 
-None - Imereti
+<img src='out/GE/IM.png' width='32'/> IM - Imereti ✔️
 
-None - Kakheti
+KA - Kakheti
 
-None - Kvemo Kartli
+<img src='out/GE/KK.png' width='32'/> KK - Kvemo Kartli ✔️
 
-None - Mtskheta-Mtianeti
+MM - Mtskheta-Mtianeti
 
-None - Racha-Lechkhumi and Kvemo Svaneti
+RL - Racha-Lechkhumi and Kvemo Svaneti
 
-None - Samegrelo-Zemo Svaneti
+SZ - Samegrelo-Zemo Svaneti
 
-None - Samtskhe-Javakheti
+SJ - Samtskhe-Javakheti
 
-None - Shida Kartli
+SK - Shida Kartli
 
-None - Tbilisi
+<img src='out/GE/TB.png' width='32'/> TB - Tbilisi ✔️
 
 </details>
 
 
 <details>
 <summary>Germany ✔️ (16/16)</summary>
-None - Baden-Württemberg
+<img src='out/DE/BW.png' width='32'/> BW - Baden-Württemberg ✔️
 
-None - Bavaria
+<img src='out/DE/BY.png' width='32'/> BY - Bavaria ✔️
 
-None - Berlin
+<img src='out/DE/BE.png' width='32'/> BE - Berlin ✔️
 
-None - Brandenburg
+<img src='out/DE/BB.png' width='32'/> BB - Brandenburg ✔️
 
-None - Bremen
+<img src='out/DE/HB.png' width='32'/> HB - Bremen ✔️
 
-None - Hamburg
+<img src='out/DE/HH.png' width='32'/> HH - Hamburg ✔️
 
-None - Hessen
+<img src='out/DE/HE.png' width='32'/> HE - Hessen ✔️
 
-None - Lower Saxony
+<img src='out/DE/NI.png' width='32'/> NI - Lower Saxony ✔️
 
-None - Mecklenburg-Vorpommern
+<img src='out/DE/MV.png' width='32'/> MV - Mecklenburg-Vorpommern ✔️
 
-None - North Rhine-Westphalia
+<img src='out/DE/NW.png' width='32'/> NW - North Rhine-Westphalia ✔️
 
-None - Rhineland-Palatinate
+<img src='out/DE/RP.png' width='32'/> RP - Rhineland-Palatinate ✔️
 
-None - Saarland
+<img src='out/DE/SL.png' width='32'/> SL - Saarland ✔️
 
-None - Saxony
+<img src='out/DE/SN.png' width='32'/> SN - Saxony ✔️
 
-None - Saxony-Anhalt
+<img src='out/DE/ST.png' width='32'/> ST - Saxony-Anhalt ✔️
 
-None - Schleswig-Holstein
+<img src='out/DE/SH.png' width='32'/> SH - Schleswig-Holstein ✔️
 
-None - Thuringia
+<img src='out/DE/TH.png' width='32'/> TH - Thuringia ✔️
 
 </details>
 
 
 <details>
 <summary>Ghana (15/16)</summary>
-None - Ahafo
+<img src='out/GH/AF.png' width='32'/> AF - Ahafo ✔️
 
-None - Ashanti
+<img src='out/GH/AH.png' width='32'/> AH - Ashanti ✔️
 
-None - Bono
+<img src='out/GH/BO.png' width='32'/> BO - Bono ✔️
 
-None - Bono East
+<img src='out/GH/BE.png' width='32'/> BE - Bono East ✔️
 
-None - Central
+<img src='out/GH/CP.png' width='32'/> CP - Central ✔️
 
-None - Eastern
+<img src='out/GH/EP.png' width='32'/> EP - Eastern ✔️
 
-None - Greater Accra
+<img src='out/GH/AA.png' width='32'/> AA - Greater Accra ✔️
 
-None - North East
+<img src='out/GH/NE.png' width='32'/> NE - North East ✔️
 
-None - Northern
+<img src='out/GH/NP.png' width='32'/> NP - Northern ✔️
 
-None - Oti
+<img src='out/GH/OT.png' width='32'/> OT - Oti ✔️
 
-None - Savannah
+SV - Savannah
 
-None - Upper East
+<img src='out/GH/UE.png' width='32'/> UE - Upper East ✔️
 
-None - Upper West
+<img src='out/GH/UW.png' width='32'/> UW - Upper West ✔️
 
-None - Volta
+<img src='out/GH/TV.png' width='32'/> TV - Volta ✔️
 
-None - Western
+<img src='out/GH/WP.png' width='32'/> WP - Western ✔️
 
-None - Western North
+<img src='out/GH/WN.png' width='32'/> WN - Western North ✔️
 
 </details>
 
 
 <details>
 <summary>Greece (9/38)</summary>
-None - Achaea
+13 - Achaea
 
-None - Aetolia-Acarnania
+01 - Aetolia-Acarnania
 
-None - Arcadia
+12 - Arcadia
 
-None - Argolis
+11 - Argolis
 
-None - Attica
+<img src='out/GR/I.png' width='32'/> I - Attica ✔️
 
-None - Boeotia
+03 - Boeotia
 
-None - Central Greece
+<img src='out/GR/H.png' width='32'/> H - Central Greece ✔️
 
-None - Central Macedonia
+<img src='out/GR/B.png' width='32'/> B - Central Macedonia ✔️
 
-None - Chania
+94 - Chania
 
-None - Corfu
+<img src='out/GR/22.png' width='32'/> 22 - Corfu ✔️
 
-None - Corinthia
+15 - Corinthia
 
-None - Crete
+<img src='out/GR/M.png' width='32'/> M - Crete ✔️
 
-None - Drama
+52 - Drama
 
-None - East Attica
+A2 - East Attica
 
-None - East Macedonia and Thrace
+A - East Macedonia and Thrace
 
-None - Epirus
+<img src='out/GR/D.png' width='32'/> D - Epirus ✔️
 
-None - Euboea
+04 - Euboea
 
-None - Grevena
+51 - Grevena
 
-None - Imathia 
+53 - Imathia 
 
-None - Ioannina
+33 - Ioannina
 
-None - Ionian Islands
+<img src='out/GR/F.png' width='32'/> F - Ionian Islands ✔️
 
-None - Karditsa
+41 - Karditsa
 
-None - Kastoria
+56 - Kastoria
 
-None - Kefalonia
+23 - Kefalonia
 
-None - Kilkis
+57 - Kilkis
 
-None - Kozani
+58 - Kozani
 
-None - Laconia
+16 - Laconia
 
-None - Larissa
+42 - Larissa
 
-None - Lefkada
+24 - Lefkada
 
-None - Pella
+59 - Pella
 
-None - Peloponnese
+<img src='out/GR/J.png' width='32'/> J - Peloponnese ✔️
 
-None - Phthiotis
+06 - Phthiotis
 
-None - Preveza
+34 - Preveza
 
-None - Serres
+62 - Serres
 
-None - South Aegean
+<img src='out/GR/L.png' width='32'/> L - South Aegean ✔️
 
-None - Thessaloniki
+54 - Thessaloniki
 
-None - West Greece
+G - West Greece
 
-None - West Macedonia
+C - West Macedonia
 
 </details>
 
 
 <details>
 <summary>Greenland ✔️ (5/5)</summary>
-None - Avannaata
+<img src='out/GL/AV.png' width='32'/> AV - Avannaata ✔️
 
-None - Kujalleq
+<img src='out/GL/KU.png' width='32'/> KU - Kujalleq ✔️
 
-None - Qeqertalik
+<img src='out/GL/QT.png' width='32'/> QT - Qeqertalik ✔️
 
-None - Qeqqata
+<img src='out/GL/QE.png' width='32'/> QE - Qeqqata ✔️
 
-None - Sermersooq
+<img src='out/GL/SM.png' width='32'/> SM - Sermersooq ✔️
 
 </details>
 
 
 <details>
 <summary>Grenada (0/7)</summary>
-None - Carriacou
+10 - Carriacou
 
-None - Saint Andrew
+01 - Saint Andrew
 
-None - Saint David
+02 - Saint David
 
-None - Saint George
+03 - Saint George
 
-None - Saint John
+04 - Saint John
 
-None - Saint Mark
+05 - Saint Mark
 
-None - Saint Patrick
+06 - Saint Patrick
 
 </details>
 
 
 <details>
 <summary>Guadeloupe (0/2)</summary>
-None - Basse-Terre
+01 - Basse-Terre
 
-None - Pointe-à-Pitre
+02 - Pointe-à-Pitre
 
 </details>
 
 
 <details>
 <summary>Guam (4/19)</summary>
-None - Agana Heights
+01 - Agana Heights
 
-None - Asan-Maina
+02 - Asan-Maina
 
-None - Barrigada
+03 - Barrigada
 
-None - Chalan Pago-Ordot
+04 - Chalan Pago-Ordot
 
-None - Dededo
+05 - Dededo
 
-None - Hågat
+<img src='out/GU/06.png' width='32'/> 06 - Hågat ✔️
 
-None - Hagåtña
+12 - Hagåtña
 
-None - Inarajan (Inalåhan)
+08 - Inarajan (Inalåhan)
 
-None - Mangilao
+10 - Mangilao
 
-None - Merizo (Malesso)
+09 - Merizo (Malesso)
 
-None - Mongmong-Toto-Maite
+11 - Mongmong-Toto-Maite
 
-None - Piti
+<img src='out/GU/13.png' width='32'/> 13 - Piti ✔️
 
-None - Santa Rita (Sånta Rita-Sumai)
+14 - Santa Rita (Sånta Rita-Sumai)
 
-None - Sinajana
+15 - Sinajana
 
-None - Talofofo (Talo'fo'fo)
+16 - Talofofo (Talo'fo'fo)
 
-None - Tamuning
+17 - Tamuning
 
-None - Umatac (Humåtak)
+07 - Umatac (Humåtak)
 
-None - Yigo
+<img src='out/GU/18.png' width='32'/> 18 - Yigo ✔️
 
-None - Yona
+<img src='out/GU/19.png' width='32'/> 19 - Yona ✔️
 
 </details>
 
 
 <details>
 <summary>Guatemala (21/22)</summary>
-None - Alta Verapaz 
+16 - Alta Verapaz 
 
-None - Baja Verapaz 
+15 - Baja Verapaz 
 
-None - Chimaltenango 
+04 - Chimaltenango 
 
-None - Chiquimula 
+20 - Chiquimula 
 
-None - El Progreso 
+02 - El Progreso 
 
-None - Escuintla 
+05 - Escuintla 
 
-None - Guatemala 
+01 - Guatemala 
 
-None - Huehuetenango 
+13 - Huehuetenango 
 
-None - Izabal 
+18 - Izabal 
 
-None - Jalapa 
+21 - Jalapa 
 
-None - Jutiapa 
+22 - Jutiapa 
 
-None - Petén 
+17 - Petén 
 
-None - Quetzaltenango 
+09 - Quetzaltenango 
 
-None - Quiché 
+14 - Quiché 
 
-None - Retalhuleu 
+11 - Retalhuleu 
 
-None - Sacatepéquez 
+03 - Sacatepéquez 
 
-None - San Marcos 
+12 - San Marcos 
 
-None - Santa Rosa 
+06 - Santa Rosa 
 
-None - Sololá 
+07 - Sololá 
 
-None - Suchitepéquez 
+10 - Suchitepéquez 
 
-None - Totonicapán 
+08 - Totonicapán 
 
-None - Zacapa
+19 - Zacapa
 
 </details>
 
 
 <details>
 <summary>Guernsey (1/12)</summary>
-None - Alderney
+04 - Alderney
 
-None - Castel
+01 - Castel
 
-None - Forest
+02 - Forest
 
-None - Sark
+<img src='out/GG/07.png' width='32'/> 07 - Sark ✔️
 
-None - St Andrew
+03 - St Andrew
 
-None - St Martin
+05 - St Martin
 
-None - St Peter Port
+06 - St Peter Port
 
-None - St Pierre du Bois
+08 - St Pierre du Bois
 
-None - St Sampson
+09 - St Sampson
 
-None - St Saviour
+10 - St Saviour
 
-None - Torteval
+11 - Torteval
 
-None - Vale
+12 - Vale
 
 </details>
 
 
 <details>
 <summary>Guinea (0/41)</summary>
-None - Beyla
+BE - Beyla
 
-None - Boffa
+BF - Boffa
 
-None - Boké
+B - Boké
 
-None - Boké
+BK - Boké
 
-None - Conakry
+C - Conakry
 
-None - Coyah
+CO - Coyah
 
-None - Dabola
+DB - Dabola
 
-None - Dalaba
+DL - Dalaba
 
-None - Dinguiraye
+DI - Dinguiraye
 
-None - Dubréka
+DU - Dubréka
 
-None - Faranah
+F - Faranah
 
-None - Faranah
+FA - Faranah
 
-None - Forécariah
+FO - Forécariah
 
-None - Fria
+FR - Fria
 
-None - Gaoual
+GA - Gaoual
 
-None - Guéckédou
+GU - Guéckédou
 
-None - Kankan
+KA - Kankan
 
-None - Kankan
+K - Kankan
 
-None - Kérouané
+KE - Kérouané
 
-None - Kindia
+D - Kindia
 
-None - Kindia
+KD - Kindia
 
-None - Kissidougou
+KS - Kissidougou
 
-None - Koubia
+KB - Koubia
 
-None - Koundara
+KN - Koundara
 
-None - Kouroussa
+KO - Kouroussa
 
-None - Labé
+LA - Labé
 
-None - Labé
+L - Labé
 
-None - Lélouma
+LE - Lélouma
 
-None - Lola
+LO - Lola
 
-None - Macenta
+MC - Macenta
 
-None - Mali
+ML - Mali
 
-None - Mamou
+M - Mamou
 
-None - Mamou
+MM - Mamou
 
-None - Mandiana
+MD - Mandiana
 
-None - Nzérékoré
+N - Nzérékoré
 
-None - Nzérékoré
+NZ - Nzérékoré
 
-None - Pita
+PI - Pita
 
-None - Siguiri
+SI - Siguiri
 
-None - Télimélé
+TE - Télimélé
 
-None - Tougué
+TO - Tougué
 
-None - Yomou
+YO - Yomou
 
 </details>
 
 
 <details>
 <summary>Guinea-Bissau (8/11)</summary>
-None - Bafatá
+<img src='out/GW/BA.png' width='32'/> BA - Bafatá ✔️
 
-None - Biombo
+<img src='out/GW/BM.png' width='32'/> BM - Biombo ✔️
 
-None - Bolama
+<img src='out/GW/BL.png' width='32'/> BL - Bolama ✔️
 
-None - Cacheu
+<img src='out/GW/CA.png' width='32'/> CA - Cacheu ✔️
 
-None - Gabú
+<img src='out/GW/GA.png' width='32'/> GA - Gabú ✔️
 
-None - Leste
+L - Leste
 
-None - Norte
+N - Norte
 
-None - Oio
+<img src='out/GW/OI.png' width='32'/> OI - Oio ✔️
 
-None - Quinara
+<img src='out/GW/QU.png' width='32'/> QU - Quinara ✔️
 
-None - Sul
+S - Sul
 
-None - Tombali
+<img src='out/GW/TO.png' width='32'/> TO - Tombali ✔️
 
 </details>
 
 
 <details>
 <summary>Guyana (0/10)</summary>
-None - Barima-Waini
+BA - Barima-Waini
 
-None - Cuyuni-Mazaruni
+CU - Cuyuni-Mazaruni
 
-None - Demerara-Mahaica
+DE - Demerara-Mahaica
 
-None - East Berbice-Corentyne
+EB - East Berbice-Corentyne
 
-None - Essequibo Islands-West Demerara
+ES - Essequibo Islands-West Demerara
 
-None - Mahaica-Berbice
+MA - Mahaica-Berbice
 
-None - Pomeroon-Supenaam
+PM - Pomeroon-Supenaam
 
-None - Potaro-Siparuni
+PT - Potaro-Siparuni
 
-None - Upper Demerara-Berbice
+UD - Upper Demerara-Berbice
 
-None - Upper Takutu-Upper Essequibo
+UT - Upper Takutu-Upper Essequibo
 
 </details>
 
 
 <details>
 <summary>Haiti (0/10)</summary>
-None - Artibonite
+AR - Artibonite
 
-None - Centre
+CE - Centre
 
-None - Grand'Anse
+GA - Grand'Anse
 
-None - Nippes
+NI - Nippes
 
-None - Nord
+ND - Nord
 
-None - Nord-Est
+NE - Nord-Est
 
-None - Nord-Ouest
+NO - Nord-Ouest
 
-None - Ouest
+OU - Ouest
 
-None - Sud
+SD - Sud
 
-None - Sud-Est
+SE - Sud-Est
 
 </details>
 
 
 <details>
 <summary>Honduras ✔️ (18/18)</summary>
-None - Atlántida
+<img src='out/HN/AT.png' width='32'/> AT - Atlántida ✔️
 
-None - Bay Islands
+<img src='out/HN/IB.png' width='32'/> IB - Bay Islands ✔️
 
-None - Choluteca
+<img src='out/HN/CH.png' width='32'/> CH - Choluteca ✔️
 
-None - Colón
+<img src='out/HN/CL.png' width='32'/> CL - Colón ✔️
 
-None - Comayagua
+<img src='out/HN/CM.png' width='32'/> CM - Comayagua ✔️
 
-None - Copán
+<img src='out/HN/CP.png' width='32'/> CP - Copán ✔️
 
-None - Cortés
+<img src='out/HN/CR.png' width='32'/> CR - Cortés ✔️
 
-None - El Paraíso
+<img src='out/HN/EP.png' width='32'/> EP - El Paraíso ✔️
 
-None - Francisco Morazán
+<img src='out/HN/FM.png' width='32'/> FM - Francisco Morazán ✔️
 
-None - Gracias a Dios
+<img src='out/HN/GD.png' width='32'/> GD - Gracias a Dios ✔️
 
-None - Intibucá
+<img src='out/HN/IN.png' width='32'/> IN - Intibucá ✔️
 
-None - La Paz
+<img src='out/HN/LP.png' width='32'/> LP - La Paz ✔️
 
-None - Lempira
+<img src='out/HN/LE.png' width='32'/> LE - Lempira ✔️
 
-None - Ocotepeque
+<img src='out/HN/OC.png' width='32'/> OC - Ocotepeque ✔️
 
-None - Olancho
+<img src='out/HN/OL.png' width='32'/> OL - Olancho ✔️
 
-None - Santa Bárbara
+<img src='out/HN/SB.png' width='32'/> SB - Santa Bárbara ✔️
 
-None - Valle
+<img src='out/HN/VA.png' width='32'/> VA - Valle ✔️
 
-None - Yoro
+<img src='out/HN/YO.png' width='32'/> YO - Yoro ✔️
 
 </details>
 
 
 <details>
 <summary>Hong Kong S.A.R. (0/18)</summary>
-None - Central and Western
+HCW - Central and Western
 
-None - Eastern
+HEA - Eastern
 
-None - Islands
+NIS - Islands
 
-None - Kowloon City
+KKC - Kowloon City
 
-None - Kwai Tsing
+NKT - Kwai Tsing
 
-None - Kwun Tong
+KKT - Kwun Tong
 
-None - North
+NNO - North
 
-None - Sai Kung
+NSK - Sai Kung
 
-None - Sha Tin
+NST - Sha Tin
 
-None - Sham Shui Po
+KSS - Sham Shui Po
 
-None - Southern
+HSO - Southern
 
-None - Tai Po
+NTP - Tai Po
 
-None - Tsuen Wan
+NTW - Tsuen Wan
 
-None - Tuen Mun
+NTM - Tuen Mun
 
-None - Wan Chai
+HWC - Wan Chai
 
-None - Wong Tai Sin
+KWT - Wong Tai Sin
 
-None - Yau Tsim Mong
+KYT - Yau Tsim Mong
 
-None - Yuen Long
+NYL - Yuen Long
 
 </details>
 
 
 <details>
 <summary>Hungary ✔️ (43/43)</summary>
-None - Bács-Kiskun
+<img src='out/HU/BK.png' width='32'/> BK - Bács-Kiskun ✔️
 
-None - Baranya
+<img src='out/HU/BA.png' width='32'/> BA - Baranya ✔️
 
-None - Békés
+<img src='out/HU/BE.png' width='32'/> BE - Békés ✔️
 
-None - Békéscsaba
+<img src='out/HU/BC.png' width='32'/> BC - Békéscsaba ✔️
 
-None - Borsod-Abaúj-Zemplén
+<img src='out/HU/BZ.png' width='32'/> BZ - Borsod-Abaúj-Zemplén ✔️
 
-None - Budapest
+<img src='out/HU/BU.png' width='32'/> BU - Budapest ✔️
 
-None - Csongrád County
+<img src='out/HU/CS.png' width='32'/> CS - Csongrád County ✔️
 
-None - Debrecen
+<img src='out/HU/DE.png' width='32'/> DE - Debrecen ✔️
 
-None - Dunaújváros
+<img src='out/HU/DU.png' width='32'/> DU - Dunaújváros ✔️
 
-None - Eger
+<img src='out/HU/EG.png' width='32'/> EG - Eger ✔️
 
-None - Érd
+<img src='out/HU/ER.png' width='32'/> ER - Érd ✔️
 
-None - Fejér County
+<img src='out/HU/FE.png' width='32'/> FE - Fejér County ✔️
 
-None - Győr
+<img src='out/HU/GY.png' width='32'/> GY - Győr ✔️
 
-None - Győr-Moson-Sopron County
+<img src='out/HU/GS.png' width='32'/> GS - Győr-Moson-Sopron County ✔️
 
-None - Hajdú-Bihar County
+<img src='out/HU/HB.png' width='32'/> HB - Hajdú-Bihar County ✔️
 
-None - Heves County
+<img src='out/HU/HE.png' width='32'/> HE - Heves County ✔️
 
-None - Hódmezővásárhely
+<img src='out/HU/HV.png' width='32'/> HV - Hódmezővásárhely ✔️
 
-None - Jász-Nagykun-Szolnok County
+<img src='out/HU/JN.png' width='32'/> JN - Jász-Nagykun-Szolnok County ✔️
 
-None - Kaposvár
+<img src='out/HU/KV.png' width='32'/> KV - Kaposvár ✔️
 
-None - Kecskemét
+<img src='out/HU/KM.png' width='32'/> KM - Kecskemét ✔️
 
-None - Komárom-Esztergom
+<img src='out/HU/KE.png' width='32'/> KE - Komárom-Esztergom ✔️
 
-None - Miskolc
+<img src='out/HU/MI.png' width='32'/> MI - Miskolc ✔️
 
-None - Nagykanizsa
+<img src='out/HU/NK.png' width='32'/> NK - Nagykanizsa ✔️
 
-None - Nógrád County
+<img src='out/HU/NO.png' width='32'/> NO - Nógrád County ✔️
 
-None - Nyíregyháza
+<img src='out/HU/NY.png' width='32'/> NY - Nyíregyháza ✔️
 
-None - Pécs
+<img src='out/HU/PS.png' width='32'/> PS - Pécs ✔️
 
-None - Pest County
+<img src='out/HU/PE.png' width='32'/> PE - Pest County ✔️
 
-None - Salgótarján
+<img src='out/HU/ST.png' width='32'/> ST - Salgótarján ✔️
 
-None - Somogy County
+<img src='out/HU/SO.png' width='32'/> SO - Somogy County ✔️
 
-None - Sopron
+<img src='out/HU/SN.png' width='32'/> SN - Sopron ✔️
 
-None - Szabolcs-Szatmár-Bereg County
+<img src='out/HU/SZ.png' width='32'/> SZ - Szabolcs-Szatmár-Bereg County ✔️
 
-None - Szeged
+<img src='out/HU/SD.png' width='32'/> SD - Szeged ✔️
 
-None - Székesfehérvár
+<img src='out/HU/SF.png' width='32'/> SF - Székesfehérvár ✔️
 
-None - Szekszárd
+<img src='out/HU/SS.png' width='32'/> SS - Szekszárd ✔️
 
-None - Szolnok
+<img src='out/HU/SK.png' width='32'/> SK - Szolnok ✔️
 
-None - Szombathely
+<img src='out/HU/SH.png' width='32'/> SH - Szombathely ✔️
 
-None - Tatabánya
+<img src='out/HU/TB.png' width='32'/> TB - Tatabánya ✔️
 
-None - Tolna County
+<img src='out/HU/TO.png' width='32'/> TO - Tolna County ✔️
 
-None - Vas County
+<img src='out/HU/VA.png' width='32'/> VA - Vas County ✔️
 
-None - Veszprém
+<img src='out/HU/VM.png' width='32'/> VM - Veszprém ✔️
 
-None - Veszprém County
+<img src='out/HU/VE.png' width='32'/> VE - Veszprém County ✔️
 
-None - Zala County
+<img src='out/HU/ZA.png' width='32'/> ZA - Zala County ✔️
 
-None - Zalaegerszeg
+<img src='out/HU/ZE.png' width='32'/> ZE - Zalaegerszeg ✔️
 
 </details>
 
 
 <details>
 <summary>Iceland (0/8)</summary>
-None - Capital
+1 - Capital
 
-None - Eastern
+7 - Eastern
 
-None - Northeastern
+6 - Northeastern
 
-None - Northwestern
+5 - Northwestern
 
-None - Southern
+8 - Southern
 
-None - Southern Peninsula
+2 - Southern Peninsula
 
-None - Western
+3 - Western
 
-None - Westfjords
+4 - Westfjords
 
 </details>
 
 
 <details>
 <summary>India (37/36)</summary>
-None - Andaman and Nicobar Islands
+<img src='out/IN/AN.png' width='32'/> AN - Andaman and Nicobar Islands ✔️
 
-None - Andhra Pradesh
+<img src='out/IN/AP.png' width='32'/> AP - Andhra Pradesh ✔️
 
-None - Arunachal Pradesh
+<img src='out/IN/AR.png' width='32'/> AR - Arunachal Pradesh ✔️
 
-None - Assam
+<img src='out/IN/AS.png' width='32'/> AS - Assam ✔️
 
-None - Bihar
+<img src='out/IN/BR.png' width='32'/> BR - Bihar ✔️
 
-None - Chandigarh
+<img src='out/IN/CH.png' width='32'/> CH - Chandigarh ✔️
 
-None - Chhattisgarh
+<img src='out/IN/CT.png' width='32'/> CT - Chhattisgarh ✔️
 
-None - Dadra and Nagar Haveli and Daman and Diu
+<img src='out/IN/DH.png' width='32'/> DH - Dadra and Nagar Haveli and Daman and Diu ✔️
 
-None - Delhi
+<img src='out/IN/DL.png' width='32'/> DL - Delhi ✔️
 
-None - Goa
+<img src='out/IN/GA.png' width='32'/> GA - Goa ✔️
 
-None - Gujarat
+<img src='out/IN/GJ.png' width='32'/> GJ - Gujarat ✔️
 
-None - Haryana
+<img src='out/IN/HR.png' width='32'/> HR - Haryana ✔️
 
-None - Himachal Pradesh
+<img src='out/IN/HP.png' width='32'/> HP - Himachal Pradesh ✔️
 
-None - Jammu and Kashmir
+<img src='out/IN/JK.png' width='32'/> JK - Jammu and Kashmir ✔️
 
-None - Jharkhand
+<img src='out/IN/JH.png' width='32'/> JH - Jharkhand ✔️
 
-None - Karnataka
+<img src='out/IN/KA.png' width='32'/> KA - Karnataka ✔️
 
-None - Kerala
+<img src='out/IN/KL.png' width='32'/> KL - Kerala ✔️
 
-None - Ladakh
+<img src='out/IN/LA.png' width='32'/> LA - Ladakh ✔️
 
-None - Lakshadweep
+<img src='out/IN/LD.png' width='32'/> LD - Lakshadweep ✔️
 
-None - Madhya Pradesh
+<img src='out/IN/MP.png' width='32'/> MP - Madhya Pradesh ✔️
 
-None - Maharashtra
+<img src='out/IN/MH.png' width='32'/> MH - Maharashtra ✔️
 
-None - Manipur
+<img src='out/IN/MN.png' width='32'/> MN - Manipur ✔️
 
-None - Meghalaya
+<img src='out/IN/ML.png' width='32'/> ML - Meghalaya ✔️
 
-None - Mizoram
+<img src='out/IN/MZ.png' width='32'/> MZ - Mizoram ✔️
 
-None - Nagaland
+<img src='out/IN/NL.png' width='32'/> NL - Nagaland ✔️
 
-None - Odisha
+<img src='out/IN/OR.png' width='32'/> OR - Odisha ✔️
 
-None - Puducherry
+<img src='out/IN/PY.png' width='32'/> PY - Puducherry ✔️
 
-None - Punjab
+<img src='out/IN/PB.png' width='32'/> PB - Punjab ✔️
 
-None - Rajasthan
+<img src='out/IN/RJ.png' width='32'/> RJ - Rajasthan ✔️
 
-None - Sikkim
+<img src='out/IN/SK.png' width='32'/> SK - Sikkim ✔️
 
-None - Tamil Nadu
+<img src='out/IN/TN.png' width='32'/> TN - Tamil Nadu ✔️
 
-None - Telangana
+<img src='out/IN/TG.png' width='32'/> TG - Telangana ✔️
 
-None - Tripura
+<img src='out/IN/TR.png' width='32'/> TR - Tripura ✔️
 
-None - Uttar Pradesh
+<img src='out/IN/UP.png' width='32'/> UP - Uttar Pradesh ✔️
 
-None - Uttarakhand
+<img src='out/IN/UK.png' width='32'/> UK - Uttarakhand ✔️
 
-None - West Bengal
+<img src='out/IN/WB.png' width='32'/> WB - West Bengal ✔️
 
 </details>
 
 
 <details>
 <summary>Indonesia ✔️ (38/38)</summary>
-None - Aceh
+<img src='out/ID/AC.png' width='32'/> AC - Aceh ✔️
 
-None - Bali
+<img src='out/ID/BA.png' width='32'/> BA - Bali ✔️
 
-None - Banten
+<img src='out/ID/BT.png' width='32'/> BT - Banten ✔️
 
-None - Bengkulu
+<img src='out/ID/BE.png' width='32'/> BE - Bengkulu ✔️
 
-None - DI Yogyakarta
+<img src='out/ID/YO.png' width='32'/> YO - DI Yogyakarta ✔️
 
-None - DKI Jakarta
+<img src='out/ID/JK.png' width='32'/> JK - DKI Jakarta ✔️
 
-None - Gorontalo
+<img src='out/ID/GO.png' width='32'/> GO - Gorontalo ✔️
 
-None - Jambi
+<img src='out/ID/JA.png' width='32'/> JA - Jambi ✔️
 
-None - Jawa Barat
+<img src='out/ID/JB.png' width='32'/> JB - Jawa Barat ✔️
 
-None - Jawa Tengah
+<img src='out/ID/JT.png' width='32'/> JT - Jawa Tengah ✔️
 
-None - Jawa Timur
+<img src='out/ID/JI.png' width='32'/> JI - Jawa Timur ✔️
 
-None - Kalimantan Barat
+<img src='out/ID/KB.png' width='32'/> KB - Kalimantan Barat ✔️
 
-None - Kalimantan Selatan
+<img src='out/ID/KS.png' width='32'/> KS - Kalimantan Selatan ✔️
 
-None - Kalimantan Tengah
+<img src='out/ID/KT.png' width='32'/> KT - Kalimantan Tengah ✔️
 
-None - Kalimantan Timur
+<img src='out/ID/KI.png' width='32'/> KI - Kalimantan Timur ✔️
 
-None - Kalimantan Utara
+<img src='out/ID/KU.png' width='32'/> KU - Kalimantan Utara ✔️
 
-None - Kepulauan Bangka Belitung
+<img src='out/ID/BB.png' width='32'/> BB - Kepulauan Bangka Belitung ✔️
 
-None - Kepulauan Riau
+<img src='out/ID/KR.png' width='32'/> KR - Kepulauan Riau ✔️
 
-None - Lampung
+<img src='out/ID/LA.png' width='32'/> LA - Lampung ✔️
 
-None - Maluku
+<img src='out/ID/MA.png' width='32'/> MA - Maluku ✔️
 
-None - Maluku Utara
+<img src='out/ID/MU.png' width='32'/> MU - Maluku Utara ✔️
 
-None - Nusa Tenggara Barat
+<img src='out/ID/NB.png' width='32'/> NB - Nusa Tenggara Barat ✔️
 
-None - Nusa Tenggara Timur
+<img src='out/ID/NT.png' width='32'/> NT - Nusa Tenggara Timur ✔️
 
-None - Papua
+<img src='out/ID/PA.png' width='32'/> PA - Papua ✔️
 
-None - Papua Barat
+<img src='out/ID/PB.png' width='32'/> PB - Papua Barat ✔️
 
-None - Papua Barat Daya
+<img src='out/ID/PD.png' width='32'/> PD - Papua Barat Daya ✔️
 
-None - Papua Pegunungan
+<img src='out/ID/PE.png' width='32'/> PE - Papua Pegunungan ✔️
 
-None - Papua Selatan
+<img src='out/ID/PS.png' width='32'/> PS - Papua Selatan ✔️
 
-None - Papua Tengah
+<img src='out/ID/PT.png' width='32'/> PT - Papua Tengah ✔️
 
-None - Riau
+<img src='out/ID/RI.png' width='32'/> RI - Riau ✔️
 
-None - Sulawesi Barat
+<img src='out/ID/SR.png' width='32'/> SR - Sulawesi Barat ✔️
 
-None - Sulawesi Selatan
+<img src='out/ID/SN.png' width='32'/> SN - Sulawesi Selatan ✔️
 
-None - Sulawesi Tengah
+<img src='out/ID/ST.png' width='32'/> ST - Sulawesi Tengah ✔️
 
-None - Sulawesi Tenggara
+<img src='out/ID/SG.png' width='32'/> SG - Sulawesi Tenggara ✔️
 
-None - Sulawesi Utara
+<img src='out/ID/SA.png' width='32'/> SA - Sulawesi Utara ✔️
 
-None - Sumatera Barat
+<img src='out/ID/SB.png' width='32'/> SB - Sumatera Barat ✔️
 
-None - Sumatera Selatan
+<img src='out/ID/SS.png' width='32'/> SS - Sumatera Selatan ✔️
 
-None - Sumatera Utara
+<img src='out/ID/SU.png' width='32'/> SU - Sumatera Utara ✔️
 
 </details>
 
 
 <details>
 <summary>Iran (11/31)</summary>
-None - Alborz
+30 - Alborz
 
-None - Ardabil
+<img src='out/IR/24.png' width='32'/> 24 - Ardabil ✔️
 
-None - Bushehr
+<img src='out/IR/18.png' width='32'/> 18 - Bushehr ✔️
 
-None - Chaharmahal and Bakhtiari
+14 - Chaharmahal and Bakhtiari
 
-None - East Azerbaijan
+03 - East Azerbaijan
 
-None - Fars
+07 - Fars
 
-None - Gilan
+<img src='out/IR/01.png' width='32'/> 01 - Gilan ✔️
 
-None - Golestan
+27 - Golestan
 
-None - Hamadan
+<img src='out/IR/13.png' width='32'/> 13 - Hamadan ✔️
 
-None - Hormozgan
+22 - Hormozgan
 
-None - Ilam
+16 - Ilam
 
-None - Isfahan
+10 - Isfahan
 
-None - Kerman
+<img src='out/IR/08.png' width='32'/> 08 - Kerman ✔️
 
-None - Kermanshah
+<img src='out/IR/05.png' width='32'/> 05 - Kermanshah ✔️
 
-None - Khuzestan
+06 - Khuzestan
 
-None - Kohgiluyeh and Boyer-Ahmad
+17 - Kohgiluyeh and Boyer-Ahmad
 
-None - Kurdistan
+12 - Kurdistan
 
-None - Lorestan
+15 - Lorestan
 
-None - Markazi
+00 - Markazi
 
-None - Mazandaran
+02 - Mazandaran
 
-None - North Khorasan
+28 - North Khorasan
 
-None - Qazvin
+<img src='out/IR/26.png' width='32'/> 26 - Qazvin ✔️
 
-None - Qom
+<img src='out/IR/25.png' width='32'/> 25 - Qom ✔️
 
-None - Razavi Khorasan
+09 - Razavi Khorasan
 
-None - Semnan
+<img src='out/IR/20.png' width='32'/> 20 - Semnan ✔️
 
-None - Sistan and Baluchestan
+11 - Sistan and Baluchestan
 
-None - South Khorasan
+29 - South Khorasan
 
-None - Tehran
+<img src='out/IR/23.png' width='32'/> 23 - Tehran ✔️
 
-None - West Azarbaijan
+04 - West Azarbaijan
 
-None - Yazd
+<img src='out/IR/21.png' width='32'/> 21 - Yazd ✔️
 
-None - Zanjan
+19 - Zanjan
 
 </details>
 
 
 <details>
 <summary>Iraq (11/18)</summary>
-None - Al Anbar
+<img src='out/IQ/AN.png' width='32'/> AN - Al Anbar ✔️
 
-None - Al Muthanna
+MU - Al Muthanna
 
-None - Al-Qādisiyyah
+QA - Al-Qādisiyyah
 
-None - Babylon
+<img src='out/IQ/BB.png' width='32'/> BB - Babylon ✔️
 
-None - Baghdad
+<img src='out/IQ/BG.png' width='32'/> BG - Baghdad ✔️
 
-None - Basra
+<img src='out/IQ/BA.png' width='32'/> BA - Basra ✔️
 
-None - Dhi Qar
+<img src='out/IQ/DQ.png' width='32'/> DQ - Dhi Qar ✔️
 
-None - Diyala
+<img src='out/IQ/DI.png' width='32'/> DI - Diyala ✔️
 
-None - Dohuk
+DA - Dohuk
 
-None - Erbil
+AR - Erbil
 
-None - Karbala
+KA - Karbala
 
-None - Kirkuk
+<img src='out/IQ/KI.png' width='32'/> KI - Kirkuk ✔️
 
-None - Maysan
+MA - Maysan
 
-None - Najaf
+NA - Najaf
 
-None - Nineveh
+<img src='out/IQ/NI.png' width='32'/> NI - Nineveh ✔️
 
-None - Saladin
+<img src='out/IQ/SD.png' width='32'/> SD - Saladin ✔️
 
-None - Sulaymaniyah
+<img src='out/IQ/SU.png' width='32'/> SU - Sulaymaniyah ✔️
 
-None - Wasit
+<img src='out/IQ/WA.png' width='32'/> WA - Wasit ✔️
 
 </details>
 
 
 <details>
 <summary>Ireland (29/30)</summary>
-None - Carlow
+<img src='out/IE/CW.png' width='32'/> CW - Carlow ✔️
 
-None - Cavan
+<img src='out/IE/CN.png' width='32'/> CN - Cavan ✔️
 
-None - Clare
+<img src='out/IE/CE.png' width='32'/> CE - Clare ✔️
 
-None - Connacht
+<img src='out/IE/C.png' width='32'/> C - Connacht ✔️
 
-None - Cork
+<img src='out/IE/CO.png' width='32'/> CO - Cork ✔️
 
-None - Donegal
+<img src='out/IE/DL.png' width='32'/> DL - Donegal ✔️
 
-None - Dublin
+<img src='out/IE/D.png' width='32'/> D - Dublin ✔️
 
-None - Galway
+<img src='out/IE/G.png' width='32'/> G - Galway ✔️
 
-None - Kerry
+<img src='out/IE/KY.png' width='32'/> KY - Kerry ✔️
 
-None - Kildare
+<img src='out/IE/KE.png' width='32'/> KE - Kildare ✔️
 
-None - Kilkenny
+<img src='out/IE/KK.png' width='32'/> KK - Kilkenny ✔️
 
-None - Laois
+<img src='out/IE/LS.png' width='32'/> LS - Laois ✔️
 
-None - Leinster
+<img src='out/IE/L.png' width='32'/> L - Leinster ✔️
 
-None - Leitrim
+LM - Leitrim
 
-None - Limerick
+<img src='out/IE/LK.png' width='32'/> LK - Limerick ✔️
 
-None - Longford
+<img src='out/IE/LD.png' width='32'/> LD - Longford ✔️
 
-None - Louth
+<img src='out/IE/LH.png' width='32'/> LH - Louth ✔️
 
-None - Mayo
+<img src='out/IE/MO.png' width='32'/> MO - Mayo ✔️
 
-None - Meath
+<img src='out/IE/MH.png' width='32'/> MH - Meath ✔️
 
-None - Monaghan
+<img src='out/IE/MN.png' width='32'/> MN - Monaghan ✔️
 
-None - Munster
+<img src='out/IE/M.png' width='32'/> M - Munster ✔️
 
-None - Offaly
+<img src='out/IE/OY.png' width='32'/> OY - Offaly ✔️
 
-None - Roscommon
+<img src='out/IE/RN.png' width='32'/> RN - Roscommon ✔️
 
-None - Sligo
+<img src='out/IE/SO.png' width='32'/> SO - Sligo ✔️
 
-None - Tipperary
+<img src='out/IE/TA.png' width='32'/> TA - Tipperary ✔️
 
-None - Ulster
+<img src='out/IE/U.png' width='32'/> U - Ulster ✔️
 
-None - Waterford
+<img src='out/IE/WD.png' width='32'/> WD - Waterford ✔️
 
-None - Westmeath
+<img src='out/IE/WH.png' width='32'/> WH - Westmeath ✔️
 
-None - Wexford
+<img src='out/IE/WX.png' width='32'/> WX - Wexford ✔️
 
-None - Wicklow
+<img src='out/IE/WW.png' width='32'/> WW - Wicklow ✔️
 
 </details>
 
 
 <details>
 <summary>Israel (3/6)</summary>
-None - Central
+M - Central
 
-None - Haifa
+<img src='out/IL/HA.png' width='32'/> HA - Haifa ✔️
 
-None - Jerusalem
+<img src='out/IL/JM.png' width='32'/> JM - Jerusalem ✔️
 
-None - Northern
+Z - Northern
 
-None - Southern
+D - Southern
 
-None - Tel Aviv
+<img src='out/IL/TA.png' width='32'/> TA - Tel Aviv ✔️
 
 </details>
 
 
 <details>
 <summary>Italy (120/111)</summary>
-None - Abruzzo
+<img src='out/IT/65.png' width='32'/> 65 - Abruzzo ✔️
 
-None - Agrigento
+<img src='out/IT/AG.png' width='32'/> AG - Agrigento ✔️
 
-None - Alessandria
+<img src='out/IT/AL.png' width='32'/> AL - Alessandria ✔️
 
-None - Ancona
+<img src='out/IT/AN.png' width='32'/> AN - Ancona ✔️
 
-None - Aosta Valley
+<img src='out/IT/23.png' width='32'/> 23 - Aosta Valley ✔️
 
-None - Apulia
+<img src='out/IT/75.png' width='32'/> 75 - Apulia ✔️
 
-None - Arezzo
+<img src='out/IT/AR.png' width='32'/> AR - Arezzo ✔️
 
-None - Ascoli Piceno
+<img src='out/IT/AP.png' width='32'/> AP - Ascoli Piceno ✔️
 
-None - Asti
+<img src='out/IT/AT.png' width='32'/> AT - Asti ✔️
 
-None - Avellino
+<img src='out/IT/AV.png' width='32'/> AV - Avellino ✔️
 
-None - Barletta-Andria-Trani
+<img src='out/IT/BT.png' width='32'/> BT - Barletta-Andria-Trani ✔️
 
-None - Basilicata
+<img src='out/IT/77.png' width='32'/> 77 - Basilicata ✔️
 
-None - Belluno
+<img src='out/IT/BL.png' width='32'/> BL - Belluno ✔️
 
-None - Benevento
+<img src='out/IT/BN.png' width='32'/> BN - Benevento ✔️
 
-None - Bergamo
+<img src='out/IT/BG.png' width='32'/> BG - Bergamo ✔️
 
-None - Biella
+<img src='out/IT/BI.png' width='32'/> BI - Biella ✔️
 
-None - Brescia
+<img src='out/IT/BS.png' width='32'/> BS - Brescia ✔️
 
-None - Brindisi
+<img src='out/IT/BR.png' width='32'/> BR - Brindisi ✔️
 
-None - Calabria
+<img src='out/IT/78.png' width='32'/> 78 - Calabria ✔️
 
-None - Caltanissetta
+<img src='out/IT/CL.png' width='32'/> CL - Caltanissetta ✔️
 
-None - Campania
+<img src='out/IT/72.png' width='32'/> 72 - Campania ✔️
 
-None - Campobasso
+<img src='out/IT/CB.png' width='32'/> CB - Campobasso ✔️
 
-None - Caserta
+<img src='out/IT/CE.png' width='32'/> CE - Caserta ✔️
 
-None - Catanzaro
+<img src='out/IT/CZ.png' width='32'/> CZ - Catanzaro ✔️
 
-None - Chieti
+<img src='out/IT/CH.png' width='32'/> CH - Chieti ✔️
 
-None - Como
+<img src='out/IT/CO.png' width='32'/> CO - Como ✔️
 
-None - Cosenza
+<img src='out/IT/CS.png' width='32'/> CS - Cosenza ✔️
 
-None - Cremona
+<img src='out/IT/CR.png' width='32'/> CR - Cremona ✔️
 
-None - Crotone
+<img src='out/IT/KR.png' width='32'/> KR - Crotone ✔️
 
-None - Cuneo
+<img src='out/IT/CN.png' width='32'/> CN - Cuneo ✔️
 
-None - Emilia-Romagna
+<img src='out/IT/45.png' width='32'/> 45 - Emilia-Romagna ✔️
 
-None - Enna
+<img src='out/IT/EN.png' width='32'/> EN - Enna ✔️
 
-None - Fermo
+FM - Fermo
 
-None - Ferrara
+<img src='out/IT/FE.png' width='32'/> FE - Ferrara ✔️
 
-None - Foggia
+<img src='out/IT/FG.png' width='32'/> FG - Foggia ✔️
 
-None - Forlì-Cesena
+FC - Forlì-Cesena
 
-None - Friuli–Venezia Giulia
+36 - Friuli–Venezia Giulia
 
-None - Frosinone
+<img src='out/IT/FR.png' width='32'/> FR - Frosinone ✔️
 
-None - Gorizia
+<img src='out/IT/GO.png' width='32'/> GO - Gorizia ✔️
 
-None - Grosseto
+<img src='out/IT/GR.png' width='32'/> GR - Grosseto ✔️
 
-None - Imperia
+<img src='out/IT/IM.png' width='32'/> IM - Imperia ✔️
 
-None - Isernia
+<img src='out/IT/IS.png' width='32'/> IS - Isernia ✔️
 
-None - L'Aquila
+<img src='out/IT/AQ.png' width='32'/> AQ - L'Aquila ✔️
 
-None - La Spezia
+<img src='out/IT/SP.png' width='32'/> SP - La Spezia ✔️
 
-None - Latina
+<img src='out/IT/LT.png' width='32'/> LT - Latina ✔️
 
-None - Lazio
+<img src='out/IT/62.png' width='32'/> 62 - Lazio ✔️
 
-None - Lecce
+<img src='out/IT/LE.png' width='32'/> LE - Lecce ✔️
 
-None - Lecco
+<img src='out/IT/LC.png' width='32'/> LC - Lecco ✔️
 
-None - Liguria
+<img src='out/IT/42.png' width='32'/> 42 - Liguria ✔️
 
-None - Livorno
+<img src='out/IT/LI.png' width='32'/> LI - Livorno ✔️
 
-None - Lodi
+<img src='out/IT/LO.png' width='32'/> LO - Lodi ✔️
 
-None - Lombardy
+<img src='out/IT/25.png' width='32'/> 25 - Lombardy ✔️
 
-None - Lucca
+<img src='out/IT/LU.png' width='32'/> LU - Lucca ✔️
 
-None - Macerata
+<img src='out/IT/MC.png' width='32'/> MC - Macerata ✔️
 
-None - Mantua
+<img src='out/IT/MN.png' width='32'/> MN - Mantua ✔️
 
-None - Marche
+<img src='out/IT/57.png' width='32'/> 57 - Marche ✔️
 
-None - Massa and Carrara
+<img src='out/IT/MS.png' width='32'/> MS - Massa and Carrara ✔️
 
-None - Matera
+<img src='out/IT/MT.png' width='32'/> MT - Matera ✔️
 
-None - Modena
+<img src='out/IT/MO.png' width='32'/> MO - Modena ✔️
 
-None - Molise
+<img src='out/IT/67.png' width='32'/> 67 - Molise ✔️
 
-None - Monza and Brianza
+<img src='out/IT/MB.png' width='32'/> MB - Monza and Brianza ✔️
 
-None - Novara
+<img src='out/IT/NO.png' width='32'/> NO - Novara ✔️
 
-None - Nuoro
+<img src='out/IT/NU.png' width='32'/> NU - Nuoro ✔️
 
-None - Oristano
+<img src='out/IT/OR.png' width='32'/> OR - Oristano ✔️
 
-None - Padua
+<img src='out/IT/PD.png' width='32'/> PD - Padua ✔️
 
-None - Palermo
+<img src='out/IT/PA.png' width='32'/> PA - Palermo ✔️
 
-None - Parma
+<img src='out/IT/PR.png' width='32'/> PR - Parma ✔️
 
-None - Pavia
+<img src='out/IT/PV.png' width='32'/> PV - Pavia ✔️
 
-None - Perugia
+PG - Perugia
 
-None - Pesaro and Urbino
+PU - Pesaro and Urbino
 
-None - Pescara
+<img src='out/IT/PE.png' width='32'/> PE - Pescara ✔️
 
-None - Piacenza
+<img src='out/IT/PC.png' width='32'/> PC - Piacenza ✔️
 
-None - Piedmont
+<img src='out/IT/21.png' width='32'/> 21 - Piedmont ✔️
 
-None - Pisa
+<img src='out/IT/PI.png' width='32'/> PI - Pisa ✔️
 
-None - Pistoia
+<img src='out/IT/PT.png' width='32'/> PT - Pistoia ✔️
 
-None - Pordenone
+<img src='out/IT/PN.png' width='32'/> PN - Pordenone ✔️
 
-None - Potenza
+<img src='out/IT/PZ.png' width='32'/> PZ - Potenza ✔️
 
-None - Prato
+<img src='out/IT/PO.png' width='32'/> PO - Prato ✔️
 
-None - Ragusa
+<img src='out/IT/RG.png' width='32'/> RG - Ragusa ✔️
 
-None - Ravenna
+<img src='out/IT/RA.png' width='32'/> RA - Ravenna ✔️
 
-None - Reggio Emilia
+<img src='out/IT/RE.png' width='32'/> RE - Reggio Emilia ✔️
 
-None - Rieti
+<img src='out/IT/RI.png' width='32'/> RI - Rieti ✔️
 
-None - Rimini
+<img src='out/IT/RN.png' width='32'/> RN - Rimini ✔️
 
-None - Rovigo
+<img src='out/IT/RO.png' width='32'/> RO - Rovigo ✔️
 
-None - Salerno
+<img src='out/IT/SA.png' width='32'/> SA - Salerno ✔️
 
-None - Sardinia
+<img src='out/IT/88.png' width='32'/> 88 - Sardinia ✔️
 
-None - Sassari
+<img src='out/IT/SS.png' width='32'/> SS - Sassari ✔️
 
-None - Savona
+<img src='out/IT/SV.png' width='32'/> SV - Savona ✔️
 
-None - Sicily
+<img src='out/IT/82.png' width='32'/> 82 - Sicily ✔️
 
-None - Siena
+<img src='out/IT/SI.png' width='32'/> SI - Siena ✔️
 
-None - Siracusa
+<img src='out/IT/SR.png' width='32'/> SR - Siracusa ✔️
 
-None - Sondrio
+<img src='out/IT/SO.png' width='32'/> SO - Sondrio ✔️
 
-None - South Sardinia
+SU - South Sardinia
 
-None - Taranto
+<img src='out/IT/TA.png' width='32'/> TA - Taranto ✔️
 
-None - Teramo
+<img src='out/IT/TE.png' width='32'/> TE - Teramo ✔️
 
-None - Terni
+<img src='out/IT/TR.png' width='32'/> TR - Terni ✔️
 
-None - Trapani
+<img src='out/IT/TP.png' width='32'/> TP - Trapani ✔️
 
-None - Trentino-South Tyrol
+<img src='out/IT/32.png' width='32'/> 32 - Trentino-South Tyrol ✔️
 
-None - Treviso
+<img src='out/IT/TV.png' width='32'/> TV - Treviso ✔️
 
-None - Trieste
+<img src='out/IT/TS.png' width='32'/> TS - Trieste ✔️
 
-None - Tuscany
+<img src='out/IT/52.png' width='32'/> 52 - Tuscany ✔️
 
-None - Udine
+<img src='out/IT/UD.png' width='32'/> UD - Udine ✔️
 
-None - Umbria
+<img src='out/IT/55.png' width='32'/> 55 - Umbria ✔️
 
-None - Varese
+<img src='out/IT/VA.png' width='32'/> VA - Varese ✔️
 
-None - Veneto
+<img src='out/IT/34.png' width='32'/> 34 - Veneto ✔️
 
-None - Verbano-Cusio-Ossola
+<img src='out/IT/VB.png' width='32'/> VB - Verbano-Cusio-Ossola ✔️
 
-None - Vercelli
+<img src='out/IT/VC.png' width='32'/> VC - Vercelli ✔️
 
-None - Verona
+<img src='out/IT/VR.png' width='32'/> VR - Verona ✔️
 
-None - Vibo Valentia
+<img src='out/IT/VV.png' width='32'/> VV - Vibo Valentia ✔️
 
-None - Vicenza
+<img src='out/IT/VI.png' width='32'/> VI - Vicenza ✔️
 
-None - Viterbo
+<img src='out/IT/VT.png' width='32'/> VT - Viterbo ✔️
 
 </details>
 
 
 <details>
 <summary>Jamaica (2/14)</summary>
-None - Clarendon
+13 - Clarendon
 
-None - Hanover
+<img src='out/JM/09.png' width='32'/> 09 - Hanover ✔️
 
-None - Kingston
+<img src='out/JM/01.png' width='32'/> 01 - Kingston ✔️
 
-None - Manchester
+12 - Manchester
 
-None - Portland
+04 - Portland
 
-None - Saint Andrew
+02 - Saint Andrew
 
-None - Saint Ann
+06 - Saint Ann
 
-None - Saint Catherine
+14 - Saint Catherine
 
-None - Saint Elizabeth
+11 - Saint Elizabeth
 
-None - Saint James
+08 - Saint James
 
-None - Saint Mary
+05 - Saint Mary
 
-None - Saint Thomas
+03 - Saint Thomas
 
-None - Trelawny
+07 - Trelawny
 
-None - Westmoreland
+10 - Westmoreland
 
 </details>
 
 
 <details>
 <summary>Japan ✔️ (47/47)</summary>
-None - Aichi
+<img src='out/JP/23.png' width='32'/> 23 - Aichi ✔️
 
-None - Akita
+<img src='out/JP/05.png' width='32'/> 05 - Akita ✔️
 
-None - Aomori
+<img src='out/JP/02.png' width='32'/> 02 - Aomori ✔️
 
-None - Chiba
+<img src='out/JP/12.png' width='32'/> 12 - Chiba ✔️
 
-None - Ehime
+<img src='out/JP/38.png' width='32'/> 38 - Ehime ✔️
 
-None - Fukui
+<img src='out/JP/18.png' width='32'/> 18 - Fukui ✔️
 
-None - Fukuoka
+<img src='out/JP/40.png' width='32'/> 40 - Fukuoka ✔️
 
-None - Fukushima
+<img src='out/JP/07.png' width='32'/> 07 - Fukushima ✔️
 
-None - Gifu
+<img src='out/JP/21.png' width='32'/> 21 - Gifu ✔️
 
-None - Gunma
+<img src='out/JP/10.png' width='32'/> 10 - Gunma ✔️
 
-None - Hiroshima
+<img src='out/JP/34.png' width='32'/> 34 - Hiroshima ✔️
 
-None - Hokkaidō
+<img src='out/JP/01.png' width='32'/> 01 - Hokkaidō ✔️
 
-None - Hyōgo
+<img src='out/JP/28.png' width='32'/> 28 - Hyōgo ✔️
 
-None - Ibaraki
+<img src='out/JP/08.png' width='32'/> 08 - Ibaraki ✔️
 
-None - Ishikawa
+<img src='out/JP/17.png' width='32'/> 17 - Ishikawa ✔️
 
-None - Iwate
+<img src='out/JP/03.png' width='32'/> 03 - Iwate ✔️
 
-None - Kagawa
+<img src='out/JP/37.png' width='32'/> 37 - Kagawa ✔️
 
-None - Kagoshima
+<img src='out/JP/46.png' width='32'/> 46 - Kagoshima ✔️
 
-None - Kanagawa
+<img src='out/JP/14.png' width='32'/> 14 - Kanagawa ✔️
 
-None - Kōchi
+<img src='out/JP/39.png' width='32'/> 39 - Kōchi ✔️
 
-None - Kumamoto
+<img src='out/JP/43.png' width='32'/> 43 - Kumamoto ✔️
 
-None - Kyōto
+<img src='out/JP/26.png' width='32'/> 26 - Kyōto ✔️
 
-None - Mie
+<img src='out/JP/24.png' width='32'/> 24 - Mie ✔️
 
-None - Miyagi
+<img src='out/JP/04.png' width='32'/> 04 - Miyagi ✔️
 
-None - Miyazaki
+<img src='out/JP/45.png' width='32'/> 45 - Miyazaki ✔️
 
-None - Nagano
+<img src='out/JP/20.png' width='32'/> 20 - Nagano ✔️
 
-None - Nagasaki
+<img src='out/JP/42.png' width='32'/> 42 - Nagasaki ✔️
 
-None - Nara
+<img src='out/JP/29.png' width='32'/> 29 - Nara ✔️
 
-None - Niigata
+<img src='out/JP/15.png' width='32'/> 15 - Niigata ✔️
 
-None - Ōita
+<img src='out/JP/44.png' width='32'/> 44 - Ōita ✔️
 
-None - Okayama
+<img src='out/JP/33.png' width='32'/> 33 - Okayama ✔️
 
-None - Okinawa
+<img src='out/JP/47.png' width='32'/> 47 - Okinawa ✔️
 
-None - Ōsaka
+<img src='out/JP/27.png' width='32'/> 27 - Ōsaka ✔️
 
-None - Saga
+<img src='out/JP/41.png' width='32'/> 41 - Saga ✔️
 
-None - Saitama
+<img src='out/JP/11.png' width='32'/> 11 - Saitama ✔️
 
-None - Shiga
+<img src='out/JP/25.png' width='32'/> 25 - Shiga ✔️
 
-None - Shimane
+<img src='out/JP/32.png' width='32'/> 32 - Shimane ✔️
 
-None - Shizuoka
+<img src='out/JP/22.png' width='32'/> 22 - Shizuoka ✔️
 
-None - Tochigi
+<img src='out/JP/09.png' width='32'/> 09 - Tochigi ✔️
 
-None - Tokushima
+<img src='out/JP/36.png' width='32'/> 36 - Tokushima ✔️
 
-None - Tokyo
+<img src='out/JP/13.png' width='32'/> 13 - Tokyo ✔️
 
-None - Tottori
+<img src='out/JP/31.png' width='32'/> 31 - Tottori ✔️
 
-None - Toyama
+<img src='out/JP/16.png' width='32'/> 16 - Toyama ✔️
 
-None - Wakayama
+<img src='out/JP/30.png' width='32'/> 30 - Wakayama ✔️
 
-None - Yamagata
+<img src='out/JP/06.png' width='32'/> 06 - Yamagata ✔️
 
-None - Yamaguchi
+<img src='out/JP/35.png' width='32'/> 35 - Yamaguchi ✔️
 
-None - Yamanashi
+<img src='out/JP/19.png' width='32'/> 19 - Yamanashi ✔️
 
 </details>
 
 
 <details>
 <summary>Jersey (0/12)</summary>
-None - Grouville
+01 - Grouville
 
-None - St Brelade
+02 - St Brelade
 
-None - St Clement
+03 - St Clement
 
-None - St Helier
+04 - St Helier
 
-None - St John
+05 - St John
 
-None - St Lawrence
+06 - St Lawrence
 
-None - St Martin
+07 - St Martin
 
-None - St Mary
+08 - St Mary
 
-None - St Ouen
+09 - St Ouen
 
-None - St Peter
+10 - St Peter
 
-None - St Saviour
+11 - St Saviour
 
-None - Trinity
+12 - Trinity
 
 </details>
 
 
 <details>
 <summary>Jordan (2/12)</summary>
-None - Ajloun
+AJ - Ajloun
 
-None - Amman
+<img src='out/JO/AM.png' width='32'/> AM - Amman ✔️
 
-None - Aqaba
+AQ - Aqaba
 
-None - Balqa
+BA - Balqa
 
-None - Irbid
+<img src='out/JO/IR.png' width='32'/> IR - Irbid ✔️
 
-None - Jerash
+JA - Jerash
 
-None - Karak
+KA - Karak
 
-None - Ma'an
+MN - Ma'an
 
-None - Madaba
+MD - Madaba
 
-None - Mafraq
+MA - Mafraq
 
-None - Tafilah
+AT - Tafilah
 
-None - Zarqa
+AZ - Zarqa
 
 </details>
 
 
 <details>
 <summary>Kazakhstan (9/20)</summary>
-None - Abai
+10 - Abai
 
-None - Akmola
+11 - Akmola
 
-None - Aktobe
+15 - Aktobe
 
-None - Almaty
+19 - Almaty
 
-None - Almaty
+75 - Almaty
 
-None - Astana
+71 - Astana
 
-None - Atyrau
+23 - Atyrau
 
-None - East Kazakhstan
+63 - East Kazakhstan
 
-None - Jambyl
+31 - Jambyl
 
-None - Jetisu
+33 - Jetisu
 
-None - Karaganda
+35 - Karaganda
 
-None - Kostanay
+39 - Kostanay
 
-None - Kyzylorda
+43 - Kyzylorda
 
-None - Mangystau
+47 - Mangystau
 
-None - North Kazakhstan
+59 - North Kazakhstan
 
-None - Pavlodar
+55 - Pavlodar
 
-None - Shymkent
+79 - Shymkent
 
-None - Turkistan
+61 - Turkistan
 
-None - Ulytau
+62 - Ulytau
 
-None - West Kazakhstan
+27 - West Kazakhstan
 
 </details>
 
 
 <details>
 <summary>Kenya (45/47)</summary>
-None - Baringo
+<img src='out/KE/01.png' width='32'/> 01 - Baringo ✔️
 
-None - Bomet
+<img src='out/KE/02.png' width='32'/> 02 - Bomet ✔️
 
-None - Bungoma
+<img src='out/KE/03.png' width='32'/> 03 - Bungoma ✔️
 
-None - Busia
+<img src='out/KE/04.png' width='32'/> 04 - Busia ✔️
 
-None - Elgeyo-Marakwet
+<img src='out/KE/05.png' width='32'/> 05 - Elgeyo-Marakwet ✔️
 
-None - Embu
+<img src='out/KE/06.png' width='32'/> 06 - Embu ✔️
 
-None - Garissa
+<img src='out/KE/07.png' width='32'/> 07 - Garissa ✔️
 
-None - Homa Bay
+<img src='out/KE/08.png' width='32'/> 08 - Homa Bay ✔️
 
-None - Isiolo
+<img src='out/KE/09.png' width='32'/> 09 - Isiolo ✔️
 
-None - Kajiado
+<img src='out/KE/10.png' width='32'/> 10 - Kajiado ✔️
 
-None - Kakamega
+<img src='out/KE/11.png' width='32'/> 11 - Kakamega ✔️
 
-None - Kericho
+<img src='out/KE/12.png' width='32'/> 12 - Kericho ✔️
 
-None - Kiambu
+<img src='out/KE/13.png' width='32'/> 13 - Kiambu ✔️
 
-None - Kilifi
+<img src='out/KE/14.png' width='32'/> 14 - Kilifi ✔️
 
-None - Kirinyaga
+<img src='out/KE/15.png' width='32'/> 15 - Kirinyaga ✔️
 
-None - Kisii
+<img src='out/KE/16.png' width='32'/> 16 - Kisii ✔️
 
-None - Kisumu
+<img src='out/KE/17.png' width='32'/> 17 - Kisumu ✔️
 
-None - Kitui
+<img src='out/KE/18.png' width='32'/> 18 - Kitui ✔️
 
-None - Kwale
+<img src='out/KE/19.png' width='32'/> 19 - Kwale ✔️
 
-None - Laikipia
+<img src='out/KE/20.png' width='32'/> 20 - Laikipia ✔️
 
-None - Lamu
+<img src='out/KE/21.png' width='32'/> 21 - Lamu ✔️
 
-None - Machakos
+<img src='out/KE/22.png' width='32'/> 22 - Machakos ✔️
 
-None - Makueni
+<img src='out/KE/23.png' width='32'/> 23 - Makueni ✔️
 
-None - Mandera
+<img src='out/KE/24.png' width='32'/> 24 - Mandera ✔️
 
-None - Marsabit
+<img src='out/KE/25.png' width='32'/> 25 - Marsabit ✔️
 
-None - Meru
+<img src='out/KE/26.png' width='32'/> 26 - Meru ✔️
 
-None - Migori
+<img src='out/KE/27.png' width='32'/> 27 - Migori ✔️
 
-None - Mombasa
+<img src='out/KE/28.png' width='32'/> 28 - Mombasa ✔️
 
-None - Murang'a
+<img src='out/KE/29.png' width='32'/> 29 - Murang'a ✔️
 
-None - Nairobi City
+<img src='out/KE/30.png' width='32'/> 30 - Nairobi City ✔️
 
-None - Nakuru
+<img src='out/KE/31.png' width='32'/> 31 - Nakuru ✔️
 
-None - Nandi
+<img src='out/KE/32.png' width='32'/> 32 - Nandi ✔️
 
-None - Narok
+<img src='out/KE/33.png' width='32'/> 33 - Narok ✔️
 
-None - Nyamira
+<img src='out/KE/34.png' width='32'/> 34 - Nyamira ✔️
 
-None - Nyandarua
+<img src='out/KE/35.png' width='32'/> 35 - Nyandarua ✔️
 
-None - Nyeri
+<img src='out/KE/36.png' width='32'/> 36 - Nyeri ✔️
 
-None - Samburu
+<img src='out/KE/37.png' width='32'/> 37 - Samburu ✔️
 
-None - Siaya
+<img src='out/KE/38.png' width='32'/> 38 - Siaya ✔️
 
-None - Taita–Taveta
+<img src='out/KE/39.png' width='32'/> 39 - Taita–Taveta ✔️
 
-None - Tana River
+<img src='out/KE/40.png' width='32'/> 40 - Tana River ✔️
 
-None - Tharaka-Nithi
+41 - Tharaka-Nithi
 
-None - Trans Nzoia
+42 - Trans Nzoia
 
-None - Turkana
+<img src='out/KE/43.png' width='32'/> 43 - Turkana ✔️
 
-None - Uasin Gishu
+<img src='out/KE/44.png' width='32'/> 44 - Uasin Gishu ✔️
 
-None - Vihiga
+<img src='out/KE/45.png' width='32'/> 45 - Vihiga ✔️
 
-None - Wajir
+<img src='out/KE/46.png' width='32'/> 46 - Wajir ✔️
 
-None - West Pokot
+<img src='out/KE/47.png' width='32'/> 47 - West Pokot ✔️
 
 </details>
 
 
 <details>
 <summary>Kiribati (0/3)</summary>
-None - Gilbert
+G - Gilbert
 
-None - Line
+L - Line
 
-None - Phoenix
+P - Phoenix
 
 </details>
 
 
 <details>
 <summary>Kosovo (3/7)</summary>
-None - Ferizaj
+XUF - Ferizaj
 
-None - Gjakove
+XDG - Gjakove
 
-None - Gjilan
+<img src='out/XK/XGJ.png' width='32'/> XGJ - Gjilan ✔️
 
-None - Mitrovica
+XKM - Mitrovica
 
-None - Peja
+PEJ - Peja
 
-None - Pristina
+<img src='out/XK/XPI.png' width='32'/> XPI - Pristina ✔️
 
-None - Prizren
+PRI - Prizren
 
 </details>
 
 
 <details>
 <summary>Kuwait (0/6)</summary>
-None - Al Ahmadi
+AH - Al Ahmadi
 
-None - Al Asimah
+KU - Al Asimah
 
-None - Al Farwaniyah
+FA - Al Farwaniyah
 
-None - Al Jahra
+JA - Al Jahra
 
-None - Hawalli
+HA - Hawalli
 
-None - Mubarak Al-Kabeer
+MU - Mubarak Al-Kabeer
 
 </details>
 
 
 <details>
 <summary>Kyrgyzstan ✔️ (9/9)</summary>
-None - Batken
+<img src='out/KG/B.png' width='32'/> B - Batken ✔️
 
-None - Bishkek
+<img src='out/KG/GB.png' width='32'/> GB - Bishkek ✔️
 
-None - Chuy
+<img src='out/KG/C.png' width='32'/> C - Chuy ✔️
 
-None - Issyk-Kul
+<img src='out/KG/Y.png' width='32'/> Y - Issyk-Kul ✔️
 
-None - Jalal-Abad
+<img src='out/KG/J.png' width='32'/> J - Jalal-Abad ✔️
 
-None - Naryn
+<img src='out/KG/N.png' width='32'/> N - Naryn ✔️
 
-None - Osh
+<img src='out/KG/GO.png' width='32'/> GO - Osh ✔️
 
-None - Osh
+<img src='out/KG/O.png' width='32'/> O - Osh ✔️
 
-None - Talas
+<img src='out/KG/T.png' width='32'/> T - Talas ✔️
 
 </details>
 
 
 <details>
 <summary>Laos (0/18)</summary>
-None - Attapeu
+AT - Attapeu
 
-None - Bokeo
+BK - Bokeo
 
-None - Bolikhamsai
+BL - Bolikhamsai
 
-None - Champasak
+CH - Champasak
 
-None - Houaphanh
+HO - Houaphanh
 
-None - Khammouane
+KH - Khammouane
 
-None - Luang Namtha
+LM - Luang Namtha
 
-None - Luang Prabang
+LP - Luang Prabang
 
-None - Oudomxay
+OU - Oudomxay
 
-None - Phongsaly
+PH - Phongsaly
 
-None - Sainyabuli
+XA - Sainyabuli
 
-None - Salavan
+SL - Salavan
 
-None - Savannakhet
+SV - Savannakhet
 
-None - Sekong
+XE - Sekong
 
-None - Vientiane
+VI - Vientiane
 
-None - Vientiane
+VT - Vientiane
 
-None - Xaisomboun
+XS - Xaisomboun
 
-None - Xiangkhouang
+XI - Xiangkhouang
 
 </details>
 
 
 <details>
 <summary>Latvia (63/43)</summary>
-None - Ādaži
+011 - Ādaži
 
-None - Aizkraukle
+<img src='out/LV/002.png' width='32'/> 002 - Aizkraukle ✔️
 
-None - Alūksne
+<img src='out/LV/007.png' width='32'/> 007 - Alūksne ✔️
 
-None - Augšdaugava
+111 - Augšdaugava
 
-None - Balvi
+<img src='out/LV/015.png' width='32'/> 015 - Balvi ✔️
 
-None - Bauska
+<img src='out/LV/016.png' width='32'/> 016 - Bauska ✔️
 
-None - Cēsis
+<img src='out/LV/022.png' width='32'/> 022 - Cēsis ✔️
 
-None - Daugavpils
+<img src='out/LV/DGV.png' width='32'/> DGV - Daugavpils ✔️
 
-None - Dienvidkurzemes
+112 - Dienvidkurzemes
 
-None - Dobele
+<img src='out/LV/026.png' width='32'/> 026 - Dobele ✔️
 
-None - Gulbene
+<img src='out/LV/033.png' width='32'/> 033 - Gulbene ✔️
 
-None - Jēkabpils
+<img src='out/LV/042.png' width='32'/> 042 - Jēkabpils ✔️
 
-None - Jelgava
+<img src='out/LV/041.png' width='32'/> 041 - Jelgava ✔️
 
-None - Jelgava
+<img src='out/LV/JEL.png' width='32'/> JEL - Jelgava ✔️
 
-None - Jūrmala
+<img src='out/LV/JUR.png' width='32'/> JUR - Jūrmala ✔️
 
-None - Ķekava
+<img src='out/LV/052.png' width='32'/> 052 - Ķekava ✔️
 
-None - Krāslava
+<img src='out/LV/047.png' width='32'/> 047 - Krāslava ✔️
 
-None - Kuldīga
+<img src='out/LV/050.png' width='32'/> 050 - Kuldīga ✔️
 
-None - Liepāja
+<img src='out/LV/LPX.png' width='32'/> LPX - Liepāja ✔️
 
-None - Limbaži
+<img src='out/LV/054.png' width='32'/> 054 - Limbaži ✔️
 
-None - Līvāni
+<img src='out/LV/056.png' width='32'/> 056 - Līvāni ✔️
 
-None - Ludza
+<img src='out/LV/058.png' width='32'/> 058 - Ludza ✔️
 
-None - Madona
+<img src='out/LV/059.png' width='32'/> 059 - Madona ✔️
 
-None - Mārupe
+<img src='out/LV/062.png' width='32'/> 062 - Mārupe ✔️
 
-None - Ogre
+<img src='out/LV/067.png' width='32'/> 067 - Ogre ✔️
 
-None - Olaine
+<img src='out/LV/068.png' width='32'/> 068 - Olaine ✔️
 
-None - Preiļi
+<img src='out/LV/073.png' width='32'/> 073 - Preiļi ✔️
 
-None - Rēzekne
+<img src='out/LV/REZ.png' width='32'/> REZ - Rēzekne ✔️
 
-None - Rēzekne
+<img src='out/LV/077.png' width='32'/> 077 - Rēzekne ✔️
 
-None - Riga
+<img src='out/LV/RIX.png' width='32'/> RIX - Riga ✔️
 
-None - Ropaži
+<img src='out/LV/080.png' width='32'/> 080 - Ropaži ✔️
 
-None - Salaspils
+<img src='out/LV/087.png' width='32'/> 087 - Salaspils ✔️
 
-None - Saldus
+<img src='out/LV/088.png' width='32'/> 088 - Saldus ✔️
 
-None - Saulkrasti
+<img src='out/LV/089.png' width='32'/> 089 - Saulkrasti ✔️
 
-None - Sigulda
+<img src='out/LV/091.png' width='32'/> 091 - Sigulda ✔️
 
-None - Smiltene
+<img src='out/LV/094.png' width='32'/> 094 - Smiltene ✔️
 
-None - Talsi
+<img src='out/LV/097.png' width='32'/> 097 - Talsi ✔️
 
-None - Tukums
+<img src='out/LV/099.png' width='32'/> 099 - Tukums ✔️
 
-None - Valka
+<img src='out/LV/101.png' width='32'/> 101 - Valka ✔️
 
-None - Valmiera
+113 - Valmiera
 
-None - Varakļāni
+<img src='out/LV/102.png' width='32'/> 102 - Varakļāni ✔️
 
-None - Ventspils
+<img src='out/LV/VEN.png' width='32'/> VEN - Ventspils ✔️
 
-None - Ventspils
+<img src='out/LV/106.png' width='32'/> 106 - Ventspils ✔️
 
 </details>
 
 
 <details>
 <summary>Lebanon (0/8)</summary>
-None - Akkar
+AK - Akkar
 
-None - Baalbek-Hermel
+BH - Baalbek-Hermel
 
-None - Beirut
+BA - Beirut
 
-None - Beqaa
+BI - Beqaa
 
-None - Mount Lebanon
+JL - Mount Lebanon
 
-None - Nabatieh
+NA - Nabatieh
 
-None - North
+AS - North
 
-None - South
+JA - South
 
 </details>
 
 
 <details>
 <summary>Lesotho (0/10)</summary>
-None - Berea
+D - Berea
 
-None - Butha-Buthe
+B - Butha-Buthe
 
-None - Leribe
+C - Leribe
 
-None - Mafeteng
+E - Mafeteng
 
-None - Maseru
+A - Maseru
 
-None - Mohale's Hoek
+F - Mohale's Hoek
 
-None - Mokhotlong
+J - Mokhotlong
 
-None - Qacha's Nek
+H - Qacha's Nek
 
-None - Quthing
+G - Quthing
 
-None - Thaba-Tseka
+K - Thaba-Tseka
 
 </details>
 
 
 <details>
 <summary>Liberia ✔️ (15/15)</summary>
-None - Bomi
+<img src='out/LR/BM.png' width='32'/> BM - Bomi ✔️
 
-None - Bong
+<img src='out/LR/BG.png' width='32'/> BG - Bong ✔️
 
-None - Gbarpolu
+<img src='out/LR/GP.png' width='32'/> GP - Gbarpolu ✔️
 
-None - Grand Bassa
+<img src='out/LR/GB.png' width='32'/> GB - Grand Bassa ✔️
 
-None - Grand Cape Mount
+<img src='out/LR/CM.png' width='32'/> CM - Grand Cape Mount ✔️
 
-None - Grand Gedeh
+<img src='out/LR/GG.png' width='32'/> GG - Grand Gedeh ✔️
 
-None - Grand Kru
+<img src='out/LR/GK.png' width='32'/> GK - Grand Kru ✔️
 
-None - Lofa
+<img src='out/LR/LO.png' width='32'/> LO - Lofa ✔️
 
-None - Margibi
+<img src='out/LR/MG.png' width='32'/> MG - Margibi ✔️
 
-None - Maryland
+<img src='out/LR/MY.png' width='32'/> MY - Maryland ✔️
 
-None - Montserrado
+<img src='out/LR/MO.png' width='32'/> MO - Montserrado ✔️
 
-None - Nimba
+<img src='out/LR/NI.png' width='32'/> NI - Nimba ✔️
 
-None - River Cess
+<img src='out/LR/RI.png' width='32'/> RI - River Cess ✔️
 
-None - River Gee
+<img src='out/LR/RG.png' width='32'/> RG - River Gee ✔️
 
-None - Sinoe
+<img src='out/LR/SI.png' width='32'/> SI - Sinoe ✔️
 
 </details>
 
 
 <details>
 <summary>Libya (2/21)</summary>
-None - Al Wahat
+WA - Al Wahat
 
-None - Benghazi
+BA - Benghazi
 
-None - Derna
+DR - Derna
 
-None - Ghat
+GT - Ghat
 
-None - Jabal al Akhdar
+JA - Jabal al Akhdar
 
-None - Jabal al Gharbi
+JG - Jabal al Gharbi
 
-None - Jafara
+JI - Jafara
 
-None - Jufra
+JU - Jufra
 
-None - Kufra
+KF - Kufra
 
-None - Marj
+MJ - Marj
 
-None - Misrata
+MI - Misrata
 
-None - Murqub
+MB - Murqub
 
-None - Murzuq
+MQ - Murzuq
 
-None - Nalut
+NL - Nalut
 
-None - Nuqat al Khams
+NQ - Nuqat al Khams
 
-None - Sabha
+<img src='out/LY/SB.png' width='32'/> SB - Sabha ✔️
 
-None - Sirte
+<img src='out/LY/SR.png' width='32'/> SR - Sirte ✔️
 
-None - Tripoli
+TB - Tripoli
 
-None - Wadi al Hayaa
+WD - Wadi al Hayaa
 
-None - Wadi al Shatii
+WS - Wadi al Shatii
 
-None - Zawiya
+ZA - Zawiya
 
 </details>
 
 
 <details>
 <summary>Liechtenstein ✔️ (11/11)</summary>
-None - Balzers
+<img src='out/LI/01.png' width='32'/> 01 - Balzers ✔️
 
-None - Eschen
+<img src='out/LI/02.png' width='32'/> 02 - Eschen ✔️
 
-None - Gamprin
+<img src='out/LI/03.png' width='32'/> 03 - Gamprin ✔️
 
-None - Mauren
+<img src='out/LI/04.png' width='32'/> 04 - Mauren ✔️
 
-None - Planken
+<img src='out/LI/05.png' width='32'/> 05 - Planken ✔️
 
-None - Ruggell
+<img src='out/LI/06.png' width='32'/> 06 - Ruggell ✔️
 
-None - Schaan
+<img src='out/LI/07.png' width='32'/> 07 - Schaan ✔️
 
-None - Schellenberg
+<img src='out/LI/08.png' width='32'/> 08 - Schellenberg ✔️
 
-None - Triesen
+<img src='out/LI/09.png' width='32'/> 09 - Triesen ✔️
 
-None - Triesenberg
+<img src='out/LI/10.png' width='32'/> 10 - Triesenberg ✔️
 
-None - Vaduz
+<img src='out/LI/11.png' width='32'/> 11 - Vaduz ✔️
 
 </details>
 
 
 <details>
 <summary>Lithuania (10/64)</summary>
-None - Akmenė
+01 - Akmenė
 
-None - Alytus
+02 - Alytus
 
-None - Alytus
+<img src='out/LT/AL.png' width='32'/> AL - Alytus ✔️
 
-None - Anykščiai
+04 - Anykščiai
 
-None - Birštonas
+05 - Birštonas
 
-None - Biržai
+06 - Biržai
 
-None - Druskininkai
+07 - Druskininkai
 
-None - Elektrėnai
+08 - Elektrėnai
 
-None - Ignalina
+09 - Ignalina
 
-None - Jonava
+10 - Jonava
 
-None - Joniškis
+11 - Joniškis
 
-None - Jurbarkas
+12 - Jurbarkas
 
-None - Kaišiadorys
+13 - Kaišiadorys
 
-None - Kalvarija
+14 - Kalvarija
 
-None - Kaunas
+15 - Kaunas
 
-None - Kaunas
+<img src='out/LT/KU.png' width='32'/> KU - Kaunas ✔️
 
-None - Kazlų Rūda
+17 - Kazlų Rūda
 
-None - Kėdainiai
+18 - Kėdainiai
 
-None - Kelmė
+19 - Kelmė
 
-None - Klaipėda
+<img src='out/LT/KL.png' width='32'/> KL - Klaipėda ✔️
 
-None - Klaipėda
+21 - Klaipėda
 
-None - Kretinga
+22 - Kretinga
 
-None - Kupiškis
+23 - Kupiškis
 
-None - Lazdijai
+24 - Lazdijai
 
-None - Marijampolė
+25 - Marijampolė
 
-None - Marijampolė
+<img src='out/LT/MR.png' width='32'/> MR - Marijampolė ✔️
 
-None - Mažeikiai
+26 - Mažeikiai
 
-None - Molėtai
+27 - Molėtai
 
-None - Neringa
+28 - Neringa
 
-None - Pagėgiai
+29 - Pagėgiai
 
-None - Pakruojis
+30 - Pakruojis
 
-None - Palanga
+31 - Palanga
 
-None - Panevėžys
+<img src='out/LT/PN.png' width='32'/> PN - Panevėžys ✔️
 
-None - Panevėžys
+33 - Panevėžys
 
-None - Pasvalys
+34 - Pasvalys
 
-None - Plungė
+35 - Plungė
 
-None - Prienai
+36 - Prienai
 
-None - Radviliškis
+37 - Radviliškis
 
-None - Raseiniai
+38 - Raseiniai
 
-None - Rietavas
+39 - Rietavas
 
-None - Rokiškis
+40 - Rokiškis
 
-None - Šakiai
+41 - Šakiai
 
-None - Šalčininkai
+42 - Šalčininkai
 
-None - Šiauliai
+<img src='out/LT/SA.png' width='32'/> SA - Šiauliai ✔️
 
-None - Šiauliai
+43 - Šiauliai
 
-None - Šilalė 
+45 - Šilalė 
 
-None - Šilutė
+46 - Šilutė
 
-None - Širvintos
+47 - Širvintos
 
-None - Skuodas
+48 - Skuodas
 
-None - Švenčionys
+49 - Švenčionys
 
-None - Tauragė
+<img src='out/LT/TA.png' width='32'/> TA - Tauragė ✔️
 
-None - Tauragė
+50 - Tauragė
 
-None - Telšiai
+51 - Telšiai
 
-None - Telšiai
+<img src='out/LT/TE.png' width='32'/> TE - Telšiai ✔️
 
-None - Trakai
+52 - Trakai
 
-None - Ukmergė
+53 - Ukmergė
 
-None - Utena
+54 - Utena
 
-None - Utena
+<img src='out/LT/UT.png' width='32'/> UT - Utena ✔️
 
-None - Varėna
+55 - Varėna
 
-None - Vilkaviškis
+56 - Vilkaviškis
 
-None - Vilnius
+57 - Vilnius
 
-None - Vilnius
+<img src='out/LT/VL.png' width='32'/> VL - Vilnius ✔️
 
-None - Visaginas
+59 - Visaginas
 
-None - Zarasai
+60 - Zarasai
 
 </details>
 
 
 <details>
 <summary>Luxembourg (3/12)</summary>
-None - Capellen
+CA - Capellen
 
-None - Clervaux
+CL - Clervaux
 
-None - Diekirch
+DI - Diekirch
 
-None - Echternach
+EC - Echternach
 
-None - Esch-sur-Alzette
+ES - Esch-sur-Alzette
 
-None - Grevenmacher
+G - Grevenmacher
 
-None - Luxembourg 
+<img src='out/LU/L.png' width='32'/> L - Luxembourg  ✔️
 
-None - Mersch
+ME - Mersch
 
-None - Redange
+RD - Redange
 
-None - Remich
+RM - Remich
 
-None - Vianden
+VD - Vianden
 
-None - Wiltz
+<img src='out/LU/WI.png' width='32'/> WI - Wiltz ✔️
 
 </details>
 
 
 <details>
 <summary>Madagascar (1/6)</summary>
-None - Antananarivo
+T - Antananarivo
 
-None - Antsiranana
+<img src='out/MG/D.png' width='32'/> D - Antsiranana ✔️
 
-None - Fianarantsoa
+F - Fianarantsoa
 
-None - Mahajanga
+M - Mahajanga
 
-None - Toamasina
+A - Toamasina
 
-None - Toliara
+U - Toliara
 
 </details>
 
 
 <details>
 <summary>Malawi (2/31)</summary>
-None - Balaka
+BA - Balaka
 
-None - Blantyre
+<img src='out/MW/BL.png' width='32'/> BL - Blantyre ✔️
 
-None - Central
+C - Central
 
-None - Chikwawa
+CK - Chikwawa
 
-None - Chiradzulu
+CR - Chiradzulu
 
-None - Chitipa
+CT - Chitipa
 
-None - Dedza
+DE - Dedza
 
-None - Dowa
+DO - Dowa
 
-None - Karonga
+KR - Karonga
 
-None - Kasungu
+KS - Kasungu
 
-None - Likoma
+LK - Likoma
 
-None - Lilongwe
+<img src='out/MW/LI.png' width='32'/> LI - Lilongwe ✔️
 
-None - Machinga
+MH - Machinga
 
-None - Mangochi
+MG - Mangochi
 
-None - Mchinji
+MC - Mchinji
 
-None - Mulanje
+MU - Mulanje
 
-None - Mwanza
+MW - Mwanza
 
-None - Mzimba
+MZ - Mzimba
 
-None - Neno
+NE - Neno
 
-None - Nkhata Bay
+NB - Nkhata Bay
 
-None - Nkhotakota
+NK - Nkhotakota
 
-None - Northern
+N - Northern
 
-None - Nsanje
+NS - Nsanje
 
-None - Ntcheu
+NU - Ntcheu
 
-None - Ntchisi
+NI - Ntchisi
 
-None - Phalombe
+PH - Phalombe
 
-None - Rumphi
+RU - Rumphi
 
-None - Salima
+SA - Salima
 
-None - Southern
+S - Southern
 
-None - Thyolo
+TH - Thyolo
 
-None - Zomba
+ZO - Zomba
 
 </details>
 
 
 <details>
 <summary>Malaysia ✔️ (16/16)</summary>
-None - Johor
+<img src='out/MY/01.png' width='32'/> 01 - Johor ✔️
 
-None - Kedah
+<img src='out/MY/02.png' width='32'/> 02 - Kedah ✔️
 
-None - Kelantan
+<img src='out/MY/03.png' width='32'/> 03 - Kelantan ✔️
 
-None - Kuala Lumpur
+<img src='out/MY/14.png' width='32'/> 14 - Kuala Lumpur ✔️
 
-None - Labuan
+<img src='out/MY/15.png' width='32'/> 15 - Labuan ✔️
 
-None - Malacca
+<img src='out/MY/04.png' width='32'/> 04 - Malacca ✔️
 
-None - Negeri Sembilan
+<img src='out/MY/05.png' width='32'/> 05 - Negeri Sembilan ✔️
 
-None - Pahang
+<img src='out/MY/06.png' width='32'/> 06 - Pahang ✔️
 
-None - Penang
+<img src='out/MY/07.png' width='32'/> 07 - Penang ✔️
 
-None - Perak
+<img src='out/MY/08.png' width='32'/> 08 - Perak ✔️
 
-None - Perlis
+<img src='out/MY/09.png' width='32'/> 09 - Perlis ✔️
 
-None - Putrajaya
+<img src='out/MY/16.png' width='32'/> 16 - Putrajaya ✔️
 
-None - Sabah
+<img src='out/MY/12.png' width='32'/> 12 - Sabah ✔️
 
-None - Sarawak
+<img src='out/MY/13.png' width='32'/> 13 - Sarawak ✔️
 
-None - Selangor
+<img src='out/MY/10.png' width='32'/> 10 - Selangor ✔️
 
-None - Terengganu
+<img src='out/MY/11.png' width='32'/> 11 - Terengganu ✔️
 
 </details>
 
 
 <details>
 <summary>Maldives (5/25)</summary>
-None - Addu
+01 - Addu
 
-None - Alif Alif
+02 - Alif Alif
 
-None - Alif Dhaal
+00 - Alif Dhaal
 
-None - Central
+CE - Central
 
-None - Dhaalu
+17 - Dhaalu
 
-None - Faafu
+<img src='out/MV/14.png' width='32'/> 14 - Faafu ✔️
 
-None - Gaafu Alif
+27 - Gaafu Alif
 
-None - Gaafu Dhaalu
+28 - Gaafu Dhaalu
 
-None - Gnaviyani
+29 - Gnaviyani
 
-None - Haa Alif
+<img src='out/MV/07.png' width='32'/> 07 - Haa Alif ✔️
 
-None - Haa Dhaalu
+23 - Haa Dhaalu
 
-None - Kaafu
+<img src='out/MV/26.png' width='32'/> 26 - Kaafu ✔️
 
-None - Laamu
+05 - Laamu
 
-None - Lhaviyani
+03 - Lhaviyani
 
-None - Malé
+MLE - Malé
 
-None - Meemu
+<img src='out/MV/12.png' width='32'/> 12 - Meemu ✔️
 
-None - Noonu
+25 - Noonu
 
-None - North Central
+NC - North Central
 
-None - Raa
+13 - Raa
 
-None - Shaviyani
+24 - Shaviyani
 
-None - South
+SU - South
 
-None - South Central
+SC - South Central
 
-None - Thaa
+08 - Thaa
 
-None - Upper South
+US - Upper South
 
-None - Vaavu
+<img src='out/MV/04.png' width='32'/> 04 - Vaavu ✔️
 
 </details>
 
 
 <details>
 <summary>Mali (0/11)</summary>
-None - Bamako
+BKO - Bamako
 
-None - Gao
+7 - Gao
 
-None - Kayes
+1 - Kayes
 
-None - Kidal
+8 - Kidal
 
-None - Koulikoro
+2 - Koulikoro
 
-None - Ménaka
+9 - Ménaka
 
-None - Mopti
+5 - Mopti
 
-None - Ségou
+4 - Ségou
 
-None - Sikasso
+3 - Sikasso
 
-None - Taoudénit
+10 - Taoudénit
 
-None - Tombouctou
+6 - Tombouctou
 
 </details>
 
 
 <details>
 <summary>Malta ✔️ (67/67)</summary>
-None - Attard
+<img src='out/MT/01.png' width='32'/> 01 - Attard ✔️
 
-None - Balzan
+<img src='out/MT/02.png' width='32'/> 02 - Balzan ✔️
 
-None - Birgu
+<img src='out/MT/03.png' width='32'/> 03 - Birgu ✔️
 
-None - Birkirkara
+<img src='out/MT/04.png' width='32'/> 04 - Birkirkara ✔️
 
-None - Birżebbuġa
+<img src='out/MT/05.png' width='32'/> 05 - Birżebbuġa ✔️
 
-None - Cospicua
+<img src='out/MT/06.png' width='32'/> 06 - Cospicua ✔️
 
-None - Dingli
+<img src='out/MT/07.png' width='32'/> 07 - Dingli ✔️
 
-None - Fgura
+<img src='out/MT/08.png' width='32'/> 08 - Fgura ✔️
 
-None - Floriana
+<img src='out/MT/09.png' width='32'/> 09 - Floriana ✔️
 
-None - Fontana
+<img src='out/MT/10.png' width='32'/> 10 - Fontana ✔️
 
-None - Għajnsielem
+<img src='out/MT/13.png' width='32'/> 13 - Għajnsielem ✔️
 
-None - Għarb
+<img src='out/MT/14.png' width='32'/> 14 - Għarb ✔️
 
-None - Għargħur
+<img src='out/MT/15.png' width='32'/> 15 - Għargħur ✔️
 
-None - Għasri
+<img src='out/MT/16.png' width='32'/> 16 - Għasri ✔️
 
-None - Għaxaq
+<img src='out/MT/17.png' width='32'/> 17 - Għaxaq ✔️
 
-None - Gudja
+<img src='out/MT/11.png' width='32'/> 11 - Gudja ✔️
 
-None - Gżira
+<img src='out/MT/12.png' width='32'/> 12 - Gżira ✔️
 
-None - Ħamrun
+<img src='out/MT/18.png' width='32'/> 18 - Ħamrun ✔️
 
-None - Iklin
+<img src='out/MT/19.png' width='32'/> 19 - Iklin ✔️
 
-None - Kalkara
+<img src='out/MT/21.png' width='32'/> 21 - Kalkara ✔️
 
-None - Kerċem
+<img src='out/MT/22.png' width='32'/> 22 - Kerċem ✔️
 
-None - Kirkop
+<img src='out/MT/23.png' width='32'/> 23 - Kirkop ✔️
 
-None - Lija
+<img src='out/MT/24.png' width='32'/> 24 - Lija ✔️
 
-None - Luqa
+<img src='out/MT/25.png' width='32'/> 25 - Luqa ✔️
 
-None - Marsa
+<img src='out/MT/26.png' width='32'/> 26 - Marsa ✔️
 
-None - Marsaskala
+<img src='out/MT/27.png' width='32'/> 27 - Marsaskala ✔️
 
-None - Marsaxlokk
+<img src='out/MT/28.png' width='32'/> 28 - Marsaxlokk ✔️
 
-None - Mdina
+<img src='out/MT/29.png' width='32'/> 29 - Mdina ✔️
 
-None - Mellieħa
+<img src='out/MT/30.png' width='32'/> 30 - Mellieħa ✔️
 
-None - Mġarr
+<img src='out/MT/31.png' width='32'/> 31 - Mġarr ✔️
 
-None - Mosta
+<img src='out/MT/32.png' width='32'/> 32 - Mosta ✔️
 
-None - Mqabba
+<img src='out/MT/33.png' width='32'/> 33 - Mqabba ✔️
 
-None - Msida
+<img src='out/MT/34.png' width='32'/> 34 - Msida ✔️
 
-None - Mtarfa
+<img src='out/MT/35.png' width='32'/> 35 - Mtarfa ✔️
 
-None - Munxar
+<img src='out/MT/36.png' width='32'/> 36 - Munxar ✔️
 
-None - Nadur
+<img src='out/MT/37.png' width='32'/> 37 - Nadur ✔️
 
-None - Naxxar
+<img src='out/MT/38.png' width='32'/> 38 - Naxxar ✔️
 
-None - Paola
+<img src='out/MT/39.png' width='32'/> 39 - Paola ✔️
 
-None - Pembroke
+<img src='out/MT/40.png' width='32'/> 40 - Pembroke ✔️
 
-None - Pietà
+<img src='out/MT/41.png' width='32'/> 41 - Pietà ✔️
 
-None - Qala
+<img src='out/MT/42.png' width='32'/> 42 - Qala ✔️
 
-None - Qormi
+<img src='out/MT/43.png' width='32'/> 43 - Qormi ✔️
 
-None - Qrendi
+<img src='out/MT/44.png' width='32'/> 44 - Qrendi ✔️
 
-None - Rabat
+<img src='out/MT/46.png' width='32'/> 46 - Rabat ✔️
 
-None - San Ġwann
+<img src='out/MT/49.png' width='32'/> 49 - San Ġwann ✔️
 
-None - San Lawrenz
+<img src='out/MT/50.png' width='32'/> 50 - San Lawrenz ✔️
 
-None - Sannat
+<img src='out/MT/52.png' width='32'/> 52 - Sannat ✔️
 
-None - Santa Luċija
+<img src='out/MT/53.png' width='32'/> 53 - Santa Luċija ✔️
 
-None - Santa Venera
+<img src='out/MT/54.png' width='32'/> 54 - Santa Venera ✔️
 
-None - Senglea
+<img src='out/MT/20.png' width='32'/> 20 - Senglea ✔️
 
-None - Siġġiewi
+<img src='out/MT/55.png' width='32'/> 55 - Siġġiewi ✔️
 
-None - Sliema
+<img src='out/MT/56.png' width='32'/> 56 - Sliema ✔️
 
-None - St. Julian's
+<img src='out/MT/48.png' width='32'/> 48 - St. Julian's ✔️
 
-None - St. Paul's Bay
+<img src='out/MT/51.png' width='32'/> 51 - St. Paul's Bay ✔️
 
-None - Swieqi
+<img src='out/MT/57.png' width='32'/> 57 - Swieqi ✔️
 
-None - Ta' Xbiex
+<img src='out/MT/58.png' width='32'/> 58 - Ta' Xbiex ✔️
 
-None - Tarxien
+<img src='out/MT/59.png' width='32'/> 59 - Tarxien ✔️
 
-None - Valletta
+<img src='out/MT/60.png' width='32'/> 60 - Valletta ✔️
 
-None - Victoria
+<img src='out/MT/45.png' width='32'/> 45 - Victoria ✔️
 
-None - Xagħra
+<img src='out/MT/61.png' width='32'/> 61 - Xagħra ✔️
 
-None - Xewkija
+<img src='out/MT/62.png' width='32'/> 62 - Xewkija ✔️
 
-None - Xgħajra
+<img src='out/MT/63.png' width='32'/> 63 - Xgħajra ✔️
 
-None - Żabbar
+<img src='out/MT/64.png' width='32'/> 64 - Żabbar ✔️
 
-None - Żebbuġ Gozo
+<img src='out/MT/65.png' width='32'/> 65 - Żebbuġ Gozo ✔️
 
-None - Żebbuġ Malta
+<img src='out/MT/66.png' width='32'/> 66 - Żebbuġ Malta ✔️
 
-None - Żejtun
+<img src='out/MT/67.png' width='32'/> 67 - Żejtun ✔️
 
-None - Żurrieq
+<img src='out/MT/68.png' width='32'/> 68 - Żurrieq ✔️
 
 </details>
 
 
 <details>
 <summary>Man (Isle of) (0/6)</summary>
-None - Ayre
+01 - Ayre
 
-None - Garff
+02 - Garff
 
-None - Glenfaba
+03 - Glenfaba
 
-None - Michael
+04 - Michael
 
-None - Middle
+05 - Middle
 
-None - Rushen
+06 - Rushen
 
 </details>
 
 
 <details>
 <summary>Marshall Islands ✔️ (2/2)</summary>
-None - Ralik
+<img src='out/MH/L.png' width='32'/> L - Ralik ✔️
 
-None - Ratak
+<img src='out/MH/T.png' width='32'/> T - Ratak ✔️
 
 </details>
 
 
 <details>
 <summary>Martinique (0/4)</summary>
-None - Fort-de-France
+01 - Fort-de-France
 
-None - La Trinité
+02 - La Trinité
 
-None - Le Marin
+03 - Le Marin
 
-None - Saint-Pierre
+04 - Saint-Pierre
 
 </details>
 
 
 <details>
 <summary>Mauritania (0/15)</summary>
-None - Adrar
+07 - Adrar
 
-None - Assaba
+03 - Assaba
 
-None - Brakna
+05 - Brakna
 
-None - Dakhlet Nouadhibou
+08 - Dakhlet Nouadhibou
 
-None - Gorgol
+04 - Gorgol
 
-None - Guidimaka
+10 - Guidimaka
 
-None - Hodh Ech Chargui
+01 - Hodh Ech Chargui
 
-None - Hodh El Gharbi
+02 - Hodh El Gharbi
 
-None - Inchiri
+12 - Inchiri
 
-None - Nouakchott-Nord
+14 - Nouakchott-Nord
 
-None - Nouakchott-Ouest
+13 - Nouakchott-Ouest
 
-None - Nouakchott-Sud
+15 - Nouakchott-Sud
 
-None - Tagant
+09 - Tagant
 
-None - Tiris Zemmour
+11 - Tiris Zemmour
 
-None - Trarza
+06 - Trarza
 
 </details>
 
 
 <details>
 <summary>Mauritius (4/12)</summary>
-None - Agalega Islands
+AG - Agalega Islands
 
-None - Black River
+BL - Black River
 
-None - Flacq
+FL - Flacq
 
-None - Grand Port
+GP - Grand Port
 
-None - Moka
+MO - Moka
 
-None - Pamplemousses
+PA - Pamplemousses
 
-None - Plaines Wilhems
+PW - Plaines Wilhems
 
-None - Port Louis
+<img src='out/MU/PL.png' width='32'/> PL - Port Louis ✔️
 
-None - Rivière du Rempart
+RR - Rivière du Rempart
 
-None - Rodrigues Island
+<img src='out/MU/RO.png' width='32'/> RO - Rodrigues Island ✔️
 
-None - Saint Brandon Islands
+CC - Saint Brandon Islands
 
-None - Savanne
+SA - Savanne
 
 </details>
 
 
 <details>
 <summary>Mayotte (0/17)</summary>
-None - Acoua
+14 - Acoua
 
-None - Bandraboua
+16 - Bandraboua
 
-None - Bandrélé
+05 - Bandrélé
 
-None - Boueni
+07 - Boueni
 
-None - Chiconi
+11 - Chiconi
 
-None - Chirongui
+08 - Chirongui
 
-None - Dembeni
+04 - Dembeni
 
-None - Dzaoudzi
+01 - Dzaoudzi
 
-None - Kani Keli
+06 - Kani Keli
 
-None - Koungou
+17 - Koungou
 
-None - M'Tsangamouji
+13 - M'Tsangamouji
 
-None - Mamoudzou
+03 - Mamoudzou
 
-None - Mtsamboro
+15 - Mtsamboro
 
-None - Ouangani
+10 - Ouangani
 
-None - Pamandzi
+02 - Pamandzi
 
-None - Sada
+09 - Sada
 
-None - Tsingoni
+12 - Tsingoni
 
 </details>
 
 
 <details>
 <summary>Mexico ✔️ (32/32)</summary>
-None - Aguascalientes
+<img src='out/MX/AGU.png' width='32'/> AGU - Aguascalientes ✔️
 
-None - Baja California
+<img src='out/MX/BCN.png' width='32'/> BCN - Baja California ✔️
 
-None - Baja California Sur
+<img src='out/MX/BCS.png' width='32'/> BCS - Baja California Sur ✔️
 
-None - Campeche
+<img src='out/MX/CAM.png' width='32'/> CAM - Campeche ✔️
 
-None - Chiapas
+<img src='out/MX/CHP.png' width='32'/> CHP - Chiapas ✔️
 
-None - Chihuahua
+<img src='out/MX/CHH.png' width='32'/> CHH - Chihuahua ✔️
 
-None - Ciudad de México
+<img src='out/MX/CMX.png' width='32'/> CMX - Ciudad de México ✔️
 
-None - Coahuila de Zaragoza
+<img src='out/MX/COA.png' width='32'/> COA - Coahuila de Zaragoza ✔️
 
-None - Colima
+<img src='out/MX/COL.png' width='32'/> COL - Colima ✔️
 
-None - Durango
+<img src='out/MX/DUR.png' width='32'/> DUR - Durango ✔️
 
-None - Estado de México
+<img src='out/MX/MEX.png' width='32'/> MEX - Estado de México ✔️
 
-None - Guanajuato
+<img src='out/MX/GUA.png' width='32'/> GUA - Guanajuato ✔️
 
-None - Guerrero
+<img src='out/MX/GRO.png' width='32'/> GRO - Guerrero ✔️
 
-None - Hidalgo
+<img src='out/MX/HID.png' width='32'/> HID - Hidalgo ✔️
 
-None - Jalisco
+<img src='out/MX/JAL.png' width='32'/> JAL - Jalisco ✔️
 
-None - Michoacán de Ocampo
+<img src='out/MX/MIC.png' width='32'/> MIC - Michoacán de Ocampo ✔️
 
-None - Morelos
+<img src='out/MX/MOR.png' width='32'/> MOR - Morelos ✔️
 
-None - Nayarit
+<img src='out/MX/NAY.png' width='32'/> NAY - Nayarit ✔️
 
-None - Nuevo León
+<img src='out/MX/NLE.png' width='32'/> NLE - Nuevo León ✔️
 
-None - Oaxaca
+<img src='out/MX/OAX.png' width='32'/> OAX - Oaxaca ✔️
 
-None - Puebla
+<img src='out/MX/PUE.png' width='32'/> PUE - Puebla ✔️
 
-None - Querétaro
+<img src='out/MX/QUE.png' width='32'/> QUE - Querétaro ✔️
 
-None - Quintana Roo
+<img src='out/MX/ROO.png' width='32'/> ROO - Quintana Roo ✔️
 
-None - San Luis Potosí
+<img src='out/MX/SLP.png' width='32'/> SLP - San Luis Potosí ✔️
 
-None - Sinaloa
+<img src='out/MX/SIN.png' width='32'/> SIN - Sinaloa ✔️
 
-None - Sonora
+<img src='out/MX/SON.png' width='32'/> SON - Sonora ✔️
 
-None - Tabasco
+<img src='out/MX/TAB.png' width='32'/> TAB - Tabasco ✔️
 
-None - Tamaulipas
+<img src='out/MX/TAM.png' width='32'/> TAM - Tamaulipas ✔️
 
-None - Tlaxcala
+<img src='out/MX/TLA.png' width='32'/> TLA - Tlaxcala ✔️
 
-None - Veracruz de Ignacio de la Llave
+<img src='out/MX/VER.png' width='32'/> VER - Veracruz de Ignacio de la Llave ✔️
 
-None - Yucatán
+<img src='out/MX/YUC.png' width='32'/> YUC - Yucatán ✔️
 
-None - Zacatecas
+<img src='out/MX/ZAC.png' width='32'/> ZAC - Zacatecas ✔️
 
 </details>
 
 
 <details>
 <summary>Micronesia ✔️ (4/4)</summary>
-None - Chuuk
+<img src='out/FM/TRK.png' width='32'/> TRK - Chuuk ✔️
 
-None - Kosrae
+<img src='out/FM/KSA.png' width='32'/> KSA - Kosrae ✔️
 
-None - Pohnpei
+<img src='out/FM/PNI.png' width='32'/> PNI - Pohnpei ✔️
 
-None - Yap
+<img src='out/FM/YAP.png' width='32'/> YAP - Yap ✔️
 
 </details>
 
 
 <details>
 <summary>Moldova (35/36)</summary>
-None - Anenii Noi
+<img src='out/MD/AN.png' width='32'/> AN - Anenii Noi ✔️
 
-None - Bălți
+<img src='out/MD/BA.png' width='32'/> BA - Bălți ✔️
 
-None - Basarabeasca
+<img src='out/MD/BS.png' width='32'/> BS - Basarabeasca ✔️
 
-None - Bender
+<img src='out/MD/BD.png' width='32'/> BD - Bender ✔️
 
-None - Briceni
+<img src='out/MD/BR.png' width='32'/> BR - Briceni ✔️
 
-None - Cahul
+<img src='out/MD/CA.png' width='32'/> CA - Cahul ✔️
 
-None - Călărași
+<img src='out/MD/CL.png' width='32'/> CL - Călărași ✔️
 
-None - Cantemir
+<img src='out/MD/CT.png' width='32'/> CT - Cantemir ✔️
 
-None - Căușeni
+<img src='out/MD/CS.png' width='32'/> CS - Căușeni ✔️
 
-None - Chișinău
+<img src='out/MD/CU.png' width='32'/> CU - Chișinău ✔️
 
-None - Cimișlia
+<img src='out/MD/CM.png' width='32'/> CM - Cimișlia ✔️
 
-None - Criuleni
+<img src='out/MD/CR.png' width='32'/> CR - Criuleni ✔️
 
-None - Dondușeni
+<img src='out/MD/DO.png' width='32'/> DO - Dondușeni ✔️
 
-None - Drochia
+<img src='out/MD/DR.png' width='32'/> DR - Drochia ✔️
 
-None - Dubăsari
+<img src='out/MD/DU.png' width='32'/> DU - Dubăsari ✔️
 
-None - Edineț
+<img src='out/MD/ED.png' width='32'/> ED - Edineț ✔️
 
-None - Fălești
+<img src='out/MD/FA.png' width='32'/> FA - Fălești ✔️
 
-None - Florești
+<img src='out/MD/FL.png' width='32'/> FL - Florești ✔️
 
-None - Gagauzia
+<img src='out/MD/GA.png' width='32'/> GA - Gagauzia ✔️
 
-None - Glodeni
+<img src='out/MD/GL.png' width='32'/> GL - Glodeni ✔️
 
-None - Hîncești
+<img src='out/MD/HI.png' width='32'/> HI - Hîncești ✔️
 
-None - Ialoveni
+<img src='out/MD/IA.png' width='32'/> IA - Ialoveni ✔️
 
-None - Nisporeni
+<img src='out/MD/NI.png' width='32'/> NI - Nisporeni ✔️
 
-None - Ocnița
+<img src='out/MD/OC.png' width='32'/> OC - Ocnița ✔️
 
-None - Orhei
+<img src='out/MD/OR.png' width='32'/> OR - Orhei ✔️
 
-None - Rezina
+<img src='out/MD/RE.png' width='32'/> RE - Rezina ✔️
 
-None - Rîșcani
+<img src='out/MD/RI.png' width='32'/> RI - Rîșcani ✔️
 
-None - Sîngerei
+<img src='out/MD/SI.png' width='32'/> SI - Sîngerei ✔️
 
-None - Șoldănești
+<img src='out/MD/SD.png' width='32'/> SD - Șoldănești ✔️
 
-None - Soroca
+<img src='out/MD/SO.png' width='32'/> SO - Soroca ✔️
 
-None - Ștefan Vodă
+<img src='out/MD/SV.png' width='32'/> SV - Ștefan Vodă ✔️
 
-None - Strășeni
+<img src='out/MD/ST.png' width='32'/> ST - Strășeni ✔️
 
-None - Taraclia
+<img src='out/MD/TA.png' width='32'/> TA - Taraclia ✔️
 
-None - Telenești
+<img src='out/MD/TE.png' width='32'/> TE - Telenești ✔️
 
-None - Transnistria
+SN - Transnistria
 
-None - Ungheni
+<img src='out/MD/UN.png' width='32'/> UN - Ungheni ✔️
 
 </details>
 
 
 <details>
 <summary>Monaco (0/3)</summary>
-None - La Colle
+CL - La Colle
 
-None - La Condamine
+CO - La Condamine
 
-None - Moneghetti
+MG - Moneghetti
 
 </details>
 
 
 <details>
 <summary>Mongolia (21/22)</summary>
-None - Arkhangai
+<img src='out/MN/073.png' width='32'/> 073 - Arkhangai ✔️
 
-None - Bayan-Ölgii
+<img src='out/MN/071.png' width='32'/> 071 - Bayan-Ölgii ✔️
 
-None - Bayankhongor
+<img src='out/MN/069.png' width='32'/> 069 - Bayankhongor ✔️
 
-None - Bulgan
+<img src='out/MN/067.png' width='32'/> 067 - Bulgan ✔️
 
-None - Darkhan-Uul
+<img src='out/MN/037.png' width='32'/> 037 - Darkhan-Uul ✔️
 
-None - Dornod
+<img src='out/MN/061.png' width='32'/> 061 - Dornod ✔️
 
-None - Dornogovi
+<img src='out/MN/063.png' width='32'/> 063 - Dornogovi ✔️
 
-None - Dundgovi
+<img src='out/MN/059.png' width='32'/> 059 - Dundgovi ✔️
 
-None - Govi-Altai
+<img src='out/MN/065.png' width='32'/> 065 - Govi-Altai ✔️
 
-None - Govisümber
+<img src='out/MN/064.png' width='32'/> 064 - Govisümber ✔️
 
-None - Khentii
+<img src='out/MN/039.png' width='32'/> 039 - Khentii ✔️
 
-None - Khovd
+<img src='out/MN/043.png' width='32'/> 043 - Khovd ✔️
 
-None - Khövsgöl
+<img src='out/MN/041.png' width='32'/> 041 - Khövsgöl ✔️
 
-None - Ömnögovi
+<img src='out/MN/053.png' width='32'/> 053 - Ömnögovi ✔️
 
-None - Orkhon
+<img src='out/MN/035.png' width='32'/> 035 - Orkhon ✔️
 
-None - Övörkhangai
+<img src='out/MN/055.png' width='32'/> 055 - Övörkhangai ✔️
 
-None - Selenge
+<img src='out/MN/049.png' width='32'/> 049 - Selenge ✔️
 
-None - Sükhbaatar
+<img src='out/MN/051.png' width='32'/> 051 - Sükhbaatar ✔️
 
-None - Töv
+<img src='out/MN/047.png' width='32'/> 047 - Töv ✔️
 
-None - Ulaanbaatar
+001 - Ulaanbaatar
 
-None - Uvs
+<img src='out/MN/046.png' width='32'/> 046 - Uvs ✔️
 
-None - Zavkhan
+<img src='out/MN/057.png' width='32'/> 057 - Zavkhan ✔️
 
 </details>
 
 
 <details>
 <summary>Montenegro ✔️ (22/22)</summary>
-None - Andrijevica
+<img src='out/ME/01.png' width='32'/> 01 - Andrijevica ✔️
 
-None - Bar
+<img src='out/ME/02.png' width='32'/> 02 - Bar ✔️
 
-None - Berane
+<img src='out/ME/03.png' width='32'/> 03 - Berane ✔️
 
-None - Bijelo Polje
+<img src='out/ME/04.png' width='32'/> 04 - Bijelo Polje ✔️
 
-None - Budva
+<img src='out/ME/05.png' width='32'/> 05 - Budva ✔️
 
-None - Danilovgrad
+<img src='out/ME/07.png' width='32'/> 07 - Danilovgrad ✔️
 
-None - Gusinje
+<img src='out/ME/22.png' width='32'/> 22 - Gusinje ✔️
 
-None - Kolašin
+<img src='out/ME/09.png' width='32'/> 09 - Kolašin ✔️
 
-None - Kotor
+<img src='out/ME/10.png' width='32'/> 10 - Kotor ✔️
 
-None - Mojkovac
+<img src='out/ME/11.png' width='32'/> 11 - Mojkovac ✔️
 
-None - Nikšić
+<img src='out/ME/12.png' width='32'/> 12 - Nikšić ✔️
 
-None - Old Royal Capital Cetinje
+<img src='out/ME/06.png' width='32'/> 06 - Old Royal Capital Cetinje ✔️
 
-None - Petnjica
+<img src='out/ME/23.png' width='32'/> 23 - Petnjica ✔️
 
-None - Plav
+<img src='out/ME/13.png' width='32'/> 13 - Plav ✔️
 
-None - Pljevlja
+<img src='out/ME/14.png' width='32'/> 14 - Pljevlja ✔️
 
-None - Plužine
+<img src='out/ME/15.png' width='32'/> 15 - Plužine ✔️
 
-None - Podgorica
+<img src='out/ME/16.png' width='32'/> 16 - Podgorica ✔️
 
-None - Rožaje
+<img src='out/ME/17.png' width='32'/> 17 - Rožaje ✔️
 
-None - Šavnik
+<img src='out/ME/18.png' width='32'/> 18 - Šavnik ✔️
 
-None - Tivat
+<img src='out/ME/19.png' width='32'/> 19 - Tivat ✔️
 
-None - Ulcinj
+<img src='out/ME/20.png' width='32'/> 20 - Ulcinj ✔️
 
-None - Žabljak
+<img src='out/ME/21.png' width='32'/> 21 - Žabljak ✔️
 
 </details>
 
 
 <details>
 <summary>Montserrat (0/3)</summary>
-None - Saint Anthony
+03 - Saint Anthony
 
-None - Saint Georges
+02 - Saint Georges
 
-None - Saint Peter
+01 - Saint Peter
 
 </details>
 
 
 <details>
 <summary>Morocco (39/87)</summary>
-None - Agadir-Ida-Ou-Tanane
+<img src='out/MA/AGD.png' width='32'/> AGD - Agadir-Ida-Ou-Tanane ✔️
 
-None - Al Haouz
+HAO - Al Haouz
 
-None - Al Hoceïma
+<img src='out/MA/HOC.png' width='32'/> HOC - Al Hoceïma ✔️
 
-None - Aousserd (EH)
+AOU - Aousserd (EH)
 
-None - Assa-Zag (EH-partial)
+ASZ - Assa-Zag (EH-partial)
 
-None - Azilal
+<img src='out/MA/AZI.png' width='32'/> AZI - Azilal ✔️
 
-None - Béni Mellal
+<img src='out/MA/BEM.png' width='32'/> BEM - Béni Mellal ✔️
 
-None - Béni Mellal-Khénifra
+05 - Béni Mellal-Khénifra
 
-None - Benslimane
+<img src='out/MA/BES.png' width='32'/> BES - Benslimane ✔️
 
-None - Berkane
+BER - Berkane
 
-None - Berrechid
+BRR - Berrechid
 
-None - Boujdour (EH)
+<img src='out/MA/BOD.png' width='32'/> BOD - Boujdour (EH) ✔️
 
-None - Boulemane
+BOM - Boulemane
 
-None - Casablanca
+<img src='out/MA/CAS.png' width='32'/> CAS - Casablanca ✔️
 
-None - Casablanca-Settat
+06 - Casablanca-Settat
 
-None - Chefchaouen
+<img src='out/MA/CHE.png' width='32'/> CHE - Chefchaouen ✔️
 
-None - Chichaoua
+CHI - Chichaoua
 
-None - Chtouka-Ait Baha
+CHT - Chtouka-Ait Baha
 
-None - Dakhla-Oued Ed-Dahab (EH)
+12 - Dakhla-Oued Ed-Dahab (EH)
 
-None - Drâa-Tafilalet
+08 - Drâa-Tafilalet
 
-None - Driouch
+DRI - Driouch
 
-None - El Hajeb
+HAJ - El Hajeb
 
-None - El Jadida
+<img src='out/MA/JDI.png' width='32'/> JDI - El Jadida ✔️
 
-None - El Kelâa des Sraghna
+<img src='out/MA/KES.png' width='32'/> KES - El Kelâa des Sraghna ✔️
 
-None - Errachidia
+<img src='out/MA/ERR.png' width='32'/> ERR - Errachidia ✔️
 
-None - Es-Semara (EH-partial)
+ESM - Es-Semara (EH-partial)
 
-None - Essaouira
+<img src='out/MA/ESI.png' width='32'/> ESI - Essaouira ✔️
 
-None - Fahs-Anjra
+FAH - Fahs-Anjra
 
-None - Fès
+<img src='out/MA/FES.png' width='32'/> FES - Fès ✔️
 
-None - Fès-Meknès
+03 - Fès-Meknès
 
-None - Figuig
+<img src='out/MA/FIG.png' width='32'/> FIG - Figuig ✔️
 
-None - Fquih Ben Salah
+FQH - Fquih Ben Salah
 
-None - Guelmim
+<img src='out/MA/GUE.png' width='32'/> GUE - Guelmim ✔️
 
-None - Guelmim-Oued Noun (EH-partial)
+10 - Guelmim-Oued Noun (EH-partial)
 
-None - Guercif
+GUF - Guercif
 
-None - Ifrane
+<img src='out/MA/IFR.png' width='32'/> IFR - Ifrane ✔️
 
-None - Inezgane-Ait Melloul
+INE - Inezgane-Ait Melloul
 
-None - Jerada
+JRA - Jerada
 
-None - Kénitra
+<img src='out/MA/KEN.png' width='32'/> KEN - Kénitra ✔️
 
-None - Khémisset
+<img src='out/MA/KHE.png' width='32'/> KHE - Khémisset ✔️
 
-None - Khénifra
+<img src='out/MA/KHN.png' width='32'/> KHN - Khénifra ✔️
 
-None - Khouribga
+<img src='out/MA/KHO.png' width='32'/> KHO - Khouribga ✔️
 
-None - L'Oriental
+02 - L'Oriental
 
-None - Laâyoune (EH)
+<img src='out/MA/LAA.png' width='32'/> LAA - Laâyoune (EH) ✔️
 
-None - Laâyoune-Sakia El Hamra (EH-partial)
+11 - Laâyoune-Sakia El Hamra (EH-partial)
 
-None - Larache
+<img src='out/MA/LAR.png' width='32'/> LAR - Larache ✔️
 
-None - M’diq-Fnideq
+MDF - M’diq-Fnideq
 
-None - Marrakech
+<img src='out/MA/MAR.png' width='32'/> MAR - Marrakech ✔️
 
-None - Marrakesh-Safi
+07 - Marrakesh-Safi
 
-None - Médiouna
+MED - Médiouna
 
-None - Meknès
+<img src='out/MA/MEK.png' width='32'/> MEK - Meknès ✔️
 
-None - Midelt
+MID - Midelt
 
-None - Mohammadia
+MOH - Mohammadia
 
-None - Moulay Yacoub
+MOU - Moulay Yacoub
 
-None - Nador
+<img src='out/MA/NAD.png' width='32'/> NAD - Nador ✔️
 
-None - Nouaceur
+NOU - Nouaceur
 
-None - Ouarzazate
+<img src='out/MA/OUA.png' width='32'/> OUA - Ouarzazate ✔️
 
-None - Oued Ed-Dahab (EH)
+OUD - Oued Ed-Dahab (EH)
 
-None - Ouezzane
+OUZ - Ouezzane
 
-None - Oujda-Angad
+<img src='out/MA/OUJ.png' width='32'/> OUJ - Oujda-Angad ✔️
 
-None - Rabat
+RAB - Rabat
 
-None - Rabat-Salé-Kénitra
+04 - Rabat-Salé-Kénitra
 
-None - Rehamna
+REH - Rehamna
 
-None - Safi
+<img src='out/MA/SAF.png' width='32'/> SAF - Safi ✔️
 
-None - Salé
+SAL - Salé
 
-None - Sefrou
+SEF - Sefrou
 
-None - Settat
+<img src='out/MA/SET.png' width='32'/> SET - Settat ✔️
 
-None - Sidi Bennour
+<img src='out/MA/SIB.png' width='32'/> SIB - Sidi Bennour ✔️
 
-None - Sidi Ifni
+SIF - Sidi Ifni
 
-None - Sidi Kacem
+<img src='out/MA/SIK.png' width='32'/> SIK - Sidi Kacem ✔️
 
-None - Sidi Slimane
+SIL - Sidi Slimane
 
-None - Skhirate-Témara
+SKH - Skhirate-Témara
 
-None - Souss-Massa
+09 - Souss-Massa
 
-None - Tan-Tan (EH-partial)
+<img src='out/MA/TNT.png' width='32'/> TNT - Tan-Tan (EH-partial) ✔️
 
-None - Tanger-Assilah
+<img src='out/MA/TNG.png' width='32'/> TNG - Tanger-Assilah ✔️
 
-None - Tanger-Tétouan-Al Hoceïma
+01 - Tanger-Tétouan-Al Hoceïma
 
-None - Taounate
+<img src='out/MA/TAO.png' width='32'/> TAO - Taounate ✔️
 
-None - Taourirt
+TAI - Taourirt
 
-None - Tarfaya (EH-partial)
+TAF - Tarfaya (EH-partial)
 
-None - Taroudannt
+<img src='out/MA/TAR.png' width='32'/> TAR - Taroudannt ✔️
 
-None - Tata
+<img src='out/MA/TAT.png' width='32'/> TAT - Tata ✔️
 
-None - Taza
+<img src='out/MA/TAZ.png' width='32'/> TAZ - Taza ✔️
 
-None - Tétouan
+<img src='out/MA/TET.png' width='32'/> TET - Tétouan ✔️
 
-None - Tinghir
+TIN - Tinghir
 
-None - Tiznit
+<img src='out/MA/TIZ.png' width='32'/> TIZ - Tiznit ✔️
 
-None - Youssoufia
+YUS - Youssoufia
 
-None - Zagora
+ZAG - Zagora
 
 </details>
 
 
 <details>
 <summary>Mozambique ✔️ (11/11)</summary>
-None - Cabo Delgado
+<img src='out/MZ/P.png' width='32'/> P - Cabo Delgado ✔️
 
-None - Gaza
+<img src='out/MZ/G.png' width='32'/> G - Gaza ✔️
 
-None - Inhambane
+<img src='out/MZ/I.png' width='32'/> I - Inhambane ✔️
 
-None - Manica
+<img src='out/MZ/B.png' width='32'/> B - Manica ✔️
 
-None - Maputo
+<img src='out/MZ/L.png' width='32'/> L - Maputo ✔️
 
-None - Maputo
+<img src='out/MZ/MPM.png' width='32'/> MPM - Maputo ✔️
 
-None - Nampula
+<img src='out/MZ/N.png' width='32'/> N - Nampula ✔️
 
-None - Niassa
+<img src='out/MZ/A.png' width='32'/> A - Niassa ✔️
 
-None - Sofala
+<img src='out/MZ/S.png' width='32'/> S - Sofala ✔️
 
-None - Tete
+<img src='out/MZ/T.png' width='32'/> T - Tete ✔️
 
-None - Zambezia
+<img src='out/MZ/Q.png' width='32'/> Q - Zambezia ✔️
 
 </details>
 
 
 <details>
 <summary>Myanmar ✔️ (15/15)</summary>
-None - Ayeyarwady
+<img src='out/MM/07.png' width='32'/> 07 - Ayeyarwady ✔️
 
-None - Bago
+<img src='out/MM/02.png' width='32'/> 02 - Bago ✔️
 
-None - Chin
+<img src='out/MM/14.png' width='32'/> 14 - Chin ✔️
 
-None - Kachin
+<img src='out/MM/11.png' width='32'/> 11 - Kachin ✔️
 
-None - Kayah
+<img src='out/MM/12.png' width='32'/> 12 - Kayah ✔️
 
-None - Kayin
+<img src='out/MM/13.png' width='32'/> 13 - Kayin ✔️
 
-None - Magway
+<img src='out/MM/03.png' width='32'/> 03 - Magway ✔️
 
-None - Mandalay
+<img src='out/MM/04.png' width='32'/> 04 - Mandalay ✔️
 
-None - Mon State
+<img src='out/MM/15.png' width='32'/> 15 - Mon State ✔️
 
-None - Naypyidaw
+<img src='out/MM/18.png' width='32'/> 18 - Naypyidaw ✔️
 
-None - Rakhine
+<img src='out/MM/16.png' width='32'/> 16 - Rakhine ✔️
 
-None - Sagaing
+<img src='out/MM/01.png' width='32'/> 01 - Sagaing ✔️
 
-None - Shan
+<img src='out/MM/17.png' width='32'/> 17 - Shan ✔️
 
-None - Tanintharyi
+<img src='out/MM/05.png' width='32'/> 05 - Tanintharyi ✔️
 
-None - Yangon
+<img src='out/MM/06.png' width='32'/> 06 - Yangon ✔️
 
 </details>
 
 
 <details>
 <summary>Namibia (3/14)</summary>
-None - Erongo
+<img src='out/NA/ER.png' width='32'/> ER - Erongo ✔️
 
-None - Hardap
+HA - Hardap
 
-None - Karas
+KA - Karas
 
-None - Kavango East
+KE - Kavango East
 
-None - Kavango West
+KW - Kavango West
 
-None - Khomas
+<img src='out/NA/KH.png' width='32'/> KH - Khomas ✔️
 
-None - Kunene
+<img src='out/NA/KU.png' width='32'/> KU - Kunene ✔️
 
-None - Ohangwena
+OW - Ohangwena
 
-None - Omaheke
+OH - Omaheke
 
-None - Omusati
+OS - Omusati
 
-None - Oshana
+ON - Oshana
 
-None - Oshikoto
+OT - Oshikoto
 
-None - Otjozondjupa
+OD - Otjozondjupa
 
-None - Zambezi
+CA - Zambezi
 
 </details>
 
 
 <details>
 <summary>Nauru (0/14)</summary>
-None - Aiwo
+01 - Aiwo
 
-None - Anabar
+02 - Anabar
 
-None - Anetan
+03 - Anetan
 
-None - Anibare
+04 - Anibare
 
-None - Baiti
+05 - Baiti
 
-None - Boe
+06 - Boe
 
-None - Buada
+07 - Buada
 
-None - Denigomodu
+08 - Denigomodu
 
-None - Ewa
+09 - Ewa
 
-None - Ijuw
+10 - Ijuw
 
-None - Meneng
+11 - Meneng
 
-None - Nibok
+12 - Nibok
 
-None - Uaboe
+13 - Uaboe
 
-None - Yaren
+14 - Yaren
 
 </details>
 
 
 <details>
 <summary>Nepal (0/7)</summary>
-None - Bagmati
+P3 - Bagmati
 
-None - Gandaki
+P4 - Gandaki
 
-None - Karnali
+P6 - Karnali
 
-None - Koshi
+P1 - Koshi
 
-None - Lumbini
+P5 - Lumbini
 
-None - Madhesh
+P2 - Madhesh
 
-None - Sudurpashchim
+P7 - Sudurpashchim
 
 </details>
 
 
 <details>
 <summary>Netherlands (15/12)</summary>
-None - Drenthe
+<img src='out/NL/DR.png' width='32'/> DR - Drenthe ✔️
 
-None - Flevoland
+<img src='out/NL/FL.png' width='32'/> FL - Flevoland ✔️
 
-None - Friesland
+<img src='out/NL/FR.png' width='32'/> FR - Friesland ✔️
 
-None - Gelderland
+<img src='out/NL/GE.png' width='32'/> GE - Gelderland ✔️
 
-None - Groningen
+<img src='out/NL/GR.png' width='32'/> GR - Groningen ✔️
 
-None - Limburg
+<img src='out/NL/LI.png' width='32'/> LI - Limburg ✔️
 
-None - North Brabant
+<img src='out/NL/NB.png' width='32'/> NB - North Brabant ✔️
 
-None - North Holland
+<img src='out/NL/NH.png' width='32'/> NH - North Holland ✔️
 
-None - Overijssel
+<img src='out/NL/OV.png' width='32'/> OV - Overijssel ✔️
 
-None - South Holland
+<img src='out/NL/ZH.png' width='32'/> ZH - South Holland ✔️
 
-None - Utrecht
+<img src='out/NL/UT.png' width='32'/> UT - Utrecht ✔️
 
-None - Zeeland
+<img src='out/NL/ZE.png' width='32'/> ZE - Zeeland ✔️
 
 </details>
 
 
 <details>
 <summary>New Caledonia (0/3)</summary>
-None - Loyalty Islands Province
+03 - Loyalty Islands Province
 
-None - North Province
+02 - North Province
 
-None - South Province
+01 - South Province
 
 </details>
 
 
 <details>
 <summary>New Zealand (14/17)</summary>
-None - Auckland
+<img src='out/NZ/AUK.png' width='32'/> AUK - Auckland ✔️
 
-None - Bay of Plenty
+<img src='out/NZ/BOP.png' width='32'/> BOP - Bay of Plenty ✔️
 
-None - Canterbury
+<img src='out/NZ/CAN.png' width='32'/> CAN - Canterbury ✔️
 
-None - Chatham Islands
+<img src='out/NZ/CIT.png' width='32'/> CIT - Chatham Islands ✔️
 
-None - Gisborne
+GIS - Gisborne
 
-None - Hawke's Bay
+HKB - Hawke's Bay
 
-None - Manawatu-Wanganui
+<img src='out/NZ/MWT.png' width='32'/> MWT - Manawatu-Wanganui ✔️
 
-None - Marlborough
+MBH - Marlborough
 
-None - Nelson
+<img src='out/NZ/NSN.png' width='32'/> NSN - Nelson ✔️
 
-None - Northland
+<img src='out/NZ/NTL.png' width='32'/> NTL - Northland ✔️
 
-None - Otago
+<img src='out/NZ/OTA.png' width='32'/> OTA - Otago ✔️
 
-None - Southland
+<img src='out/NZ/STL.png' width='32'/> STL - Southland ✔️
 
-None - Taranaki
+<img src='out/NZ/TKI.png' width='32'/> TKI - Taranaki ✔️
 
-None - Tasman
+<img src='out/NZ/TAS.png' width='32'/> TAS - Tasman ✔️
 
-None - Waikato
+<img src='out/NZ/WKO.png' width='32'/> WKO - Waikato ✔️
 
-None - Wellington
+<img src='out/NZ/WGN.png' width='32'/> WGN - Wellington ✔️
 
-None - West Coast
+<img src='out/NZ/WTC.png' width='32'/> WTC - West Coast ✔️
 
 </details>
 
 
 <details>
 <summary>Nicaragua ✔️ (17/17)</summary>
-None - Boaco
+<img src='out/NI/BO.png' width='32'/> BO - Boaco ✔️
 
-None - Carazo
+<img src='out/NI/CA.png' width='32'/> CA - Carazo ✔️
 
-None - Chinandega
+<img src='out/NI/CI.png' width='32'/> CI - Chinandega ✔️
 
-None - Chontales
+<img src='out/NI/CO.png' width='32'/> CO - Chontales ✔️
 
-None - Estelí
+<img src='out/NI/ES.png' width='32'/> ES - Estelí ✔️
 
-None - Granada
+<img src='out/NI/GR.png' width='32'/> GR - Granada ✔️
 
-None - Jinotega
+<img src='out/NI/JI.png' width='32'/> JI - Jinotega ✔️
 
-None - León
+<img src='out/NI/LE.png' width='32'/> LE - León ✔️
 
-None - Madriz
+<img src='out/NI/MD.png' width='32'/> MD - Madriz ✔️
 
-None - Managua
+<img src='out/NI/MN.png' width='32'/> MN - Managua ✔️
 
-None - Masaya
+<img src='out/NI/MS.png' width='32'/> MS - Masaya ✔️
 
-None - Matagalpa
+<img src='out/NI/MT.png' width='32'/> MT - Matagalpa ✔️
 
-None - North Caribbean Coast
+<img src='out/NI/AN.png' width='32'/> AN - North Caribbean Coast ✔️
 
-None - Nueva Segovia
+<img src='out/NI/NS.png' width='32'/> NS - Nueva Segovia ✔️
 
-None - Río San Juan
+<img src='out/NI/SJ.png' width='32'/> SJ - Río San Juan ✔️
 
-None - Rivas
+<img src='out/NI/RI.png' width='32'/> RI - Rivas ✔️
 
-None - South Caribbean Coast
+<img src='out/NI/AS.png' width='32'/> AS - South Caribbean Coast ✔️
 
 </details>
 
 
 <details>
 <summary>Niger (0/7)</summary>
-None - Agadez
+1 - Agadez
 
-None - Diffa
+2 - Diffa
 
-None - Dosso
+3 - Dosso
 
-None - Maradi
+4 - Maradi
 
-None - Tahoua
+5 - Tahoua
 
-None - Tillabéri
+6 - Tillabéri
 
-None - Zinder
+7 - Zinder
 
 </details>
 
 
 <details>
 <summary>Nigeria ✔️ (37/37)</summary>
-None - Abia
+<img src='out/NG/AB.png' width='32'/> AB - Abia ✔️
 
-None - Abuja Federal Capital Territory
+<img src='out/NG/FC.png' width='32'/> FC - Abuja Federal Capital Territory ✔️
 
-None - Adamawa
+<img src='out/NG/AD.png' width='32'/> AD - Adamawa ✔️
 
-None - Akwa Ibom
+<img src='out/NG/AK.png' width='32'/> AK - Akwa Ibom ✔️
 
-None - Anambra
+<img src='out/NG/AN.png' width='32'/> AN - Anambra ✔️
 
-None - Bauchi
+<img src='out/NG/BA.png' width='32'/> BA - Bauchi ✔️
 
-None - Bayelsa
+<img src='out/NG/BY.png' width='32'/> BY - Bayelsa ✔️
 
-None - Benue
+<img src='out/NG/BE.png' width='32'/> BE - Benue ✔️
 
-None - Borno
+<img src='out/NG/BO.png' width='32'/> BO - Borno ✔️
 
-None - Cross River
+<img src='out/NG/CR.png' width='32'/> CR - Cross River ✔️
 
-None - Delta
+<img src='out/NG/DE.png' width='32'/> DE - Delta ✔️
 
-None - Ebonyi
+<img src='out/NG/EB.png' width='32'/> EB - Ebonyi ✔️
 
-None - Edo
+<img src='out/NG/ED.png' width='32'/> ED - Edo ✔️
 
-None - Ekiti
+<img src='out/NG/EK.png' width='32'/> EK - Ekiti ✔️
 
-None - Enugu
+<img src='out/NG/EN.png' width='32'/> EN - Enugu ✔️
 
-None - Gombe
+<img src='out/NG/GO.png' width='32'/> GO - Gombe ✔️
 
-None - Imo
+<img src='out/NG/IM.png' width='32'/> IM - Imo ✔️
 
-None - Jigawa
+<img src='out/NG/JI.png' width='32'/> JI - Jigawa ✔️
 
-None - Kaduna
+<img src='out/NG/KD.png' width='32'/> KD - Kaduna ✔️
 
-None - Kano
+<img src='out/NG/KN.png' width='32'/> KN - Kano ✔️
 
-None - Katsina
+<img src='out/NG/KT.png' width='32'/> KT - Katsina ✔️
 
-None - Kebbi
+<img src='out/NG/KE.png' width='32'/> KE - Kebbi ✔️
 
-None - Kogi
+<img src='out/NG/KO.png' width='32'/> KO - Kogi ✔️
 
-None - Kwara
+<img src='out/NG/KW.png' width='32'/> KW - Kwara ✔️
 
-None - Lagos
+<img src='out/NG/LA.png' width='32'/> LA - Lagos ✔️
 
-None - Nasarawa
+<img src='out/NG/NA.png' width='32'/> NA - Nasarawa ✔️
 
-None - Niger
+<img src='out/NG/NI.png' width='32'/> NI - Niger ✔️
 
-None - Ogun
+<img src='out/NG/OG.png' width='32'/> OG - Ogun ✔️
 
-None - Ondo
+<img src='out/NG/ON.png' width='32'/> ON - Ondo ✔️
 
-None - Osun
+<img src='out/NG/OS.png' width='32'/> OS - Osun ✔️
 
-None - Oyo
+<img src='out/NG/OY.png' width='32'/> OY - Oyo ✔️
 
-None - Plateau
+<img src='out/NG/PL.png' width='32'/> PL - Plateau ✔️
 
-None - Rivers
+<img src='out/NG/RI.png' width='32'/> RI - Rivers ✔️
 
-None - Sokoto
+<img src='out/NG/SO.png' width='32'/> SO - Sokoto ✔️
 
-None - Taraba
+<img src='out/NG/TA.png' width='32'/> TA - Taraba ✔️
 
-None - Yobe
+<img src='out/NG/YO.png' width='32'/> YO - Yobe ✔️
 
-None - Zamfara
+<img src='out/NG/ZA.png' width='32'/> ZA - Zamfara ✔️
 
 </details>
 
 
 <details>
 <summary>Niue (0/14)</summary>
-None - Alofi North
+14 - Alofi North
 
-None - Alofi South
+13 - Alofi South
 
-None - Avatele
+11 - Avatele
 
-None - Hakupu
+09 - Hakupu
 
-None - Hikutavake
+04 - Hikutavake
 
-None - Lakepa
+07 - Lakepa
 
-None - Liku
+08 - Liku
 
-None - Makefu
+01 - Makefu
 
-None - Mutalau
+06 - Mutalau
 
-None - Namukulu
+03 - Namukulu
 
-None - Tamakautoga
+12 - Tamakautoga
 
-None - Toi
+05 - Toi
 
-None - Tuapa
+02 - Tuapa
 
-None - Vaiea
+10 - Vaiea
 
 </details>
 
 
 <details>
 <summary>North Korea ✔️ (11/11)</summary>
-None - Chagang
+<img src='out/KP/04.png' width='32'/> 04 - Chagang ✔️
 
-None - Kangwon
+<img src='out/KP/07.png' width='32'/> 07 - Kangwon ✔️
 
-None - North Hamgyong
+<img src='out/KP/09.png' width='32'/> 09 - North Hamgyong ✔️
 
-None - North Hwanghae
+<img src='out/KP/06.png' width='32'/> 06 - North Hwanghae ✔️
 
-None - North Pyongan
+<img src='out/KP/03.png' width='32'/> 03 - North Pyongan ✔️
 
-None - Pyongyang
+<img src='out/KP/01.png' width='32'/> 01 - Pyongyang ✔️
 
-None - Rason
+<img src='out/KP/13.png' width='32'/> 13 - Rason ✔️
 
-None - Ryanggang
+<img src='out/KP/10.png' width='32'/> 10 - Ryanggang ✔️
 
-None - South Hamgyong
+<img src='out/KP/08.png' width='32'/> 08 - South Hamgyong ✔️
 
-None - South Hwanghae
+<img src='out/KP/05.png' width='32'/> 05 - South Hwanghae ✔️
 
-None - South Pyongan
+<img src='out/KP/02.png' width='32'/> 02 - South Pyongan ✔️
 
 </details>
 
 
 <details>
 <summary>North Macedonia (73/84)</summary>
-None - Aerodrom
+<img src='out/MK/01.png' width='32'/> 01 - Aerodrom ✔️
 
-None - Aračinovo
+<img src='out/MK/02.png' width='32'/> 02 - Aračinovo ✔️
 
-None - Berovo
+<img src='out/MK/03.png' width='32'/> 03 - Berovo ✔️
 
-None - Bitola
+<img src='out/MK/04.png' width='32'/> 04 - Bitola ✔️
 
-None - Bogdanci
+<img src='out/MK/05.png' width='32'/> 05 - Bogdanci ✔️
 
-None - Bogovinje
+<img src='out/MK/06.png' width='32'/> 06 - Bogovinje ✔️
 
-None - Bosilovo
+<img src='out/MK/07.png' width='32'/> 07 - Bosilovo ✔️
 
-None - Brvenica
+<img src='out/MK/08.png' width='32'/> 08 - Brvenica ✔️
 
-None - Butel
+<img src='out/MK/09.png' width='32'/> 09 - Butel ✔️
 
-None - Čair
+<img src='out/MK/79.png' width='32'/> 79 - Čair ✔️
 
-None - Čaška
+<img src='out/MK/80.png' width='32'/> 80 - Čaška ✔️
 
-None - Centar
+77 - Centar
 
-None - Centar Župa
+<img src='out/MK/78.png' width='32'/> 78 - Centar Župa ✔️
 
-None - Češinovo-Obleševo
+<img src='out/MK/81.png' width='32'/> 81 - Češinovo-Obleševo ✔️
 
-None - Čučer-Sandevo
+<img src='out/MK/82.png' width='32'/> 82 - Čučer-Sandevo ✔️
 
-None - Debarca
+<img src='out/MK/22.png' width='32'/> 22 - Debarca ✔️
 
-None - Delčevo
+<img src='out/MK/23.png' width='32'/> 23 - Delčevo ✔️
 
-None - Demir Hisar
+<img src='out/MK/25.png' width='32'/> 25 - Demir Hisar ✔️
 
-None - Demir Kapija
+<img src='out/MK/24.png' width='32'/> 24 - Demir Kapija ✔️
 
-None - Dojran
+<img src='out/MK/26.png' width='32'/> 26 - Dojran ✔️
 
-None - Dolneni
+<img src='out/MK/27.png' width='32'/> 27 - Dolneni ✔️
 
-None - Drugovo
+28 - Drugovo
 
-None - Gazi Baba
+<img src='out/MK/17.png' width='32'/> 17 - Gazi Baba ✔️
 
-None - Gevgelija
+<img src='out/MK/18.png' width='32'/> 18 - Gevgelija ✔️
 
-None - Gjorče Petrov
+<img src='out/MK/29.png' width='32'/> 29 - Gjorče Petrov ✔️
 
-None - Gostivar
+<img src='out/MK/19.png' width='32'/> 19 - Gostivar ✔️
 
-None - Gradsko
+20 - Gradsko
 
-None - Greater Skopje
+85 - Greater Skopje
 
-None - Ilinden
+<img src='out/MK/34.png' width='32'/> 34 - Ilinden ✔️
 
-None - Jegunovce
+<img src='out/MK/35.png' width='32'/> 35 - Jegunovce ✔️
 
-None - Karbinci
+<img src='out/MK/37.png' width='32'/> 37 - Karbinci ✔️
 
-None - Karpoš
+<img src='out/MK/38.png' width='32'/> 38 - Karpoš ✔️
 
-None - Kavadarci
+<img src='out/MK/36.png' width='32'/> 36 - Kavadarci ✔️
 
-None - Kičevo
+40 - Kičevo
 
-None - Kisela Voda
+<img src='out/MK/39.png' width='32'/> 39 - Kisela Voda ✔️
 
-None - Kočani
+<img src='out/MK/42.png' width='32'/> 42 - Kočani ✔️
 
-None - Konče
+<img src='out/MK/41.png' width='32'/> 41 - Konče ✔️
 
-None - Kratovo
+<img src='out/MK/43.png' width='32'/> 43 - Kratovo ✔️
 
-None - Kriva Palanka
+<img src='out/MK/44.png' width='32'/> 44 - Kriva Palanka ✔️
 
-None - Krivogaštani
+<img src='out/MK/45.png' width='32'/> 45 - Krivogaštani ✔️
 
-None - Kruševo
+<img src='out/MK/46.png' width='32'/> 46 - Kruševo ✔️
 
-None - Kumanovo
+<img src='out/MK/47.png' width='32'/> 47 - Kumanovo ✔️
 
-None - Lipkovo
+<img src='out/MK/48.png' width='32'/> 48 - Lipkovo ✔️
 
-None - Lozovo
+<img src='out/MK/49.png' width='32'/> 49 - Lozovo ✔️
 
-None - Makedonska Kamenica
+<img src='out/MK/51.png' width='32'/> 51 - Makedonska Kamenica ✔️
 
-None - Makedonski Brod
+<img src='out/MK/52.png' width='32'/> 52 - Makedonski Brod ✔️
 
-None - Mavrovo and Rostuša
+<img src='out/MK/50.png' width='32'/> 50 - Mavrovo and Rostuša ✔️
 
-None - Mogila
+<img src='out/MK/53.png' width='32'/> 53 - Mogila ✔️
 
-None - Negotino
+<img src='out/MK/54.png' width='32'/> 54 - Negotino ✔️
 
-None - Novaci
+<img src='out/MK/55.png' width='32'/> 55 - Novaci ✔️
 
-None - Novo Selo
+<img src='out/MK/56.png' width='32'/> 56 - Novo Selo ✔️
 
-None - Ohrid
+58 - Ohrid
 
-None - Oslomej 
+57 - Oslomej 
 
-None - Pehčevo
+<img src='out/MK/60.png' width='32'/> 60 - Pehčevo ✔️
 
-None - Petrovec
+<img src='out/MK/59.png' width='32'/> 59 - Petrovec ✔️
 
-None - Plasnica
+<img src='out/MK/61.png' width='32'/> 61 - Plasnica ✔️
 
-None - Prilep
+<img src='out/MK/62.png' width='32'/> 62 - Prilep ✔️
 
-None - Probištip
+63 - Probištip
 
-None - Radoviš
+<img src='out/MK/64.png' width='32'/> 64 - Radoviš ✔️
 
-None - Rankovce
+<img src='out/MK/65.png' width='32'/> 65 - Rankovce ✔️
 
-None - Resen
+<img src='out/MK/66.png' width='32'/> 66 - Resen ✔️
 
-None - Rosoman
+<img src='out/MK/67.png' width='32'/> 67 - Rosoman ✔️
 
-None - Saraj
+68 - Saraj
 
-None - Sopište
+<img src='out/MK/70.png' width='32'/> 70 - Sopište ✔️
 
-None - Staro Nagoričane
+<img src='out/MK/71.png' width='32'/> 71 - Staro Nagoričane ✔️
 
-None - Štip
+<img src='out/MK/83.png' width='32'/> 83 - Štip ✔️
 
-None - Struga
+<img src='out/MK/72.png' width='32'/> 72 - Struga ✔️
 
-None - Strumica
+<img src='out/MK/73.png' width='32'/> 73 - Strumica ✔️
 
-None - Studeničani
+<img src='out/MK/74.png' width='32'/> 74 - Studeničani ✔️
 
-None - Šuto Orizari
+<img src='out/MK/84.png' width='32'/> 84 - Šuto Orizari ✔️
 
-None - Sveti Nikole
+<img src='out/MK/69.png' width='32'/> 69 - Sveti Nikole ✔️
 
-None - Tearce
+<img src='out/MK/75.png' width='32'/> 75 - Tearce ✔️
 
-None - Tetovo
+<img src='out/MK/76.png' width='32'/> 76 - Tetovo ✔️
 
-None - Valandovo
+<img src='out/MK/10.png' width='32'/> 10 - Valandovo ✔️
 
-None - Vasilevo
+<img src='out/MK/11.png' width='32'/> 11 - Vasilevo ✔️
 
-None - Veles
+<img src='out/MK/13.png' width='32'/> 13 - Veles ✔️
 
-None - Vevčani
+<img src='out/MK/12.png' width='32'/> 12 - Vevčani ✔️
 
-None - Vinica
+<img src='out/MK/14.png' width='32'/> 14 - Vinica ✔️
 
-None - Vraneštica
+15 - Vraneštica
 
-None - Vrapčište
+<img src='out/MK/16.png' width='32'/> 16 - Vrapčište ✔️
 
-None - Zajas
+31 - Zajas
 
-None - Zelenikovo
+<img src='out/MK/32.png' width='32'/> 32 - Zelenikovo ✔️
 
-None - Želino
+<img src='out/MK/30.png' width='32'/> 30 - Želino ✔️
 
-None - Zrnovci
+<img src='out/MK/33.png' width='32'/> 33 - Zrnovci ✔️
 
 </details>
 
 
 <details>
 <summary>Norway (27/17)</summary>
-None - Agder
+<img src='out/NO/42.png' width='32'/> 42 - Agder ✔️
 
-None - Akershus
+32 - Akershus
 
-None - Buskerud
+<img src='out/NO/33.png' width='32'/> 33 - Buskerud ✔️
 
-None - Finnmark
+<img src='out/NO/56.png' width='32'/> 56 - Finnmark ✔️
 
-None - Innlandet
+34 - Innlandet
 
-None - Jan Mayen
+22 - Jan Mayen
 
-None - Møre og Romsdal
+<img src='out/NO/15.png' width='32'/> 15 - Møre og Romsdal ✔️
 
-None - Nordland
+<img src='out/NO/18.png' width='32'/> 18 - Nordland ✔️
 
-None - Oslo
+<img src='out/NO/03.png' width='32'/> 03 - Oslo ✔️
 
-None - Østfold
+31 - Østfold
 
-None - Rogaland
+<img src='out/NO/11.png' width='32'/> 11 - Rogaland ✔️
 
-None - Svalbard
+21 - Svalbard
 
-None - Telemark
+<img src='out/NO/40.png' width='32'/> 40 - Telemark ✔️
 
-None - Troms
+<img src='out/NO/55.png' width='32'/> 55 - Troms ✔️
 
-None - Trøndelag
+<img src='out/NO/50.png' width='32'/> 50 - Trøndelag ✔️
 
-None - Vestfold
+<img src='out/NO/39.png' width='32'/> 39 - Vestfold ✔️
 
-None - Vestland
+<img src='out/NO/46.png' width='32'/> 46 - Vestland ✔️
 
 </details>
 
 
 <details>
 <summary>Oman (0/13)</summary>
-None - Ad Dakhiliyah
+DA - Ad Dakhiliyah
 
-None - Ad Dhahirah
+ZA - Ad Dhahirah
 
-None - Al Batinah North
+BS - Al Batinah North
 
-None - Al Batinah Region
+BA - Al Batinah Region
 
-None - Al Batinah South
+BJ - Al Batinah South
 
-None - Al Buraimi
+BU - Al Buraimi
 
-None - Al Wusta
+WU - Al Wusta
 
-None - Ash Sharqiyah North
+SS - Ash Sharqiyah North
 
-None - Ash Sharqiyah Region
+SH - Ash Sharqiyah Region
 
-None - Ash Sharqiyah South
+SJ - Ash Sharqiyah South
 
-None - Dhofar
+ZU - Dhofar
 
-None - Musandam
+MU - Musandam
 
-None - Muscat
+MA - Muscat
 
 </details>
 
 
 <details>
 <summary>Pakistan ✔️ (8/8)</summary>
-None - Azad Kashmir
+<img src='out/PK/JK.png' width='32'/> JK - Azad Kashmir ✔️
 
-None - Balochistan
+<img src='out/PK/BA.png' width='32'/> BA - Balochistan ✔️
 
-None - Federally Administered Tribal Areas
+<img src='out/PK/TA.png' width='32'/> TA - Federally Administered Tribal Areas ✔️
 
-None - Gilgit-Baltistan
+<img src='out/PK/GB.png' width='32'/> GB - Gilgit-Baltistan ✔️
 
-None - Islamabad
+<img src='out/PK/IS.png' width='32'/> IS - Islamabad ✔️
 
-None - Khyber Pakhtunkhwa
+<img src='out/PK/KP.png' width='32'/> KP - Khyber Pakhtunkhwa ✔️
 
-None - Punjab
+<img src='out/PK/PB.png' width='32'/> PB - Punjab ✔️
 
-None - Sindh
+<img src='out/PK/SD.png' width='32'/> SD - Sindh ✔️
 
 </details>
 
 
 <details>
 <summary>Palau ✔️ (16/16)</summary>
-None - Aimeliik
+<img src='out/PW/002.png' width='32'/> 002 - Aimeliik ✔️
 
-None - Airai
+<img src='out/PW/004.png' width='32'/> 004 - Airai ✔️
 
-None - Angaur
+<img src='out/PW/010.png' width='32'/> 010 - Angaur ✔️
 
-None - Hatohobei
+<img src='out/PW/050.png' width='32'/> 050 - Hatohobei ✔️
 
-None - Kayangel
+<img src='out/PW/100.png' width='32'/> 100 - Kayangel ✔️
 
-None - Koror
+<img src='out/PW/150.png' width='32'/> 150 - Koror ✔️
 
-None - Melekeok
+<img src='out/PW/212.png' width='32'/> 212 - Melekeok ✔️
 
-None - Ngaraard
+<img src='out/PW/214.png' width='32'/> 214 - Ngaraard ✔️
 
-None - Ngarchelong
+<img src='out/PW/218.png' width='32'/> 218 - Ngarchelong ✔️
 
-None - Ngardmau
+<img src='out/PW/222.png' width='32'/> 222 - Ngardmau ✔️
 
-None - Ngatpang
+<img src='out/PW/224.png' width='32'/> 224 - Ngatpang ✔️
 
-None - Ngchesar
+<img src='out/PW/226.png' width='32'/> 226 - Ngchesar ✔️
 
-None - Ngeremlengui
+<img src='out/PW/227.png' width='32'/> 227 - Ngeremlengui ✔️
 
-None - Ngiwal
+<img src='out/PW/228.png' width='32'/> 228 - Ngiwal ✔️
 
-None - Peleliu
+<img src='out/PW/350.png' width='32'/> 350 - Peleliu ✔️
 
-None - Sonsorol
+<img src='out/PW/370.png' width='32'/> 370 - Sonsorol ✔️
 
 </details>
 
 
 <details>
 <summary>Palestinian Territory Occupied (1/16)</summary>
-None - Bethlehem
+BTH - Bethlehem
 
-None - Deir El Balah
+DEB - Deir El Balah
 
-None - Gaza
+<img src='out/PS/GZA.png' width='32'/> GZA - Gaza ✔️
 
-None - Hebron
+HBN - Hebron
 
-None - Jenin
+JEN - Jenin
 
-None - Jericho 
+JRH - Jericho 
 
-None - Jerusalem (Quds)
+JEM - Jerusalem (Quds)
 
-None - Khan Yunis
+KYS - Khan Yunis
 
-None - Nablus
+NBS - Nablus
 
-None - North Gaza
+NGZ - North Gaza
 
-None - Qalqilya
+QQA - Qalqilya
 
-None - Rafah
+RFH - Rafah
 
-None - Ramallah
+RBH - Ramallah
 
-None - Salfit
+SLT - Salfit
 
-None - Tubas
+TBS - Tubas
 
-None - Tulkarm
+TKM - Tulkarm
 
 </details>
 
 
 <details>
 <summary>Panama (11/13)</summary>
-None - Bocas del Toro
+<img src='out/PA/1.png' width='32'/> 1 - Bocas del Toro ✔️
 
-None - Chiriquí Province
+<img src='out/PA/4.png' width='32'/> 4 - Chiriquí Province ✔️
 
-None - Coclé
+<img src='out/PA/2.png' width='32'/> 2 - Coclé ✔️
 
-None - Colón
+<img src='out/PA/3.png' width='32'/> 3 - Colón ✔️
 
-None - Darién
+<img src='out/PA/5.png' width='32'/> 5 - Darién ✔️
 
-None - Emberá-Wounaan Comarca
+EM - Emberá-Wounaan Comarca
 
-None - Guna
+<img src='out/PA/KY.png' width='32'/> KY - Guna ✔️
 
-None - Herrera
+<img src='out/PA/6.png' width='32'/> 6 - Herrera ✔️
 
-None - Los Santos
+<img src='out/PA/7.png' width='32'/> 7 - Los Santos ✔️
 
-None - Ngöbe-Buglé Comarca
+NB - Ngöbe-Buglé Comarca
 
-None - Panamá
+<img src='out/PA/8.png' width='32'/> 8 - Panamá ✔️
 
-None - Panamá Oeste
+<img src='out/PA/10.png' width='32'/> 10 - Panamá Oeste ✔️
 
-None - Veraguas
+<img src='out/PA/9.png' width='32'/> 9 - Veraguas ✔️
 
 </details>
 
 
 <details>
 <summary>Papua New Guinea (21/22)</summary>
-None - Bougainville
+<img src='out/PG/NSB.png' width='32'/> NSB - Bougainville ✔️
 
-None - Central
+<img src='out/PG/CPM.png' width='32'/> CPM - Central ✔️
 
-None - Chimbu
+<img src='out/PG/CPK.png' width='32'/> CPK - Chimbu ✔️
 
-None - East New Britain
+<img src='out/PG/EBR.png' width='32'/> EBR - East New Britain ✔️
 
-None - East Sepik
+ESW - East Sepik
 
-None - Eastern Highlands
+<img src='out/PG/EHG.png' width='32'/> EHG - Eastern Highlands ✔️
 
-None - Enga
+<img src='out/PG/EPW.png' width='32'/> EPW - Enga ✔️
 
-None - Gulf
+<img src='out/PG/GPK.png' width='32'/> GPK - Gulf ✔️
 
-None - Hela
+<img src='out/PG/HLA.png' width='32'/> HLA - Hela ✔️
 
-None - Jiwaka
+<img src='out/PG/JWK.png' width='32'/> JWK - Jiwaka ✔️
 
-None - Madang
+<img src='out/PG/MPM.png' width='32'/> MPM - Madang ✔️
 
-None - Manus
+<img src='out/PG/MRL.png' width='32'/> MRL - Manus ✔️
 
-None - Milne Bay
+<img src='out/PG/MBA.png' width='32'/> MBA - Milne Bay ✔️
 
-None - Morobe
+<img src='out/PG/MPL.png' width='32'/> MPL - Morobe ✔️
 
-None - New Ireland
+<img src='out/PG/NIK.png' width='32'/> NIK - New Ireland ✔️
 
-None - Oro
+<img src='out/PG/NPP.png' width='32'/> NPP - Oro ✔️
 
-None - Port Moresby
+<img src='out/PG/NCD.png' width='32'/> NCD - Port Moresby ✔️
 
-None - Sandaun
+<img src='out/PG/SAN.png' width='32'/> SAN - Sandaun ✔️
 
-None - Southern Highlands
+<img src='out/PG/SHM.png' width='32'/> SHM - Southern Highlands ✔️
 
-None - West New Britain
+<img src='out/PG/WBK.png' width='32'/> WBK - West New Britain ✔️
 
-None - Western
+<img src='out/PG/WPD.png' width='32'/> WPD - Western ✔️
 
-None - Western Highlands
+<img src='out/PG/WHM.png' width='32'/> WHM - Western Highlands ✔️
 
 </details>
 
 
 <details>
 <summary>Paraguay ✔️ (18/18)</summary>
-None - Alto Paraguay
+<img src='out/PY/16.png' width='32'/> 16 - Alto Paraguay ✔️
 
-None - Alto Paraná
+<img src='out/PY/10.png' width='32'/> 10 - Alto Paraná ✔️
 
-None - Amambay
+<img src='out/PY/13.png' width='32'/> 13 - Amambay ✔️
 
-None - Asuncion
+<img src='out/PY/ASU.png' width='32'/> ASU - Asuncion ✔️
 
-None - Boquerón
+<img src='out/PY/19.png' width='32'/> 19 - Boquerón ✔️
 
-None - Caaguazú
+<img src='out/PY/5.png' width='32'/> 5 - Caaguazú ✔️
 
-None - Caazapá
+<img src='out/PY/6.png' width='32'/> 6 - Caazapá ✔️
 
-None - Canindeyú
+<img src='out/PY/14.png' width='32'/> 14 - Canindeyú ✔️
 
-None - Central
+<img src='out/PY/11.png' width='32'/> 11 - Central ✔️
 
-None - Concepción
+<img src='out/PY/1.png' width='32'/> 1 - Concepción ✔️
 
-None - Cordillera
+<img src='out/PY/3.png' width='32'/> 3 - Cordillera ✔️
 
-None - Guairá
+<img src='out/PY/4.png' width='32'/> 4 - Guairá ✔️
 
-None - Itapúa
+<img src='out/PY/7.png' width='32'/> 7 - Itapúa ✔️
 
-None - Misiones
+<img src='out/PY/8.png' width='32'/> 8 - Misiones ✔️
 
-None - Ñeembucú
+<img src='out/PY/12.png' width='32'/> 12 - Ñeembucú ✔️
 
-None - Paraguarí
+<img src='out/PY/9.png' width='32'/> 9 - Paraguarí ✔️
 
-None - Presidente Hayes
+<img src='out/PY/15.png' width='32'/> 15 - Presidente Hayes ✔️
 
-None - San Pedro
+<img src='out/PY/2.png' width='32'/> 2 - San Pedro ✔️
 
 </details>
 
 
 <details>
 <summary>Peru ✔️ (25/25)</summary>
-None - Amazonas
+<img src='out/PE/AMA.png' width='32'/> AMA - Amazonas ✔️
 
-None - Áncash
+<img src='out/PE/ANC.png' width='32'/> ANC - Áncash ✔️
 
-None - Apurímac
+<img src='out/PE/APU.png' width='32'/> APU - Apurímac ✔️
 
-None - Arequipa
+<img src='out/PE/ARE.png' width='32'/> ARE - Arequipa ✔️
 
-None - Ayacucho
+<img src='out/PE/AYA.png' width='32'/> AYA - Ayacucho ✔️
 
-None - Cajamarca
+<img src='out/PE/CAJ.png' width='32'/> CAJ - Cajamarca ✔️
 
-None - Callao
+<img src='out/PE/CAL.png' width='32'/> CAL - Callao ✔️
 
-None - Cusco
+<img src='out/PE/CUS.png' width='32'/> CUS - Cusco ✔️
 
-None - Huancavelica
+<img src='out/PE/HUV.png' width='32'/> HUV - Huancavelica ✔️
 
-None - Huanuco
+<img src='out/PE/HUC.png' width='32'/> HUC - Huanuco ✔️
 
-None - Ica
+<img src='out/PE/ICA.png' width='32'/> ICA - Ica ✔️
 
-None - Junín
+<img src='out/PE/JUN.png' width='32'/> JUN - Junín ✔️
 
-None - La Libertad
+<img src='out/PE/LAL.png' width='32'/> LAL - La Libertad ✔️
 
-None - Lambayeque
+<img src='out/PE/LAM.png' width='32'/> LAM - Lambayeque ✔️
 
-None - Lima
+<img src='out/PE/LIM.png' width='32'/> LIM - Lima ✔️
 
-None - Loreto
+<img src='out/PE/LOR.png' width='32'/> LOR - Loreto ✔️
 
-None - Madre de Dios
+<img src='out/PE/MDD.png' width='32'/> MDD - Madre de Dios ✔️
 
-None - Moquegua
+<img src='out/PE/MOQ.png' width='32'/> MOQ - Moquegua ✔️
 
-None - Pasco
+<img src='out/PE/PAS.png' width='32'/> PAS - Pasco ✔️
 
-None - Piura
+<img src='out/PE/PIU.png' width='32'/> PIU - Piura ✔️
 
-None - Puno
+<img src='out/PE/PUN.png' width='32'/> PUN - Puno ✔️
 
-None - San Martín
+<img src='out/PE/SAM.png' width='32'/> SAM - San Martín ✔️
 
-None - Tacna
+<img src='out/PE/TAC.png' width='32'/> TAC - Tacna ✔️
 
-None - Tumbes
+<img src='out/PE/TUM.png' width='32'/> TUM - Tumbes ✔️
 
-None - Ucayali
+<img src='out/PE/UCA.png' width='32'/> UCA - Ucayali ✔️
 
 </details>
 
 
 <details>
 <summary>Philippines (94/99)</summary>
-None - Abra
+<img src='out/PH/ABR.png' width='32'/> ABR - Abra ✔️
 
-None - Agusan del Norte
+<img src='out/PH/AGN.png' width='32'/> AGN - Agusan del Norte ✔️
 
-None - Agusan del Sur
+<img src='out/PH/AGS.png' width='32'/> AGS - Agusan del Sur ✔️
 
-None - Aklan
+<img src='out/PH/AKL.png' width='32'/> AKL - Aklan ✔️
 
-None - Albay
+<img src='out/PH/ALB.png' width='32'/> ALB - Albay ✔️
 
-None - Antique
+<img src='out/PH/ANT.png' width='32'/> ANT - Antique ✔️
 
-None - Apayao
+<img src='out/PH/APA.png' width='32'/> APA - Apayao ✔️
 
-None - Aurora
+<img src='out/PH/AUR.png' width='32'/> AUR - Aurora ✔️
 
-None - Autonomous Region in Muslim Mindanao
+14 - Autonomous Region in Muslim Mindanao
 
-None - Basilan
+<img src='out/PH/BAS.png' width='32'/> BAS - Basilan ✔️
 
-None - Bataan
+<img src='out/PH/BAN.png' width='32'/> BAN - Bataan ✔️
 
-None - Batanes
+<img src='out/PH/BTN.png' width='32'/> BTN - Batanes ✔️
 
-None - Batangas
+<img src='out/PH/BTG.png' width='32'/> BTG - Batangas ✔️
 
-None - Benguet
+<img src='out/PH/BEN.png' width='32'/> BEN - Benguet ✔️
 
-None - Bicol
+<img src='out/PH/05.png' width='32'/> 05 - Bicol ✔️
 
-None - Biliran
+<img src='out/PH/BIL.png' width='32'/> BIL - Biliran ✔️
 
-None - Bohol
+<img src='out/PH/BOH.png' width='32'/> BOH - Bohol ✔️
 
-None - Bukidnon
+<img src='out/PH/BUK.png' width='32'/> BUK - Bukidnon ✔️
 
-None - Bulacan
+<img src='out/PH/BUL.png' width='32'/> BUL - Bulacan ✔️
 
-None - Cagayan
+<img src='out/PH/CAG.png' width='32'/> CAG - Cagayan ✔️
 
-None - Cagayan Valley
+<img src='out/PH/02.png' width='32'/> 02 - Cagayan Valley ✔️
 
-None - Calabarzon
+<img src='out/PH/40.png' width='32'/> 40 - Calabarzon ✔️
 
-None - Camarines Norte
+<img src='out/PH/CAN.png' width='32'/> CAN - Camarines Norte ✔️
 
-None - Camarines Sur
+<img src='out/PH/CAS.png' width='32'/> CAS - Camarines Sur ✔️
 
-None - Camiguin
+<img src='out/PH/CAM.png' width='32'/> CAM - Camiguin ✔️
 
-None - Capiz
+<img src='out/PH/CAP.png' width='32'/> CAP - Capiz ✔️
 
-None - Caraga
+<img src='out/PH/13.png' width='32'/> 13 - Caraga ✔️
 
-None - Catanduanes
+<img src='out/PH/CAT.png' width='32'/> CAT - Catanduanes ✔️
 
-None - Cavite
+<img src='out/PH/CAV.png' width='32'/> CAV - Cavite ✔️
 
-None - Cebu
+<img src='out/PH/CEB.png' width='32'/> CEB - Cebu ✔️
 
-None - Central Luzon
+<img src='out/PH/03.png' width='32'/> 03 - Central Luzon ✔️
 
-None - Central Visayas
+<img src='out/PH/07.png' width='32'/> 07 - Central Visayas ✔️
 
-None - Cordillera Administrative
+15 - Cordillera Administrative
 
-None - Cotabato
+<img src='out/PH/NCO.png' width='32'/> NCO - Cotabato ✔️
 
-None - Davao
+<img src='out/PH/11.png' width='32'/> 11 - Davao ✔️
 
-None - Davao de Oro
+COM - Davao de Oro
 
-None - Davao del Norte
+<img src='out/PH/DAV.png' width='32'/> DAV - Davao del Norte ✔️
 
-None - Davao del Sur
+<img src='out/PH/DAS.png' width='32'/> DAS - Davao del Sur ✔️
 
-None - Davao Occidental
+<img src='out/PH/DVO.png' width='32'/> DVO - Davao Occidental ✔️
 
-None - Davao Oriental
+<img src='out/PH/DAO.png' width='32'/> DAO - Davao Oriental ✔️
 
-None - Dinagat Islands
+<img src='out/PH/DIN.png' width='32'/> DIN - Dinagat Islands ✔️
 
-None - Eastern Samar
+<img src='out/PH/EAS.png' width='32'/> EAS - Eastern Samar ✔️
 
-None - Eastern Visayas
+<img src='out/PH/08.png' width='32'/> 08 - Eastern Visayas ✔️
 
-None - Guimaras
+<img src='out/PH/GUI.png' width='32'/> GUI - Guimaras ✔️
 
-None - Ifugao
+<img src='out/PH/IFU.png' width='32'/> IFU - Ifugao ✔️
 
-None - Ilocos
+<img src='out/PH/01.png' width='32'/> 01 - Ilocos ✔️
 
-None - Ilocos Norte
+<img src='out/PH/ILN.png' width='32'/> ILN - Ilocos Norte ✔️
 
-None - Ilocos Sur
+<img src='out/PH/ILS.png' width='32'/> ILS - Ilocos Sur ✔️
 
-None - Iloilo
+<img src='out/PH/ILI.png' width='32'/> ILI - Iloilo ✔️
 
-None - Isabela
+<img src='out/PH/ISA.png' width='32'/> ISA - Isabela ✔️
 
-None - Kalinga
+<img src='out/PH/KAL.png' width='32'/> KAL - Kalinga ✔️
 
-None - La Union
+<img src='out/PH/LUN.png' width='32'/> LUN - La Union ✔️
 
-None - Laguna
+<img src='out/PH/LAG.png' width='32'/> LAG - Laguna ✔️
 
-None - Lanao del Norte
+<img src='out/PH/LAN.png' width='32'/> LAN - Lanao del Norte ✔️
 
-None - Lanao del Sur
+<img src='out/PH/LAS.png' width='32'/> LAS - Lanao del Sur ✔️
 
-None - Leyte
+<img src='out/PH/LEY.png' width='32'/> LEY - Leyte ✔️
 
-None - Maguindanao del Norte
+MGN - Maguindanao del Norte
 
-None - Maguindanao del Sur
+MGS - Maguindanao del Sur
 
-None - Marinduque
+<img src='out/PH/MAD.png' width='32'/> MAD - Marinduque ✔️
 
-None - Masbate
+<img src='out/PH/MAS.png' width='32'/> MAS - Masbate ✔️
 
-None - Mimaropa
+<img src='out/PH/41.png' width='32'/> 41 - Mimaropa ✔️
 
-None - Misamis Occidental
+<img src='out/PH/MSC.png' width='32'/> MSC - Misamis Occidental ✔️
 
-None - Misamis Oriental
+<img src='out/PH/MSR.png' width='32'/> MSR - Misamis Oriental ✔️
 
-None - Mountain Province
+<img src='out/PH/MOU.png' width='32'/> MOU - Mountain Province ✔️
 
-None - National Capital Region (Metro Manila)
+00 - National Capital Region (Metro Manila)
 
-None - Negros Occidental
+<img src='out/PH/NEC.png' width='32'/> NEC - Negros Occidental ✔️
 
-None - Negros Oriental
+<img src='out/PH/NER.png' width='32'/> NER - Negros Oriental ✔️
 
-None - Northern Mindanao
+<img src='out/PH/10.png' width='32'/> 10 - Northern Mindanao ✔️
 
-None - Northern Samar
+<img src='out/PH/NSA.png' width='32'/> NSA - Northern Samar ✔️
 
-None - Nueva Ecija
+<img src='out/PH/NUE.png' width='32'/> NUE - Nueva Ecija ✔️
 
-None - Nueva Vizcaya
+<img src='out/PH/NUV.png' width='32'/> NUV - Nueva Vizcaya ✔️
 
-None - Occidental Mindoro
+<img src='out/PH/MDC.png' width='32'/> MDC - Occidental Mindoro ✔️
 
-None - Oriental Mindoro
+<img src='out/PH/MDR.png' width='32'/> MDR - Oriental Mindoro ✔️
 
-None - Palawan
+<img src='out/PH/PLW.png' width='32'/> PLW - Palawan ✔️
 
-None - Pampanga
+<img src='out/PH/PAM.png' width='32'/> PAM - Pampanga ✔️
 
-None - Pangasinan
+<img src='out/PH/PAN.png' width='32'/> PAN - Pangasinan ✔️
 
-None - Quezon
+<img src='out/PH/QUE.png' width='32'/> QUE - Quezon ✔️
 
-None - Quirino
+<img src='out/PH/QUI.png' width='32'/> QUI - Quirino ✔️
 
-None - Rizal
+<img src='out/PH/RIZ.png' width='32'/> RIZ - Rizal ✔️
 
-None - Romblon
+<img src='out/PH/ROM.png' width='32'/> ROM - Romblon ✔️
 
-None - Sarangani
+<img src='out/PH/SAR.png' width='32'/> SAR - Sarangani ✔️
 
-None - Siquijor
+<img src='out/PH/SIG.png' width='32'/> SIG - Siquijor ✔️
 
-None - Soccsksargen
+<img src='out/PH/12.png' width='32'/> 12 - Soccsksargen ✔️
 
-None - Sorsogon
+<img src='out/PH/SOR.png' width='32'/> SOR - Sorsogon ✔️
 
-None - South Cotabato
+<img src='out/PH/SCO.png' width='32'/> SCO - South Cotabato ✔️
 
-None - Southern Leyte
+<img src='out/PH/SLE.png' width='32'/> SLE - Southern Leyte ✔️
 
-None - Sultan Kudarat
+<img src='out/PH/SUK.png' width='32'/> SUK - Sultan Kudarat ✔️
 
-None - Sulu
+<img src='out/PH/SLU.png' width='32'/> SLU - Sulu ✔️
 
-None - Surigao del Norte
+<img src='out/PH/SUN.png' width='32'/> SUN - Surigao del Norte ✔️
 
-None - Surigao del Sur
+<img src='out/PH/SUR.png' width='32'/> SUR - Surigao del Sur ✔️
 
-None - Tarlac
+<img src='out/PH/TAR.png' width='32'/> TAR - Tarlac ✔️
 
-None - Tawi-Tawi
+<img src='out/PH/TAW.png' width='32'/> TAW - Tawi-Tawi ✔️
 
-None - Western Samar
+WSA - Western Samar
 
-None - Western Visayas
+<img src='out/PH/06.png' width='32'/> 06 - Western Visayas ✔️
 
-None - Zambales
+<img src='out/PH/ZMB.png' width='32'/> ZMB - Zambales ✔️
 
-None - Zamboanga del Norte
+<img src='out/PH/ZAN.png' width='32'/> ZAN - Zamboanga del Norte ✔️
 
-None - Zamboanga del Sur
+<img src='out/PH/ZAS.png' width='32'/> ZAS - Zamboanga del Sur ✔️
 
-None - Zamboanga Peninsula
+<img src='out/PH/09.png' width='32'/> 09 - Zamboanga Peninsula ✔️
 
-None - Zamboanga Sibugay
+<img src='out/PH/ZSI.png' width='32'/> ZSI - Zamboanga Sibugay ✔️
 
 </details>
 
 
 <details>
 <summary>Poland ✔️ (16/16)</summary>
-None - Greater Poland
+30 - Greater Poland
 
-None - Holy Cross
+26 - Holy Cross
 
-None - Kuyavia-Pomerania
+04 - Kuyavia-Pomerania
 
-None - Lesser Poland
+12 - Lesser Poland
 
-None - Lower Silesia
+02 - Lower Silesia
 
-None - Lublin
+06 - Lublin
 
-None - Lubusz
+08 - Lubusz
 
-None - Łódź
+10 - Łódź
 
-None - Mazovia
+14 - Mazovia
 
-None - Podlaskie
+20 - Podlaskie
 
-None - Pomerania
+22 - Pomerania
 
-None - Silesia
+24 - Silesia
 
-None - Subcarpathia
+18 - Subcarpathia
 
-None - Upper Silesia
+16 - Upper Silesia
 
-None - Warmia-Masuria
+28 - Warmia-Masuria
 
-None - West Pomerania
+32 - West Pomerania
 
 </details>
 
 
 <details>
 <summary>Portugal ✔️ (20/20)</summary>
-None - Açores
+<img src='out/PT/20.png' width='32'/> 20 - Açores ✔️
 
-None - Aveiro
+<img src='out/PT/01.png' width='32'/> 01 - Aveiro ✔️
 
-None - Beja
+<img src='out/PT/02.png' width='32'/> 02 - Beja ✔️
 
-None - Braga
+<img src='out/PT/03.png' width='32'/> 03 - Braga ✔️
 
-None - Bragança
+<img src='out/PT/04.png' width='32'/> 04 - Bragança ✔️
 
-None - Castelo Branco
+<img src='out/PT/05.png' width='32'/> 05 - Castelo Branco ✔️
 
-None - Coimbra
+<img src='out/PT/06.png' width='32'/> 06 - Coimbra ✔️
 
-None - Évora
+<img src='out/PT/07.png' width='32'/> 07 - Évora ✔️
 
-None - Faro
+<img src='out/PT/08.png' width='32'/> 08 - Faro ✔️
 
-None - Guarda
+<img src='out/PT/09.png' width='32'/> 09 - Guarda ✔️
 
-None - Leiria
+<img src='out/PT/10.png' width='32'/> 10 - Leiria ✔️
 
-None - Lisbon
+<img src='out/PT/11.png' width='32'/> 11 - Lisbon ✔️
 
-None - Madeira
+<img src='out/PT/30.png' width='32'/> 30 - Madeira ✔️
 
-None - Portalegre
+<img src='out/PT/12.png' width='32'/> 12 - Portalegre ✔️
 
-None - Porto
+<img src='out/PT/13.png' width='32'/> 13 - Porto ✔️
 
-None - Santarém
+<img src='out/PT/14.png' width='32'/> 14 - Santarém ✔️
 
-None - Setúbal
+<img src='out/PT/15.png' width='32'/> 15 - Setúbal ✔️
 
-None - Viana do Castelo
+<img src='out/PT/16.png' width='32'/> 16 - Viana do Castelo ✔️
 
-None - Vila Real
+<img src='out/PT/17.png' width='32'/> 17 - Vila Real ✔️
 
-None - Viseu
+<img src='out/PT/18.png' width='32'/> 18 - Viseu ✔️
 
 </details>
 
 
 <details>
 <summary>Puerto Rico ✔️ (88/88)</summary>
-None - Adjuntas
+<img src='out/PR/001.png' width='32'/> 001 - Adjuntas ✔️
 
-None - Aguada
+<img src='out/PR/003.png' width='32'/> 003 - Aguada ✔️
 
-None - Aguadilla
+<img src='out/PR/005.png' width='32'/> 005 - Aguadilla ✔️
 
-None - Aguas Buenas
+<img src='out/PR/007.png' width='32'/> 007 - Aguas Buenas ✔️
 
-None - Aibonito
+<img src='out/PR/009.png' width='32'/> 009 - Aibonito ✔️
 
-None - Añasco
+<img src='out/PR/011.png' width='32'/> 011 - Añasco ✔️
 
-None - Arecibo
+<img src='out/PR/013.png' width='32'/> 013 - Arecibo ✔️
 
-None - Arecibo
+<img src='out/PR/AR.png' width='32'/> AR - Arecibo ✔️
 
-None - Arroyo
+<img src='out/PR/015.png' width='32'/> 015 - Arroyo ✔️
 
-None - Barceloneta
+<img src='out/PR/017.png' width='32'/> 017 - Barceloneta ✔️
 
-None - Barranquitas
+<img src='out/PR/019.png' width='32'/> 019 - Barranquitas ✔️
 
-None - Bayamon
+<img src='out/PR/BY.png' width='32'/> BY - Bayamon ✔️
 
-None - Bayamón
+<img src='out/PR/021.png' width='32'/> 021 - Bayamón ✔️
 
-None - Cabo Rojo
+<img src='out/PR/023.png' width='32'/> 023 - Cabo Rojo ✔️
 
-None - Caguas
+<img src='out/PR/CG.png' width='32'/> CG - Caguas ✔️
 
-None - Caguas
+<img src='out/PR/025.png' width='32'/> 025 - Caguas ✔️
 
-None - Camuy
+<img src='out/PR/027.png' width='32'/> 027 - Camuy ✔️
 
-None - Canóvanas
+<img src='out/PR/029.png' width='32'/> 029 - Canóvanas ✔️
 
-None - Carolina
+<img src='out/PR/CL.png' width='32'/> CL - Carolina ✔️
 
-None - Carolina
+<img src='out/PR/031.png' width='32'/> 031 - Carolina ✔️
 
-None - Cataño
+<img src='out/PR/033.png' width='32'/> 033 - Cataño ✔️
 
-None - Cayey
+<img src='out/PR/035.png' width='32'/> 035 - Cayey ✔️
 
-None - Ceiba
+<img src='out/PR/037.png' width='32'/> 037 - Ceiba ✔️
 
-None - Ciales
+<img src='out/PR/039.png' width='32'/> 039 - Ciales ✔️
 
-None - Cidra
+<img src='out/PR/041.png' width='32'/> 041 - Cidra ✔️
 
-None - Coamo
+<img src='out/PR/043.png' width='32'/> 043 - Coamo ✔️
 
-None - Comerío
+<img src='out/PR/045.png' width='32'/> 045 - Comerío ✔️
 
-None - Corozal
+<img src='out/PR/047.png' width='32'/> 047 - Corozal ✔️
 
-None - Culebra
+<img src='out/PR/049.png' width='32'/> 049 - Culebra ✔️
 
-None - Dorado
+<img src='out/PR/051.png' width='32'/> 051 - Dorado ✔️
 
-None - Fajardo
+<img src='out/PR/053.png' width='32'/> 053 - Fajardo ✔️
 
-None - Florida
+<img src='out/PR/054.png' width='32'/> 054 - Florida ✔️
 
-None - Guánica
+<img src='out/PR/055.png' width='32'/> 055 - Guánica ✔️
 
-None - Guayama
+<img src='out/PR/057.png' width='32'/> 057 - Guayama ✔️
 
-None - Guayanilla
+<img src='out/PR/059.png' width='32'/> 059 - Guayanilla ✔️
 
-None - Guaynabo
+<img src='out/PR/GN.png' width='32'/> GN - Guaynabo ✔️
 
-None - Guaynabo
+<img src='out/PR/061.png' width='32'/> 061 - Guaynabo ✔️
 
-None - Gurabo
+<img src='out/PR/063.png' width='32'/> 063 - Gurabo ✔️
 
-None - Hatillo
+<img src='out/PR/065.png' width='32'/> 065 - Hatillo ✔️
 
-None - Hormigueros
+<img src='out/PR/067.png' width='32'/> 067 - Hormigueros ✔️
 
-None - Humacao
+<img src='out/PR/069.png' width='32'/> 069 - Humacao ✔️
 
-None - Isabela
+<img src='out/PR/071.png' width='32'/> 071 - Isabela ✔️
 
-None - Jayuya
+<img src='out/PR/073.png' width='32'/> 073 - Jayuya ✔️
 
-None - Juana Díaz
+<img src='out/PR/075.png' width='32'/> 075 - Juana Díaz ✔️
 
-None - Juncos
+<img src='out/PR/077.png' width='32'/> 077 - Juncos ✔️
 
-None - Lajas
+<img src='out/PR/079.png' width='32'/> 079 - Lajas ✔️
 
-None - Lares
+<img src='out/PR/081.png' width='32'/> 081 - Lares ✔️
 
-None - Las Marías
+<img src='out/PR/083.png' width='32'/> 083 - Las Marías ✔️
 
-None - Las Piedras
+<img src='out/PR/085.png' width='32'/> 085 - Las Piedras ✔️
 
-None - Loíza
+<img src='out/PR/087.png' width='32'/> 087 - Loíza ✔️
 
-None - Luquillo
+<img src='out/PR/089.png' width='32'/> 089 - Luquillo ✔️
 
-None - Manatí
+<img src='out/PR/091.png' width='32'/> 091 - Manatí ✔️
 
-None - Maricao
+<img src='out/PR/093.png' width='32'/> 093 - Maricao ✔️
 
-None - Maunabo
+<img src='out/PR/095.png' width='32'/> 095 - Maunabo ✔️
 
-None - Mayagüez
+<img src='out/PR/MG.png' width='32'/> MG - Mayagüez ✔️
 
-None - Mayagüez
+<img src='out/PR/097.png' width='32'/> 097 - Mayagüez ✔️
 
-None - Moca
+<img src='out/PR/099.png' width='32'/> 099 - Moca ✔️
 
-None - Morovis
+<img src='out/PR/101.png' width='32'/> 101 - Morovis ✔️
 
-None - Naguabo
+<img src='out/PR/103.png' width='32'/> 103 - Naguabo ✔️
 
-None - Naranjito
+<img src='out/PR/105.png' width='32'/> 105 - Naranjito ✔️
 
-None - Orocovis
+<img src='out/PR/107.png' width='32'/> 107 - Orocovis ✔️
 
-None - Patillas
+<img src='out/PR/109.png' width='32'/> 109 - Patillas ✔️
 
-None - Peñuelas
+<img src='out/PR/111.png' width='32'/> 111 - Peñuelas ✔️
 
-None - Ponce
+<img src='out/PR/PO.png' width='32'/> PO - Ponce ✔️
 
-None - Ponce
+<img src='out/PR/113.png' width='32'/> 113 - Ponce ✔️
 
-None - Quebradillas
+<img src='out/PR/115.png' width='32'/> 115 - Quebradillas ✔️
 
-None - Rincón
+<img src='out/PR/117.png' width='32'/> 117 - Rincón ✔️
 
-None - Río Grande
+<img src='out/PR/119.png' width='32'/> 119 - Río Grande ✔️
 
-None - Sabana Grande
+<img src='out/PR/121.png' width='32'/> 121 - Sabana Grande ✔️
 
-None - Salinas
+<img src='out/PR/123.png' width='32'/> 123 - Salinas ✔️
 
-None - San Germán
+<img src='out/PR/125.png' width='32'/> 125 - San Germán ✔️
 
-None - San Juan
+<img src='out/PR/127.png' width='32'/> 127 - San Juan ✔️
 
-None - San Juan
+<img src='out/PR/SJ.png' width='32'/> SJ - San Juan ✔️
 
-None - San Lorenzo
+<img src='out/PR/129.png' width='32'/> 129 - San Lorenzo ✔️
 
-None - San Sebastián
+<img src='out/PR/131.png' width='32'/> 131 - San Sebastián ✔️
 
-None - Santa Isabel
+<img src='out/PR/133.png' width='32'/> 133 - Santa Isabel ✔️
 
-None - Toa Alta
+<img src='out/PR/135.png' width='32'/> 135 - Toa Alta ✔️
 
-None - Toa Baja
+<img src='out/PR/TB.png' width='32'/> TB - Toa Baja ✔️
 
-None - Toa Baja
+<img src='out/PR/137.png' width='32'/> 137 - Toa Baja ✔️
 
-None - Trujillo Alto
+<img src='out/PR/TA.png' width='32'/> TA - Trujillo Alto ✔️
 
-None - Trujillo Alto
+<img src='out/PR/139.png' width='32'/> 139 - Trujillo Alto ✔️
 
-None - Utuado
+<img src='out/PR/141.png' width='32'/> 141 - Utuado ✔️
 
-None - Vega Alta
+<img src='out/PR/143.png' width='32'/> 143 - Vega Alta ✔️
 
-None - Vega Baja
+<img src='out/PR/145.png' width='32'/> 145 - Vega Baja ✔️
 
-None - Vieques
+<img src='out/PR/147.png' width='32'/> 147 - Vieques ✔️
 
-None - Villalba
+<img src='out/PR/149.png' width='32'/> 149 - Villalba ✔️
 
-None - Yabucoa
+<img src='out/PR/151.png' width='32'/> 151 - Yabucoa ✔️
 
-None - Yauco
+<img src='out/PR/153.png' width='32'/> 153 - Yauco ✔️
 
 </details>
 
 
 <details>
 <summary>Qatar (1/8)</summary>
-None - Al Daayen
+ZA - Al Daayen
 
-None - Al Khor
+KH - Al Khor
 
-None - Al Rayyan
+RA - Al Rayyan
 
-None - Al Wakrah
+WA - Al Wakrah
 
-None - Al-Shahaniya
+SH - Al-Shahaniya
 
-None - Doha
+<img src='out/QA/DA.png' width='32'/> DA - Doha ✔️
 
-None - Madinat ash Shamal
+MS - Madinat ash Shamal
 
-None - Umm Salal
+US - Umm Salal
 
 </details>
 
 
 <details>
 <summary>Reunion (0/4)</summary>
-None - Saint-Benoît
+01 - Saint-Benoît
 
-None - Saint-Denis
+02 - Saint-Denis
 
-None - Saint-Paul
+03 - Saint-Paul
 
-None - Saint-Pierre
+04 - Saint-Pierre
 
 </details>
 
 
 <details>
 <summary>Romania (23/42)</summary>
-None - Alba
+<img src='out/RO/AB.png' width='32'/> AB - Alba ✔️
 
-None - Arad
+<img src='out/RO/AR.png' width='32'/> AR - Arad ✔️
 
-None - Arges
+<img src='out/RO/AG.png' width='32'/> AG - Arges ✔️
 
-None - Bacău
+<img src='out/RO/BC.png' width='32'/> BC - Bacău ✔️
 
-None - Bihor
+<img src='out/RO/BH.png' width='32'/> BH - Bihor ✔️
 
-None - Bistrița-Năsăud
+BN - Bistrița-Năsăud
 
-None - Botoșani
+BT - Botoșani
 
-None - Braila
+<img src='out/RO/BR.png' width='32'/> BR - Braila ✔️
 
-None - Brașov
+BV - Brașov
 
-None - Bucharest
+<img src='out/RO/B.png' width='32'/> B - Bucharest ✔️
 
-None - Buzău
+<img src='out/RO/BZ.png' width='32'/> BZ - Buzău ✔️
 
-None - Călărași
+<img src='out/RO/CL.png' width='32'/> CL - Călărași ✔️
 
-None - Caraș-Severin
+<img src='out/RO/CS.png' width='32'/> CS - Caraș-Severin ✔️
 
-None - Cluj
+<img src='out/RO/CJ.png' width='32'/> CJ - Cluj ✔️
 
-None - Constanța
+CT - Constanța
 
-None - Covasna
+<img src='out/RO/CV.png' width='32'/> CV - Covasna ✔️
 
-None - Dâmbovița
+DB - Dâmbovița
 
-None - Dolj
+<img src='out/RO/DJ.png' width='32'/> DJ - Dolj ✔️
 
-None - Galați
+<img src='out/RO/GL.png' width='32'/> GL - Galați ✔️
 
-None - Giurgiu
+<img src='out/RO/GR.png' width='32'/> GR - Giurgiu ✔️
 
-None - Gorj
+GJ - Gorj
 
-None - Harghita
+<img src='out/RO/HR.png' width='32'/> HR - Harghita ✔️
 
-None - Hunedoara
+HD - Hunedoara
 
-None - Ialomița
+<img src='out/RO/IL.png' width='32'/> IL - Ialomița ✔️
 
-None - Iași
+<img src='out/RO/IS.png' width='32'/> IS - Iași ✔️
 
-None - Ilfov
+IF - Ilfov
 
-None - Maramureș
+<img src='out/RO/MM.png' width='32'/> MM - Maramureș ✔️
 
-None - Mehedinți
+MH - Mehedinți
 
-None - Mureș
+<img src='out/RO/MS.png' width='32'/> MS - Mureș ✔️
 
-None - Neamț
+NT - Neamț
 
-None - Olt
+OT - Olt
 
-None - Prahova
+PH - Prahova
 
-None - Sălaj
+SJ - Sălaj
 
-None - Satu Mare
+<img src='out/RO/SM.png' width='32'/> SM - Satu Mare ✔️
 
-None - Sibiu
+<img src='out/RO/SB.png' width='32'/> SB - Sibiu ✔️
 
-None - Suceava
+SV - Suceava
 
-None - Teleorman
+TR - Teleorman
 
-None - Timiș
+<img src='out/RO/TM.png' width='32'/> TM - Timiș ✔️
 
-None - Tulcea
+TL - Tulcea
 
-None - Vâlcea
+VL - Vâlcea
 
-None - Vaslui
+VS - Vaslui
 
-None - Vrancea
+VN - Vrancea
 
 </details>
 
 
 <details>
 <summary>Russia (81/83)</summary>
-None - Adygea
+AD - Adygea
 
-None - Altai
+<img src='out/RU/ALT.png' width='32'/> ALT - Altai ✔️
 
-None - Altai
+<img src='out/RU/AL.png' width='32'/> AL - Altai ✔️
 
-None - Amur
+<img src='out/RU/AMU.png' width='32'/> AMU - Amur ✔️
 
-None - Arkhangelsk
+<img src='out/RU/ARK.png' width='32'/> ARK - Arkhangelsk ✔️
 
-None - Astrakhan
+<img src='out/RU/AST.png' width='32'/> AST - Astrakhan ✔️
 
-None - Bashkortostan
+<img src='out/RU/BA.png' width='32'/> BA - Bashkortostan ✔️
 
-None - Belgorod
+<img src='out/RU/BEL.png' width='32'/> BEL - Belgorod ✔️
 
-None - Bryansk
+<img src='out/RU/BRY.png' width='32'/> BRY - Bryansk ✔️
 
-None - Buryatia
+<img src='out/RU/BU.png' width='32'/> BU - Buryatia ✔️
 
-None - Chechen
+<img src='out/RU/CE.png' width='32'/> CE - Chechen ✔️
 
-None - Chelyabinsk
+<img src='out/RU/CHE.png' width='32'/> CHE - Chelyabinsk ✔️
 
-None - Chukotka
+<img src='out/RU/CHU.png' width='32'/> CHU - Chukotka ✔️
 
-None - Chuvash
+<img src='out/RU/CU.png' width='32'/> CU - Chuvash ✔️
 
-None - Dagestan
+<img src='out/RU/DA.png' width='32'/> DA - Dagestan ✔️
 
-None - Ingushetia
+<img src='out/RU/IN.png' width='32'/> IN - Ingushetia ✔️
 
-None - Irkutsk
+<img src='out/RU/IRK.png' width='32'/> IRK - Irkutsk ✔️
 
-None - Ivanovo
+<img src='out/RU/IVA.png' width='32'/> IVA - Ivanovo ✔️
 
-None - Jewish
+<img src='out/RU/YEV.png' width='32'/> YEV - Jewish ✔️
 
-None - Kabardino-Balkar
+<img src='out/RU/KB.png' width='32'/> KB - Kabardino-Balkar ✔️
 
-None - Kaliningrad
+<img src='out/RU/KGD.png' width='32'/> KGD - Kaliningrad ✔️
 
-None - Kalmykia
+<img src='out/RU/KL.png' width='32'/> KL - Kalmykia ✔️
 
-None - Kaluga
+<img src='out/RU/KLU.png' width='32'/> KLU - Kaluga ✔️
 
-None - Kamchatka
+<img src='out/RU/KAM.png' width='32'/> KAM - Kamchatka ✔️
 
-None - Karachay-Cherkess
+<img src='out/RU/KC.png' width='32'/> KC - Karachay-Cherkess ✔️
 
-None - Karelia
+<img src='out/RU/KR.png' width='32'/> KR - Karelia ✔️
 
-None - Kemerovo
+<img src='out/RU/KEM.png' width='32'/> KEM - Kemerovo ✔️
 
-None - Khabarovsk
+<img src='out/RU/KHA.png' width='32'/> KHA - Khabarovsk ✔️
 
-None - Khakassia
+<img src='out/RU/KK.png' width='32'/> KK - Khakassia ✔️
 
-None - Khanty-Mansi
+<img src='out/RU/KHM.png' width='32'/> KHM - Khanty-Mansi ✔️
 
-None - Kirov
+<img src='out/RU/KIR.png' width='32'/> KIR - Kirov ✔️
 
-None - Komi
+<img src='out/RU/KO.png' width='32'/> KO - Komi ✔️
 
-None - Kostroma
+<img src='out/RU/KOS.png' width='32'/> KOS - Kostroma ✔️
 
-None - Krasnodar
+<img src='out/RU/KDA.png' width='32'/> KDA - Krasnodar ✔️
 
-None - Krasnoyarsk
+<img src='out/RU/KYA.png' width='32'/> KYA - Krasnoyarsk ✔️
 
-None - Kurgan
+<img src='out/RU/KGN.png' width='32'/> KGN - Kurgan ✔️
 
-None - Kursk
+<img src='out/RU/KRS.png' width='32'/> KRS - Kursk ✔️
 
-None - Leningrad
+<img src='out/RU/LEN.png' width='32'/> LEN - Leningrad ✔️
 
-None - Lipetsk
+<img src='out/RU/LIP.png' width='32'/> LIP - Lipetsk ✔️
 
-None - Magadan
+<img src='out/RU/MAG.png' width='32'/> MAG - Magadan ✔️
 
-None - Mari El
+<img src='out/RU/ME.png' width='32'/> ME - Mari El ✔️
 
-None - Mordovia
+<img src='out/RU/MO.png' width='32'/> MO - Mordovia ✔️
 
-None - Moscow
+<img src='out/RU/MOS.png' width='32'/> MOS - Moscow ✔️
 
-None - Moscow
+<img src='out/RU/MOW.png' width='32'/> MOW - Moscow ✔️
 
-None - Murmansk
+<img src='out/RU/MUR.png' width='32'/> MUR - Murmansk ✔️
 
-None - Nenets
+<img src='out/RU/NEN.png' width='32'/> NEN - Nenets ✔️
 
-None - Nizhny Novgorod
+<img src='out/RU/NIZ.png' width='32'/> NIZ - Nizhny Novgorod ✔️
 
-None - North Ossetia-Alania
+SE - North Ossetia-Alania
 
-None - Novgorod
+<img src='out/RU/NGR.png' width='32'/> NGR - Novgorod ✔️
 
-None - Novosibirsk
+<img src='out/RU/NVS.png' width='32'/> NVS - Novosibirsk ✔️
 
-None - Omsk
+<img src='out/RU/OMS.png' width='32'/> OMS - Omsk ✔️
 
-None - Orenburg
+<img src='out/RU/ORE.png' width='32'/> ORE - Orenburg ✔️
 
-None - Oryol
+<img src='out/RU/ORL.png' width='32'/> ORL - Oryol ✔️
 
-None - Penza
+<img src='out/RU/PNZ.png' width='32'/> PNZ - Penza ✔️
 
-None - Perm
+<img src='out/RU/PER.png' width='32'/> PER - Perm ✔️
 
-None - Primorsky
+<img src='out/RU/PRI.png' width='32'/> PRI - Primorsky ✔️
 
-None - Pskov
+<img src='out/RU/PSK.png' width='32'/> PSK - Pskov ✔️
 
-None - Rostov
+<img src='out/RU/ROS.png' width='32'/> ROS - Rostov ✔️
 
-None - Ryazan
+<img src='out/RU/RYA.png' width='32'/> RYA - Ryazan ✔️
 
-None - Saint Petersburg
+<img src='out/RU/SPE.png' width='32'/> SPE - Saint Petersburg ✔️
 
-None - Sakha
+<img src='out/RU/SA.png' width='32'/> SA - Sakha ✔️
 
-None - Sakhalin
+<img src='out/RU/SAK.png' width='32'/> SAK - Sakhalin ✔️
 
-None - Samara
+<img src='out/RU/SAM.png' width='32'/> SAM - Samara ✔️
 
-None - Saratov
+<img src='out/RU/SAR.png' width='32'/> SAR - Saratov ✔️
 
-None - Smolensk
+<img src='out/RU/SMO.png' width='32'/> SMO - Smolensk ✔️
 
-None - Stavropol
+<img src='out/RU/STA.png' width='32'/> STA - Stavropol ✔️
 
-None - Sverdlovsk
+<img src='out/RU/SVE.png' width='32'/> SVE - Sverdlovsk ✔️
 
-None - Tambov
+<img src='out/RU/TAM.png' width='32'/> TAM - Tambov ✔️
 
-None - Tatarstan
+<img src='out/RU/TA.png' width='32'/> TA - Tatarstan ✔️
 
-None - Tomsk
+<img src='out/RU/TOM.png' width='32'/> TOM - Tomsk ✔️
 
-None - Tula
+<img src='out/RU/TUL.png' width='32'/> TUL - Tula ✔️
 
-None - Tuva
+<img src='out/RU/TY.png' width='32'/> TY - Tuva ✔️
 
-None - Tver
+<img src='out/RU/TVE.png' width='32'/> TVE - Tver ✔️
 
-None - Tyumen
+<img src='out/RU/TYU.png' width='32'/> TYU - Tyumen ✔️
 
-None - Udmurt
+<img src='out/RU/UD.png' width='32'/> UD - Udmurt ✔️
 
-None - Ulyanovsk
+<img src='out/RU/ULY.png' width='32'/> ULY - Ulyanovsk ✔️
 
-None - Vladimir
+<img src='out/RU/VLA.png' width='32'/> VLA - Vladimir ✔️
 
-None - Volgograd Oblast
+<img src='out/RU/VGG.png' width='32'/> VGG - Volgograd Oblast ✔️
 
-None - Vologda
+<img src='out/RU/VLG.png' width='32'/> VLG - Vologda ✔️
 
-None - Voronezh
+<img src='out/RU/VOR.png' width='32'/> VOR - Voronezh ✔️
 
-None - Yamalo-Nenets
+<img src='out/RU/YAN.png' width='32'/> YAN - Yamalo-Nenets ✔️
 
-None - Yaroslavl
+<img src='out/RU/YAR.png' width='32'/> YAR - Yaroslavl ✔️
 
-None - Zabaykalsky
+<img src='out/RU/ZAB.png' width='32'/> ZAB - Zabaykalsky ✔️
 
 </details>
 
 
 <details>
 <summary>Rwanda (0/5)</summary>
-None - Eastern
+02 - Eastern
 
-None - Kigali
+01 - Kigali
 
-None - Northern
+03 - Northern
 
-None - Southern
+05 - Southern
 
-None - Western
+04 - Western
 
 </details>
 
 
 <details>
 <summary>Saint Helena (0/8)</summary>
-None - Alarm Forest
+01 - Alarm Forest
 
-None - Blue Hill
+02 - Blue Hill
 
-None - Half Tree Hollow
+03 - Half Tree Hollow
 
-None - Jamestown
+04 - Jamestown
 
-None - Levelwood
+05 - Levelwood
 
-None - Longwood
+06 - Longwood
 
-None - Saint Paul's
+08 - Saint Paul's
 
-None - Sandy Bay
+07 - Sandy Bay
 
 </details>
 
 
 <details>
 <summary>Saint Kitts and Nevis (2/16)</summary>
-None - Christ Church Nichola Town
+01 - Christ Church Nichola Town
 
-None - Nevis
+<img src='out/KN/N.png' width='32'/> N - Nevis ✔️
 
-None - Saint Anne Sandy Point
+02 - Saint Anne Sandy Point
 
-None - Saint George Basseterre
+03 - Saint George Basseterre
 
-None - Saint George Gingerland
+04 - Saint George Gingerland
 
-None - Saint James Windward
+05 - Saint James Windward
 
-None - Saint John Capisterre
+06 - Saint John Capisterre
 
-None - Saint John Figtree
+07 - Saint John Figtree
 
-None - Saint Kitts
+<img src='out/KN/K.png' width='32'/> K - Saint Kitts ✔️
 
-None - Saint Mary Cayon
+08 - Saint Mary Cayon
 
-None - Saint Paul Capisterre
+09 - Saint Paul Capisterre
 
-None - Saint Paul Charlestown
+10 - Saint Paul Charlestown
 
-None - Saint Peter Basseterre
+11 - Saint Peter Basseterre
 
-None - Saint Thomas Lowland
+12 - Saint Thomas Lowland
 
-None - Saint Thomas Middle Island
+13 - Saint Thomas Middle Island
 
-None - Trinity Palmetto Point
+15 - Trinity Palmetto Point
 
 </details>
 
 
 <details>
 <summary>Saint Lucia (0/12)</summary>
-None - Anse la Raye
+01 - Anse la Raye
 
-None - Canaries
+12 - Canaries
 
-None - Castries
+02 - Castries
 
-None - Choiseul
+03 - Choiseul
 
-None - Dauphin
+04 - Dauphin
 
-None - Dennery
+05 - Dennery
 
-None - Gros Islet
+06 - Gros Islet
 
-None - Laborie
+07 - Laborie
 
-None - Micoud
+08 - Micoud
 
-None - Praslin
+09 - Praslin
 
-None - Soufrière
+10 - Soufrière
 
-None - Vieux Fort
+11 - Vieux Fort
 
 </details>
 
 
 <details>
 <summary>Saint Vincent and the Grenadines (0/6)</summary>
-None - Charlotte
+01 - Charlotte
 
-None - Grenadines
+06 - Grenadines
 
-None - Saint Andrew
+02 - Saint Andrew
 
-None - Saint David
+03 - Saint David
 
-None - Saint George
+04 - Saint George
 
-None - Saint Patrick
+05 - Saint Patrick
 
 </details>
 
 
 <details>
 <summary>Samoa (0/11)</summary>
-None - A'ana
+AA - A'ana
 
-None - Aiga-i-le-Tai
+AL - Aiga-i-le-Tai
 
-None - Atua
+AT - Atua
 
-None - Fa'asaleleaga
+FA - Fa'asaleleaga
 
-None - Gaga'emauga
+GE - Gaga'emauga
 
-None - Gaga'ifomauga
+GI - Gaga'ifomauga
 
-None - Palauli
+PA - Palauli
 
-None - Satupa'itea
+SA - Satupa'itea
 
-None - Tuamasaga
+TU - Tuamasaga
 
-None - Va'a-o-Fonoti
+VF - Va'a-o-Fonoti
 
-None - Vaisigano
+VS - Vaisigano
 
 </details>
 
 
 <details>
 <summary>San Marino ✔️ (9/9)</summary>
-None - Acquaviva
+<img src='out/SM/01.png' width='32'/> 01 - Acquaviva ✔️
 
-None - Borgo Maggiore
+<img src='out/SM/06.png' width='32'/> 06 - Borgo Maggiore ✔️
 
-None - Chiesanuova
+<img src='out/SM/02.png' width='32'/> 02 - Chiesanuova ✔️
 
-None - Domagnano
+<img src='out/SM/03.png' width='32'/> 03 - Domagnano ✔️
 
-None - Faetano
+<img src='out/SM/04.png' width='32'/> 04 - Faetano ✔️
 
-None - Fiorentino
+<img src='out/SM/05.png' width='32'/> 05 - Fiorentino ✔️
 
-None - Montegiardino
+<img src='out/SM/08.png' width='32'/> 08 - Montegiardino ✔️
 
-None - San Marino
+<img src='out/SM/07.png' width='32'/> 07 - San Marino ✔️
 
-None - Serravalle
+<img src='out/SM/09.png' width='32'/> 09 - Serravalle ✔️
 
 </details>
 
 
 <details>
 <summary>Sao Tome and Principe (0/2)</summary>
-None - Príncipe
+P - Príncipe
 
-None - São Tomé
+S - São Tomé
 
 </details>
 
 
 <details>
 <summary>Saudi Arabia (2/13)</summary>
-None - 'Asir
+14 - 'Asir
 
-None - Al Bahah
+11 - Al Bahah
 
-None - Al Jawf
+12 - Al Jawf
 
-None - Al Madinah
+03 - Al Madinah
 
-None - Al-Qassim
+05 - Al-Qassim
 
-None - Eastern Province
+04 - Eastern Province
 
-None - Ha'il
+<img src='out/SA/06.png' width='32'/> 06 - Ha'il ✔️
 
-None - Jizan
+09 - Jizan
 
-None - Makkah
+02 - Makkah
 
-None - Najran
+10 - Najran
 
-None - Northern Borders
+08 - Northern Borders
 
-None - Riyadh
+<img src='out/SA/01.png' width='32'/> 01 - Riyadh ✔️
 
-None - Tabuk
+07 - Tabuk
 
 </details>
 
 
 <details>
 <summary>Senegal (4/14)</summary>
-None - Dakar
+<img src='out/SN/DK.png' width='32'/> DK - Dakar ✔️
 
-None - Diourbel Region
+DB - Diourbel Region
 
-None - Fatick
+FK - Fatick
 
-None - Kaffrine
+KA - Kaffrine
 
-None - Kaolack
+KL - Kaolack
 
-None - Kédougou
+KE - Kédougou
 
-None - Kolda
+<img src='out/SN/KD.png' width='32'/> KD - Kolda ✔️
 
-None - Louga
+LG - Louga
 
-None - Matam
+MT - Matam
 
-None - Saint-Louis
+SL - Saint-Louis
 
-None - Sédhiou
+<img src='out/SN/SE.png' width='32'/> SE - Sédhiou ✔️
 
-None - Tambacounda Region
+TC - Tambacounda Region
 
-None - Thiès Region
+TH - Thiès Region
 
-None - Ziguinchor
+<img src='out/SN/ZG.png' width='32'/> ZG - Ziguinchor ✔️
 
 </details>
 
 
 <details>
 <summary>Serbia ✔️ (26/26)</summary>
-None - Belgrade
+<img src='out/RS/00.png' width='32'/> 00 - Belgrade ✔️
 
-None - Bor
+<img src='out/RS/14.png' width='32'/> 14 - Bor ✔️
 
-None - Braničevo
+<img src='out/RS/11.png' width='32'/> 11 - Braničevo ✔️
 
-None - Central Banat
+<img src='out/RS/02.png' width='32'/> 02 - Central Banat ✔️
 
-None - Jablanica
+<img src='out/RS/23.png' width='32'/> 23 - Jablanica ✔️
 
-None - Kolubara
+<img src='out/RS/09.png' width='32'/> 09 - Kolubara ✔️
 
-None - Mačva
+<img src='out/RS/08.png' width='32'/> 08 - Mačva ✔️
 
-None - Moravica
+<img src='out/RS/17.png' width='32'/> 17 - Moravica ✔️
 
-None - Nišava
+<img src='out/RS/20.png' width='32'/> 20 - Nišava ✔️
 
-None - North Bačka
+<img src='out/RS/01.png' width='32'/> 01 - North Bačka ✔️
 
-None - North Banat
+<img src='out/RS/03.png' width='32'/> 03 - North Banat ✔️
 
-None - Pčinja
+<img src='out/RS/24.png' width='32'/> 24 - Pčinja ✔️
 
-None - Pirot
+<img src='out/RS/22.png' width='32'/> 22 - Pirot ✔️
 
-None - Podunavlje
+<img src='out/RS/10.png' width='32'/> 10 - Podunavlje ✔️
 
-None - Pomoravlje
+<img src='out/RS/13.png' width='32'/> 13 - Pomoravlje ✔️
 
-None - Rasina
+<img src='out/RS/19.png' width='32'/> 19 - Rasina ✔️
 
-None - Raška
+<img src='out/RS/18.png' width='32'/> 18 - Raška ✔️
 
-None - South Bačka
+<img src='out/RS/06.png' width='32'/> 06 - South Bačka ✔️
 
-None - South Banat
+<img src='out/RS/04.png' width='32'/> 04 - South Banat ✔️
 
-None - Srem
+<img src='out/RS/07.png' width='32'/> 07 - Srem ✔️
 
-None - Šumadija
+<img src='out/RS/12.png' width='32'/> 12 - Šumadija ✔️
 
-None - Toplica
+<img src='out/RS/21.png' width='32'/> 21 - Toplica ✔️
 
-None - Vojvodina
+<img src='out/RS/VO.png' width='32'/> VO - Vojvodina ✔️
 
-None - West Bačka
+<img src='out/RS/05.png' width='32'/> 05 - West Bačka ✔️
 
-None - Zaječar
+<img src='out/RS/15.png' width='32'/> 15 - Zaječar ✔️
 
-None - Zlatibor
+<img src='out/RS/16.png' width='32'/> 16 - Zlatibor ✔️
 
 </details>
 
 
 <details>
 <summary>Seychelles (0/24)</summary>
-None - Anse Boileau
+02 - Anse Boileau
 
-None - Anse Royale
+05 - Anse Royale
 
-None - Anse-aux-Pins
+01 - Anse-aux-Pins
 
-None - Au Cap
+04 - Au Cap
 
-None - Baie Lazare
+06 - Baie Lazare
 
-None - Baie Sainte Anne
+07 - Baie Sainte Anne
 
-None - Beau Vallon
+08 - Beau Vallon
 
-None - Bel Air
+09 - Bel Air
 
-None - Bel Ombre
+10 - Bel Ombre
 
-None - Cascade
+11 - Cascade
 
-None - Glacis
+12 - Glacis
 
-None - Grand'Anse Mahé
+13 - Grand'Anse Mahé
 
-None - Grand'Anse Praslin
+14 - Grand'Anse Praslin
 
-None - La Digue
+15 - La Digue
 
-None - La Rivière Anglaise
+16 - La Rivière Anglaise
 
-None - Les Mamelles
+24 - Les Mamelles
 
-None - Mont Buxton
+17 - Mont Buxton
 
-None - Mont Fleuri
+18 - Mont Fleuri
 
-None - Plaisance
+19 - Plaisance
 
-None - Pointe La Rue
+20 - Pointe La Rue
 
-None - Port Glaud
+21 - Port Glaud
 
-None - Roche Caiman
+25 - Roche Caiman
 
-None - Saint Louis
+22 - Saint Louis
 
-None - Takamaka
+23 - Takamaka
 
 </details>
 
 
 <details>
 <summary>Sierra Leone (0/4)</summary>
-None - Eastern
+E - Eastern
 
-None - Northern
+N - Northern
 
-None - Southern
+S - Southern
 
-None - Western
+W - Western
 
 </details>
 
 
 <details>
 <summary>Singapore (0/5)</summary>
-None - Central Singapore
+01 - Central Singapore
 
-None - North East
+02 - North East
 
-None - North West
+03 - North West
 
-None - South East
+04 - South East
 
-None - South West
+05 - South West
 
 </details>
 
 
 <details>
 <summary>Slovakia ✔️ (8/8)</summary>
-None - Banská Bystrica
+<img src='out/SK/BC.png' width='32'/> BC - Banská Bystrica ✔️
 
-None - Bratislava
+<img src='out/SK/BL.png' width='32'/> BL - Bratislava ✔️
 
-None - Košice
+<img src='out/SK/KI.png' width='32'/> KI - Košice ✔️
 
-None - Nitra
+<img src='out/SK/NI.png' width='32'/> NI - Nitra ✔️
 
-None - Prešov
+<img src='out/SK/PV.png' width='32'/> PV - Prešov ✔️
 
-None - Trenčín
+<img src='out/SK/TC.png' width='32'/> TC - Trenčín ✔️
 
-None - Trnava
+<img src='out/SK/TA.png' width='32'/> TA - Trnava ✔️
 
-None - Žilina
+<img src='out/SK/ZI.png' width='32'/> ZI - Žilina ✔️
 
 </details>
 
 
 <details>
 <summary>Slovenia ✔️ (211/211)</summary>
-None - Ajdovščina
+<img src='out/SI/001.png' width='32'/> 001 - Ajdovščina ✔️
 
-None - Ankaran
+<img src='out/SI/213.png' width='32'/> 213 - Ankaran ✔️
 
-None - Apače
+<img src='out/SI/195.png' width='32'/> 195 - Apače ✔️
 
-None - Beltinci
+<img src='out/SI/002.png' width='32'/> 002 - Beltinci ✔️
 
-None - Benedikt
+<img src='out/SI/148.png' width='32'/> 148 - Benedikt ✔️
 
-None - Bistrica ob Sotli
+<img src='out/SI/149.png' width='32'/> 149 - Bistrica ob Sotli ✔️
 
-None - Bled
+<img src='out/SI/003.png' width='32'/> 003 - Bled ✔️
 
-None - Bloke
+<img src='out/SI/150.png' width='32'/> 150 - Bloke ✔️
 
-None - Bohinj
+<img src='out/SI/004.png' width='32'/> 004 - Bohinj ✔️
 
-None - Borovnica
+<img src='out/SI/005.png' width='32'/> 005 - Borovnica ✔️
 
-None - Bovec
+<img src='out/SI/006.png' width='32'/> 006 - Bovec ✔️
 
-None - Braslovče
+<img src='out/SI/151.png' width='32'/> 151 - Braslovče ✔️
 
-None - Brda
+<img src='out/SI/007.png' width='32'/> 007 - Brda ✔️
 
-None - Brežice
+<img src='out/SI/009.png' width='32'/> 009 - Brežice ✔️
 
-None - Brezovica
+<img src='out/SI/008.png' width='32'/> 008 - Brezovica ✔️
 
-None - Cankova
+<img src='out/SI/152.png' width='32'/> 152 - Cankova ✔️
 
-None - Celje
+<img src='out/SI/011.png' width='32'/> 011 - Celje ✔️
 
-None - Cerklje na Gorenjskem
+<img src='out/SI/012.png' width='32'/> 012 - Cerklje na Gorenjskem ✔️
 
-None - Cerknica
+<img src='out/SI/013.png' width='32'/> 013 - Cerknica ✔️
 
-None - Cerkno
+<img src='out/SI/014.png' width='32'/> 014 - Cerkno ✔️
 
-None - Cerkvenjak
+<img src='out/SI/153.png' width='32'/> 153 - Cerkvenjak ✔️
 
-None - Cirkulane
+<img src='out/SI/196.png' width='32'/> 196 - Cirkulane ✔️
 
-None - Črenšovci
+<img src='out/SI/015.png' width='32'/> 015 - Črenšovci ✔️
 
-None - Črna na Koroškem
+<img src='out/SI/016.png' width='32'/> 016 - Črna na Koroškem ✔️
 
-None - Črnomelj
+<img src='out/SI/017.png' width='32'/> 017 - Črnomelj ✔️
 
-None - Destrnik
+<img src='out/SI/018.png' width='32'/> 018 - Destrnik ✔️
 
-None - Divača
+<img src='out/SI/019.png' width='32'/> 019 - Divača ✔️
 
-None - Dobje
+<img src='out/SI/154.png' width='32'/> 154 - Dobje ✔️
 
-None - Dobrepolje
+<img src='out/SI/020.png' width='32'/> 020 - Dobrepolje ✔️
 
-None - Dobrna
+<img src='out/SI/155.png' width='32'/> 155 - Dobrna ✔️
 
-None - Dobrova–Polhov Gradec
+<img src='out/SI/021.png' width='32'/> 021 - Dobrova–Polhov Gradec ✔️
 
-None - Dobrovnik
+<img src='out/SI/156.png' width='32'/> 156 - Dobrovnik ✔️
 
-None - Dol pri Ljubljani
+<img src='out/SI/022.png' width='32'/> 022 - Dol pri Ljubljani ✔️
 
-None - Dolenjske Toplice
+<img src='out/SI/157.png' width='32'/> 157 - Dolenjske Toplice ✔️
 
-None - Domžale
+<img src='out/SI/023.png' width='32'/> 023 - Domžale ✔️
 
-None - Dornava
+<img src='out/SI/024.png' width='32'/> 024 - Dornava ✔️
 
-None - Dravograd
+<img src='out/SI/025.png' width='32'/> 025 - Dravograd ✔️
 
-None - Duplek
+<img src='out/SI/026.png' width='32'/> 026 - Duplek ✔️
 
-None - Gorenja Vas–Poljane
+<img src='out/SI/027.png' width='32'/> 027 - Gorenja Vas–Poljane ✔️
 
-None - Gorišnica
+<img src='out/SI/028.png' width='32'/> 028 - Gorišnica ✔️
 
-None - Gorje
+<img src='out/SI/207.png' width='32'/> 207 - Gorje ✔️
 
-None - Gornja Radgona
+<img src='out/SI/029.png' width='32'/> 029 - Gornja Radgona ✔️
 
-None - Gornji Grad
+<img src='out/SI/030.png' width='32'/> 030 - Gornji Grad ✔️
 
-None - Gornji Petrovci
+<img src='out/SI/031.png' width='32'/> 031 - Gornji Petrovci ✔️
 
-None - Grad
+<img src='out/SI/158.png' width='32'/> 158 - Grad ✔️
 
-None - Grosuplje
+<img src='out/SI/032.png' width='32'/> 032 - Grosuplje ✔️
 
-None - Hajdina
+<img src='out/SI/159.png' width='32'/> 159 - Hajdina ✔️
 
-None - Hoče–Slivnica
+<img src='out/SI/160.png' width='32'/> 160 - Hoče–Slivnica ✔️
 
-None - Hodoš
+<img src='out/SI/161.png' width='32'/> 161 - Hodoš ✔️
 
-None - Horjul
+<img src='out/SI/162.png' width='32'/> 162 - Horjul ✔️
 
-None - Hrastnik
+<img src='out/SI/034.png' width='32'/> 034 - Hrastnik ✔️
 
-None - Hrpelje–Kozina
+<img src='out/SI/035.png' width='32'/> 035 - Hrpelje–Kozina ✔️
 
-None - Idrija
+<img src='out/SI/036.png' width='32'/> 036 - Idrija ✔️
 
-None - Ig
+<img src='out/SI/037.png' width='32'/> 037 - Ig ✔️
 
-None - Ilirska Bistrica
+<img src='out/SI/038.png' width='32'/> 038 - Ilirska Bistrica ✔️
 
-None - Ivančna Gorica
+<img src='out/SI/039.png' width='32'/> 039 - Ivančna Gorica ✔️
 
-None - Izola
+<img src='out/SI/040.png' width='32'/> 040 - Izola ✔️
 
-None - Jesenice
+<img src='out/SI/041.png' width='32'/> 041 - Jesenice ✔️
 
-None - Jezersko
+<img src='out/SI/163.png' width='32'/> 163 - Jezersko ✔️
 
-None - Juršinci
+<img src='out/SI/042.png' width='32'/> 042 - Juršinci ✔️
 
-None - Kamnik
+<img src='out/SI/043.png' width='32'/> 043 - Kamnik ✔️
 
-None - Kanal ob Soči
+<img src='out/SI/044.png' width='32'/> 044 - Kanal ob Soči ✔️
 
-None - Kidričevo
+<img src='out/SI/045.png' width='32'/> 045 - Kidričevo ✔️
 
-None - Kobarid
+<img src='out/SI/046.png' width='32'/> 046 - Kobarid ✔️
 
-None - Kobilje
+<img src='out/SI/047.png' width='32'/> 047 - Kobilje ✔️
 
-None - Kočevje
+<img src='out/SI/048.png' width='32'/> 048 - Kočevje ✔️
 
-None - Komen
+<img src='out/SI/049.png' width='32'/> 049 - Komen ✔️
 
-None - Komenda
+<img src='out/SI/164.png' width='32'/> 164 - Komenda ✔️
 
-None - Koper
+<img src='out/SI/050.png' width='32'/> 050 - Koper ✔️
 
-None - Kostanjevica na Krki
+<img src='out/SI/197.png' width='32'/> 197 - Kostanjevica na Krki ✔️
 
-None - Kostel
+<img src='out/SI/165.png' width='32'/> 165 - Kostel ✔️
 
-None - Kozje
+<img src='out/SI/051.png' width='32'/> 051 - Kozje ✔️
 
-None - Kranj
+<img src='out/SI/052.png' width='32'/> 052 - Kranj ✔️
 
-None - Kranjska Gora
+<img src='out/SI/053.png' width='32'/> 053 - Kranjska Gora ✔️
 
-None - Križevci
+<img src='out/SI/166.png' width='32'/> 166 - Križevci ✔️
 
-None - Krško
+<img src='out/SI/054.png' width='32'/> 054 - Krško ✔️
 
-None - Kungota
+<img src='out/SI/055.png' width='32'/> 055 - Kungota ✔️
 
-None - Kuzma
+<img src='out/SI/056.png' width='32'/> 056 - Kuzma ✔️
 
-None - Laško
+<img src='out/SI/057.png' width='32'/> 057 - Laško ✔️
 
-None - Lenart
+<img src='out/SI/058.png' width='32'/> 058 - Lenart ✔️
 
-None - Lendava
+<img src='out/SI/059.png' width='32'/> 059 - Lendava ✔️
 
-None - Litija
+<img src='out/SI/060.png' width='32'/> 060 - Litija ✔️
 
-None - Ljubljana
+<img src='out/SI/061.png' width='32'/> 061 - Ljubljana ✔️
 
-None - Ljubno
+<img src='out/SI/062.png' width='32'/> 062 - Ljubno ✔️
 
-None - Ljutomer
+<img src='out/SI/063.png' width='32'/> 063 - Ljutomer ✔️
 
-None - Log–Dragomer
+<img src='out/SI/208.png' width='32'/> 208 - Log–Dragomer ✔️
 
-None - Logatec
+<img src='out/SI/064.png' width='32'/> 064 - Logatec ✔️
 
-None - Loška Dolina
+<img src='out/SI/065.png' width='32'/> 065 - Loška Dolina ✔️
 
-None - Loški Potok
+<img src='out/SI/066.png' width='32'/> 066 - Loški Potok ✔️
 
-None - Lovrenc na Pohorju
+<img src='out/SI/167.png' width='32'/> 167 - Lovrenc na Pohorju ✔️
 
-None - Luče
+<img src='out/SI/067.png' width='32'/> 067 - Luče ✔️
 
-None - Lukovica
+<img src='out/SI/068.png' width='32'/> 068 - Lukovica ✔️
 
-None - Majšperk
+<img src='out/SI/069.png' width='32'/> 069 - Majšperk ✔️
 
-None - Makole
+<img src='out/SI/198.png' width='32'/> 198 - Makole ✔️
 
-None - Maribor
+<img src='out/SI/070.png' width='32'/> 070 - Maribor ✔️
 
-None - Markovci
+<img src='out/SI/168.png' width='32'/> 168 - Markovci ✔️
 
-None - Medvode
+<img src='out/SI/071.png' width='32'/> 071 - Medvode ✔️
 
-None - Mengeš
+<img src='out/SI/072.png' width='32'/> 072 - Mengeš ✔️
 
-None - Metlika
+<img src='out/SI/073.png' width='32'/> 073 - Metlika ✔️
 
-None - Mežica
+<img src='out/SI/074.png' width='32'/> 074 - Mežica ✔️
 
-None - Miklavž na Dravskem Polju
+<img src='out/SI/169.png' width='32'/> 169 - Miklavž na Dravskem Polju ✔️
 
-None - Miren–Kostanjevica
+<img src='out/SI/075.png' width='32'/> 075 - Miren–Kostanjevica ✔️
 
-None - Mirna
+<img src='out/SI/212.png' width='32'/> 212 - Mirna ✔️
 
-None - Mirna Peč
+<img src='out/SI/170.png' width='32'/> 170 - Mirna Peč ✔️
 
-None - Mislinja
+<img src='out/SI/076.png' width='32'/> 076 - Mislinja ✔️
 
-None - Mokronog–Trebelno
+<img src='out/SI/199.png' width='32'/> 199 - Mokronog–Trebelno ✔️
 
-None - Moravče
+<img src='out/SI/077.png' width='32'/> 077 - Moravče ✔️
 
-None - Moravske Toplice
+<img src='out/SI/078.png' width='32'/> 078 - Moravske Toplice ✔️
 
-None - Mozirje
+<img src='out/SI/079.png' width='32'/> 079 - Mozirje ✔️
 
-None - Murska Sobota
+<img src='out/SI/080.png' width='32'/> 080 - Murska Sobota ✔️
 
-None - Muta
+<img src='out/SI/081.png' width='32'/> 081 - Muta ✔️
 
-None - Naklo
+<img src='out/SI/082.png' width='32'/> 082 - Naklo ✔️
 
-None - Nazarje
+<img src='out/SI/083.png' width='32'/> 083 - Nazarje ✔️
 
-None - Nova Gorica
+<img src='out/SI/084.png' width='32'/> 084 - Nova Gorica ✔️
 
-None - Novo Mesto
+<img src='out/SI/085.png' width='32'/> 085 - Novo Mesto ✔️
 
-None - Odranci
+<img src='out/SI/086.png' width='32'/> 086 - Odranci ✔️
 
-None - Oplotnica
+<img src='out/SI/171.png' width='32'/> 171 - Oplotnica ✔️
 
-None - Ormož
+<img src='out/SI/087.png' width='32'/> 087 - Ormož ✔️
 
-None - Osilnica
+<img src='out/SI/088.png' width='32'/> 088 - Osilnica ✔️
 
-None - Pesnica
+<img src='out/SI/089.png' width='32'/> 089 - Pesnica ✔️
 
-None - Piran
+<img src='out/SI/090.png' width='32'/> 090 - Piran ✔️
 
-None - Pivka
+<img src='out/SI/091.png' width='32'/> 091 - Pivka ✔️
 
-None - Podčetrtek
+<img src='out/SI/092.png' width='32'/> 092 - Podčetrtek ✔️
 
-None - Podlehnik
+<img src='out/SI/172.png' width='32'/> 172 - Podlehnik ✔️
 
-None - Podvelka
+<img src='out/SI/093.png' width='32'/> 093 - Podvelka ✔️
 
-None - Poljčane
+<img src='out/SI/200.png' width='32'/> 200 - Poljčane ✔️
 
-None - Polzela
+<img src='out/SI/173.png' width='32'/> 173 - Polzela ✔️
 
-None - Postojna
+<img src='out/SI/094.png' width='32'/> 094 - Postojna ✔️
 
-None - Prebold
+<img src='out/SI/174.png' width='32'/> 174 - Prebold ✔️
 
-None - Preddvor
+<img src='out/SI/095.png' width='32'/> 095 - Preddvor ✔️
 
-None - Prevalje
+<img src='out/SI/175.png' width='32'/> 175 - Prevalje ✔️
 
-None - Ptuj
+<img src='out/SI/096.png' width='32'/> 096 - Ptuj ✔️
 
-None - Puconci
+<img src='out/SI/097.png' width='32'/> 097 - Puconci ✔️
 
-None - Rače–Fram
+<img src='out/SI/098.png' width='32'/> 098 - Rače–Fram ✔️
 
-None - Radeče
+<img src='out/SI/099.png' width='32'/> 099 - Radeče ✔️
 
-None - Radenci
+<img src='out/SI/100.png' width='32'/> 100 - Radenci ✔️
 
-None - Radlje ob Dravi
+<img src='out/SI/101.png' width='32'/> 101 - Radlje ob Dravi ✔️
 
-None - Radovljica
+<img src='out/SI/102.png' width='32'/> 102 - Radovljica ✔️
 
-None - Ravne na Koroškem
+<img src='out/SI/103.png' width='32'/> 103 - Ravne na Koroškem ✔️
 
-None - Razkrižje
+<img src='out/SI/176.png' width='32'/> 176 - Razkrižje ✔️
 
-None - Rečica ob Savinji
+<img src='out/SI/209.png' width='32'/> 209 - Rečica ob Savinji ✔️
 
-None - Renče–Vogrsko
+<img src='out/SI/201.png' width='32'/> 201 - Renče–Vogrsko ✔️
 
-None - Ribnica
+<img src='out/SI/104.png' width='32'/> 104 - Ribnica ✔️
 
-None - Ribnica na Pohorju
+<img src='out/SI/177.png' width='32'/> 177 - Ribnica na Pohorju ✔️
 
-None - Rogaška Slatina
+<img src='out/SI/106.png' width='32'/> 106 - Rogaška Slatina ✔️
 
-None - Rogašovci
+<img src='out/SI/105.png' width='32'/> 105 - Rogašovci ✔️
 
-None - Rogatec
+<img src='out/SI/107.png' width='32'/> 107 - Rogatec ✔️
 
-None - Ruše
+<img src='out/SI/108.png' width='32'/> 108 - Ruše ✔️
 
-None - Šalovci
+<img src='out/SI/033.png' width='32'/> 033 - Šalovci ✔️
 
-None - Selnica ob Dravi
+<img src='out/SI/178.png' width='32'/> 178 - Selnica ob Dravi ✔️
 
-None - Semič
+<img src='out/SI/109.png' width='32'/> 109 - Semič ✔️
 
-None - Šempeter–Vrtojba
+<img src='out/SI/183.png' width='32'/> 183 - Šempeter–Vrtojba ✔️
 
-None - Šenčur
+<img src='out/SI/117.png' width='32'/> 117 - Šenčur ✔️
 
-None - Šentilj
+<img src='out/SI/118.png' width='32'/> 118 - Šentilj ✔️
 
-None - Šentjernej
+<img src='out/SI/119.png' width='32'/> 119 - Šentjernej ✔️
 
-None - Šentjur
+<img src='out/SI/120.png' width='32'/> 120 - Šentjur ✔️
 
-None - Šentrupert
+<img src='out/SI/211.png' width='32'/> 211 - Šentrupert ✔️
 
-None - Sevnica
+<img src='out/SI/110.png' width='32'/> 110 - Sevnica ✔️
 
-None - Sežana
+<img src='out/SI/111.png' width='32'/> 111 - Sežana ✔️
 
-None - Škocjan
+<img src='out/SI/121.png' width='32'/> 121 - Škocjan ✔️
 
-None - Škofja Loka
+<img src='out/SI/122.png' width='32'/> 122 - Škofja Loka ✔️
 
-None - Škofljica
+<img src='out/SI/123.png' width='32'/> 123 - Škofljica ✔️
 
-None - Slovenj Gradec
+<img src='out/SI/112.png' width='32'/> 112 - Slovenj Gradec ✔️
 
-None - Slovenska Bistrica
+<img src='out/SI/113.png' width='32'/> 113 - Slovenska Bistrica ✔️
 
-None - Slovenske Konjice
+<img src='out/SI/114.png' width='32'/> 114 - Slovenske Konjice ✔️
 
-None - Šmarje pri Jelšah
+<img src='out/SI/124.png' width='32'/> 124 - Šmarje pri Jelšah ✔️
 
-None - Šmarješke Toplice
+<img src='out/SI/206.png' width='32'/> 206 - Šmarješke Toplice ✔️
 
-None - Šmartno ob Paki
+<img src='out/SI/125.png' width='32'/> 125 - Šmartno ob Paki ✔️
 
-None - Šmartno pri Litiji
+<img src='out/SI/194.png' width='32'/> 194 - Šmartno pri Litiji ✔️
 
-None - Sodražica
+<img src='out/SI/179.png' width='32'/> 179 - Sodražica ✔️
 
-None - Solčava
+<img src='out/SI/180.png' width='32'/> 180 - Solčava ✔️
 
-None - Šoštanj
+<img src='out/SI/126.png' width='32'/> 126 - Šoštanj ✔️
 
-None - Središče ob Dravi
+<img src='out/SI/202.png' width='32'/> 202 - Središče ob Dravi ✔️
 
-None - Starše
+<img src='out/SI/115.png' width='32'/> 115 - Starše ✔️
 
-None - Štore
+<img src='out/SI/127.png' width='32'/> 127 - Štore ✔️
 
-None - Straža
+<img src='out/SI/203.png' width='32'/> 203 - Straža ✔️
 
-None - Sveta Ana
+<img src='out/SI/181.png' width='32'/> 181 - Sveta Ana ✔️
 
-None - Sveta Trojica v Slovenskih Goricah
+<img src='out/SI/204.png' width='32'/> 204 - Sveta Trojica v Slovenskih Goricah ✔️
 
-None - Sveti Andraž v Slovenskih Goricah
+<img src='out/SI/182.png' width='32'/> 182 - Sveti Andraž v Slovenskih Goricah ✔️
 
-None - Sveti Jurij ob Ščavnici
+<img src='out/SI/116.png' width='32'/> 116 - Sveti Jurij ob Ščavnici ✔️
 
-None - Sveti Jurij v Slovenskih Goricah
+<img src='out/SI/210.png' width='32'/> 210 - Sveti Jurij v Slovenskih Goricah ✔️
 
-None - Sveti Tomaž
+<img src='out/SI/205.png' width='32'/> 205 - Sveti Tomaž ✔️
 
-None - Tabor
+<img src='out/SI/184.png' width='32'/> 184 - Tabor ✔️
 
-None - Tišina
+<img src='out/SI/010.png' width='32'/> 010 - Tišina ✔️
 
-None - Tolmin
+<img src='out/SI/128.png' width='32'/> 128 - Tolmin ✔️
 
-None - Trbovlje
+<img src='out/SI/129.png' width='32'/> 129 - Trbovlje ✔️
 
-None - Trebnje
+<img src='out/SI/130.png' width='32'/> 130 - Trebnje ✔️
 
-None - Trnovska Vas
+<img src='out/SI/185.png' width='32'/> 185 - Trnovska Vas ✔️
 
-None - Tržič
+<img src='out/SI/131.png' width='32'/> 131 - Tržič ✔️
 
-None - Trzin
+<img src='out/SI/186.png' width='32'/> 186 - Trzin ✔️
 
-None - Turnišče
+<img src='out/SI/132.png' width='32'/> 132 - Turnišče ✔️
 
-None - Velika Polana
+<img src='out/SI/187.png' width='32'/> 187 - Velika Polana ✔️
 
-None - Velike Lašče
+<img src='out/SI/134.png' width='32'/> 134 - Velike Lašče ✔️
 
-None - Veržej
+<img src='out/SI/188.png' width='32'/> 188 - Veržej ✔️
 
-None - Videm
+<img src='out/SI/135.png' width='32'/> 135 - Videm ✔️
 
-None - Vipava
+<img src='out/SI/136.png' width='32'/> 136 - Vipava ✔️
 
-None - Vitanje
+<img src='out/SI/137.png' width='32'/> 137 - Vitanje ✔️
 
-None - Vodice
+<img src='out/SI/138.png' width='32'/> 138 - Vodice ✔️
 
-None - Vojnik
+<img src='out/SI/139.png' width='32'/> 139 - Vojnik ✔️
 
-None - Vransko
+<img src='out/SI/189.png' width='32'/> 189 - Vransko ✔️
 
-None - Vrhnika
+<img src='out/SI/140.png' width='32'/> 140 - Vrhnika ✔️
 
-None - Vuzenica
+<img src='out/SI/141.png' width='32'/> 141 - Vuzenica ✔️
 
-None - Zagorje ob Savi
+<img src='out/SI/142.png' width='32'/> 142 - Zagorje ob Savi ✔️
 
-None - Žalec
+<img src='out/SI/190.png' width='32'/> 190 - Žalec ✔️
 
-None - Zavrč
+<img src='out/SI/143.png' width='32'/> 143 - Zavrč ✔️
 
-None - Železniki
+<img src='out/SI/146.png' width='32'/> 146 - Železniki ✔️
 
-None - Žetale
+<img src='out/SI/191.png' width='32'/> 191 - Žetale ✔️
 
-None - Žiri
+<img src='out/SI/147.png' width='32'/> 147 - Žiri ✔️
 
-None - Žirovnica
+<img src='out/SI/192.png' width='32'/> 192 - Žirovnica ✔️
 
-None - Zreče
+<img src='out/SI/144.png' width='32'/> 144 - Zreče ✔️
 
-None - Žužemberk
+<img src='out/SI/193.png' width='32'/> 193 - Žužemberk ✔️
 
 </details>
 
 
 <details>
 <summary>Solomon Islands ✔️ (10/10)</summary>
-None - Central
+<img src='out/SB/CE.png' width='32'/> CE - Central ✔️
 
-None - Choiseul
+<img src='out/SB/CH.png' width='32'/> CH - Choiseul ✔️
 
-None - Guadalcanal
+<img src='out/SB/GU.png' width='32'/> GU - Guadalcanal ✔️
 
-None - Honiara
+<img src='out/SB/CT.png' width='32'/> CT - Honiara ✔️
 
-None - Isabel
+<img src='out/SB/IS.png' width='32'/> IS - Isabel ✔️
 
-None - Makira-Ulawa
+<img src='out/SB/MK.png' width='32'/> MK - Makira-Ulawa ✔️
 
-None - Malaita
+<img src='out/SB/ML.png' width='32'/> ML - Malaita ✔️
 
-None - Rennell and Bellona
+<img src='out/SB/RB.png' width='32'/> RB - Rennell and Bellona ✔️
 
-None - Temotu
+<img src='out/SB/TE.png' width='32'/> TE - Temotu ✔️
 
-None - Western
+<img src='out/SB/WE.png' width='32'/> WE - Western ✔️
 
 </details>
 
 
 <details>
 <summary>Somalia (2/16)</summary>
-None - Awdal
+AW - Awdal
 
-None - Bakool
+BK - Bakool
 
-None - Banaadir
+<img src='out/SO/BN.png' width='32'/> BN - Banaadir ✔️
 
-None - Bari
+BR - Bari
 
-None - Bay
+BY - Bay
 
-None - Galguduud
+GA - Galguduud
 
-None - Gedo
+GE - Gedo
 
-None - Hiran
+HI - Hiran
 
-None - Lower Juba
+JH - Lower Juba
 
-None - Lower Shebelle
+SH - Lower Shebelle
 
-None - Middle Juba
+JD - Middle Juba
 
-None - Middle Shebelle
+SD - Middle Shebelle
 
-None - Mudug
+<img src='out/SO/MU.png' width='32'/> MU - Mudug ✔️
 
-None - Nugal
+NU - Nugal
 
-None - Sanaag
+SA - Sanaag
 
-None - Togdheer
+TO - Togdheer
 
 </details>
 
 
 <details>
 <summary>South Africa (6/9)</summary>
-None - Eastern Cape
+<img src='out/ZA/EC.png' width='32'/> EC - Eastern Cape ✔️
 
-None - Free State
+<img src='out/ZA/FS.png' width='32'/> FS - Free State ✔️
 
-None - Gauteng
+GP - Gauteng
 
-None - KwaZulu-Natal
+KZN - KwaZulu-Natal
 
-None - Limpopo
+LP - Limpopo
 
-None - Mpumalanga
+<img src='out/ZA/MP.png' width='32'/> MP - Mpumalanga ✔️
 
-None - North West
+<img src='out/ZA/NW.png' width='32'/> NW - North West ✔️
 
-None - Northern Cape
+<img src='out/ZA/NC.png' width='32'/> NC - Northern Cape ✔️
 
-None - Western Cape
+<img src='out/ZA/WC.png' width='32'/> WC - Western Cape ✔️
 
 </details>
 
 
 <details>
 <summary>South Korea ✔️ (17/17)</summary>
-None - Busan
+<img src='out/KR/26.png' width='32'/> 26 - Busan ✔️
 
-None - Daegu
+<img src='out/KR/27.png' width='32'/> 27 - Daegu ✔️
 
-None - Daejeon
+<img src='out/KR/30.png' width='32'/> 30 - Daejeon ✔️
 
-None - Gangwon
+<img src='out/KR/42.png' width='32'/> 42 - Gangwon ✔️
 
-None - Gwangju
+<img src='out/KR/29.png' width='32'/> 29 - Gwangju ✔️
 
-None - Gyeonggi
+<img src='out/KR/41.png' width='32'/> 41 - Gyeonggi ✔️
 
-None - Incheon
+<img src='out/KR/28.png' width='32'/> 28 - Incheon ✔️
 
-None - Jeju
+<img src='out/KR/49.png' width='32'/> 49 - Jeju ✔️
 
-None - North Chungcheong
+<img src='out/KR/43.png' width='32'/> 43 - North Chungcheong ✔️
 
-None - North Gyeongsang
+<img src='out/KR/47.png' width='32'/> 47 - North Gyeongsang ✔️
 
-None - North Jeolla
+<img src='out/KR/45.png' width='32'/> 45 - North Jeolla ✔️
 
-None - Sejong City
+<img src='out/KR/50.png' width='32'/> 50 - Sejong City ✔️
 
-None - Seoul
+<img src='out/KR/11.png' width='32'/> 11 - Seoul ✔️
 
-None - South Chungcheong
+<img src='out/KR/44.png' width='32'/> 44 - South Chungcheong ✔️
 
-None - South Gyeongsang
+<img src='out/KR/48.png' width='32'/> 48 - South Gyeongsang ✔️
 
-None - South Jeolla
+<img src='out/KR/46.png' width='32'/> 46 - South Jeolla ✔️
 
-None - Ulsan
+<img src='out/KR/31.png' width='32'/> 31 - Ulsan ✔️
 
 </details>
 
 
 <details>
 <summary>South Sudan (9/10)</summary>
-None - Central Equatoria
+<img src='out/SS/EC.png' width='32'/> EC - Central Equatoria ✔️
 
-None - Eastern Equatoria
+<img src='out/SS/EE.png' width='32'/> EE - Eastern Equatoria ✔️
 
-None - Jonglei State
+JG - Jonglei State
 
-None - Lakes
+<img src='out/SS/LK.png' width='32'/> LK - Lakes ✔️
 
-None - Northern Bahr el Ghazal
+<img src='out/SS/BN.png' width='32'/> BN - Northern Bahr el Ghazal ✔️
 
-None - Unity
+<img src='out/SS/UY.png' width='32'/> UY - Unity ✔️
 
-None - Upper Nile
+<img src='out/SS/NU.png' width='32'/> NU - Upper Nile ✔️
 
-None - Warrap
+<img src='out/SS/WR.png' width='32'/> WR - Warrap ✔️
 
-None - Western Bahr el Ghazal
+<img src='out/SS/BW.png' width='32'/> BW - Western Bahr el Ghazal ✔️
 
-None - Western Equatoria
+<img src='out/SS/EW.png' width='32'/> EW - Western Equatoria ✔️
 
 </details>
 
 
 <details>
 <summary>Spain (67/69)</summary>
-None - A Coruña
+<img src='out/ES/C.png' width='32'/> C - A Coruña ✔️
 
-None - Albacete
+<img src='out/ES/AB.png' width='32'/> AB - Albacete ✔️
 
-None - Alicante
+<img src='out/ES/A.png' width='32'/> A - Alicante ✔️
 
-None - Almeria
+<img src='out/ES/AL.png' width='32'/> AL - Almeria ✔️
 
-None - Andalusia
+<img src='out/ES/AN.png' width='32'/> AN - Andalusia ✔️
 
-None - Araba
+<img src='out/ES/VI.png' width='32'/> VI - Araba ✔️
 
-None - Aragon
+<img src='out/ES/AR.png' width='32'/> AR - Aragon ✔️
 
-None - Asturias
+<img src='out/ES/AS.png' width='32'/> AS - Asturias ✔️
 
-None - Asturias
+<img src='out/ES/O.png' width='32'/> O - Asturias ✔️
 
-None - Ávila
+<img src='out/ES/AV.png' width='32'/> AV - Ávila ✔️
 
-None - Badajoz
+<img src='out/ES/BA.png' width='32'/> BA - Badajoz ✔️
 
-None - Balearic Islands
+<img src='out/ES/IB.png' width='32'/> IB - Balearic Islands ✔️
 
-None - Barcelona
+<img src='out/ES/B.png' width='32'/> B - Barcelona ✔️
 
-None - Basque Country
+<img src='out/ES/PV.png' width='32'/> PV - Basque Country ✔️
 
-None - Bizkaia
+BI - Bizkaia
 
-None - Burgos
+<img src='out/ES/BU.png' width='32'/> BU - Burgos ✔️
 
-None - Caceres
+CC - Caceres
 
-None - Cádiz
+<img src='out/ES/CA.png' width='32'/> CA - Cádiz ✔️
 
-None - Canary Islands
+<img src='out/ES/CN.png' width='32'/> CN - Canary Islands ✔️
 
-None - Cantabria
+<img src='out/ES/CB.png' width='32'/> CB - Cantabria ✔️
 
-None - Cantabria
+<img src='out/ES/S.png' width='32'/> S - Cantabria ✔️
 
-None - Castellón
+<img src='out/ES/CS.png' width='32'/> CS - Castellón ✔️
 
-None - Castile and Leon
+<img src='out/ES/CL.png' width='32'/> CL - Castile and Leon ✔️
 
-None - Castilla-La Mancha
+<img src='out/ES/CM.png' width='32'/> CM - Castilla-La Mancha ✔️
 
-None - Catalonia
+<img src='out/ES/CT.png' width='32'/> CT - Catalonia ✔️
 
-None - Ceuta
+<img src='out/ES/CE.png' width='32'/> CE - Ceuta ✔️
 
-None - Ciudad Real
+<img src='out/ES/CR.png' width='32'/> CR - Ciudad Real ✔️
 
-None - Community of Madrid
+<img src='out/ES/MD.png' width='32'/> MD - Community of Madrid ✔️
 
-None - Córdoba
+<img src='out/ES/CO.png' width='32'/> CO - Córdoba ✔️
 
-None - Cuenca
+<img src='out/ES/CU.png' width='32'/> CU - Cuenca ✔️
 
-None - Estremadura
+<img src='out/ES/EX.png' width='32'/> EX - Estremadura ✔️
 
-None - Galicia
+<img src='out/ES/GA.png' width='32'/> GA - Galicia ✔️
 
-None - Gipuzkoa
+<img src='out/ES/SS.png' width='32'/> SS - Gipuzkoa ✔️
 
-None - Girona
+<img src='out/ES/GI.png' width='32'/> GI - Girona ✔️
 
-None - Granada
+<img src='out/ES/GR.png' width='32'/> GR - Granada ✔️
 
-None - Guadalajara
+<img src='out/ES/GU.png' width='32'/> GU - Guadalajara ✔️
 
-None - Huelva
+<img src='out/ES/H.png' width='32'/> H - Huelva ✔️
 
-None - Huesca
+<img src='out/ES/HU.png' width='32'/> HU - Huesca ✔️
 
-None - Islas Baleares
+<img src='out/ES/PM.png' width='32'/> PM - Islas Baleares ✔️
 
-None - Jaén
+<img src='out/ES/J.png' width='32'/> J - Jaén ✔️
 
-None - La Rioja
+<img src='out/ES/RI.png' width='32'/> RI - La Rioja ✔️
 
-None - La Rioja
+<img src='out/ES/LO.png' width='32'/> LO - La Rioja ✔️
 
-None - Las Palmas
+<img src='out/ES/GC.png' width='32'/> GC - Las Palmas ✔️
 
-None - León
+<img src='out/ES/LE.png' width='32'/> LE - León ✔️
 
-None - Lleida
+<img src='out/ES/L.png' width='32'/> L - Lleida ✔️
 
-None - Lugo
+<img src='out/ES/LU.png' width='32'/> LU - Lugo ✔️
 
-None - Madrid
+<img src='out/ES/M.png' width='32'/> M - Madrid ✔️
 
-None - Málaga
+<img src='out/ES/MA.png' width='32'/> MA - Málaga ✔️
 
-None - Melilla
+<img src='out/ES/ML.png' width='32'/> ML - Melilla ✔️
 
-None - Murcia
+<img src='out/ES/MU.png' width='32'/> MU - Murcia ✔️
 
-None - Navarra
+<img src='out/ES/NA.png' width='32'/> NA - Navarra ✔️
 
-None - Navarre
+<img src='out/ES/NC.png' width='32'/> NC - Navarre ✔️
 
-None - Ourense
+<img src='out/ES/OR.png' width='32'/> OR - Ourense ✔️
 
-None - Palencia
+<img src='out/ES/P.png' width='32'/> P - Palencia ✔️
 
-None - Pontevedra
+<img src='out/ES/PO.png' width='32'/> PO - Pontevedra ✔️
 
-None - Region of Murcia
+<img src='out/ES/MC.png' width='32'/> MC - Region of Murcia ✔️
 
-None - Salamanca
+<img src='out/ES/SA.png' width='32'/> SA - Salamanca ✔️
 
-None - Santa Cruz de Tenerife
+<img src='out/ES/TF.png' width='32'/> TF - Santa Cruz de Tenerife ✔️
 
-None - Segovia
+<img src='out/ES/SG.png' width='32'/> SG - Segovia ✔️
 
-None - Sevilla
+<img src='out/ES/SE.png' width='32'/> SE - Sevilla ✔️
 
-None - Soria
+<img src='out/ES/SO.png' width='32'/> SO - Soria ✔️
 
-None - Tarragona
+<img src='out/ES/T.png' width='32'/> T - Tarragona ✔️
 
-None - Teruel
+<img src='out/ES/TE.png' width='32'/> TE - Teruel ✔️
 
-None - Toledo
+<img src='out/ES/TO.png' width='32'/> TO - Toledo ✔️
 
-None - Valencia
+<img src='out/ES/V.png' width='32'/> V - Valencia ✔️
 
-None - Valencian Community
+<img src='out/ES/VC.png' width='32'/> VC - Valencian Community ✔️
 
-None - Valladolid
+<img src='out/ES/VA.png' width='32'/> VA - Valladolid ✔️
 
-None - Zamora
+<img src='out/ES/ZA.png' width='32'/> ZA - Zamora ✔️
 
-None - Zaragoza
+<img src='out/ES/Z.png' width='32'/> Z - Zaragoza ✔️
 
 </details>
 
 
 <details>
 <summary>Sri Lanka (9/34)</summary>
-None - Ampara
+52 - Ampara
 
-None - Anuradhapura
+71 - Anuradhapura
 
-None - Badulla
+81 - Badulla
 
-None - Batticaloa
+51 - Batticaloa
 
-None - Central
+<img src='out/LK/2.png' width='32'/> 2 - Central ✔️
 
-None - Colombo
+11 - Colombo
 
-None - Eastern
+<img src='out/LK/5.png' width='32'/> 5 - Eastern ✔️
 
-None - Galle
+31 - Galle
 
-None - Gampaha
+12 - Gampaha
 
-None - Hambantota
+33 - Hambantota
 
-None - Jaffna
+41 - Jaffna
 
-None - Kalutara
+13 - Kalutara
 
-None - Kandy
+21 - Kandy
 
-None - Kegalle
+92 - Kegalle
 
-None - Kilinochchi
+42 - Kilinochchi
 
-None - Kurunegala
+61 - Kurunegala
 
-None - Mannar
+43 - Mannar
 
-None - Matale
+22 - Matale
 
-None - Matara
+32 - Matara
 
-None - Monaragala
+82 - Monaragala
 
-None - Mullaitivu
+45 - Mullaitivu
 
-None - North Central
+<img src='out/LK/7.png' width='32'/> 7 - North Central ✔️
 
-None - North Western
+<img src='out/LK/6.png' width='32'/> 6 - North Western ✔️
 
-None - Northern
+<img src='out/LK/4.png' width='32'/> 4 - Northern ✔️
 
-None - Nuwara Eliya
+23 - Nuwara Eliya
 
-None - Polonnaruwa
+72 - Polonnaruwa
 
-None - Puttalam
+62 - Puttalam
 
-None - Ratnapura
+91 - Ratnapura
 
-None - Sabaragamuwa
+<img src='out/LK/9.png' width='32'/> 9 - Sabaragamuwa ✔️
 
-None - Southern
+<img src='out/LK/3.png' width='32'/> 3 - Southern ✔️
 
-None - Trincomalee
+53 - Trincomalee
 
-None - Uva
+<img src='out/LK/8.png' width='32'/> 8 - Uva ✔️
 
-None - Vavuniya
+44 - Vavuniya
 
-None - Western
+<img src='out/LK/1.png' width='32'/> 1 - Western ✔️
 
 </details>
 
 
 <details>
 <summary>Sudan (8/18)</summary>
-None - Al Jazirah
+GZ - Al Jazirah
 
-None - Al Qadarif
+<img src='out/SD/GD.png' width='32'/> GD - Al Qadarif ✔️
 
-None - Blue Nile
+NB - Blue Nile
 
-None - Central Darfur
+<img src='out/SD/DC.png' width='32'/> DC - Central Darfur ✔️
 
-None - East Darfur
+DE - East Darfur
 
-None - Kassala
+KA - Kassala
 
-None - Khartoum
+KH - Khartoum
 
-None - North Darfur
+<img src='out/SD/DN.png' width='32'/> DN - North Darfur ✔️
 
-None - North Kordofan
+<img src='out/SD/KN.png' width='32'/> KN - North Kordofan ✔️
 
-None - Northern
+NO - Northern
 
-None - Red Sea
+RS - Red Sea
 
-None - River Nile
+NR - River Nile
 
-None - Sennar
+SI - Sennar
 
-None - South Darfur
+<img src='out/SD/DS.png' width='32'/> DS - South Darfur ✔️
 
-None - South Kordofan
+<img src='out/SD/KS.png' width='32'/> KS - South Kordofan ✔️
 
-None - West Darfur
+<img src='out/SD/DW.png' width='32'/> DW - West Darfur ✔️
 
-None - West Kordofan
+<img src='out/SD/GK.png' width='32'/> GK - West Kordofan ✔️
 
-None - White Nile
+NW - White Nile
 
 </details>
 
 
 <details>
 <summary>Suriname (5/10)</summary>
-None - Brokopondo
+BR - Brokopondo
 
-None - Commewijne
+<img src='out/SR/CM.png' width='32'/> CM - Commewijne ✔️
 
-None - Coronie
+CR - Coronie
 
-None - Marowijne
+MA - Marowijne
 
-None - Nickerie
+<img src='out/SR/NI.png' width='32'/> NI - Nickerie ✔️
 
-None - Para
+<img src='out/SR/PR.png' width='32'/> PR - Para ✔️
 
-None - Paramaribo
+<img src='out/SR/PM.png' width='32'/> PM - Paramaribo ✔️
 
-None - Saramacca
+SA - Saramacca
 
-None - Sipaliwini
+SI - Sipaliwini
 
-None - Wanica
+<img src='out/SR/WA.png' width='32'/> WA - Wanica ✔️
 
 </details>
 
 
 <details>
 <summary>Sweden (22/21)</summary>
-None - Blekinge
+<img src='out/SE/K.png' width='32'/> K - Blekinge ✔️
 
-None - Dalarna
+<img src='out/SE/W.png' width='32'/> W - Dalarna ✔️
 
-None - Gävleborg
+<img src='out/SE/X.png' width='32'/> X - Gävleborg ✔️
 
-None - Gotland
+<img src='out/SE/I.png' width='32'/> I - Gotland ✔️
 
-None - Halland
+<img src='out/SE/N.png' width='32'/> N - Halland ✔️
 
-None - Jämtland
+<img src='out/SE/Z.png' width='32'/> Z - Jämtland ✔️
 
-None - Jönköping
+<img src='out/SE/F.png' width='32'/> F - Jönköping ✔️
 
-None - Kalmar
+<img src='out/SE/H.png' width='32'/> H - Kalmar ✔️
 
-None - Kronoberg
+<img src='out/SE/G.png' width='32'/> G - Kronoberg ✔️
 
-None - Norrbotten
+<img src='out/SE/BD.png' width='32'/> BD - Norrbotten ✔️
 
-None - Örebro
+<img src='out/SE/T.png' width='32'/> T - Örebro ✔️
 
-None - Östergötland
+<img src='out/SE/E.png' width='32'/> E - Östergötland ✔️
 
-None - Skåne
+<img src='out/SE/M.png' width='32'/> M - Skåne ✔️
 
-None - Södermanland
+<img src='out/SE/D.png' width='32'/> D - Södermanland ✔️
 
-None - Stockholm
+<img src='out/SE/AB.png' width='32'/> AB - Stockholm ✔️
 
-None - Uppsala
+<img src='out/SE/C.png' width='32'/> C - Uppsala ✔️
 
-None - Värmland
+<img src='out/SE/S.png' width='32'/> S - Värmland ✔️
 
-None - Västerbotten
+<img src='out/SE/AC.png' width='32'/> AC - Västerbotten ✔️
 
-None - Västernorrland
+<img src='out/SE/Y.png' width='32'/> Y - Västernorrland ✔️
 
-None - Västmanland
+<img src='out/SE/U.png' width='32'/> U - Västmanland ✔️
 
-None - Västra Götaland
+<img src='out/SE/O.png' width='32'/> O - Västra Götaland ✔️
 
 </details>
 
 
 <details>
 <summary>Switzerland ✔️ (26/26)</summary>
-None - Aargau
+<img src='out/CH/AG.png' width='32'/> AG - Aargau ✔️
 
-None - Appenzell Ausserrhoden
+<img src='out/CH/AR.png' width='32'/> AR - Appenzell Ausserrhoden ✔️
 
-None - Appenzell Innerrhoden
+<img src='out/CH/AI.png' width='32'/> AI - Appenzell Innerrhoden ✔️
 
-None - Basel-Land
+<img src='out/CH/BL.png' width='32'/> BL - Basel-Land ✔️
 
-None - Basel-Stadt
+<img src='out/CH/BS.png' width='32'/> BS - Basel-Stadt ✔️
 
-None - Bern
+<img src='out/CH/BE.png' width='32'/> BE - Bern ✔️
 
-None - Fribourg
+<img src='out/CH/FR.png' width='32'/> FR - Fribourg ✔️
 
-None - Geneva
+<img src='out/CH/GE.png' width='32'/> GE - Geneva ✔️
 
-None - Glarus
+<img src='out/CH/GL.png' width='32'/> GL - Glarus ✔️
 
-None - Graubünden
+<img src='out/CH/GR.png' width='32'/> GR - Graubünden ✔️
 
-None - Jura
+<img src='out/CH/JU.png' width='32'/> JU - Jura ✔️
 
-None - Lucerne
+<img src='out/CH/LU.png' width='32'/> LU - Lucerne ✔️
 
-None - Neuchâtel
+<img src='out/CH/NE.png' width='32'/> NE - Neuchâtel ✔️
 
-None - Nidwalden
+<img src='out/CH/NW.png' width='32'/> NW - Nidwalden ✔️
 
-None - Obwalden
+<img src='out/CH/OW.png' width='32'/> OW - Obwalden ✔️
 
-None - Schaffhausen
+<img src='out/CH/SH.png' width='32'/> SH - Schaffhausen ✔️
 
-None - Schwyz
+<img src='out/CH/SZ.png' width='32'/> SZ - Schwyz ✔️
 
-None - Solothurn
+<img src='out/CH/SO.png' width='32'/> SO - Solothurn ✔️
 
-None - St. Gallen
+<img src='out/CH/SG.png' width='32'/> SG - St. Gallen ✔️
 
-None - Thurgau
+<img src='out/CH/TG.png' width='32'/> TG - Thurgau ✔️
 
-None - Ticino
+<img src='out/CH/TI.png' width='32'/> TI - Ticino ✔️
 
-None - Uri
+<img src='out/CH/UR.png' width='32'/> UR - Uri ✔️
 
-None - Valais
+<img src='out/CH/VS.png' width='32'/> VS - Valais ✔️
 
-None - Vaud
+<img src='out/CH/VD.png' width='32'/> VD - Vaud ✔️
 
-None - Zug
+<img src='out/CH/ZG.png' width='32'/> ZG - Zug ✔️
 
-None - Zürich
+<img src='out/CH/ZH.png' width='32'/> ZH - Zürich ✔️
 
 </details>
 
 
 <details>
 <summary>Syria (4/14)</summary>
-None - Al-Hasakah
+<img src='out/SY/HA.png' width='32'/> HA - Al-Hasakah ✔️
 
-None - Al-Raqqah
+RA - Al-Raqqah
 
-None - Aleppo
+<img src='out/SY/HL.png' width='32'/> HL - Aleppo ✔️
 
-None - As-Suwayda
+SU - As-Suwayda
 
-None - Damascus
+<img src='out/SY/DI.png' width='32'/> DI - Damascus ✔️
 
-None - Daraa
+DR - Daraa
 
-None - Deir ez-Zor
+<img src='out/SY/DY.png' width='32'/> DY - Deir ez-Zor ✔️
 
-None - Hama
+HM - Hama
 
-None - Homs
+HI - Homs
 
-None - Idlib
+ID - Idlib
 
-None - Latakia
+LA - Latakia
 
-None - Quneitra
+QU - Quneitra
 
-None - Rif Dimashq
+RD - Rif Dimashq
 
-None - Tartus
+TA - Tartus
 
 </details>
 
 
 <details>
 <summary>Taiwan (21/22)</summary>
-None - Changhua
+<img src='out/TW/CHA.png' width='32'/> CHA - Changhua ✔️
 
-None - Chiayi
+<img src='out/TW/CYI.png' width='32'/> CYI - Chiayi ✔️
 
-None - Chiayi
+<img src='out/TW/CYQ.png' width='32'/> CYQ - Chiayi ✔️
 
-None - Hsinchu
+<img src='out/TW/HSQ.png' width='32'/> HSQ - Hsinchu ✔️
 
-None - Hsinchu
+<img src='out/TW/HSZ.png' width='32'/> HSZ - Hsinchu ✔️
 
-None - Hualien
+<img src='out/TW/HUA.png' width='32'/> HUA - Hualien ✔️
 
-None - Kaohsiung
+<img src='out/TW/KHH.png' width='32'/> KHH - Kaohsiung ✔️
 
-None - Keelung
+<img src='out/TW/KEE.png' width='32'/> KEE - Keelung ✔️
 
-None - Kinmen
+KIN - Kinmen
 
-None - Lienchiang
+<img src='out/TW/LIE.png' width='32'/> LIE - Lienchiang ✔️
 
-None - Miaoli
+<img src='out/TW/MIA.png' width='32'/> MIA - Miaoli ✔️
 
-None - Nantou
+<img src='out/TW/NAN.png' width='32'/> NAN - Nantou ✔️
 
-None - New Taipei
+<img src='out/TW/NWT.png' width='32'/> NWT - New Taipei ✔️
 
-None - Penghu
+<img src='out/TW/PEN.png' width='32'/> PEN - Penghu ✔️
 
-None - Pingtung
+<img src='out/TW/PIF.png' width='32'/> PIF - Pingtung ✔️
 
-None - Taichung
+<img src='out/TW/TXG.png' width='32'/> TXG - Taichung ✔️
 
-None - Tainan
+<img src='out/TW/TNN.png' width='32'/> TNN - Tainan ✔️
 
-None - Taipei
+<img src='out/TW/TPE.png' width='32'/> TPE - Taipei ✔️
 
-None - Taitung
+<img src='out/TW/TTT.png' width='32'/> TTT - Taitung ✔️
 
-None - Taoyuan
+<img src='out/TW/TAO.png' width='32'/> TAO - Taoyuan ✔️
 
-None - Yilan
+<img src='out/TW/ILA.png' width='32'/> ILA - Yilan ✔️
 
-None - Yunlin
+<img src='out/TW/YUN.png' width='32'/> YUN - Yunlin ✔️
 
 </details>
 
 
 <details>
 <summary>Tajikistan (0/4)</summary>
-None - Gorno-Badakhshan
+GB - Gorno-Badakhshan
 
-None - Khatlon
+KT - Khatlon
 
-None - Nohiyahoi Tobei Jumhurí 
+RA - Nohiyahoi Tobei Jumhurí 
 
-None - Sughd 
+SU - Sughd 
 
 </details>
 
 
 <details>
 <summary>Tanzania (3/31)</summary>
-None - Arusha
+<img src='out/TZ/01.png' width='32'/> 01 - Arusha ✔️
 
-None - Dar es Salaam
+<img src='out/TZ/02.png' width='32'/> 02 - Dar es Salaam ✔️
 
-None - Dodoma
+03 - Dodoma
 
-None - Geita
+27 - Geita
 
-None - Iringa
+04 - Iringa
 
-None - Kagera
+05 - Kagera
 
-None - Katavi
+28 - Katavi
 
-None - Kigoma
+08 - Kigoma
 
-None - Kilimanjaro
+09 - Kilimanjaro
 
-None - Lindi
+12 - Lindi
 
-None - Manyara
+26 - Manyara
 
-None - Mara
+13 - Mara
 
-None - Mbeya
+14 - Mbeya
 
-None - Morogoro
+16 - Morogoro
 
-None - Mtwara
+17 - Mtwara
 
-None - Mwanza
+<img src='out/TZ/18.png' width='32'/> 18 - Mwanza ✔️
 
-None - Njombe
+29 - Njombe
 
-None - Pemba North
+06 - Pemba North
 
-None - Pemba South
+10 - Pemba South
 
-None - Pwani
+19 - Pwani
 
-None - Rukwa
+20 - Rukwa
 
-None - Ruvuma
+21 - Ruvuma
 
-None - Shinyanga
+22 - Shinyanga
 
-None - Simiyu
+30 - Simiyu
 
-None - Singida
+23 - Singida
 
-None - Songwe
+31 - Songwe
 
-None - Tabora
+24 - Tabora
 
-None - Tanga
+25 - Tanga
 
-None - Zanzibar North
+07 - Zanzibar North
 
-None - Zanzibar South
+11 - Zanzibar South
 
-None - Zanzibar West
+15 - Zanzibar West
 
 </details>
 
 
 <details>
 <summary>Thailand (77/78)</summary>
-None - Amnat Charoen
+<img src='out/TH/37.png' width='32'/> 37 - Amnat Charoen ✔️
 
-None - Ang Thong
+<img src='out/TH/15.png' width='32'/> 15 - Ang Thong ✔️
 
-None - Bangkok
+<img src='out/TH/10.png' width='32'/> 10 - Bangkok ✔️
 
-None - Bueng Kan
+<img src='out/TH/38.png' width='32'/> 38 - Bueng Kan ✔️
 
-None - Buri Ram
+<img src='out/TH/31.png' width='32'/> 31 - Buri Ram ✔️
 
-None - Chachoengsao
+<img src='out/TH/24.png' width='32'/> 24 - Chachoengsao ✔️
 
-None - Chai Nat
+<img src='out/TH/18.png' width='32'/> 18 - Chai Nat ✔️
 
-None - Chaiyaphum
+<img src='out/TH/36.png' width='32'/> 36 - Chaiyaphum ✔️
 
-None - Chanthaburi
+<img src='out/TH/22.png' width='32'/> 22 - Chanthaburi ✔️
 
-None - Chiang Mai
+<img src='out/TH/50.png' width='32'/> 50 - Chiang Mai ✔️
 
-None - Chiang Rai
+<img src='out/TH/57.png' width='32'/> 57 - Chiang Rai ✔️
 
-None - Chon Buri
+<img src='out/TH/20.png' width='32'/> 20 - Chon Buri ✔️
 
-None - Chumphon
+<img src='out/TH/86.png' width='32'/> 86 - Chumphon ✔️
 
-None - Kalasin
+<img src='out/TH/46.png' width='32'/> 46 - Kalasin ✔️
 
-None - Kamphaeng Phet
+<img src='out/TH/62.png' width='32'/> 62 - Kamphaeng Phet ✔️
 
-None - Kanchanaburi
+<img src='out/TH/71.png' width='32'/> 71 - Kanchanaburi ✔️
 
-None - Khon Kaen
+<img src='out/TH/40.png' width='32'/> 40 - Khon Kaen ✔️
 
-None - Krabi
+<img src='out/TH/81.png' width='32'/> 81 - Krabi ✔️
 
-None - Lampang
+<img src='out/TH/52.png' width='32'/> 52 - Lampang ✔️
 
-None - Lamphun
+<img src='out/TH/51.png' width='32'/> 51 - Lamphun ✔️
 
-None - Loei
+<img src='out/TH/42.png' width='32'/> 42 - Loei ✔️
 
-None - Lop Buri
+<img src='out/TH/16.png' width='32'/> 16 - Lop Buri ✔️
 
-None - Mae Hong Son
+<img src='out/TH/58.png' width='32'/> 58 - Mae Hong Son ✔️
 
-None - Maha Sarakham
+<img src='out/TH/44.png' width='32'/> 44 - Maha Sarakham ✔️
 
-None - Mukdahan
+<img src='out/TH/49.png' width='32'/> 49 - Mukdahan ✔️
 
-None - Nakhon Nayok
+<img src='out/TH/26.png' width='32'/> 26 - Nakhon Nayok ✔️
 
-None - Nakhon Pathom
+<img src='out/TH/73.png' width='32'/> 73 - Nakhon Pathom ✔️
 
-None - Nakhon Phanom
+<img src='out/TH/48.png' width='32'/> 48 - Nakhon Phanom ✔️
 
-None - Nakhon Ratchasima
+<img src='out/TH/30.png' width='32'/> 30 - Nakhon Ratchasima ✔️
 
-None - Nakhon Sawan
+<img src='out/TH/60.png' width='32'/> 60 - Nakhon Sawan ✔️
 
-None - Nakhon Si Thammarat
+<img src='out/TH/80.png' width='32'/> 80 - Nakhon Si Thammarat ✔️
 
-None - Nan
+<img src='out/TH/55.png' width='32'/> 55 - Nan ✔️
 
-None - Narathiwat
+<img src='out/TH/96.png' width='32'/> 96 - Narathiwat ✔️
 
-None - Nong Bua Lam Phu
+<img src='out/TH/39.png' width='32'/> 39 - Nong Bua Lam Phu ✔️
 
-None - Nong Khai
+<img src='out/TH/43.png' width='32'/> 43 - Nong Khai ✔️
 
-None - Nonthaburi
+<img src='out/TH/12.png' width='32'/> 12 - Nonthaburi ✔️
 
-None - Pathum Thani
+<img src='out/TH/13.png' width='32'/> 13 - Pathum Thani ✔️
 
-None - Pattani
+<img src='out/TH/94.png' width='32'/> 94 - Pattani ✔️
 
-None - Pattaya
+S - Pattaya
 
-None - Phangnga
+<img src='out/TH/82.png' width='32'/> 82 - Phangnga ✔️
 
-None - Phatthalung
+<img src='out/TH/93.png' width='32'/> 93 - Phatthalung ✔️
 
-None - Phayao
+<img src='out/TH/56.png' width='32'/> 56 - Phayao ✔️
 
-None - Phetchabun
+<img src='out/TH/67.png' width='32'/> 67 - Phetchabun ✔️
 
-None - Phetchaburi
+<img src='out/TH/76.png' width='32'/> 76 - Phetchaburi ✔️
 
-None - Phichit
+<img src='out/TH/66.png' width='32'/> 66 - Phichit ✔️
 
-None - Phitsanulok
+<img src='out/TH/65.png' width='32'/> 65 - Phitsanulok ✔️
 
-None - Phra Nakhon Si Ayutthaya
+<img src='out/TH/14.png' width='32'/> 14 - Phra Nakhon Si Ayutthaya ✔️
 
-None - Phrae
+<img src='out/TH/54.png' width='32'/> 54 - Phrae ✔️
 
-None - Phuket
+<img src='out/TH/83.png' width='32'/> 83 - Phuket ✔️
 
-None - Prachin Buri
+<img src='out/TH/25.png' width='32'/> 25 - Prachin Buri ✔️
 
-None - Prachuap Khiri Khan
+<img src='out/TH/77.png' width='32'/> 77 - Prachuap Khiri Khan ✔️
 
-None - Ranong
+<img src='out/TH/85.png' width='32'/> 85 - Ranong ✔️
 
-None - Ratchaburi
+<img src='out/TH/70.png' width='32'/> 70 - Ratchaburi ✔️
 
-None - Rayong
+<img src='out/TH/21.png' width='32'/> 21 - Rayong ✔️
 
-None - Roi Et
+<img src='out/TH/45.png' width='32'/> 45 - Roi Et ✔️
 
-None - Sa Kaeo
+<img src='out/TH/27.png' width='32'/> 27 - Sa Kaeo ✔️
 
-None - Sakon Nakhon
+<img src='out/TH/47.png' width='32'/> 47 - Sakon Nakhon ✔️
 
-None - Samut Prakan
+<img src='out/TH/11.png' width='32'/> 11 - Samut Prakan ✔️
 
-None - Samut Sakhon
+<img src='out/TH/74.png' width='32'/> 74 - Samut Sakhon ✔️
 
-None - Samut Songkhram
+<img src='out/TH/75.png' width='32'/> 75 - Samut Songkhram ✔️
 
-None - Saraburi
+<img src='out/TH/19.png' width='32'/> 19 - Saraburi ✔️
 
-None - Satun
+<img src='out/TH/91.png' width='32'/> 91 - Satun ✔️
 
-None - Si Sa Ket
+<img src='out/TH/33.png' width='32'/> 33 - Si Sa Ket ✔️
 
-None - Sing Buri
+<img src='out/TH/17.png' width='32'/> 17 - Sing Buri ✔️
 
-None - Songkhla
+<img src='out/TH/90.png' width='32'/> 90 - Songkhla ✔️
 
-None - Sukhothai
+<img src='out/TH/64.png' width='32'/> 64 - Sukhothai ✔️
 
-None - Suphan Buri
+<img src='out/TH/72.png' width='32'/> 72 - Suphan Buri ✔️
 
-None - Surat Thani
+<img src='out/TH/84.png' width='32'/> 84 - Surat Thani ✔️
 
-None - Surin
+<img src='out/TH/32.png' width='32'/> 32 - Surin ✔️
 
-None - Tak
+<img src='out/TH/63.png' width='32'/> 63 - Tak ✔️
 
-None - Trang
+<img src='out/TH/92.png' width='32'/> 92 - Trang ✔️
 
-None - Trat
+<img src='out/TH/23.png' width='32'/> 23 - Trat ✔️
 
-None - Ubon Ratchathani
+<img src='out/TH/34.png' width='32'/> 34 - Ubon Ratchathani ✔️
 
-None - Udon Thani
+<img src='out/TH/41.png' width='32'/> 41 - Udon Thani ✔️
 
-None - Uthai Thani
+<img src='out/TH/61.png' width='32'/> 61 - Uthai Thani ✔️
 
-None - Uttaradit
+<img src='out/TH/53.png' width='32'/> 53 - Uttaradit ✔️
 
-None - Yala
+<img src='out/TH/95.png' width='32'/> 95 - Yala ✔️
 
-None - Yasothon
+<img src='out/TH/35.png' width='32'/> 35 - Yasothon ✔️
 
 </details>
 
 
 <details>
 <summary>The Bahamas (0/42)</summary>
-None - Acklins
+AK - Acklins
 
-None - Acklins and Crooked Islands
+AC - Acklins and Crooked Islands
 
-None - Berry Islands
+BY - Berry Islands
 
-None - Bimini
+BI - Bimini
 
-None - Black Point
+BP - Black Point
 
-None - Cat Island
+CI - Cat Island
 
-None - Central Abaco
+CO - Central Abaco
 
-None - Central Andros
+CS - Central Andros
 
-None - Central Eleuthera
+CE - Central Eleuthera
 
-None - Crooked Island
+CK - Crooked Island
 
-None - East Grand Bahama
+EG - East Grand Bahama
 
-None - Exuma
+EX - Exuma
 
-None - Freeport
+FP - Freeport
 
-None - Fresh Creek
+FC - Fresh Creek
 
-None - Governor's Harbour
+GH - Governor's Harbour
 
-None - Grand Cay
+GC - Grand Cay
 
-None - Green Turtle Cay
+GT - Green Turtle Cay
 
-None - Harbour Island
+HI - Harbour Island
 
-None - High Rock
+HR - High Rock
 
-None - Hope Town
+HT - Hope Town
 
-None - Inagua
+IN - Inagua
 
-None - Kemps Bay
+KB - Kemps Bay
 
-None - Long Island
+LI - Long Island
 
-None - Mangrove Cay
+MC - Mangrove Cay
 
-None - Marsh Harbour
+MH - Marsh Harbour
 
-None - Mayaguana
+MG - Mayaguana
 
-None - New Providence
+NP - New Providence
 
-None - Nichollstown and Berry Islands
+NB - Nichollstown and Berry Islands
 
-None - North Abaco
+NO - North Abaco
 
-None - North Andros
+NS - North Andros
 
-None - North Eleuthera
+NE - North Eleuthera
 
-None - Ragged Island
+RI - Ragged Island
 
-None - Rock Sound
+RS - Rock Sound
 
-None - Rum Cay
+RC - Rum Cay
 
-None - San Salvador and Rum Cay
+SR - San Salvador and Rum Cay
 
-None - San Salvador Island
+SS - San Salvador Island
 
-None - Sandy Point
+SP - Sandy Point
 
-None - South Abaco
+SO - South Abaco
 
-None - South Andros
+SA - South Andros
 
-None - South Eleuthera
+SE - South Eleuthera
 
-None - Spanish Wells
+SW - Spanish Wells
 
-None - West Grand Bahama
+WG - West Grand Bahama
 
 </details>
 
 
 <details>
 <summary>The Gambia  (0/6)</summary>
-None - Banjul
+B - Banjul
 
-None - Central River
+M - Central River
 
-None - Lower River
+L - Lower River
 
-None - North Bank
+N - North Bank
 
-None - Upper River
+U - Upper River
 
-None - West Coast
+W - West Coast
 
 </details>
 
 
 <details>
 <summary>Timor-Leste ✔️ (12/12)</summary>
-None - Aileu
+<img src='out/TL/AL.png' width='32'/> AL - Aileu ✔️
 
-None - Ainaro
+<img src='out/TL/AN.png' width='32'/> AN - Ainaro ✔️
 
-None - Baucau
+<img src='out/TL/BA.png' width='32'/> BA - Baucau ✔️
 
-None - Bobonaro
+<img src='out/TL/BO.png' width='32'/> BO - Bobonaro ✔️
 
-None - Cova Lima
+<img src='out/TL/CO.png' width='32'/> CO - Cova Lima ✔️
 
-None - Dili
+<img src='out/TL/DI.png' width='32'/> DI - Dili ✔️
 
-None - Ermera
+<img src='out/TL/ER.png' width='32'/> ER - Ermera ✔️
 
-None - Lautém
+<img src='out/TL/LA.png' width='32'/> LA - Lautém ✔️
 
-None - Liquiçá
+<img src='out/TL/LI.png' width='32'/> LI - Liquiçá ✔️
 
-None - Manatuto
+<img src='out/TL/MT.png' width='32'/> MT - Manatuto ✔️
 
-None - Manufahi
+<img src='out/TL/MF.png' width='32'/> MF - Manufahi ✔️
 
-None - Viqueque
+<img src='out/TL/VI.png' width='32'/> VI - Viqueque ✔️
 
 </details>
 
 
 <details>
 <summary>Togo (0/5)</summary>
-None - Centrale
+C - Centrale
 
-None - Kara
+K - Kara
 
-None - Maritime
+M - Maritime
 
-None - Plateaux
+P - Plateaux
 
-None - Savanes
+S - Savanes
 
 </details>
 
 
 <details>
 <summary>Tonga (0/5)</summary>
-None - Haʻapai
+02 - Haʻapai
 
-None - ʻEua
+01 - ʻEua
 
-None - Niuas
+03 - Niuas
 
-None - Tongatapu
+04 - Tongatapu
 
-None - Vavaʻu
+05 - Vavaʻu
 
 </details>
 
 
 <details>
 <summary>Trinidad and Tobago (13/16)</summary>
-None - Arima
+<img src='out/TT/ARI.png' width='32'/> ARI - Arima ✔️
 
-None - Chaguanas
+<img src='out/TT/CHA.png' width='32'/> CHA - Chaguanas ✔️
 
-None - Couva-Tabaquite-Talparo
+<img src='out/TT/CTT.png' width='32'/> CTT - Couva-Tabaquite-Talparo ✔️
 
-None - Diego Martin
+<img src='out/TT/DMN.png' width='32'/> DMN - Diego Martin ✔️
 
-None - Eastern Tobago
+ETO - Eastern Tobago
 
-None - Penal-Debe
+<img src='out/TT/PED.png' width='32'/> PED - Penal-Debe ✔️
 
-None - Point Fortin
+<img src='out/TT/PTF.png' width='32'/> PTF - Point Fortin ✔️
 
-None - Port of Spain
+<img src='out/TT/POS.png' width='32'/> POS - Port of Spain ✔️
 
-None - Princes Town
+<img src='out/TT/PRT.png' width='32'/> PRT - Princes Town ✔️
 
-None - Rio Claro-Mayaro
+MRC - Rio Claro-Mayaro
 
-None - San Fernando
+<img src='out/TT/SFO.png' width='32'/> SFO - San Fernando ✔️
 
-None - San Juan-Laventille
+<img src='out/TT/SJL.png' width='32'/> SJL - San Juan-Laventille ✔️
 
-None - Sangre Grande
+<img src='out/TT/SGE.png' width='32'/> SGE - Sangre Grande ✔️
 
-None - Siparia
+<img src='out/TT/SIP.png' width='32'/> SIP - Siparia ✔️
 
-None - Tunapuna-Piarco
+<img src='out/TT/TUP.png' width='32'/> TUP - Tunapuna-Piarco ✔️
 
-None - Western Tobago
+WTO - Western Tobago
 
 </details>
 
 
 <details>
 <summary>Tunisia (2/24)</summary>
-None - Ariana
+12 - Ariana
 
-None - Béja
+31 - Béja
 
-None - Ben Arous
+13 - Ben Arous
 
-None - Bizerte
+23 - Bizerte
 
-None - Gabès
+81 - Gabès
 
-None - Gafsa
+71 - Gafsa
 
-None - Jendouba
+32 - Jendouba
 
-None - Kairouan
+41 - Kairouan
 
-None - Kasserine
+42 - Kasserine
 
-None - Kebili
+73 - Kebili
 
-None - Kef
+33 - Kef
 
-None - Mahdia
+53 - Mahdia
 
-None - Manouba
+14 - Manouba
 
-None - Medenine
+82 - Medenine
 
-None - Monastir
+52 - Monastir
 
-None - Nabeul
+21 - Nabeul
 
-None - Sfax
+<img src='out/TN/61.png' width='32'/> 61 - Sfax ✔️
 
-None - Sidi Bouzid
+43 - Sidi Bouzid
 
-None - Siliana
+34 - Siliana
 
-None - Sousse
+51 - Sousse
 
-None - Tataouine
+83 - Tataouine
 
-None - Tozeur
+72 - Tozeur
 
-None - Tunis
+<img src='out/TN/11.png' width='32'/> 11 - Tunis ✔️
 
-None - Zaghouan
+22 - Zaghouan
 
 </details>
 
 
 <details>
 <summary>Turkey (80/81)</summary>
-None - Adana
+<img src='out/TR/01.png' width='32'/> 01 - Adana ✔️
 
-None - Adıyaman
+<img src='out/TR/02.png' width='32'/> 02 - Adıyaman ✔️
 
-None - Afyonkarahisar
+<img src='out/TR/03.png' width='32'/> 03 - Afyonkarahisar ✔️
 
-None - Ağrı
+<img src='out/TR/04.png' width='32'/> 04 - Ağrı ✔️
 
-None - Aksaray
+<img src='out/TR/68.png' width='32'/> 68 - Aksaray ✔️
 
-None - Amasya
+<img src='out/TR/05.png' width='32'/> 05 - Amasya ✔️
 
-None - Ankara
+<img src='out/TR/06.png' width='32'/> 06 - Ankara ✔️
 
-None - Antalya
+<img src='out/TR/07.png' width='32'/> 07 - Antalya ✔️
 
-None - Ardahan
+<img src='out/TR/75.png' width='32'/> 75 - Ardahan ✔️
 
-None - Artvin
+<img src='out/TR/08.png' width='32'/> 08 - Artvin ✔️
 
-None - Aydın
+<img src='out/TR/09.png' width='32'/> 09 - Aydın ✔️
 
-None - Balıkesir
+<img src='out/TR/10.png' width='32'/> 10 - Balıkesir ✔️
 
-None - Bartın
+<img src='out/TR/74.png' width='32'/> 74 - Bartın ✔️
 
-None - Batman
+<img src='out/TR/72.png' width='32'/> 72 - Batman ✔️
 
-None - Bayburt
+<img src='out/TR/69.png' width='32'/> 69 - Bayburt ✔️
 
-None - Bilecik
+<img src='out/TR/11.png' width='32'/> 11 - Bilecik ✔️
 
-None - Bingöl
+<img src='out/TR/12.png' width='32'/> 12 - Bingöl ✔️
 
-None - Bitlis
+<img src='out/TR/13.png' width='32'/> 13 - Bitlis ✔️
 
-None - Bolu
+<img src='out/TR/14.png' width='32'/> 14 - Bolu ✔️
 
-None - Burdur
+<img src='out/TR/15.png' width='32'/> 15 - Burdur ✔️
 
-None - Bursa
+<img src='out/TR/16.png' width='32'/> 16 - Bursa ✔️
 
-None - Çanakkale
+<img src='out/TR/17.png' width='32'/> 17 - Çanakkale ✔️
 
-None - Çankırı
+<img src='out/TR/18.png' width='32'/> 18 - Çankırı ✔️
 
-None - Çorum
+<img src='out/TR/19.png' width='32'/> 19 - Çorum ✔️
 
-None - Denizli
+<img src='out/TR/20.png' width='32'/> 20 - Denizli ✔️
 
-None - Diyarbakır
+<img src='out/TR/21.png' width='32'/> 21 - Diyarbakır ✔️
 
-None - Düzce
+<img src='out/TR/81.png' width='32'/> 81 - Düzce ✔️
 
-None - Edirne
+<img src='out/TR/22.png' width='32'/> 22 - Edirne ✔️
 
-None - Elazığ
+<img src='out/TR/23.png' width='32'/> 23 - Elazığ ✔️
 
-None - Erzincan
+<img src='out/TR/24.png' width='32'/> 24 - Erzincan ✔️
 
-None - Erzurum
+<img src='out/TR/25.png' width='32'/> 25 - Erzurum ✔️
 
-None - Eskişehir
+<img src='out/TR/26.png' width='32'/> 26 - Eskişehir ✔️
 
-None - Gaziantep
+<img src='out/TR/27.png' width='32'/> 27 - Gaziantep ✔️
 
-None - Giresun
+<img src='out/TR/28.png' width='32'/> 28 - Giresun ✔️
 
-None - Gümüşhane
+<img src='out/TR/29.png' width='32'/> 29 - Gümüşhane ✔️
 
-None - Hakkâri
+<img src='out/TR/30.png' width='32'/> 30 - Hakkâri ✔️
 
-None - Hatay
+<img src='out/TR/31.png' width='32'/> 31 - Hatay ✔️
 
-None - Iğdır
+<img src='out/TR/76.png' width='32'/> 76 - Iğdır ✔️
 
-None - Isparta
+<img src='out/TR/32.png' width='32'/> 32 - Isparta ✔️
 
-None - İstanbul
+<img src='out/TR/34.png' width='32'/> 34 - İstanbul ✔️
 
-None - İzmir
+<img src='out/TR/35.png' width='32'/> 35 - İzmir ✔️
 
-None - Kahramanmaraş
+<img src='out/TR/46.png' width='32'/> 46 - Kahramanmaraş ✔️
 
-None - Karabük
+<img src='out/TR/78.png' width='32'/> 78 - Karabük ✔️
 
-None - Karaman
+<img src='out/TR/70.png' width='32'/> 70 - Karaman ✔️
 
-None - Kars
+<img src='out/TR/36.png' width='32'/> 36 - Kars ✔️
 
-None - Kastamonu
+<img src='out/TR/37.png' width='32'/> 37 - Kastamonu ✔️
 
-None - Kayseri
+<img src='out/TR/38.png' width='32'/> 38 - Kayseri ✔️
 
-None - Kilis
+<img src='out/TR/79.png' width='32'/> 79 - Kilis ✔️
 
-None - Kırıkkale
+<img src='out/TR/71.png' width='32'/> 71 - Kırıkkale ✔️
 
-None - Kırklareli
+<img src='out/TR/39.png' width='32'/> 39 - Kırklareli ✔️
 
-None - Kırşehir
+<img src='out/TR/40.png' width='32'/> 40 - Kırşehir ✔️
 
-None - Kocaeli
+<img src='out/TR/41.png' width='32'/> 41 - Kocaeli ✔️
 
-None - Konya
+<img src='out/TR/42.png' width='32'/> 42 - Konya ✔️
 
-None - Kütahya
+<img src='out/TR/43.png' width='32'/> 43 - Kütahya ✔️
 
-None - Malatya
+<img src='out/TR/44.png' width='32'/> 44 - Malatya ✔️
 
-None - Manisa
+<img src='out/TR/45.png' width='32'/> 45 - Manisa ✔️
 
-None - Mardin
+<img src='out/TR/47.png' width='32'/> 47 - Mardin ✔️
 
-None - Mersin
+<img src='out/TR/33.png' width='32'/> 33 - Mersin ✔️
 
-None - Muğla
+<img src='out/TR/48.png' width='32'/> 48 - Muğla ✔️
 
-None - Muş
+<img src='out/TR/49.png' width='32'/> 49 - Muş ✔️
 
-None - Nevşehir
+<img src='out/TR/50.png' width='32'/> 50 - Nevşehir ✔️
 
-None - Niğde
+<img src='out/TR/51.png' width='32'/> 51 - Niğde ✔️
 
-None - Ordu
+<img src='out/TR/52.png' width='32'/> 52 - Ordu ✔️
 
-None - Osmaniye
+<img src='out/TR/80.png' width='32'/> 80 - Osmaniye ✔️
 
-None - Rize
+<img src='out/TR/53.png' width='32'/> 53 - Rize ✔️
 
-None - Sakarya
+<img src='out/TR/54.png' width='32'/> 54 - Sakarya ✔️
 
-None - Samsun
+<img src='out/TR/55.png' width='32'/> 55 - Samsun ✔️
 
-None - Şanlıurfa
+<img src='out/TR/63.png' width='32'/> 63 - Şanlıurfa ✔️
 
-None - Siirt
+<img src='out/TR/56.png' width='32'/> 56 - Siirt ✔️
 
-None - Sinop
+<img src='out/TR/57.png' width='32'/> 57 - Sinop ✔️
 
-None - Sivas
+<img src='out/TR/58.png' width='32'/> 58 - Sivas ✔️
 
-None - Şırnak
+<img src='out/TR/73.png' width='32'/> 73 - Şırnak ✔️
 
-None - Tekirdağ
+<img src='out/TR/59.png' width='32'/> 59 - Tekirdağ ✔️
 
-None - Tokat
+<img src='out/TR/60.png' width='32'/> 60 - Tokat ✔️
 
-None - Trabzon
+<img src='out/TR/61.png' width='32'/> 61 - Trabzon ✔️
 
-None - Tunceli
+<img src='out/TR/62.png' width='32'/> 62 - Tunceli ✔️
 
-None - Uşak
+<img src='out/TR/64.png' width='32'/> 64 - Uşak ✔️
 
-None - Van
+<img src='out/TR/65.png' width='32'/> 65 - Van ✔️
 
-None - Yalova
+<img src='out/TR/77.png' width='32'/> 77 - Yalova ✔️
 
-None - Yozgat
+66 - Yozgat
 
-None - Zonguldak
+<img src='out/TR/67.png' width='32'/> 67 - Zonguldak ✔️
 
 </details>
 
 
 <details>
 <summary>Turkmenistan (0/6)</summary>
-None - Ahal
+A - Ahal
 
-None - Ashgabat
+S - Ashgabat
 
-None - Balkan
+B - Balkan
 
-None - Daşoguz
+D - Daşoguz
 
-None - Lebap
+L - Lebap
 
-None - Mary
+M - Mary
 
 </details>
 
 
 <details>
 <summary>Turks and Caicos Islands (0/6)</summary>
-None - Grand Turk
+05 - Grand Turk
 
-None - Middle Caicos
+03 - Middle Caicos
 
-None - North Caicos
+02 - North Caicos
 
-None - Providenciales
+01 - Providenciales
 
-None - Salt Cay
+06 - Salt Cay
 
-None - South Caicos
+04 - South Caicos
 
 </details>
 
 
 <details>
 <summary>Tuvalu (1/8)</summary>
-None - Funafuti
+<img src='out/TV/FUN.png' width='32'/> FUN - Funafuti ✔️
 
-None - Nanumanga
+NMG - Nanumanga
 
-None - Nanumea
+NMA - Nanumea
 
-None - Niutao Island Council
+NIT - Niutao Island Council
 
-None - Nui
+NUI - Nui
 
-None - Nukufetau
+NKF - Nukufetau
 
-None - Nukulaelae
+NKL - Nukulaelae
 
-None - Vaitupu
+VAI - Vaitupu
 
 </details>
 
 
 <details>
 <summary>Uganda (2/139)</summary>
-None - Abim
+314 - Abim
 
-None - Adjumani
+301 - Adjumani
 
-None - Agago
+322 - Agago
 
-None - Alebtong
+323 - Alebtong
 
-None - Amolatar
+315 - Amolatar
 
-None - Amudat
+324 - Amudat
 
-None - Amuria
+216 - Amuria
 
-None - Amuru
+316 - Amuru
 
-None - Apac
+302 - Apac
 
-None - Arua
+303 - Arua
 
-None - Budaka
+217 - Budaka
 
-None - Bududa
+218 - Bududa
 
-None - Bugiri
+201 - Bugiri
 
-None - Bugweri
+235 - Bugweri
 
-None - Buhweju
+420 - Buhweju
 
-None - Buikwe
+117 - Buikwe
 
-None - Bukedea
+219 - Bukedea
 
-None - Bukomansimbi
+118 - Bukomansimbi
 
-None - Bukwo
+220 - Bukwo
 
-None - Bulambuli
+225 - Bulambuli
 
-None - Buliisa
+416 - Buliisa
 
-None - Bundibugyo
+401 - Bundibugyo
 
-None - Bunyangabu
+430 - Bunyangabu
 
-None - Bushenyi
+402 - Bushenyi
 
-None - Busia
+202 - Busia
 
-None - Butaleja
+221 - Butaleja
 
-None - Butambala
+119 - Butambala
 
-None - Butebo
+233 - Butebo
 
-None - Buvuma
+120 - Buvuma
 
-None - Buyende
+226 - Buyende
 
-None - Central
+C - Central
 
-None - Dokolo
+317 - Dokolo
 
-None - Eastern
+E - Eastern
 
-None - Gomba
+121 - Gomba
 
-None - Gulu
+304 - Gulu
 
-None - Hoima
+403 - Hoima
 
-None - Ibanda
+417 - Ibanda
 
-None - Iganga
+203 - Iganga
 
-None - Isingiro
+418 - Isingiro
 
-None - Jinja
+204 - Jinja
 
-None - Kaabong
+318 - Kaabong
 
-None - Kabale
+404 - Kabale
 
-None - Kabarole
+405 - Kabarole
 
-None - Kaberamaido
+213 - Kaberamaido
 
-None - Kagadi
+427 - Kagadi
 
-None - Kakumiro
+428 - Kakumiro
 
-None - Kalaki
+237 - Kalaki
 
-None - Kalangala
+101 - Kalangala
 
-None - Kaliro
+222 - Kaliro
 
-None - Kalungu
+122 - Kalungu
 
-None - Kampala
+102 - Kampala
 
-None - Kamuli
+205 - Kamuli
 
-None - Kamwenge
+413 - Kamwenge
 
-None - Kanungu
+414 - Kanungu
 
-None - Kapchorwa
+<img src='out/UG/206.png' width='32'/> 206 - Kapchorwa ✔️
 
-None - Kapelebyong
+236 - Kapelebyong
 
-None - Karenga
+335 - Karenga
 
-None - Kasanda
+126 - Kasanda
 
-None - Kasese
+406 - Kasese
 
-None - Katakwi
+207 - Katakwi
 
-None - Kayunga
+112 - Kayunga
 
-None - Kazo
+433 - Kazo
 
-None - Kibaale
+407 - Kibaale
 
-None - Kiboga
+103 - Kiboga
 
-None - Kibuku
+227 - Kibuku
 
-None - Kikuube
+432 - Kikuube
 
-None - Kiruhura
+419 - Kiruhura
 
-None - Kiryandongo
+421 - Kiryandongo
 
-None - Kisoro
+408 - Kisoro
 
-None - Kitagwenda
+434 - Kitagwenda
 
-None - Kitgum
+305 - Kitgum
 
-None - Koboko
+319 - Koboko
 
-None - Kole
+325 - Kole
 
-None - Kotido
+306 - Kotido
 
-None - Kumi
+208 - Kumi
 
-None - Kwania
+333 - Kwania
 
-None - Kween
+228 - Kween
 
-None - Kyankwanzi
+123 - Kyankwanzi
 
-None - Kyegegwa
+422 - Kyegegwa
 
-None - Kyenjojo
+415 - Kyenjojo
 
-None - Kyotera
+125 - Kyotera
 
-None - Lamwo
+326 - Lamwo
 
-None - Lira
+307 - Lira
 
-None - Luuka
+229 - Luuka
 
-None - Luwero
+104 - Luwero
 
-None - Lwengo
+124 - Lwengo
 
-None - Lyantonde
+114 - Lyantonde
 
-None - Madi-Okollo
+336 - Madi-Okollo
 
-None - Manafwa
+223 - Manafwa
 
-None - Maracha
+320 - Maracha
 
-None - Masaka
+105 - Masaka
 
-None - Masindi
+409 - Masindi
 
-None - Mayuge
+214 - Mayuge
 
-None - Mbale
+209 - Mbale
 
-None - Mbarara
+410 - Mbarara
 
-None - Mitooma
+423 - Mitooma
 
-None - Mityana
+115 - Mityana
 
-None - Moroto
+308 - Moroto
 
-None - Moyo
+<img src='out/UG/309.png' width='32'/> 309 - Moyo ✔️
 
-None - Mpigi
+106 - Mpigi
 
-None - Mubende
+107 - Mubende
 
-None - Mukono
+108 - Mukono
 
-None - Nabilatuk
+334 - Nabilatuk
 
-None - Nakapiripirit
+311 - Nakapiripirit
 
-None - Nakaseke
+116 - Nakaseke
 
-None - Nakasongola
+109 - Nakasongola
 
-None - Namayingo
+230 - Namayingo
 
-None - Namisindwa
+234 - Namisindwa
 
-None - Namutumba
+224 - Namutumba
 
-None - Napak
+327 - Napak
 
-None - Nebbi
+310 - Nebbi
 
-None - Ngora
+231 - Ngora
 
-None - Northern
+N - Northern
 
-None - Ntoroko
+424 - Ntoroko
 
-None - Ntungamo
+411 - Ntungamo
 
-None - Nwoya
+328 - Nwoya
 
-None - Obongi
+337 - Obongi
 
-None - Omoro
+331 - Omoro
 
-None - Otuke
+329 - Otuke
 
-None - Oyam
+321 - Oyam
 
-None - Pader
+312 - Pader
 
-None - Pakwach
+332 - Pakwach
 
-None - Pallisa
+210 - Pallisa
 
-None - Rakai
+110 - Rakai
 
-None - Rubanda
+429 - Rubanda
 
-None - Rubirizi
+425 - Rubirizi
 
-None - Rukiga
+431 - Rukiga
 
-None - Rukungiri
+412 - Rukungiri
 
-None - Rwampara
+435 - Rwampara
 
-None - Sembabule
+111 - Sembabule
 
-None - Serere
+232 - Serere
 
-None - Sheema
+426 - Sheema
 
-None - Sironko
+215 - Sironko
 
-None - Soroti
+211 - Soroti
 
-None - Tororo
+212 - Tororo
 
-None - Wakiso
+113 - Wakiso
 
-None - Western
+W - Western
 
-None - Yumbe
+313 - Yumbe
 
-None - Zombo
+330 - Zombo
 
 </details>
 
 
 <details>
 <summary>Ukraine (22/27)</summary>
-None - Autonomous Republic of Crimea
+43 - Autonomous Republic of Crimea
 
-None - Cherkaska
+<img src='out/UA/71.png' width='32'/> 71 - Cherkaska ✔️
 
-None - Chernihivska
+<img src='out/UA/74.png' width='32'/> 74 - Chernihivska ✔️
 
-None - Chernivetska
+<img src='out/UA/77.png' width='32'/> 77 - Chernivetska ✔️
 
-None - Dnipropetrovska
+<img src='out/UA/12.png' width='32'/> 12 - Dnipropetrovska ✔️
 
-None - Donetska
+<img src='out/UA/14.png' width='32'/> 14 - Donetska ✔️
 
-None - Ivano-Frankivska
+<img src='out/UA/26.png' width='32'/> 26 - Ivano-Frankivska ✔️
 
-None - Kharkivska
+<img src='out/UA/63.png' width='32'/> 63 - Kharkivska ✔️
 
-None - Khersonska
+<img src='out/UA/65.png' width='32'/> 65 - Khersonska ✔️
 
-None - Khmelnytska
+68 - Khmelnytska
 
-None - Kirovohradska
+<img src='out/UA/35.png' width='32'/> 35 - Kirovohradska ✔️
 
-None - Kyiv
+<img src='out/UA/30.png' width='32'/> 30 - Kyiv ✔️
 
-None - Kyivska
+<img src='out/UA/32.png' width='32'/> 32 - Kyivska ✔️
 
-None - Luhanska
+<img src='out/UA/09.png' width='32'/> 09 - Luhanska ✔️
 
-None - Lvivska
+<img src='out/UA/46.png' width='32'/> 46 - Lvivska ✔️
 
-None - Mykolaivska
+<img src='out/UA/48.png' width='32'/> 48 - Mykolaivska ✔️
 
-None - Odeska
+<img src='out/UA/51.png' width='32'/> 51 - Odeska ✔️
 
-None - Poltavska
+53 - Poltavska
 
-None - Rivnenska
+<img src='out/UA/56.png' width='32'/> 56 - Rivnenska ✔️
 
-None - Sevastopol
+40 - Sevastopol
 
-None - Sumska
+<img src='out/UA/59.png' width='32'/> 59 - Sumska ✔️
 
-None - Ternopilska
+<img src='out/UA/61.png' width='32'/> 61 - Ternopilska ✔️
 
-None - Vinnytska
+<img src='out/UA/05.png' width='32'/> 05 - Vinnytska ✔️
 
-None - Volynska
+<img src='out/UA/07.png' width='32'/> 07 - Volynska ✔️
 
-None - Zakarpatska
+<img src='out/UA/21.png' width='32'/> 21 - Zakarpatska ✔️
 
-None - Zaporizka
+23 - Zaporizka
 
-None - Zhytomyrska
+<img src='out/UA/18.png' width='32'/> 18 - Zhytomyrska ✔️
 
 </details>
 
 
 <details>
 <summary>United Arab Emirates ✔️ (7/7)</summary>
-None - Abu Dhabi
+<img src='out/AE/AZ.png' width='32'/> AZ - Abu Dhabi ✔️
 
-None - Ajman
+<img src='out/AE/AJ.png' width='32'/> AJ - Ajman ✔️
 
-None - Dubai
+<img src='out/AE/DU.png' width='32'/> DU - Dubai ✔️
 
-None - Fujairah
+<img src='out/AE/FU.png' width='32'/> FU - Fujairah ✔️
 
-None - Ras Al Khaimah
+<img src='out/AE/RK.png' width='32'/> RK - Ras Al Khaimah ✔️
 
-None - Sharjah
+<img src='out/AE/SH.png' width='32'/> SH - Sharjah ✔️
 
-None - Umm Al Quwain
+<img src='out/AE/UQ.png' width='32'/> UQ - Umm Al Quwain ✔️
 
 </details>
 
 
 <details>
 <summary>United Kingdom (92/247)</summary>
-None - Aberdeen
+<img src='out/GB/ABE.png' width='32'/> ABE - Aberdeen ✔️
 
-None - Aberdeenshire
+<img src='out/GB/ABD.png' width='32'/> ABD - Aberdeenshire ✔️
 
-None - Angus
+<img src='out/GB/ANS.png' width='32'/> ANS - Angus ✔️
 
-None - Antrim
+ANT - Antrim
 
-None - Antrim and Newtownabbey
+ANN - Antrim and Newtownabbey
 
-None - Ards
+ARD - Ards
 
-None - Ards and North Down
+AND - Ards and North Down
 
-None - Argyll and Bute
+AGB - Argyll and Bute
 
-None - Armagh
+ARM - Armagh
 
-None - Armagh, Banbridge and Craigavon
+ABC - Armagh, Banbridge and Craigavon
 
-None - Ascension Island
+<img src='out/GB/SH-AC.png' width='32'/> SH-AC - Ascension Island ✔️
 
-None - Ballymena
+BLA - Ballymena
 
-None - Ballymoney
+BLY - Ballymoney
 
-None - Banbridge
+BNB - Banbridge
 
-None - Barking and Dagenham
+BDG - Barking and Dagenham
 
-None - Barnet
+BNE - Barnet
 
-None - Barnsley
+BNS - Barnsley
 
-None - Bath and North East Somerset
+BAS - Bath and North East Somerset
 
-None - Bedford
+BDF - Bedford
 
-None - Belfast
+<img src='out/GB/BFS.png' width='32'/> BFS - Belfast ✔️
 
-None - Bexley
+BEX - Bexley
 
-None - Birmingham
+<img src='out/GB/BIR.png' width='32'/> BIR - Birmingham ✔️
 
-None - Blackburn with Darwen
+BBD - Blackburn with Darwen
 
-None - Blackpool
+BPL - Blackpool
 
-None - Blaenau Gwent
+BGW - Blaenau Gwent
 
-None - Bolton
+BOL - Bolton
 
-None - Bournemouth
+<img src='out/GB/BMH.png' width='32'/> BMH - Bournemouth ✔️
 
-None - Bracknell Forest
+BRC - Bracknell Forest
 
-None - Bradford
+<img src='out/GB/BRD.png' width='32'/> BRD - Bradford ✔️
 
-None - Brent
+BEN - Brent
 
-None - Bridgend
+BGE - Bridgend
 
-None - Brighton and Hove
+BNH - Brighton and Hove
 
-None - Bristol
+<img src='out/GB/BST.png' width='32'/> BST - Bristol ✔️
 
-None - Bromley
+BRY - Bromley
 
-None - Buckinghamshire
+<img src='out/GB/BKM.png' width='32'/> BKM - Buckinghamshire ✔️
 
-None - Bury
+BUR - Bury
 
-None - Caerphilly
+CAY - Caerphilly
 
-None - Calderdale
+CLD - Calderdale
 
-None - Cambridgeshire
+<img src='out/GB/CAM.png' width='32'/> CAM - Cambridgeshire ✔️
 
-None - Camden
+CMD - Camden
 
-None - Cardiff
+CRF - Cardiff
 
-None - Carmarthenshire
+<img src='out/GB/CMN.png' width='32'/> CMN - Carmarthenshire ✔️
 
-None - Carrickfergus
+CKF - Carrickfergus
 
-None - Castlereagh
+CSR - Castlereagh
 
-None - Causeway Coast and Glens
+CCG - Causeway Coast and Glens
 
-None - Central Bedfordshire
+CBF - Central Bedfordshire
 
-None - Ceredigion
+<img src='out/GB/CGN.png' width='32'/> CGN - Ceredigion ✔️
 
-None - Cheshire East
+CHE - Cheshire East
 
-None - Cheshire West and Chester
+CHW - Cheshire West and Chester
 
-None - City of Kingston upon Hull
+KHL - City of Kingston upon Hull
 
-None - City of Southampton
+<img src='out/GB/STH.png' width='32'/> STH - City of Southampton ✔️
 
-None - Clackmannanshire
+CLK - Clackmannanshire
 
-None - Coleraine
+CLR - Coleraine
 
-None - Conwy
+CWY - Conwy
 
-None - Cookstown
+CKT - Cookstown
 
-None - Cornwall
+CON - Cornwall
 
-None - Coventry
+<img src='out/GB/COV.png' width='32'/> COV - Coventry ✔️
 
-None - Craigavon
+CGV - Craigavon
 
-None - Croydon
+CRY - Croydon
 
-None - Cumbria
+<img src='out/GB/CMA.png' width='32'/> CMA - Cumbria ✔️
 
-None - Darlington
+DAL - Darlington
 
-None - Denbighshire
+DEN - Denbighshire
 
-None - Derby
+<img src='out/GB/DER.png' width='32'/> DER - Derby ✔️
 
-None - Derbyshire
+<img src='out/GB/DBY.png' width='32'/> DBY - Derbyshire ✔️
 
-None - Derry
+<img src='out/GB/DRY.png' width='32'/> DRY - Derry ✔️
 
-None - Derry City and Strabane
+DRS - Derry City and Strabane
 
-None - Devon
+<img src='out/GB/DEV.png' width='32'/> DEV - Devon ✔️
 
-None - Doncaster
+DNC - Doncaster
 
-None - Dorset
+<img src='out/GB/DOR.png' width='32'/> DOR - Dorset ✔️
 
-None - Down District Council
+DOW - Down District Council
 
-None - Dudley
+DUD - Dudley
 
-None - Dumfries and Galloway
+DGY - Dumfries and Galloway
 
-None - Dundee
+<img src='out/GB/DND.png' width='32'/> DND - Dundee ✔️
 
-None - Dungannon and South Tyrone
+DGN - Dungannon and South Tyrone
 
-None - Durham
+<img src='out/GB/DUR.png' width='32'/> DUR - Durham ✔️
 
-None - Ealing
+<img src='out/GB/EAL.png' width='32'/> EAL - Ealing ✔️
 
-None - East Ayrshire
+EAY - East Ayrshire
 
-None - East Dunbartonshire
+EDU - East Dunbartonshire
 
-None - East Lothian
+<img src='out/GB/ELN.png' width='32'/> ELN - East Lothian ✔️
 
-None - East Renfrewshire
+ERW - East Renfrewshire
 
-None - East Riding of Yorkshire
+<img src='out/GB/ERY.png' width='32'/> ERY - East Riding of Yorkshire ✔️
 
-None - East Sussex
+<img src='out/GB/ESX.png' width='32'/> ESX - East Sussex ✔️
 
-None - Edinburgh
+<img src='out/GB/EDH.png' width='32'/> EDH - Edinburgh ✔️
 
-None - Enfield
+ENF - Enfield
 
-None - England
+<img src='out/GB/ENG.png' width='32'/> ENG - England ✔️
 
-None - Essex
+<img src='out/GB/ESS.png' width='32'/> ESS - Essex ✔️
 
-None - Falkirk
+FAL - Falkirk
 
-None - Fermanagh
+FER - Fermanagh
 
-None - Fermanagh and Omagh
+FMO - Fermanagh and Omagh
 
-None - Fife
+FIF - Fife
 
-None - Flintshire
+<img src='out/GB/FLN.png' width='32'/> FLN - Flintshire ✔️
 
-None - Gateshead
+GAT - Gateshead
 
-None - Glasgow
+<img src='out/GB/GLG.png' width='32'/> GLG - Glasgow ✔️
 
-None - Gloucestershire
+<img src='out/GB/GLS.png' width='32'/> GLS - Gloucestershire ✔️
 
-None - Greenwich
+GRE - Greenwich
 
-None - Gwynedd
+<img src='out/GB/GWN.png' width='32'/> GWN - Gwynedd ✔️
 
-None - Hackney
+HCK - Hackney
 
-None - Halton
+HAL - Halton
 
-None - Hammersmith and Fulham
+HMF - Hammersmith and Fulham
 
-None - Hampshire
+<img src='out/GB/HAM.png' width='32'/> HAM - Hampshire ✔️
 
-None - Haringey
+HRY - Haringey
 
-None - Harrow
+HRW - Harrow
 
-None - Hartlepool
+HPL - Hartlepool
 
-None - Havering
+HAV - Havering
 
-None - Herefordshire
+<img src='out/GB/HEF.png' width='32'/> HEF - Herefordshire ✔️
 
-None - Hertfordshire
+<img src='out/GB/HRT.png' width='32'/> HRT - Hertfordshire ✔️
 
-None - Highland
+HLD - Highland
 
-None - Hillingdon
+HIL - Hillingdon
 
-None - Hounslow
+HNS - Hounslow
 
-None - Inverclyde
+IVC - Inverclyde
 
-None - Isle of Wight
+<img src='out/GB/IOW.png' width='32'/> IOW - Isle of Wight ✔️
 
-None - Isles of Scilly
+<img src='out/GB/IOS.png' width='32'/> IOS - Isles of Scilly ✔️
 
-None - Islington
+ISL - Islington
 
-None - Kensington and Chelsea
+KEC - Kensington and Chelsea
 
-None - Kent
+<img src='out/GB/KEN.png' width='32'/> KEN - Kent ✔️
 
-None - Kingston upon Thames
+KTT - Kingston upon Thames
 
-None - Kirklees
+KIR - Kirklees
 
-None - Knowsley
+KWL - Knowsley
 
-None - Lambeth
+LBH - Lambeth
 
-None - Lancashire
+<img src='out/GB/LAN.png' width='32'/> LAN - Lancashire ✔️
 
-None - Larne
+LRN - Larne
 
-None - Leeds
+<img src='out/GB/LDS.png' width='32'/> LDS - Leeds ✔️
 
-None - Leicester
+<img src='out/GB/LCE.png' width='32'/> LCE - Leicester ✔️
 
-None - Leicestershire
+<img src='out/GB/LEC.png' width='32'/> LEC - Leicestershire ✔️
 
-None - Lewisham
+LEW - Lewisham
 
-None - Limavady
+LMV - Limavady
 
-None - Lincolnshire
+<img src='out/GB/LIN.png' width='32'/> LIN - Lincolnshire ✔️
 
-None - Lisburn
+LSB - Lisburn
 
-None - Lisburn and Castlereagh
+LBC - Lisburn and Castlereagh
 
-None - Liverpool
+<img src='out/GB/LIV.png' width='32'/> LIV - Liverpool ✔️
 
-None - London
+<img src='out/GB/LND.png' width='32'/> LND - London ✔️
 
-None - Magherafelt
+MFT - Magherafelt
 
-None - Manchester
+<img src='out/GB/MAN.png' width='32'/> MAN - Manchester ✔️
 
-None - Medway
+MDW - Medway
 
-None - Merthyr Tydfil
+MTY - Merthyr Tydfil
 
-None - Merton
+MRT - Merton
 
-None - Mid and East Antrim
+MEA - Mid and East Antrim
 
-None - Mid Ulster
+MUL - Mid Ulster
 
-None - Middlesbrough
+MDB - Middlesbrough
 
-None - Midlothian
+MLN - Midlothian
 
-None - Milton Keynes
+MIK - Milton Keynes
 
-None - Monmouthshire
+<img src='out/GB/MON.png' width='32'/> MON - Monmouthshire ✔️
 
-None - Moray
+MRY - Moray
 
-None - Moyle
+MYL - Moyle
 
-None - Neath Port Talbot
+NTL - Neath Port Talbot
 
-None - Newcastle upon Tyne
+NET - Newcastle upon Tyne
 
-None - Newham
+NWM - Newham
 
-None - Newport
+<img src='out/GB/NWP.png' width='32'/> NWP - Newport ✔️
 
-None - Newry and Mourne
+NYM - Newry and Mourne
 
-None - Newry, Mourne and Down
+NMD - Newry, Mourne and Down
 
-None - Newtownabbey
+NTA - Newtownabbey
 
-None - Norfolk
+<img src='out/GB/NFK.png' width='32'/> NFK - Norfolk ✔️
 
-None - North Ayrshire
+NAY - North Ayrshire
 
-None - North Down
+NDN - North Down
 
-None - North East Lincolnshire
+NEL - North East Lincolnshire
 
-None - North Lanarkshire
+NLK - North Lanarkshire
 
-None - North Lincolnshire
+NLN - North Lincolnshire
 
-None - North Somerset
+NSM - North Somerset
 
-None - North Tyneside
+NTY - North Tyneside
 
-None - North Yorkshire
+NYK - North Yorkshire
 
-None - Northamptonshire
+<img src='out/GB/NTH.png' width='32'/> NTH - Northamptonshire ✔️
 
-None - Northern Ireland
+<img src='out/GB/NIR.png' width='32'/> NIR - Northern Ireland ✔️
 
-None - Northumberland
+<img src='out/GB/NBL.png' width='32'/> NBL - Northumberland ✔️
 
-None - Nottingham
+<img src='out/GB/NGM.png' width='32'/> NGM - Nottingham ✔️
 
-None - Nottinghamshire
+<img src='out/GB/NTT.png' width='32'/> NTT - Nottinghamshire ✔️
 
-None - Oldham
+OLD - Oldham
 
-None - Omagh
+OMH - Omagh
 
-None - Orkney Islands
+<img src='out/GB/ORK.png' width='32'/> ORK - Orkney Islands ✔️
 
-None - Outer Hebrides
+<img src='out/GB/ELS.png' width='32'/> ELS - Outer Hebrides ✔️
 
-None - Oxfordshire
+<img src='out/GB/OXF.png' width='32'/> OXF - Oxfordshire ✔️
 
-None - Pembrokeshire
+<img src='out/GB/PEM.png' width='32'/> PEM - Pembrokeshire ✔️
 
-None - Perth and Kinross
+PKN - Perth and Kinross
 
-None - Peterborough
+<img src='out/GB/PTE.png' width='32'/> PTE - Peterborough ✔️
 
-None - Plymouth
+<img src='out/GB/PLY.png' width='32'/> PLY - Plymouth ✔️
 
-None - Poole
+<img src='out/GB/POL.png' width='32'/> POL - Poole ✔️
 
-None - Portsmouth
+<img src='out/GB/POR.png' width='32'/> POR - Portsmouth ✔️
 
-None - Powys
+<img src='out/GB/POW.png' width='32'/> POW - Powys ✔️
 
-None - Reading
+RDG - Reading
 
-None - Redbridge
+RDB - Redbridge
 
-None - Redcar and Cleveland
+RCC - Redcar and Cleveland
 
-None - Renfrewshire
+RFW - Renfrewshire
 
-None - Rhondda Cynon Taf
+RCT - Rhondda Cynon Taf
 
-None - Richmond upon Thames
+RIC - Richmond upon Thames
 
-None - Rochdale
+RCH - Rochdale
 
-None - Rotherham
+ROT - Rotherham
 
-None - Rutland
+<img src='out/GB/RUT.png' width='32'/> RUT - Rutland ✔️
 
-None - Saint Helena
+<img src='out/GB/SH-HL.png' width='32'/> SH-HL - Saint Helena ✔️
 
-None - Salford
+<img src='out/GB/SLF.png' width='32'/> SLF - Salford ✔️
 
-None - Sandwell
+SAW - Sandwell
 
-None - Scotland
+<img src='out/GB/SCT.png' width='32'/> SCT - Scotland ✔️
 
-None - Scottish Borders
+SCB - Scottish Borders
 
-None - Sefton
+SFT - Sefton
 
-None - Sheffield
+<img src='out/GB/SHF.png' width='32'/> SHF - Sheffield ✔️
 
-None - Shetland Islands
+<img src='out/GB/ZET.png' width='32'/> ZET - Shetland Islands ✔️
 
-None - Shropshire
+<img src='out/GB/SHR.png' width='32'/> SHR - Shropshire ✔️
 
-None - Slough
+SLG - Slough
 
-None - Solihull
+SOL - Solihull
 
-None - Somerset
+<img src='out/GB/SOM.png' width='32'/> SOM - Somerset ✔️
 
-None - South Ayrshire
+SAY - South Ayrshire
 
-None - South Gloucestershire
+SGC - South Gloucestershire
 
-None - South Lanarkshire
+SLK - South Lanarkshire
 
-None - South Tyneside
+STY - South Tyneside
 
-None - Southend-on-Sea
+<img src='out/GB/SOS.png' width='32'/> SOS - Southend-on-Sea ✔️
 
-None - Southwark
+SWK - Southwark
 
-None - St Helens
+<img src='out/GB/SHN.png' width='32'/> SHN - St Helens ✔️
 
-None - Staffordshire
+<img src='out/GB/STS.png' width='32'/> STS - Staffordshire ✔️
 
-None - Stirling
+<img src='out/GB/STG.png' width='32'/> STG - Stirling ✔️
 
-None - Stockport
+SKP - Stockport
 
-None - Stockton-on-Tees
+STT - Stockton-on-Tees
 
-None - Stoke-on-Trent
+<img src='out/GB/STE.png' width='32'/> STE - Stoke-on-Trent ✔️
 
-None - Strabane
+STB - Strabane
 
-None - Suffolk
+<img src='out/GB/SFK.png' width='32'/> SFK - Suffolk ✔️
 
-None - Sunderland
+<img src='out/GB/SND.png' width='32'/> SND - Sunderland ✔️
 
-None - Surrey
+<img src='out/GB/SRY.png' width='32'/> SRY - Surrey ✔️
 
-None - Sutton
+STN - Sutton
 
-None - Swansea
+SWA - Swansea
 
-None - Swindon
+SWD - Swindon
 
-None - Tameside
+TAM - Tameside
 
-None - Telford and Wrekin
+TFW - Telford and Wrekin
 
-None - Thurrock
+THR - Thurrock
 
-None - Torbay
+TOB - Torbay
 
-None - Torfaen
+TOF - Torfaen
 
-None - Tower Hamlets
+TWH - Tower Hamlets
 
-None - Trafford
+TRF - Trafford
 
-None - United Kingdom
+<img src='out/GB/UKM.png' width='32'/> UKM - United Kingdom ✔️
 
-None - Vale of Glamorgan
+VGL - Vale of Glamorgan
 
-None - Wakefield
+<img src='out/GB/WKF.png' width='32'/> WKF - Wakefield ✔️
 
-None - Wales
+<img src='out/GB/WLS.png' width='32'/> WLS - Wales ✔️
 
-None - Walsall
+WLL - Walsall
 
-None - Waltham Forest
+WFT - Waltham Forest
 
-None - Wandsworth
+WND - Wandsworth
 
-None - Warrington
+WRT - Warrington
 
-None - Warwickshire
+<img src='out/GB/WAR.png' width='32'/> WAR - Warwickshire ✔️
 
-None - West Berkshire
+WBK - West Berkshire
 
-None - West Dunbartonshire
+WDU - West Dunbartonshire
 
-None - West Lothian
+WLN - West Lothian
 
-None - West Sussex
+<img src='out/GB/WSX.png' width='32'/> WSX - West Sussex ✔️
 
-None - Westminster
+<img src='out/GB/WSM.png' width='32'/> WSM - Westminster ✔️
 
-None - Wigan
+WGN - Wigan
 
-None - Wiltshire
+<img src='out/GB/WIL.png' width='32'/> WIL - Wiltshire ✔️
 
-None - Windsor and Maidenhead
+WNM - Windsor and Maidenhead
 
-None - Wirral
+WRL - Wirral
 
-None - Wokingham
+WOK - Wokingham
 
-None - Wolverhampton
+<img src='out/GB/WLV.png' width='32'/> WLV - Wolverhampton ✔️
 
-None - Worcestershire
+<img src='out/GB/WOR.png' width='32'/> WOR - Worcestershire ✔️
 
-None - Wrexham
+WRX - Wrexham
 
-None - York
+<img src='out/GB/YOR.png' width='32'/> YOR - York ✔️
 
 </details>
 
 
 <details>
 <summary>United States (58/57)</summary>
-None - Alabama
+<img src='out/US/AL.png' width='32'/> AL - Alabama ✔️
 
-None - Alaska
+<img src='out/US/AK.png' width='32'/> AK - Alaska ✔️
 
-None - American Samoa
+<img src='out/US/AS.png' width='32'/> AS - American Samoa ✔️
 
-None - Arizona
+<img src='out/US/AZ.png' width='32'/> AZ - Arizona ✔️
 
-None - Arkansas
+<img src='out/US/AR.png' width='32'/> AR - Arkansas ✔️
 
-None - California
+<img src='out/US/CA.png' width='32'/> CA - California ✔️
 
-None - Colorado
+<img src='out/US/CO.png' width='32'/> CO - Colorado ✔️
 
-None - Connecticut
+<img src='out/US/CT.png' width='32'/> CT - Connecticut ✔️
 
-None - Delaware
+<img src='out/US/DE.png' width='32'/> DE - Delaware ✔️
 
-None - District of Columbia
+<img src='out/US/DC.png' width='32'/> DC - District of Columbia ✔️
 
-None - Florida
+<img src='out/US/FL.png' width='32'/> FL - Florida ✔️
 
-None - Georgia
+<img src='out/US/GA.png' width='32'/> GA - Georgia ✔️
 
-None - Guam
+<img src='out/US/GU.png' width='32'/> GU - Guam ✔️
 
-None - Hawaii
+<img src='out/US/HI.png' width='32'/> HI - Hawaii ✔️
 
-None - Idaho
+<img src='out/US/ID.png' width='32'/> ID - Idaho ✔️
 
-None - Illinois
+<img src='out/US/IL.png' width='32'/> IL - Illinois ✔️
 
-None - Indiana
+<img src='out/US/IN.png' width='32'/> IN - Indiana ✔️
 
-None - Iowa
+<img src='out/US/IA.png' width='32'/> IA - Iowa ✔️
 
-None - Kansas
+<img src='out/US/KS.png' width='32'/> KS - Kansas ✔️
 
-None - Kentucky
+<img src='out/US/KY.png' width='32'/> KY - Kentucky ✔️
 
-None - Louisiana
+<img src='out/US/LA.png' width='32'/> LA - Louisiana ✔️
 
-None - Maine
+<img src='out/US/ME.png' width='32'/> ME - Maine ✔️
 
-None - Maryland
+<img src='out/US/MD.png' width='32'/> MD - Maryland ✔️
 
-None - Massachusetts
+<img src='out/US/MA.png' width='32'/> MA - Massachusetts ✔️
 
-None - Michigan
+<img src='out/US/MI.png' width='32'/> MI - Michigan ✔️
 
-None - Minnesota
+<img src='out/US/MN.png' width='32'/> MN - Minnesota ✔️
 
-None - Mississippi
+<img src='out/US/MS.png' width='32'/> MS - Mississippi ✔️
 
-None - Missouri
+<img src='out/US/MO.png' width='32'/> MO - Missouri ✔️
 
-None - Montana
+<img src='out/US/MT.png' width='32'/> MT - Montana ✔️
 
-None - Nebraska
+<img src='out/US/NE.png' width='32'/> NE - Nebraska ✔️
 
-None - Nevada
+<img src='out/US/NV.png' width='32'/> NV - Nevada ✔️
 
-None - New Hampshire
+<img src='out/US/NH.png' width='32'/> NH - New Hampshire ✔️
 
-None - New Jersey
+<img src='out/US/NJ.png' width='32'/> NJ - New Jersey ✔️
 
-None - New Mexico
+<img src='out/US/NM.png' width='32'/> NM - New Mexico ✔️
 
-None - New York
+<img src='out/US/NY.png' width='32'/> NY - New York ✔️
 
-None - North Carolina
+<img src='out/US/NC.png' width='32'/> NC - North Carolina ✔️
 
-None - North Dakota
+<img src='out/US/ND.png' width='32'/> ND - North Dakota ✔️
 
-None - Northern Mariana Islands
+<img src='out/US/MP.png' width='32'/> MP - Northern Mariana Islands ✔️
 
-None - Ohio
+<img src='out/US/OH.png' width='32'/> OH - Ohio ✔️
 
-None - Oklahoma
+<img src='out/US/OK.png' width='32'/> OK - Oklahoma ✔️
 
-None - Oregon
+<img src='out/US/OR.png' width='32'/> OR - Oregon ✔️
 
-None - Pennsylvania
+<img src='out/US/PA.png' width='32'/> PA - Pennsylvania ✔️
 
-None - Puerto Rico
+<img src='out/US/PR.png' width='32'/> PR - Puerto Rico ✔️
 
-None - Rhode Island
+<img src='out/US/RI.png' width='32'/> RI - Rhode Island ✔️
 
-None - South Carolina
+<img src='out/US/SC.png' width='32'/> SC - South Carolina ✔️
 
-None - South Dakota
+<img src='out/US/SD.png' width='32'/> SD - South Dakota ✔️
 
-None - Tennessee
+<img src='out/US/TN.png' width='32'/> TN - Tennessee ✔️
 
-None - Texas
+<img src='out/US/TX.png' width='32'/> TX - Texas ✔️
 
-None - United States Minor Outlying Islands
+UM - United States Minor Outlying Islands
 
-None - United States Virgin Islands
+<img src='out/US/VI.png' width='32'/> VI - United States Virgin Islands ✔️
 
-None - Utah
+<img src='out/US/UT.png' width='32'/> UT - Utah ✔️
 
-None - Vermont
+<img src='out/US/VT.png' width='32'/> VT - Vermont ✔️
 
-None - Virginia
+<img src='out/US/VA.png' width='32'/> VA - Virginia ✔️
 
-None - Washington
+<img src='out/US/WA.png' width='32'/> WA - Washington ✔️
 
-None - West Virginia
+<img src='out/US/WV.png' width='32'/> WV - West Virginia ✔️
 
-None - Wisconsin
+<img src='out/US/WI.png' width='32'/> WI - Wisconsin ✔️
 
-None - Wyoming
+<img src='out/US/WY.png' width='32'/> WY - Wyoming ✔️
 
 </details>
 
 
 <details>
 <summary>United States Minor Outlying Islands (0/9)</summary>
-None - Baker Island
+81 - Baker Island
 
-None - Howland Island
+84 - Howland Island
 
-None - Jarvis Island
+86 - Jarvis Island
 
-None - Johnston Atoll
+67 - Johnston Atoll
 
-None - Kingman Reef
+89 - Kingman Reef
 
-None - Midway Islands
+71 - Midway Islands
 
-None - Navassa Island
+76 - Navassa Island
 
-None - Palmyra Atoll
+95 - Palmyra Atoll
 
-None - Wake Island
+79 - Wake Island
 
 </details>
 
 
 <details>
 <summary>Uruguay ✔️ (19/19)</summary>
-None - Artigas
+<img src='out/UY/AR.png' width='32'/> AR - Artigas ✔️
 
-None - Canelones
+<img src='out/UY/CA.png' width='32'/> CA - Canelones ✔️
 
-None - Cerro Largo
+<img src='out/UY/CL.png' width='32'/> CL - Cerro Largo ✔️
 
-None - Colonia
+<img src='out/UY/CO.png' width='32'/> CO - Colonia ✔️
 
-None - Durazno
+<img src='out/UY/DU.png' width='32'/> DU - Durazno ✔️
 
-None - Flores
+<img src='out/UY/FS.png' width='32'/> FS - Flores ✔️
 
-None - Florida
+<img src='out/UY/FD.png' width='32'/> FD - Florida ✔️
 
-None - Lavalleja
+<img src='out/UY/LA.png' width='32'/> LA - Lavalleja ✔️
 
-None - Maldonado
+<img src='out/UY/MA.png' width='32'/> MA - Maldonado ✔️
 
-None - Montevideo
+<img src='out/UY/MO.png' width='32'/> MO - Montevideo ✔️
 
-None - Paysandú
+<img src='out/UY/PA.png' width='32'/> PA - Paysandú ✔️
 
-None - Río Negro
+<img src='out/UY/RN.png' width='32'/> RN - Río Negro ✔️
 
-None - Rivera
+<img src='out/UY/RV.png' width='32'/> RV - Rivera ✔️
 
-None - Rocha
+<img src='out/UY/RO.png' width='32'/> RO - Rocha ✔️
 
-None - Salto
+<img src='out/UY/SA.png' width='32'/> SA - Salto ✔️
 
-None - San José
+<img src='out/UY/SJ.png' width='32'/> SJ - San José ✔️
 
-None - Soriano
+<img src='out/UY/SO.png' width='32'/> SO - Soriano ✔️
 
-None - Tacuarembó
+<img src='out/UY/TA.png' width='32'/> TA - Tacuarembó ✔️
 
-None - Treinta y Tres
+<img src='out/UY/TT.png' width='32'/> TT - Treinta y Tres ✔️
 
 </details>
 
 
 <details>
 <summary>Uzbekistan (2/14)</summary>
-None - Andijan
+AN - Andijan
 
-None - Bukhara
+<img src='out/UZ/BU.png' width='32'/> BU - Bukhara ✔️
 
-None - Fergana
+FA - Fergana
 
-None - Jizzakh
+JI - Jizzakh
 
-None - Karakalpakstan
+<img src='out/UZ/QR.png' width='32'/> QR - Karakalpakstan ✔️
 
-None - Namangan
+NG - Namangan
 
-None - Navoiy
+NW - Navoiy
 
-None - Qashqadaryo
+QA - Qashqadaryo
 
-None - Samarqand
+SA - Samarqand
 
-None - Sirdaryo
+SI - Sirdaryo
 
-None - Surxondaryo
+SU - Surxondaryo
 
-None - Tashkent
+TK - Tashkent
 
-None - Tashkent
+TO - Tashkent
 
-None - Xorazm
+XO - Xorazm
 
 </details>
 
 
 <details>
 <summary>Vanuatu ✔️ (6/6)</summary>
-None - Malampa
+<img src='out/VU/MAP.png' width='32'/> MAP - Malampa ✔️
 
-None - Penama
+<img src='out/VU/PAM.png' width='32'/> PAM - Penama ✔️
 
-None - Sanma
+<img src='out/VU/SAM.png' width='32'/> SAM - Sanma ✔️
 
-None - Shefa
+<img src='out/VU/SEE.png' width='32'/> SEE - Shefa ✔️
 
-None - Tafea
+<img src='out/VU/TAE.png' width='32'/> TAE - Tafea ✔️
 
-None - Torba
+<img src='out/VU/TOB.png' width='32'/> TOB - Torba ✔️
 
 </details>
 
 
 <details>
 <summary>Venezuela ✔️ (25/25)</summary>
-None - Amazonas
+<img src='out/VE/Z.png' width='32'/> Z - Amazonas ✔️
 
-None - Anzoátegui
+<img src='out/VE/B.png' width='32'/> B - Anzoátegui ✔️
 
-None - Apure
+<img src='out/VE/C.png' width='32'/> C - Apure ✔️
 
-None - Aragua
+<img src='out/VE/D.png' width='32'/> D - Aragua ✔️
 
-None - Barinas
+<img src='out/VE/E.png' width='32'/> E - Barinas ✔️
 
-None - Bolívar
+<img src='out/VE/F.png' width='32'/> F - Bolívar ✔️
 
-None - Carabobo
+<img src='out/VE/G.png' width='32'/> G - Carabobo ✔️
 
-None - Cojedes
+<img src='out/VE/H.png' width='32'/> H - Cojedes ✔️
 
-None - Delta Amacuro
+<img src='out/VE/Y.png' width='32'/> Y - Delta Amacuro ✔️
 
-None - Distrito Capital
+<img src='out/VE/A.png' width='32'/> A - Distrito Capital ✔️
 
-None - Falcón
+<img src='out/VE/I.png' width='32'/> I - Falcón ✔️
 
-None - Guárico
+<img src='out/VE/J.png' width='32'/> J - Guárico ✔️
 
-None - La Guaira
+<img src='out/VE/X.png' width='32'/> X - La Guaira ✔️
 
-None - Lara
+<img src='out/VE/K.png' width='32'/> K - Lara ✔️
 
-None - Mérida
+<img src='out/VE/L.png' width='32'/> L - Mérida ✔️
 
-None - Miranda
+<img src='out/VE/M.png' width='32'/> M - Miranda ✔️
 
-None - Monagas
+<img src='out/VE/N.png' width='32'/> N - Monagas ✔️
 
-None - Nueva Esparta
+<img src='out/VE/O.png' width='32'/> O - Nueva Esparta ✔️
 
-None - Portuguesa
+<img src='out/VE/P.png' width='32'/> P - Portuguesa ✔️
 
-None - Sucre
+<img src='out/VE/R.png' width='32'/> R - Sucre ✔️
 
-None - Táchira
+<img src='out/VE/S.png' width='32'/> S - Táchira ✔️
 
-None - Trujillo
+<img src='out/VE/T.png' width='32'/> T - Trujillo ✔️
 
-None - Venezuela
+<img src='out/VE/W.png' width='32'/> W - Venezuela ✔️
 
-None - Yaracuy
+<img src='out/VE/U.png' width='32'/> U - Yaracuy ✔️
 
-None - Zulia
+<img src='out/VE/V.png' width='32'/> V - Zulia ✔️
 
 </details>
 
 
 <details>
 <summary>Vietnam (63/34)</summary>
-None - An Giang
+<img src='out/VN/44.png' width='32'/> 44 - An Giang ✔️
 
-None - Bắc Ninh
+<img src='out/VN/56.png' width='32'/> 56 - Bắc Ninh ✔️
 
-None - Cà Mau
+<img src='out/VN/59.png' width='32'/> 59 - Cà Mau ✔️
 
-None - Cần Thơ
+<img src='out/VN/CT.png' width='32'/> CT - Cần Thơ ✔️
 
-None - Cao Bằng
+<img src='out/VN/04.png' width='32'/> 04 - Cao Bằng ✔️
 
-None - Đà Nẵng
+<img src='out/VN/DN.png' width='32'/> DN - Đà Nẵng ✔️
 
-None - Đắk Lắk
+<img src='out/VN/33.png' width='32'/> 33 - Đắk Lắk ✔️
 
-None - Điện Biên
+<img src='out/VN/71.png' width='32'/> 71 - Điện Biên ✔️
 
-None - Đồng Nai
+<img src='out/VN/39.png' width='32'/> 39 - Đồng Nai ✔️
 
-None - Đồng Tháp
+<img src='out/VN/45.png' width='32'/> 45 - Đồng Tháp ✔️
 
-None - Gia Lai
+<img src='out/VN/30.png' width='32'/> 30 - Gia Lai ✔️
 
-None - Hà Nội
+<img src='out/VN/HN.png' width='32'/> HN - Hà Nội ✔️
 
-None - Hà Tĩnh
+<img src='out/VN/23.png' width='32'/> 23 - Hà Tĩnh ✔️
 
-None - Hải Phòng
+<img src='out/VN/HP.png' width='32'/> HP - Hải Phòng ✔️
 
-None - Hồ Chí Minh
+<img src='out/VN/SG.png' width='32'/> SG - Hồ Chí Minh ✔️
 
-None - Hưng Yên
+<img src='out/VN/66.png' width='32'/> 66 - Hưng Yên ✔️
 
-None - Khánh Hòa
+<img src='out/VN/34.png' width='32'/> 34 - Khánh Hòa ✔️
 
-None - Lai Châu
+<img src='out/VN/01.png' width='32'/> 01 - Lai Châu ✔️
 
-None - Lâm Đồng
+<img src='out/VN/35.png' width='32'/> 35 - Lâm Đồng ✔️
 
-None - Lạng Sơn
+<img src='out/VN/09.png' width='32'/> 09 - Lạng Sơn ✔️
 
-None - Lào Cai
+<img src='out/VN/02.png' width='32'/> 02 - Lào Cai ✔️
 
-None - Nghệ An
+<img src='out/VN/22.png' width='32'/> 22 - Nghệ An ✔️
 
-None - Ninh Bình
+<img src='out/VN/18.png' width='32'/> 18 - Ninh Bình ✔️
 
-None - Phú Thọ
+<img src='out/VN/68.png' width='32'/> 68 - Phú Thọ ✔️
 
-None - Quảng Ngãi
+<img src='out/VN/29.png' width='32'/> 29 - Quảng Ngãi ✔️
 
-None - Quảng Ninh
+<img src='out/VN/13.png' width='32'/> 13 - Quảng Ninh ✔️
 
-None - Quảng Trị
+<img src='out/VN/25.png' width='32'/> 25 - Quảng Trị ✔️
 
-None - Sơn La
+<img src='out/VN/05.png' width='32'/> 05 - Sơn La ✔️
 
-None - Tây Ninh
+<img src='out/VN/37.png' width='32'/> 37 - Tây Ninh ✔️
 
-None - Thái Nguyên
+<img src='out/VN/69.png' width='32'/> 69 - Thái Nguyên ✔️
 
-None - Thanh Hóa
+<img src='out/VN/21.png' width='32'/> 21 - Thanh Hóa ✔️
 
-None - Thừa Thiên-Huế
+<img src='out/VN/26.png' width='32'/> 26 - Thừa Thiên-Huế ✔️
 
-None - Tuyên Quang
+<img src='out/VN/07.png' width='32'/> 07 - Tuyên Quang ✔️
 
-None - Vĩnh Long
+<img src='out/VN/49.png' width='32'/> 49 - Vĩnh Long ✔️
 
 </details>
 
 
 <details>
 <summary>Virgin Islands (US) (0/3)</summary>
-None - Saint Croix
+SC - Saint Croix
 
-None - Saint John
+SJ - Saint John
 
-None - Saint Thomas
+ST - Saint Thomas
 
 </details>
 
 
 <details>
 <summary>Yemen (0/21)</summary>
-None - 'Adan
+AD - 'Adan
 
-None - 'Amran
+AM - 'Amran
 
-None - Abyan
+AB - Abyan
 
-None - Al Bayda'
+BA - Al Bayda'
 
-None - Al Hudaydah
+HU - Al Hudaydah
 
-None - Al Jawf
+JA - Al Jawf
 
-None - Al Mahrah
+MR - Al Mahrah
 
-None - Al Mahwit
+MW - Al Mahwit
 
-None - Amanat Al Asimah
+SA - Amanat Al Asimah
 
-None - Dhamar
+DH - Dhamar
 
-None - Hadhramaut
+HD - Hadhramaut
 
-None - Hajjah
+HJ - Hajjah
 
-None - Ibb
+IB - Ibb
 
-None - Lahij
+LA - Lahij
 
-None - Ma'rib
+MA - Ma'rib
 
-None - Raymah
+RA - Raymah
 
-None - Saada
+SD - Saada
 
-None - Sana'a
+SN - Sana'a
 
-None - Shabwah
+SH - Shabwah
 
-None - Socotra
+SU - Socotra
 
-None - Ta'izz
+TA - Ta'izz
 
 </details>
 
 
 <details>
 <summary>Zambia (1/10)</summary>
-None - Central
+02 - Central
 
-None - Copperbelt
+08 - Copperbelt
 
-None - Eastern
+03 - Eastern
 
-None - Luapula
+04 - Luapula
 
-None - Lusaka
+<img src='out/ZM/09.png' width='32'/> 09 - Lusaka ✔️
 
-None - Muchinga
+10 - Muchinga
 
-None - Northern
+05 - Northern
 
-None - Northwestern
+06 - Northwestern
 
-None - Southern
+07 - Southern
 
-None - Western
+01 - Western
 
 </details>
 
 
 <details>
 <summary>Zimbabwe ✔️ (10/10)</summary>
-None - Bulawayo
+<img src='out/ZW/BU.png' width='32'/> BU - Bulawayo ✔️
 
-None - Harare
+<img src='out/ZW/HA.png' width='32'/> HA - Harare ✔️
 
-None - Manicaland
+<img src='out/ZW/MA.png' width='32'/> MA - Manicaland ✔️
 
-None - Mashonaland Central
+<img src='out/ZW/MC.png' width='32'/> MC - Mashonaland Central ✔️
 
-None - Mashonaland East
+<img src='out/ZW/ME.png' width='32'/> ME - Mashonaland East ✔️
 
-None - Mashonaland West
+<img src='out/ZW/MW.png' width='32'/> MW - Mashonaland West ✔️
 
-None - Masvingo
+<img src='out/ZW/MV.png' width='32'/> MV - Masvingo ✔️
 
-None - Matabeleland North
+<img src='out/ZW/MN.png' width='32'/> MN - Matabeleland North ✔️
 
-None - Matabeleland South
+<img src='out/ZW/MS.png' width='32'/> MS - Matabeleland South ✔️
 
-None - Midlands
+<img src='out/ZW/MI.png' width='32'/> MI - Midlands ✔️
 
 </details>
 
