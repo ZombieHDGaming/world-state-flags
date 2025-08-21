@@ -32,12 +32,12 @@ with open("README.md", 'w') as outfile:
 
         for state in country.get("states"):
             flag_exists = os.path.isfile(
-                f'out/{country["iso2"]}/{state.get("state_code")}.png')
+                f'out/{country["iso2"]}/{state.get("iso2")}.png')
 
             if flag_exists:
-                states_string += f"<img src='out/{country['iso2']}/{state.get('state_code')}.png' width='32'/> "
+                states_string += f"<img src='out/{country['iso2']}/{state.get('iso2')}.png' width='32'/> "
 
-            states_string += f"""{state.get('state_code')} - {state.get('name')}{' ✔️' if flag_exists else ''}"""
+            states_string += f"""{state.get('iso2')} - {state.get('name')}{' ✔️' if flag_exists else ''}"""
 
             states_string += "\n\n"
 
