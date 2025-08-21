@@ -4,3 +4,4 @@ requests
 orjson
 asyncio
 aiohttp
+pil
