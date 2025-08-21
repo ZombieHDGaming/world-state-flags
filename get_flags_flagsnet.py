@@ -1,153 +1,151 @@
+import asyncio
+import aiohttp
 from bs4 import BeautifulSoup
-import orjson
 from pathlib import Path
-import re
-import unicodedata
+import orjson
 import os
-import requests
-import shutil
-import subprocess
-import itertools
+import string
+import unicodedata
+from PIL import Image
+from io import BytesIO
 
-dont_download = [
-    "/misc/"
-]
+dont_download = ["/misc/"]
 
 
-def CanDownload(url):
-    for d in dont_download:
-        if d in url:
-            return False
-    return True
+def CanDownload(url: str) -> bool:
+    return all(d not in url for d in dont_download)
 
 
-def remove_accents_lower(input_str):
-    nfkd_form = unicodedata.normalize('NFKD', input_str)
-    return u"".join([c for c in nfkd_form if not unicodedata.combining(c)]).lower().strip()
+def remove_accents_lower(input_str: str) -> str:
+    nfkd_form = unicodedata.normalize("NFKD", input_str)
+    return "".join(c for c in nfkd_form if not unicodedata.combining(c)).lower().strip()
 
 
-def download_flag(url, outfile):
-    response = requests.get(url)
-
-    if response.status_code == 200:
-        with open("./tmp.gif", 'wb') as f:
-            f.write(response.content)
-
-        subprocess.call(f'convert ./tmp.gif -resize 64x {outfile}', shell=True)
+def resize_and_save_gif(data: bytes, outfile: str):
+    img = Image.open(BytesIO(data))
+    img = img.resize((64, int(img.height * (64 / img.width))), Image.LANCZOS)
+    img.save(outfile, "PNG")
 
 
-url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json'
-
-out_file = Path('./countries+states+cities.json')
-
-r = requests.get(url, allow_redirects=True)
-tmp_file = Path('./countries+states+cities.json.tmp')
-
-with tmp_file.open(mode='wb') as f:
-    f.write(r.content)
-
-try:
-    # Test if downloaded JSON is valid
-    with tmp_file.open(mode='r', encoding='utf-8') as f:
-        orjson.loads(f.read())
-
-    # Remove old file, overwrite with new one
-    tmp_file.replace(out_file)
-except Exception as e:
-    print(f"An exception occurred: {e}")
-
-f = open('./countries+states+cities.json', 'r', encoding='utf-8')
-data = orjson.loads(f.read())
-
-numCountries = len(data)
-i = 1
-
-keywordSoups = {}
-
-print("Fetching search...")
-for letter in [str(chr(i)) for i in range(ord('a'), ord('z')+1)]:
-    url = f'https://www.fotw.info/flags/keyword{letter}.html'
-    page = requests.get(url).text
-    soup = BeautifulSoup(page, features="lxml")
-    keywordSoups[letter] = soup
+async def fetch_html(session: aiohttp.ClientSession, url: str) -> BeautifulSoup:
+    async with session.get(url) as resp:
+        text = await resp.text(encoding="utf-8", errors="ignore")
+        return BeautifulSoup(text, "lxml")
 
 
-for country in data:
-    print(f'{country.get("name")} - {i}/{numCountries}')
-    countryPath = f"./out_flagsnet/{country.get('iso2')}"
-    os.makedirs(countryPath, exist_ok=True)
+async def fetch_binary(session: aiohttp.ClientSession, url: str) -> bytes:
+    async with session.get(url) as resp:
+        return await resp.read()
 
-    filePath = f'./images/{country.get("iso2").lower()[0]}/'
 
-    for region in country.get("states"):
-        if region.get("iso2") == "CON":
-            region["iso2"] = "_CON"
+async def fetch_keyword_pages(session):
+    tasks = [
+        fetch_html(session, f"https://www.fotw.info/flags/keyword{letter}.html")
+        for letter in string.ascii_lowercase
+    ]
+    results = await asyncio.gather(*tasks)
+    return dict(zip(string.ascii_lowercase, results))
 
-        found = False
-        tries = [
-            remove_accents_lower(region.get("name")),
-            region.get("iso2")
-        ]
 
-        for nameTry in tries:
-            try:
-                url = f'https://www.fotw.info/flags/{country.get("iso2")}-{nameTry}.html'
-                page = requests.get(url).text
-                soup = BeautifulSoup(page, features="lxml")
+async def fetch_countries_data(session):
+    url = "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json"
+    raw = await fetch_binary(session, url)
 
-                allImages = soup.select("img")
-                allImages = [
-                    img for img in allImages if CanDownload(img.get("src"))]
+    # validate JSON
+    data = orjson.loads(raw)
 
-                if len(allImages) > 1:
-                    imgSrc = allImages[1]["src"]
-                    if imgSrc.startswith("../"):
-                        imgSrc = f'https://www.fotw.info/{imgSrc[2:]}'
-                    print(
-                        f'Found {countryPath}/{region.get("iso2")} - {imgSrc}')
-                    download_flag(
-                        imgSrc,
-                        f'{countryPath}/{region.get("iso2").upper()}.png'
-                    )
-                    found = True
-                    break
-            except Exception as e:
-                print(e)
+    out_file = Path("./countries+states+cities.json")
+    out_file.write_bytes(raw)  # write once
 
-        if not found:
-            try:
-                regionName = remove_accents_lower(region.get("name"))
-                regionCountry = remove_accents_lower(country.get("name"))
+    return data
 
-                soup = keywordSoups[regionName[0]]
 
-                links = soup.select("a")
+async def download_flag(session, url: str, outfile: str):
+    data = await fetch_binary(session, url)
+    resize_and_save_gif(data, outfile)
 
-                subpage = None
 
-                for link in links:
-                    if remove_accents_lower(link.text) == f"{regionName} ({regionCountry})" and link.get("href"):
-                        subpage = "https://www.fotw.info/flags/" + link["href"]
-                        break
+async def process_region(session, country, region, keywordSoups, countryPath):
+    if region.get("iso2") == "CON":
+        region["iso2"] = "_CON"
 
-                if subpage:
-                    page = requests.get(subpage).text
-                    soup = BeautifulSoup(page, features="lxml")
+    tries = [remove_accents_lower(region["name"]), region["iso2"]]
 
-                    allImages = soup.select("img")
-                    allImages = [
-                        img for img in allImages if CanDownload(img.get("src"))]
+    for nameTry in tries:
+        try:
+            url = f"https://www.fotw.info/flags/{country['iso2']}-{nameTry}.html"
+            soup = await fetch_html(session, url)
 
-                    if len(allImages) > 1:
-                        imgSrc = allImages[1]["src"]
-                        if imgSrc.startswith("../"):
-                            imgSrc = f'https://www.fotw.info/{imgSrc[2:]}'
-                        print(
-                            f'Found alternative {countryPath}/{region.get("iso2")} - {imgSrc}')
-                        download_flag(
-                            imgSrc,
-                            f'{countryPath}/{region.get("iso2").upper()}.png'
-                        )
-            except Exception as e:
-                print(e)
-    i += 1
+            allImages = [img for img in soup.select("img") if CanDownload(img.get("src"))]
+
+            if len(allImages) > 1:
+                imgSrc = allImages[1]["src"]
+                if imgSrc.startswith("../"):
+                    imgSrc = f"https://www.fotw.info/{imgSrc[2:]}"
+                print(f"Found {countryPath}/{region['iso2']} - {imgSrc}")
+                await download_flag(
+                    session, imgSrc, f"{countryPath}/{region['iso2'].upper()}.png"
+                )
+                return True
+        except Exception as e:
+            print("Error:", e)
+
+    # Fallback: keyword page
+    try:
+        regionName = remove_accents_lower(region["name"])
+        regionCountry = remove_accents_lower(country["name"])
+
+        soup = keywordSoups[regionName[0]]
+        links = soup.select("a")
+
+        subpage = None
+        for link in links:
+            if (
+                remove_accents_lower(link.text)
+                == f"{regionName} ({regionCountry})"
+                and link.get("href")
+            ):
+                subpage = "https://www.fotw.info/flags/" + link["href"]
+                break
+
+        if subpage:
+            soup = await fetch_html(session, subpage)
+            allImages = [img for img in soup.select("img") if CanDownload(img.get("src"))]
+            if len(allImages) > 1:
+                imgSrc = allImages[1]["src"]
+                if imgSrc.startswith("../"):
+                    imgSrc = f"https://www.fotw.info/{imgSrc[2:]}"
+                print(f"Found alternative {countryPath}/{region['iso2']} - {imgSrc}")
+                await download_flag(
+                    session, imgSrc, f"{countryPath}/{region['iso2'].upper()}.png"
+                )
+    except Exception as e:
+        print("Error:", e)
+
+
+async def main():
+    async with aiohttp.ClientSession() as session:
+        print("Fetching keyword pages...")
+        keywordSoups = await fetch_keyword_pages(session)
+
+        print("Fetching country/state JSON...")
+        data = await fetch_countries_data(session)
+
+        numCountries = len(data)
+        for i, country in enumerate(data, start=1):
+            cname = country["name"]
+            print(f"{cname} - {i}/{numCountries}")
+
+            countryPath = f"./out_flagsnet/{country['iso2']}"
+            os.makedirs(countryPath, exist_ok=True)
+
+            # Run all region fetches in parallel
+            tasks = [
+                process_region(session, country, region, keywordSoups, countryPath)
+                for region in country["states"]
+            ]
+            await asyncio.gather(*tasks)
+
+
+if __name__ == "__main__":
+    asyncio.run(main())

@@ -22,10 +22,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Install ImageMagick
-        run: |
-          sudo apt-get install -y imagemagick
-
       - name: Get Flagsnet
         run: |
           python get_flags_flagsnet.py
@@ -39,17 +35,13 @@ jobs:
           python generate_readme.py
 
       - name: commit files
-        env:
-          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
         run: |
           git config core.filemode false
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git pull origin main
           git add .
-          git commit -m "Daily update"
+          git commit -m "Daily Update - Flagsnet"
 
       - name: push changes
         uses: ad-m/github-push-action@master
