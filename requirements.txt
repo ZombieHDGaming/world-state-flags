@@ -4,4 +4,4 @@ requests
 orjson
 asyncio
 aiohttp
-pil
+Pillow
