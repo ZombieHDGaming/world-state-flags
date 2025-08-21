@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3148
+FLAGS: 3217
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -883,7 +883,7 @@ None - West Flanders
 
 
 <details>
-<summary>Belize (0/6)</summary>
+<summary>Belize (2/6)</summary>
 None - Belize
 
 None - Cayo
@@ -1031,7 +1031,7 @@ None - Sint Eustatius
 
 
 <details>
-<summary>Bosnia and Herzegovina (12/13)</summary>
+<summary>Bosnia and Herzegovina ✔️ (13/13)</summary>
 None - Bosnian Podrinje
 
 None - Brčko
@@ -1987,7 +1987,7 @@ None - Zagreb
 
 
 <details>
-<summary>Cuba (9/16)</summary>
+<summary>Cuba (10/16)</summary>
 None - Artemisa
 
 None - Camagüey
@@ -2627,7 +2627,7 @@ None - Võru
 
 
 <details>
-<summary>Eswatini (0/4)</summary>
+<summary>Eswatini (1/4)</summary>
 None - Hhohho
 
 None - Lubombo
@@ -3021,7 +3021,7 @@ None - Yvelines
 
 
 <details>
-<summary>French Polynesia (0/5)</summary>
+<summary>French Polynesia (3/5)</summary>
 None - Austral Islands
 
 None - Leeward Islands
@@ -3243,7 +3243,7 @@ None - West Macedonia
 
 
 <details>
-<summary>Greenland (0/5)</summary>
+<summary>Greenland ✔️ (5/5)</summary>
 None - Avannaata
 
 None - Kujalleq
@@ -3286,7 +3286,7 @@ None - Pointe-à-Pitre
 
 
 <details>
-<summary>Guam (0/19)</summary>
+<summary>Guam (4/19)</summary>
 None - Agana Heights
 
 None - Asan-Maina
@@ -3378,7 +3378,7 @@ None - Zacapa
 
 
 <details>
-<summary>Guernsey (0/12)</summary>
+<summary>Guernsey (1/12)</summary>
 None - Alderney
 
 None - Castel
@@ -3990,7 +3990,7 @@ None - Zanjan
 
 
 <details>
-<summary>Iraq (9/18)</summary>
+<summary>Iraq (11/18)</summary>
 None - Al Anbar
 
 None - Al Muthanna
@@ -4113,7 +4113,7 @@ None - Tel Aviv
 
 
 <details>
-<summary>Italy (119/111)</summary>
+<summary>Italy (120/111)</summary>
 None - Abruzzo
 
 None - Agrigento
@@ -4340,7 +4340,7 @@ None - Viterbo
 
 
 <details>
-<summary>Jamaica (0/14)</summary>
+<summary>Jamaica (2/14)</summary>
 None - Clarendon
 
 None - Hanover
@@ -4957,7 +4957,7 @@ None - Sinoe
 
 
 <details>
-<summary>Libya (0/21)</summary>
+<summary>Libya (2/21)</summary>
 None - Al Wahat
 
 None - Benghazi
@@ -5193,7 +5193,7 @@ None - Wiltz
 
 
 <details>
-<summary>Madagascar (0/6)</summary>
+<summary>Madagascar (1/6)</summary>
 None - Antananarivo
 
 None - Antsiranana
@@ -5210,7 +5210,7 @@ None - Toliara
 
 
 <details>
-<summary>Malawi (0/31)</summary>
+<summary>Malawi (2/31)</summary>
 None - Balaka
 
 None - Blantyre
@@ -5314,7 +5314,7 @@ None - Terengganu
 
 
 <details>
-<summary>Maldives (0/25)</summary>
+<summary>Maldives (5/25)</summary>
 None - Addu
 
 None - Alif Alif
@@ -6197,7 +6197,7 @@ None - Yangon
 
 
 <details>
-<summary>Namibia (1/14)</summary>
+<summary>Namibia (3/14)</summary>
 None - Erongo
 
 None - Hardap
@@ -6731,7 +6731,7 @@ None - Zrnovci
 
 
 <details>
-<summary>Norway (21/17)</summary>
+<summary>Norway (27/17)</summary>
 None - Agder
 
 None - Akershus
@@ -7538,7 +7538,7 @@ None - Yauco
 
 
 <details>
-<summary>Qatar (0/8)</summary>
+<summary>Qatar (1/8)</summary>
 None - Al Daayen
 
 None - Al Khor
@@ -7572,7 +7572,7 @@ None - Saint-Pierre
 
 
 <details>
-<summary>Romania (18/42)</summary>
+<summary>Romania (23/42)</summary>
 None - Alba
 
 None - Arad
@@ -7661,7 +7661,7 @@ None - Vrancea
 
 
 <details>
-<summary>Russia (72/83)</summary>
+<summary>Russia (81/83)</summary>
 None - Adygea
 
 None - Altai
@@ -8809,7 +8809,7 @@ None - Western Equatoria
 
 
 <details>
-<summary>Spain (66/69)</summary>
+<summary>Spain (67/69)</summary>
 None - A Coruña
 
 None - Albacete
@@ -9091,7 +9091,7 @@ None - Wanica
 
 
 <details>
-<summary>Sweden ✔️ (21/21)</summary>
+<summary>Sweden (22/21)</summary>
 None - Blekinge
 
 None - Dalarna
@@ -9683,7 +9683,7 @@ None - Vavaʻu
 
 
 <details>
-<summary>Trinidad and Tobago (5/16)</summary>
+<summary>Trinidad and Tobago (13/16)</summary>
 None - Arima
 
 None - Chaguanas
@@ -9773,7 +9773,7 @@ None - Zaghouan
 
 
 <details>
-<summary>Turkey (79/81)</summary>
+<summary>Turkey (80/81)</summary>
 None - Adana
 
 None - Adıyaman
@@ -9995,7 +9995,7 @@ None - Vaitupu
 
 
 <details>
-<summary>Uganda (1/139)</summary>
+<summary>Uganda (2/139)</summary>
 None - Abim
 
 None - Adjumani
@@ -11276,7 +11276,7 @@ None - Ta'izz
 
 
 <details>
-<summary>Zambia (0/10)</summary>
+<summary>Zambia (1/10)</summary>
 None - Central
 
 None - Copperbelt
