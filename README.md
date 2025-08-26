@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3217
+FLAGS: 3218
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -4957,12 +4957,12 @@ K - Thaba-Tseka
 
 
 <details>
-<summary>Libya (2/21)</summary>
+<summary>Libya (3/21)</summary>
 WA - Al Wahat
 
 BA - Benghazi
 
-DR - Derna
+<img src='out/LY/DR.png' width='32'/> DR - Derna ✔️
 
 GT - Ghat
 
