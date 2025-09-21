@@ -9607,7 +9607,7 @@ WG - West Grand Bahama
 
 
 <details>
-<summary>The Gambia  (0/6)</summary>
+<summary>The Gambia (0/6)</summary>
 B - Banjul
 
 M - Central River
