@@ -1883,63 +1883,6 @@ XZ - Xizang
 
 
 <details>
-<summary>Cote D'Ivoire (Ivory Coast) (0/26)</summary>
-AB - Abidjan
-
-16 - Agnéby
-
-17 - Bafing
-
-BS - Bas-Sassandra
-
-CM - Comoé
-
-DN - Denguélé
-
-06 - Dix-Huit Montagnes
-
-18 - Fromager
-
-GD - Gôh-Djiboua
-
-02 - Haut-Sassandra
-
-LC - Lacs
-
-LG - Lagunes
-
-12 - Marahoué
-
-MG - Montagnes
-
-19 - Moyen-Cavally
-
-05 - Moyen-Comoé
-
-11 - N'zi-Comoé
-
-SM - Sassandra-Marahoué
-
-03 - Savanes
-
-15 - Sud-Bandama
-
-13 - Sud-Comoé
-
-VB - Vallée du Bandama
-
-WR - Woroba
-
-14 - Worodougou
-
-YM - Yamoussoukro
-
-ZZ - Zanzan
-
-</details>
-
-
-<details>
 <summary>Croatia (19/21)</summary>
 <img src='out/HR/07.png' width='32'/> 07 - Bjelovar-Bilogora ✔️
 
@@ -4335,6 +4278,63 @@ SU - South Sardinia
 <img src='out/IT/VI.png' width='32'/> VI - Vicenza ✔️
 
 <img src='out/IT/VT.png' width='32'/> VT - Viterbo ✔️
+
+</details>
+
+
+<details>
+<summary>Ivory Coast (0/26)</summary>
+AB - Abidjan
+
+16 - Agnéby
+
+17 - Bafing
+
+BS - Bas-Sassandra
+
+CM - Comoé
+
+DN - Denguélé
+
+06 - Dix-Huit Montagnes
+
+18 - Fromager
+
+GD - Gôh-Djiboua
+
+02 - Haut-Sassandra
+
+LC - Lacs
+
+LG - Lagunes
+
+12 - Marahoué
+
+MG - Montagnes
+
+19 - Moyen-Cavally
+
+05 - Moyen-Comoé
+
+11 - N'zi-Comoé
+
+SM - Sassandra-Marahoué
+
+03 - Savanes
+
+15 - Sud-Bandama
+
+13 - Sud-Comoé
+
+VB - Vallée du Bandama
+
+WR - Woroba
+
+14 - Worodougou
+
+YM - Yamoussoukro
+
+ZZ - Zanzan
 
 </details>
 
