@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3218
+FLAGS: 3219
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -2602,7 +2602,7 @@ SH - Shiselweni
 
 <img src='out/ET/SO.png' width='32'/> SO - Somali ✔️
 
-<img src='out/ET/SN.png' width='32'/> SN - Southern Nations, Nationalities, and Peoples' ✔️
+<img src='out/ET/SN.png' width='32'/> SN - Southern Nations, Nationalities, and Peoples ✔️
 
 <img src='out/ET/TI.png' width='32'/> TI - Tigray ✔️
 
@@ -8010,9 +8010,7 @@ S - São Tomé
 
 
 <details>
-<summary>Saudi Arabia (2/13)</summary>
-14 - 'Asir
-
+<summary>Saudi Arabia (3/13)</summary>
 11 - Al Bahah
 
 12 - Al Jawf
@@ -8020,6 +8018,8 @@ S - São Tomé
 03 - Al Madinah
 
 05 - Al-Qassim
+
+<img src='out/SA/14.png' width='32'/> 14 - Asir ✔️
 
 04 - Eastern Province
 
@@ -10356,34 +10356,20 @@ W - Western
 
 
 <details>
-<summary>United Kingdom (92/247)</summary>
+<summary>United Kingdom (92/221)</summary>
 <img src='out/GB/ABE.png' width='32'/> ABE - Aberdeen ✔️
 
 <img src='out/GB/ABD.png' width='32'/> ABD - Aberdeenshire ✔️
 
 <img src='out/GB/ANS.png' width='32'/> ANS - Angus ✔️
 
-ANT - Antrim
-
 ANN - Antrim and Newtownabbey
-
-ARD - Ards
 
 AND - Ards and North Down
 
 AGB - Argyll and Bute
 
-ARM - Armagh
-
 ABC - Armagh, Banbridge and Craigavon
-
-<img src='out/GB/SH-AC.png' width='32'/> SH-AC - Ascension Island ✔️
-
-BLA - Ballymena
-
-BLY - Ballymoney
-
-BNB - Banbridge
 
 BDG - Barking and Dagenham
 
@@ -10409,7 +10395,7 @@ BGW - Blaenau Gwent
 
 BOL - Bolton
 
-<img src='out/GB/BMH.png' width='32'/> BMH - Bournemouth ✔️
+BCP - Bournemouth, Christchurch and Poole
 
 BRC - Bracknell Forest
 
@@ -10441,10 +10427,6 @@ CRF - Cardiff
 
 <img src='out/GB/CMN.png' width='32'/> CMN - Carmarthenshire ✔️
 
-CKF - Carrickfergus
-
-CSR - Castlereagh
-
 CCG - Causeway Coast and Glens
 
 CBF - Central Bedfordshire
@@ -10461,17 +10443,11 @@ KHL - City of Kingston upon Hull
 
 CLK - Clackmannanshire
 
-CLR - Coleraine
-
 CWY - Conwy
-
-CKT - Cookstown
 
 CON - Cornwall
 
 <img src='out/GB/COV.png' width='32'/> COV - Coventry ✔️
-
-CGV - Craigavon
 
 CRY - Croydon
 
@@ -10485,8 +10461,6 @@ DEN - Denbighshire
 
 <img src='out/GB/DBY.png' width='32'/> DBY - Derbyshire ✔️
 
-<img src='out/GB/DRY.png' width='32'/> DRY - Derry ✔️
-
 DRS - Derry City and Strabane
 
 <img src='out/GB/DEV.png' width='32'/> DEV - Devon ✔️
@@ -10495,15 +10469,11 @@ DNC - Doncaster
 
 <img src='out/GB/DOR.png' width='32'/> DOR - Dorset ✔️
 
-DOW - Down District Council
-
 DUD - Dudley
 
 DGY - Dumfries and Galloway
 
 <img src='out/GB/DND.png' width='32'/> DND - Dundee ✔️
-
-DGN - Dungannon and South Tyrone
 
 <img src='out/GB/DUR.png' width='32'/> DUR - Durham ✔️
 
@@ -10530,8 +10500,6 @@ ENF - Enfield
 <img src='out/GB/ESS.png' width='32'/> ESS - Essex ✔️
 
 FAL - Falkirk
-
-FER - Fermanagh
 
 FMO - Fermanagh and Omagh
 
@@ -10577,6 +10545,8 @@ HNS - Hounslow
 
 IVC - Inverclyde
 
+AGY - Isle of Anglesey
+
 <img src='out/GB/IOW.png' width='32'/> IOW - Isle of Wight ✔️
 
 <img src='out/GB/IOS.png' width='32'/> IOS - Isles of Scilly ✔️
@@ -10597,8 +10567,6 @@ LBH - Lambeth
 
 <img src='out/GB/LAN.png' width='32'/> LAN - Lancashire ✔️
 
-LRN - Larne
-
 <img src='out/GB/LDS.png' width='32'/> LDS - Leeds ✔️
 
 <img src='out/GB/LCE.png' width='32'/> LCE - Leicester ✔️
@@ -10607,11 +10575,7 @@ LRN - Larne
 
 LEW - Lewisham
 
-LMV - Limavady
-
 <img src='out/GB/LIN.png' width='32'/> LIN - Lincolnshire ✔️
-
-LSB - Lisburn
 
 LBC - Lisburn and Castlereagh
 
@@ -10619,7 +10583,7 @@ LBC - Lisburn and Castlereagh
 
 <img src='out/GB/LND.png' width='32'/> LND - London ✔️
 
-MFT - Magherafelt
+LUT - Luton
 
 <img src='out/GB/MAN.png' width='32'/> MAN - Manchester ✔️
 
@@ -10643,8 +10607,6 @@ MIK - Milton Keynes
 
 MRY - Moray
 
-MYL - Moyle
-
 NTL - Neath Port Talbot
 
 NET - Newcastle upon Tyne
@@ -10653,17 +10615,11 @@ NWM - Newham
 
 <img src='out/GB/NWP.png' width='32'/> NWP - Newport ✔️
 
-NYM - Newry and Mourne
-
 NMD - Newry, Mourne and Down
-
-NTA - Newtownabbey
 
 <img src='out/GB/NFK.png' width='32'/> NFK - Norfolk ✔️
 
 NAY - North Ayrshire
-
-NDN - North Down
 
 NEL - North East Lincolnshire
 
@@ -10671,13 +10627,13 @@ NLK - North Lanarkshire
 
 NLN - North Lincolnshire
 
+NNH - North Northamptonshire
+
 NSM - North Somerset
 
 NTY - North Tyneside
 
 NYK - North Yorkshire
-
-<img src='out/GB/NTH.png' width='32'/> NTH - Northamptonshire ✔️
 
 <img src='out/GB/NIR.png' width='32'/> NIR - Northern Ireland ✔️
 
@@ -10688,8 +10644,6 @@ NYK - North Yorkshire
 <img src='out/GB/NTT.png' width='32'/> NTT - Nottinghamshire ✔️
 
 OLD - Oldham
-
-OMH - Omagh
 
 <img src='out/GB/ORK.png' width='32'/> ORK - Orkney Islands ✔️
 
@@ -10704,8 +10658,6 @@ PKN - Perth and Kinross
 <img src='out/GB/PTE.png' width='32'/> PTE - Peterborough ✔️
 
 <img src='out/GB/PLY.png' width='32'/> PLY - Plymouth ✔️
-
-<img src='out/GB/POL.png' width='32'/> POL - Poole ✔️
 
 <img src='out/GB/POR.png' width='32'/> POR - Portsmouth ✔️
 
@@ -10728,8 +10680,6 @@ RCH - Rochdale
 ROT - Rotherham
 
 <img src='out/GB/RUT.png' width='32'/> RUT - Rutland ✔️
-
-<img src='out/GB/SH-HL.png' width='32'/> SH-HL - Saint Helena ✔️
 
 <img src='out/GB/SLF.png' width='32'/> SLF - Salford ✔️
 
@@ -10777,8 +10727,6 @@ STT - Stockton-on-Tees
 
 <img src='out/GB/STE.png' width='32'/> STE - Stoke-on-Trent ✔️
 
-STB - Strabane
-
 <img src='out/GB/SFK.png' width='32'/> SFK - Suffolk ✔️
 
 <img src='out/GB/SND.png' width='32'/> SND - Sunderland ✔️
@@ -10805,8 +10753,6 @@ TWH - Tower Hamlets
 
 TRF - Trafford
 
-<img src='out/GB/UKM.png' width='32'/> UKM - United Kingdom ✔️
-
 VGL - Vale of Glamorgan
 
 <img src='out/GB/WKF.png' width='32'/> WKF - Wakefield ✔️
@@ -10828,6 +10774,8 @@ WBK - West Berkshire
 WDU - West Dunbartonshire
 
 WLN - West Lothian
+
+WNH - West Northamptonshire
 
 <img src='out/GB/WSX.png' width='32'/> WSX - West Sussex ✔️
 
